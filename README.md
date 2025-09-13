@@ -1,6 +1,6 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas <h3 align="center">
 
-<h3 align="center"> ![UPC](img/commons/logoUpc.png)<h3 align="center">
+![UPC](img/commons/logoUpc.png) 
 
 <h3 align="center"> Ingeniería de Software </h3>
 <h3 align="center"> Ciclo 2025 - 2 </h3>
