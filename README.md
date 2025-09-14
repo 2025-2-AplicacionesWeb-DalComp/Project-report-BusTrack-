@@ -114,7 +114,7 @@
   - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-  - [4.6.1. Design-Level Event Storming](#461-design-Level-event-storming)
+  - [4.6.1. Design-Level Event Storming](#461-design-level-event-storming)
   - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
   - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
   - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
@@ -144,15 +144,20 @@
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-    - [5.4. Video About the Product](#534-Video-about-the-product)
+    - [5.4. Video About the Product](#534-video-about-the-product)
 
 <br><br>
 # Student Outcome
 
 <div align="center">
 
+### ABET – EAC - Student Outcome 5
+
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
+| ¿Participó activamente en el equipo, respetando y valorando las ideas de los demás? | | |
+| ¿Asumió y cumplió con sus responsabilidades y tareas asignadas dentro de los plazos? | | |
+| ¿Se comunicó de manera clara y constructiva, aportando al logro de los objetivos del equipo? | | |
 
 </div>
 <br><br>
