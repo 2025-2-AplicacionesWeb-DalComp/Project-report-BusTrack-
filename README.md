@@ -17,11 +17,11 @@
 
 | Member                           |    Code    |
 | :------------------------------- | :--------: |
-|  |  |
+| Fátima Belén Florez Shimabukuro | U202320610 |
 | Mathias Andree Cardenas Huaman | U202316353 |
 | Elizabeth Noelia Apaza Bocanegra | U20231c197 |
-| Diego Andres Avalos Cordova    | U202313922 |
-|  |  |
+| Diego Andres Avalos Cordova | U202313922 |
+| Joaquin Alberto Cuentas Peña | U20201f788 |
 
 </div>
 
