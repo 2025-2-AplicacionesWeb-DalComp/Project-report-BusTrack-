@@ -215,7 +215,22 @@ Para la elaboración de la descripción de los antecedentes y problemática, hem
 
 ### 1.2.2. Lean UX Process
 
+El proceso Lean UX se adapta especialmente bien a Bustrack, una solución digital que busca mejorar la movilidad urbana mediante información en tiempo real sobre el transporte público. Este enfoque prioriza la validación continua con los usuarios, la experimentación y la construcción rápida de prototipos que permiten comprobar si realmente estamos resolviendo problemas reales.
+
+En ciudades como Lima Metropolitana, donde el transporte público se caracteriza por la saturación, la informalidad y la falta de información confiable, implementar un sistema ágil y centrado en el usuario resulta clave para generar confianza. Según la Autoridad de Transporte Urbano (ATU, 2023), el tiempo promedio de viaje en hora punta puede superar los 45 minutos, reflejando las deficiencias en planificación y eficiencia del sistema. Asimismo, apenas un 16.6 % de los pasajeros está satisfecho con el servicio de buses, coasters y combis (Red Desarrollo, 2023).
+
+En este contexto, Bustrack aplica el Lean UX para ofrecer una solución tecnológica centrada en los usuarios: pasajeros que necesitan certezas en sus desplazamientos y operadores que buscan herramientas de gestión más eficientes.
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+Los pasajeros de transporte público en Lima enfrentan incertidumbre diaria: no saben con precisión cuánto demorará en llegar un bus ni cuánto tiempo tomará el viaje. Esta falta de información genera estrés, pérdida de productividad y, en muchos casos, el uso de alternativas más costosas o inseguras.
+
+A la par, las empresas de transporte carecen de herramientas para monitorear sus unidades en tiempo real, lo que impide mejorar el servicio y reduce la confianza de los usuarios.
+
+Bustrack propone una solución que centraliza información en tiempo real sobre la ubicación de los buses, estimaciones precisas de llegada, rutas actualizadas y notificaciones de seguridad. A diferencia de las redes sociales o aplicaciones genéricas de mapas, nuestra plataforma está diseñada específicamente para las condiciones del transporte urbano local, generando confianza y seguridad en los usuarios.
+
+Pregunta clave de diseño:
+¿Cómo podemos desarrollar una plataforma que no solo brinde datos en tiempo real sobre el transporte público, sino que también aumente la confianza y reduzca la incertidumbre en los desplazamientos diarios?
 
 #### 1.2.2.2. Lean UX Assumptions
 
