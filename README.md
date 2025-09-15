@@ -476,7 +476,13 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### 2.3.4. Empathy Mapping
 
+Segmento 1: Pasajeros de Transporte Público (Ejemplo: Manuel Suárez)
 
+![Empathy Map Segment 1](img/commons/empathyMapSegmet1.png)
+
+Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
+
+![Empathy Map Segment 2](img/commons/empathyMapSegmet2.png)
 
 ## 2.4. Big Picture Event Storning
 
