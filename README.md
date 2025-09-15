@@ -261,6 +261,8 @@ Para la elaboración de la descripción de los antecedentes y problemática, hem
 | Consultar rutas hacia puntos turísticos | Baja    | Baja       | Baja         | Alta    |
 | Administración de datos (rol admin)  | Baja       | Baja       | Baja         | Baja    |
 
+En el User Task Matrix pudimos ver que cada grupo de usuarios tiene prioridades distintas: estudiantes y trabajadores buscan sobre todo rapidez e información en tiempo real; los adultos mayores se enfocan más en la seguridad y paraderos cercanos; y los turistas necesitan rutas claras hacia lugares de interés. Aunque las tareas administrativas no se notan directamente, son clave para mantener la información confiable. En general, BusTrack debe centrarse en ofrecer datos precisos, opciones personalizadas y una experiencia segura para todos.
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
