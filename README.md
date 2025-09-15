@@ -437,7 +437,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Usuario Pragmático |
-| **Image**        | *(img/commons/manuelSuarez.png)* |
+| **Image**        | ![Manuel Suarez](img/commons/manuelSuarez.png) |
 | **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 70/100<br>Achievement: 75/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
 | **Goals**        | - Planificar viajes con menor incertidumbre.<br>- Ahorrar tiempo en traslados.<br>- Sentirse más seguro en sus trayectos diarios. |
@@ -460,7 +460,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Gestora Eficiente |
-| **Image**        | *(pendiente de agregar)* |
+| **Image**        | ![Rosa Palacios](img/commons/rosaPalacios.png) |
 | **Quote**        | "Si puedo monitorear mis buses en tiempo real, puedo ofrecer un mejor servicio y ganar más pasajeros." |
 | **Motivations**  | Incentive: 85/100<br>Fear: 60/100<br>Achievement: 90/100<br>Growth: 80/100<br>Power: 75/100<br>Social: 70/100 |
 | **Goals**        | - Monitorear las unidades en tiempo real.<br>- Mejorar la puntualidad y satisfacción del cliente.<br>- Optimizar costos operativos. |
@@ -475,6 +475,8 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
+
+
 
 ## 2.4. Big Picture Event Storning
 
