@@ -460,7 +460,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Gestora Eficiente |
-| **Image**        | ![Rosa Palacios](img/commons/rosaPalacios.png) |
+| **Image**        | ![Rosa Palacios](.....) |
 | **Quote**        | "Si puedo monitorear mis buses en tiempo real, puedo ofrecer un mejor servicio y ganar más pasajeros." |
 | **Motivations**  | Incentive: 85/100<br>Fear: 60/100<br>Achievement: 90/100<br>Growth: 80/100<br>Power: 75/100<br>Social: 70/100 |
 | **Goals**        | - Monitorear las unidades en tiempo real.<br>- Mejorar la puntualidad y satisfacción del cliente.<br>- Optimizar costos operativos. |
