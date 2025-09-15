@@ -234,9 +234,87 @@ Pregunta clave de diseño:
 
 #### 1.2.2.2. Lean UX Assumptions
 
+# Supuestos principales para Bustrack
+
+- Creemos que los pasajeros usarán la app de manera recurrente si la información de tiempos y rutas es precisa y confiable.  
+- Creemos que los operadores de transporte adoptarán la plataforma si esta les permite monitorear flotas y mejorar la satisfacción del cliente.  
+- Creemos que la confianza de los usuarios se fortalecerá mediante transparencia en los datos y notificaciones claras sobre retrasos o cambios de ruta.  
+- Suponemos que la falta de información confiable es la principal causa de insatisfacción con el transporte público.  
+- Asumimos que la implementación de herramientas tecnológicas puede contribuir a reducir la percepción de inseguridad al brindar alternativas claras y ordenadas de movilidad.  
+
+---
+
+## ¿Quién es el usuario?
+
+**Primarios:**  
+- Pasajeros frecuentes (estudiantes, trabajadores, familias).  
+
+**Secundarios:**  
+- Empresas de transporte que necesitan gestionar sus unidades.  
+
+---
+
+## Business Outcomes esperados
+
+- Conseguir **50,000 usuarios activos** en el primer año.  
+- Reducir en un **30% la percepción de incertidumbre** en los tiempos de espera.  
+- Lograr que el **70% de las rutas principales** estén integradas en la app.  
+- Aumentar en un **20% la satisfacción general** de los pasajeros en encuestas de movilidad urbana.  
+
+---
+
+## User Outcomes esperados
+
+- Los pasajeros planifican sus viajes con mayor confianza y menos estrés.  
+- Los operadores optimizan el control de sus flotas y mejoran su reputación.  
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+# Hipótesis y criterios de validación para Bustrack
+
+## 1. Geolocalización en tiempo real
+- **Hipótesis:** Creemos que implementar un sistema de geolocalización en tiempo real de las unidades de transporte aumentará la confianza de los usuarios.  
+- **Validación:** Sabremos que esto es cierto cuando observemos un **incremento en el uso recurrente de la aplicación dentro del primer mes** de lanzamiento.  
+
+---
+
+## 2. Notificaciones de llegada
+- **Hipótesis:** Creemos que ofrecer notificaciones sobre la llegada de los buses reducirá el tiempo de espera percibido.  
+- **Validación:** Sabremos que esto es cierto cuando **al menos el 60% de los usuarios reporten una disminución en su frustración** relacionada a los tiempos de espera.  
+
+---
+
+## 3. Interfaz intuitiva y accesible
+- **Hipótesis:** Creemos que la incorporación de una interfaz intuitiva, simple y accesible facilitará la adopción tecnológica en distintos grupos de edad.  
+- **Validación:** Sabremos que esto es cierto cuando **el 70% de los usuarios, independientemente de su rango etario, puedan completar las funciones principales sin necesidad de soporte**.  
+
+---
+
+## 4. Calificaciones de rutas y unidades
+- **Hipótesis:** Creemos que permitir a los usuarios calificar las rutas y unidades fomentará la mejora del servicio por parte de las empresas de transporte.  
+- **Validación:** Sabremos que esto es cierto cuando se registren **al menos 200 calificaciones en el primer trimestre**, y las empresas implementen mejoras a partir de esos datos.  
+
+---
+
+## 5. Historial de rutas frecuentes
+- **Hipótesis:** Creemos que integrar un sistema de historial de rutas frecuentes aumentará la retención de usuarios.  
+- **Validación:** Sabremos que esto es cierto cuando **el 50% de los usuarios registrados utilicen esta funcionalidad al menos una vez por semana**.  
+
 #### 1.2.2.4. Lean UX Canvas
+
+# Bustrack - Lean UX Canvas
+
+| **Sección** | **Contenido** |
+|-------------|---------------|
+| **Business Problem** | Los usuarios del transporte público en Lima Metropolitana enfrentan largos tiempos de espera, desinformación sobre los horarios y baja confianza en la puntualidad de las unidades. Esto genera frustración, pérdidas de tiempo y afecta la percepción de seguridad en el servicio. Al mismo tiempo, las empresas de transporte carecen de herramientas digitales que les permitan organizar mejor sus unidades y comunicarse eficazmente con los pasajeros. |
+| **Business Outcomes** | - Conseguir 50,000 usuarios activos en el primer año.<br>- Reducir en un 30% la percepción de incertidumbre en los tiempos de espera.<br>- Lograr que el 70% de las rutas principales estén integradas en la app.<br>- Aumentar en un 20% la satisfacción general de los pasajeros en encuestas de movilidad urbana. |
+| **Users and Customers** | **Primarios:** Pasajeros que utilizan transporte público a diario.<br>**Secundarios:** Empresas de transporte. |
+| **User Benefits** | - Pasajeros: Mayor confianza, reducción de tiempos de espera y mejor planificación.<br>- Empresas: Mejor gestión de flota, mayor satisfacción del cliente. |
+| **Solution Ideas** | - Geolocalización en tiempo real de buses.<br>- Estimaciones precisas de llegada.<br>- Mapas interactivos con rutas alternativas.<br>- Notificaciones sobre retrasos y cambios.<br>- Panel de control para empresas de transporte. |
+| **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción.<br>- Creemos que integrar empresas de transporte reducirá los errores en la información. |
+| **What's the most important thing we need to learn first?** | ¿Los pasajeros confían y usan de forma recurrente la información en tiempo real para planificar sus viajes? |
+| **What’s the least amount of work we need to do to learn the next most important thing?** | MVP: Una app funcional con mapa de rutas principales, localización en tiempo real en una zona piloto y sistema básico de notificaciones. Validar si los usuarios usan la app en sus trayectos diarios. |
+
 
 # 1.3. Segmentos Objetivo
 
