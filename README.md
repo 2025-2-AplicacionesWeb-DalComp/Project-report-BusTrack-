@@ -250,16 +250,16 @@ Para la elaboración de la descripción de los antecedentes y problemática, hem
 
 ### 2.3.2. User Task Matrix
 
-| Tarea / Funcionalidad                | User Task 1 | User Task 2 | User Task 3 | User Task 4 |
-|--------------------------------------|-------------|-------------|-------------|-------------|
-| Consultar rutas y horarios           | Alta        | Alta        | Media       | Alta        |
-| Recibir notificaciones en tiempo real| Alta        | Alta        | Alta        | Media       |
-| Guardar trayectos frecuentes         | Media       | Media       | Alta        | Baja        |
-| Revisar estimaciones según tráfico   | Media       | Baja        | Media       | Alta        |
-| Identificar paraderos cercanos       | Alta        | Media       | Media       | Alta        |
-| Alertas de seguridad en paraderos    | Media       | Media       | Baja        | Alta        |
-| Consultar rutas hacia puntos turísticos | Baja     | Baja        | Media       | Media       |
-| Administración de datos (rol admin)  | Baja        | Media       | Baja        | Alta        |
+| Tarea / Funcionalidad                | Estudiante | Trabajador | Adulto mayor | Turista |
+|--------------------------------------|------------|------------|--------------|---------|
+| Consultar rutas y horarios           | Alta       | Alta       | Alta         | Alta    |
+| Recibir notificaciones en tiempo real| Alta       | Alta       | Media        | Media   |
+| Guardar trayectos frecuentes         | Alta       | Alta       | Media        | Baja    |
+| Revisar estimaciones según tráfico   | Media      | Alta       | Baja         | Media   |
+| Identificar paraderos cercanos       | Media      | Media      | Alta         | Alta    |
+| Alertas de seguridad en paraderos    | Media      | Media      | Alta         | Media   |
+| Consultar rutas hacia puntos turísticos | Baja    | Baja       | Baja         | Alta    |
+| Administración de datos (rol admin)  | Baja       | Baja       | Baja         | Baja    |
 
 ### 2.3.3. User Journey Mapping
 
