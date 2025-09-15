@@ -437,7 +437,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Usuario Pragmático |
-| **Image**        | *(pendiente de agregar)* |
+| **Image**        | *(img/commons/manuelSuarez.png)* |
 | **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 70/100<br>Achievement: 75/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
 | **Goals**        | - Planificar viajes con menor incertidumbre.<br>- Ahorrar tiempo en traslados.<br>- Sentirse más seguro en sus trayectos diarios. |
