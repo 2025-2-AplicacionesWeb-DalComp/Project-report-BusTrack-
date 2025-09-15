@@ -250,6 +250,14 @@ Para la elaboración de la descripción de los antecedentes y problemática, hem
 
 ### 2.3.2. User Task Matrix
 
+| Perfil de Usuario         | Tareas principales                                                                 | Objetivo del usuario                                                      | Cómo BusTrack lo ayuda                                                                 |
+|---------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| **Estudiante universitario** | - Buscar rutas hacia la universidad<br>- Guardar trayectos frecuentes<br>- Recibir notificaciones de llegada de buses | Ahorrar tiempo en sus traslados y evitar esperas largas en paraderos       | Ofrece información en tiempo real y permite planificar mejor los horarios de salida     |
+| **Trabajador**            | - Consultar la ruta más rápida a la oficina<br>- Revisar tráfico y tiempos estimados<br>- Configurar alertas de retrasos | Llegar puntual al trabajo y optimizar el tiempo de viaje                   | Entrega estimaciones de viaje con base en tráfico y actualizaciones en tiempo real      |
+| **Adulto mayor**          | - Identificar paraderos cercanos<br>- Elegir rutas más seguras<br>- Recibir recordatorios de salida       | Sentirse más seguro y confiado al usar el transporte público               | Muestra paraderos seguros y envía notificaciones claras y fáciles de entender           |
+| **Turista en Lima**       | - Localizar transporte público desde su ubicación<br>- Conocer rutas hacia puntos turísticos<br>- Ver mapa interactivo | Explorar la ciudad sin perderse y con un transporte accesible              | Integra mapas y rutas con información clara, adaptada al transporte local               |
+| **Administrador**         | - Monitorear uso de la app<br>- Validar datos de rutas y paraderos<br>- Gestionar alianzas con operadores de transporte | Mantener la plataforma actualizada, confiable y útil para los usuarios     | Provee un panel de control para gestión de información y estadísticas de uso            |
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
