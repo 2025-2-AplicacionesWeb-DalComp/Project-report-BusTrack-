@@ -523,6 +523,34 @@ Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. El prototipo incluye secciones básicas y representativas. Además, se presentan accesos rápidos que permiten al usuario conocer cómo utilizar BusTrack, revisar sus principales ventajas y obtener información esencial de la startup.
+
+**Wireframe 1**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%201.png" alt="Wireframe 1" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe representa la página principal de la landing page de BusTrack. Incluye un botón para iniciar sesión y un menú de navegación en la parte superior con accesos a las secciones “Cómo usar”, “Beneficios” y “Sobre Nosotros”. En el cuerpo central se ubica un espacio para una imagen acompañada de un texto introductorio que presenta la plataforma.
+
+
+**Wireframe 2**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%202.png" alt="Wireframe 2" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe pertenece a la sección “Cómo usar”. El propósito es explicar de manera simple el funcionamiento de la plataforma. Cada paso incluye un espacio para una imagen representativa, un encabezado y una breve descripción.
+
+
+**Wireframe 3**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%203.png" alt="Wireframe 3" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Presenta tres bloques que destacan las principales ventajas de la plataforma. Cada bloque incluye un espacio para un título, una breve descripción y una imagen.
+
+
+**Wireframe 4**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%204.png" alt="Wireframe 4" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de la startup, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
 
 ### 4.3.2. Landing Page Mock-up
 
