@@ -90,9 +90,10 @@
  
 ### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
 
-- [3.1. User Stories](#31-user-stories)
-- [3.2. Impact Mapping](#32-impact-mapping)
-- [3.3. Product Backlog](#33-product-backlog)
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.1. User Stories](#32-user-stories)
+- [3.2. Impact Mapping](#33-impact-mapping)
+- [3.3. Product Backlog](#34-product-backlog)
 
 ### [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
 
@@ -518,11 +519,13 @@ Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
 
 # Capítulo III: Requirements Specification
 
-## 3.1. User Stories
+## 3.1. To-Be Scenario Mapping
 
-## 3.2. Impact Mapping
+## 3.2. User Stories
 
-## 3.3. Product Backlog
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
 
 <br><br>
 
