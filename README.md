@@ -265,12 +265,14 @@ En el User Task Matrix pudimos ver que cada grupo de usuarios tiene prioridades 
 
 ### 2.3.3. User Journey Mapping
 
-| Etapas / Usuarios                    | Estudiante                        | Trabajador                        | Adulto mayor                       | Turista                            |
-|--------------------------------------|-----------------------------------|-----------------------------------|------------------------------------|------------------------------------|
-| **1. Necesidad**                     | Quiere llegar puntual a clases    | Desea evitar retrasos en el trabajo| Busca un transporte seguro y accesible | Necesita conocer cómo moverse por la ciudad |
-| **2. Búsqueda en BusTrack**           | Consulta horarios y rutas         | Verifica tiempo de llegada del bus | Revisa paraderos cercanos           | Busca rutas hacia puntos de interés |
-| **3. Interacción con la plataforma** | Guarda trayectos frecuentes       | Activa notificaciones en tiempo real | Revisa alertas de seguridad         | Usa mapa interactivo para ubicarse |
-| **4. Resultado / Valor obtenido**    | Llega puntual a clases            | Optimiza sus traslados diarios     | Se siente seguro y acompañado       | Se desplaza fácilmente en Lima      |
+| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
+|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
+| Identificación de Necesidad | Se da cuenta de que necesita llegar a clases a tiempo  | Reloj, calendario personal         | Ansioso          | Desconoce horarios y frecuencia de buses        |
+| Búsqueda de Información | Abre BusTrack y consulta rutas y horarios                | BusTrack web/app                   | Esperanzado      | Puede encontrar info incompleta o confusa       |
+| Planificación del Viaje | Guarda su ruta frecuente y revisa el tiempo estimado     | Función de favoritos, notificaciones | Tranquilo        | Estimaciones pueden no ser totalmente precisas  |
+| Espera en Paradero     | Llega al paradero y revisa notificación de llegada        | BusTrack en el celular             | Impaciente       | El bus se retrasa o no coincide con la app      |
+| Viaje en Bus           | Revisa en tiempo real la ubicación y tiempo restante      | BusTrack GPS + mapas               | Confiado         | No siempre hay señal estable de GPS o internet  |
+| Llegada al Destino     | Llega a la universidad a tiempo                          | Confirmación visual en la app      | Satisfecho       | Si hubo retraso, llega con estrés o cansancio   |
 
 ### 2.3.4. Empathy Mapping
 
