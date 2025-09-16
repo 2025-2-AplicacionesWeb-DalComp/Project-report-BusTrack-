@@ -265,6 +265,13 @@ En el User Task Matrix pudimos ver que cada grupo de usuarios tiene prioridades 
 
 ### 2.3.3. User Journey Mapping
 
+| Etapas / Usuarios                    | Estudiante                        | Trabajador                        | Adulto mayor                       | Turista                            |
+|--------------------------------------|-----------------------------------|-----------------------------------|------------------------------------|------------------------------------|
+| **1. Necesidad**                     | Quiere llegar puntual a clases    | Desea evitar retrasos en el trabajo| Busca un transporte seguro y accesible | Necesita conocer cómo moverse por la ciudad |
+| **2. Búsqueda en BusTrack**           | Consulta horarios y rutas         | Verifica tiempo de llegada del bus | Revisa paraderos cercanos           | Busca rutas hacia puntos de interés |
+| **3. Interacción con la plataforma** | Guarda trayectos frecuentes       | Activa notificaciones en tiempo real | Revisa alertas de seguridad         | Usa mapa interactivo para ubicarse |
+| **4. Resultado / Valor obtenido**    | Llega puntual a clases            | Optimiza sus traslados diarios     | Se siente seguro y acompañado       | Se desplaza fácilmente en Lima      |
+
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture Event Storning
