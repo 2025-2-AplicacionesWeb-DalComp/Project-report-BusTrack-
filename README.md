@@ -216,15 +216,146 @@ Para la elaboración de la descripción de los antecedentes y problemática, hem
 
 ### 1.2.2. Lean UX Process
 
+Los pasajeros de transporte público en Lima enfrentan incertidumbre diaria: no saben con precisión cuánto demorará en llegar un bus ni cuánto tiempo tomará el viaje. Esta falta de información genera estrés, pérdida de productividad y, en muchos casos, el uso de alternativas más costosas o inseguras.
+
+A la par, las empresas de transporte carecen de herramientas para monitorear sus unidades en tiempo real, lo que impide mejorar el servicio y reduce la confianza de los usuarios.
+
+Bustrack propone una solución que centraliza información en tiempo real sobre la ubicación de los buses, estimaciones precisas de llegada, rutas actualizadas y notificaciones de seguridad. A diferencia de las redes sociales o aplicaciones genéricas de mapas, nuestra plataforma está diseñada específicamente para las condiciones del transporte urbano local, generando confianza y seguridad en los usuarios.
+
+Pregunta clave de diseño:
+¿Cómo podemos desarrollar una plataforma que no solo brinde datos en tiempo real sobre el transporte público, sino que también aumente la confianza y reduzca la incertidumbre en los desplazamientos diarios?
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+Los pasajeros de transporte público en Lima enfrentan incertidumbre diaria: no saben con precisión cuánto demorará en llegar un bus ni cuánto tiempo tomará el viaje. Esta falta de información genera estrés, pérdida de productividad y, en muchos casos, el uso de alternativas más costosas o inseguras.
+
+A la par, las empresas de transporte carecen de herramientas para monitorear sus unidades en tiempo real, lo que impide mejorar el servicio y reduce la confianza de los usuarios.
+
+Bustrack propone una solución que centraliza información en tiempo real sobre la ubicación de los buses, estimaciones precisas de llegada, rutas actualizadas y notificaciones de seguridad. A diferencia de las redes sociales o aplicaciones genéricas de mapas, nuestra plataforma está diseñada específicamente para las condiciones del transporte urbano local, generando confianza y seguridad en los usuarios.
+
+Pregunta clave de diseño:
+¿Cómo podemos desarrollar una plataforma que no solo brinde datos en tiempo real sobre el transporte público, sino que también aumente la confianza y reduzca la incertidumbre en los desplazamientos diarios?
 
 #### 1.2.2.2. Lean UX Assumptions
 
+# Supuestos principales para Bustrack
+
+- Creemos que los pasajeros usarán la app de manera recurrente si la información de tiempos y rutas es precisa y confiable.  
+- Creemos que los operadores de transporte adoptarán la plataforma si esta les permite monitorear flotas y mejorar la satisfacción del cliente.  
+- Creemos que la confianza de los usuarios se fortalecerá mediante transparencia en los datos y notificaciones claras sobre retrasos o cambios de ruta.  
+- Suponemos que la falta de información confiable es la principal causa de insatisfacción con el transporte público.  
+- Asumimos que la implementación de herramientas tecnológicas puede contribuir a reducir la percepción de inseguridad al brindar alternativas claras y ordenadas de movilidad.  
+
+---
+
+## ¿Quién es el usuario?
+
+**Primarios:**  
+- Pasajeros frecuentes (estudiantes, trabajadores, familias).  
+
+**Secundarios:**  
+- Empresas de transporte que necesitan gestionar sus unidades.  
+
+---
+
+## Business Outcomes esperados
+
+- Conseguir **50,000 usuarios activos** en el primer año.  
+- Reducir en un **30% la percepción de incertidumbre** en los tiempos de espera.  
+- Lograr que el **70% de las rutas principales** estén integradas en la app.  
+- Aumentar en un **20% la satisfacción general** de los pasajeros en encuestas de movilidad urbana.  
+
+---
+
+## User Outcomes esperados
+
+- Los pasajeros planifican sus viajes con mayor confianza y menos estrés.  
+- Los operadores optimizan el control de sus flotas y mejoran su reputación.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+# Hipótesis y criterios de validación para Bustrack
+
+## 1. Geolocalización en tiempo real
+- **Hipótesis:** Creemos que implementar un sistema de geolocalización en tiempo real de las unidades de transporte aumentará la confianza de los usuarios.  
+- **Validación:** Sabremos que esto es cierto cuando observemos un **incremento en el uso recurrente de la aplicación dentro del primer mes** de lanzamiento.  
+
+---
+
+## 2. Notificaciones de llegada
+- **Hipótesis:** Creemos que ofrecer notificaciones sobre la llegada de los buses reducirá el tiempo de espera percibido.  
+- **Validación:** Sabremos que esto es cierto cuando **al menos el 60% de los usuarios reporten una disminución en su frustración** relacionada a los tiempos de espera.  
+
+---
+
+## 3. Interfaz intuitiva y accesible
+- **Hipótesis:** Creemos que la incorporación de una interfaz intuitiva, simple y accesible facilitará la adopción tecnológica en distintos grupos de edad.  
+- **Validación:** Sabremos que esto es cierto cuando **el 70% de los usuarios, independientemente de su rango etario, puedan completar las funciones principales sin necesidad de soporte**.  
+
+---
+
+## 4. Calificaciones de rutas y unidades
+- **Hipótesis:** Creemos que permitir a los usuarios calificar las rutas y unidades fomentará la mejora del servicio por parte de las empresas de transporte.  
+- **Validación:** Sabremos que esto es cierto cuando se registren **al menos 200 calificaciones en el primer trimestre**, y las empresas implementen mejoras a partir de esos datos.  
+
+---
+
+## 5. Historial de rutas frecuentes
+- **Hipótesis:** Creemos que integrar un sistema de historial de rutas frecuentes aumentará la retención de usuarios.  
+- **Validación:** Sabremos que esto es cierto cuando **el 50% de los usuarios registrados utilicen esta funcionalidad al menos una vez por semana**.
 
 #### 1.2.2.4. Lean UX Canvas
 
+# Bustrack - Lean UX Canvas
+
+| **Sección** | **Contenido** |
+|-------------|---------------|
+| **Business Problem** | Los usuarios del transporte público en Lima Metropolitana enfrentan largos tiempos de espera, desinformación sobre los horarios y baja confianza en la puntualidad de las unidades. Esto genera frustración, pérdidas de tiempo y afecta la percepción de seguridad en el servicio. Al mismo tiempo, las empresas de transporte carecen de herramientas digitales que les permitan organizar mejor sus unidades y comunicarse eficazmente con los pasajeros. |
+| **Business Outcomes** | - Conseguir 50,000 usuarios activos en el primer año.<br>- Reducir en un 30% la percepción de incertidumbre en los tiempos de espera.<br>- Lograr que el 70% de las rutas principales estén integradas en la app.<br>- Aumentar en un 20% la satisfacción general de los pasajeros en encuestas de movilidad urbana. |
+| **Users and Customers** | **Primarios:** Pasajeros que utilizan transporte público a diario.<br>**Secundarios:** Empresas de transporte. |
+| **User Benefits** | - Pasajeros: Mayor confianza, reducción de tiempos de espera y mejor planificación.<br>- Empresas: Mejor gestión de flota, mayor satisfacción del cliente. |
+| **Solution Ideas** | - Geolocalización en tiempo real de buses.<br>- Estimaciones precisas de llegada.<br>- Mapas interactivos con rutas alternativas.<br>- Notificaciones sobre retrasos y cambios.<br>- Panel de control para empresas de transporte. |
+| **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción.<br>- Creemos que integrar empresas de transporte reducirá los errores en la información. |
+| **What's the most important thing we need to learn first?** | ¿Los pasajeros confían y usan de forma recurrente la información en tiempo real para planificar sus viajes? |
+| **What’s the least amount of work we need to do to learn the next most important thing?** | MVP: Una app funcional con mapa de rutas principales, localización en tiempo real en una zona piloto y sistema básico de notificaciones. Validar si los usuarios usan la app en sus trayectos diarios. |
+
 # 1.3. Segmentos Objetivo
+
+# Segmentos Objetivo
+
+## Segmento Objetivo #1: Pasajeros de Transporte Público (Estudiantes y Trabajadores)
+
+### Aspectos demográficos
+- Sexo: Masculino y femenino  
+- Edades: Jóvenes y adultos entre 18 y 50 años  
+
+### Aspectos geográficos
+- Nacionalidad: Peruana  
+- Zona geográfica: Principalmente Lima Metropolitana y Callao, donde se concentra el 87 % de los viajes en transporte convencional.  
+- También con potencial en ciudades intermedias como Arequipa, Trujillo y Chiclayo.  
+
+### Aspectos psicográficos
+- Personas que dependen del transporte público como su principal medio de movilidad.  
+- Buscan reducir la incertidumbre, los tiempos de espera y la inseguridad en sus trayectos diarios.  
+- Valoran aplicaciones fáciles de usar, con información confiable y en tiempo real.  
+- Su motivación principal es la puntualidad y la eficiencia para llegar a sus destinos, ya sea clases o centros laborales.  
+
+---
+
+## Segmento Objetivo #2: Empresas de Transporte Urbano (Operadores y Administradores de Flota)
+
+### Aspectos demográficos
+- Tipo de entidad: Empresas medianas y grandes que operan buses, coasters o combis.  
+- Personal involucrado: Administradores de rutas, supervisores y propietarios de líneas.  
+
+### Aspectos geográficos
+- Ubicación: Lima Metropolitana y Callao, con posibilidad de expansión a otras ciudades de alta demanda.  
+
+### Aspectos psicográficos
+- Buscan herramientas tecnológicas que permitan optimizar la gestión de flotas y mejorar la eficiencia operativa.  
+- Necesitan fortalecer la confianza de los pasajeros mediante transparencia en horarios, puntualidad y seguridad.  
+- Están interesados en soluciones que integren datos de movilidad y faciliten la toma de decisiones.  
+- Su motivación principal es mejorar la reputación, competitividad y rentabilidad en un mercado dominado por el transporte informal.  
 
 <br><br>
 
@@ -238,7 +369,57 @@ Para la elaboración de la descripción de los antecedentes y problemática, hem
 
 ## 2.2. Entrevistas
 
+Como parte del proceso de validación del modelo de negocio de BusTrack, se plantean entrevistas semiestructuradas dirigidas a los dos segmentos objetivos: pasajeros de transporte público y empresas de transporte urbano. El propósito es identificar sus motivaciones, comportamientos, expectativas y principales frustraciones en relación con la movilidad urbana, así como validar la propuesta de valor de la plataforma.
+
 ### 2.2.1. Diseño de entrevistas
+
+## Segmento 1: Pasajeros de Transporte Público
+
+### Datos generales
+- Nombre  
+- Edad  
+- Distrito de residencia  
+- Ocupación (estudiante, trabajador, etc.)  
+- Frecuencia de uso del transporte público (diaria, varias veces por semana, esporádica)  
+
+### Motivaciones y comportamientos
+- ¿Qué medio de transporte público usas con más frecuencia (bus, coaster, combi, Metropolitano, Metro)?  
+- ¿Qué es lo que más te preocupa cuando viajas en transporte público?  
+- ¿Cómo planificas actualmente tus viajes?  
+- ¿Has usado alguna aplicación para movilizarte en la ciudad (Waze, Google Maps, Moovit, etc.)? ¿Cómo fue tu experiencia?  
+- ¿Qué importancia le das a recibir información en tiempo real sobre la llegada de buses?  
+
+### Miedos, expectativas y canales
+- ¿Qué problemas enfrentas con mayor frecuencia en tus traslados (tiempo de espera, congestión, inseguridad, falta de información)?  
+- ¿Qué haría que confíes en una aplicación como BusTrack para planificar tus viajes?  
+- ¿Te gustaría recibir notificaciones sobre la llegada del bus, retrasos o desvíos de ruta?  
+- ¿Qué redes sociales o aplicaciones móviles usas más para informarte en tu día a día?  
+- ¿Cómo medirías que una aplicación realmente mejora tu experiencia de viaje?  
+
+---
+
+## Segmento 2: Empresas de Transporte Urbano
+
+### Datos generales
+- Nombre del entrevistado  
+- Cargo (administrador, supervisor de rutas, propietario)  
+- Empresa / línea de transporte  
+- Número de unidades en operación  
+- Zonas o rutas que cubren  
+
+### Operaciones y herramientas
+- ¿Cómo gestionan actualmente la ubicación y monitoreo de sus unidades?  
+- ¿Qué herramientas digitales o manuales utilizan para el control de flotas?  
+- ¿Qué información reciben de los conductores y cómo la gestionan?  
+- ¿Han usado o considerado alguna aplicación para interactuar con pasajeros?  
+- ¿Cuáles son los mayores retos para mantener la puntualidad y la seguridad de los viajes?  
+
+### Expectativas y valor esperado
+- ¿Qué tipo de datos o reportes serían más valiosos para su gestión diaria (tiempos de llegada, cantidad de pasajeros, retrasos)?  
+- ¿Qué funcionalidades de una aplicación como BusTrack les motivarían a adoptarla?  
+- ¿Cómo creen que una plataforma de información en tiempo real podría mejorar la confianza de los pasajeros?  
+- ¿Qué beneficios esperan obtener al implementar una solución tecnológica (mayor satisfacción, competitividad, reducción de costos)?  
+- ¿Qué barreras ven para adoptar una aplicación digital de gestión de transporte?  
 
 ### 2.2.2. Registro de entrevistas
 
@@ -247,6 +428,51 @@ Para la elaboración de la descripción de los antecedentes y problemática, hem
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+
+## Segmento Objetivo 1: Pasajeros de Transporte Público
+
+| **Atributo**     | **Valor** |
+|------------------|-----------|
+| **Name**         | Manuel Suarez |
+| **Age**          | 29 años |
+| **Occupation**   | Trabajo de oficina |
+| **Status**       | Soltero |
+| **Location**     | Lima, Perú |
+| **Tier**         | Pasajero frecuente |
+| **Archetype**    | Usuario Pragmático |
+| **Image**        | ![Manuel Suarez](img/commons/manuelSuarez.png) |
+| **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme." |
+| **Motivations**  | Incentive: 80/100<br>Fear: 70/100<br>Achievement: 75/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
+| **Goals**        | - Planificar viajes con menor incertidumbre.<br>- Ahorrar tiempo en traslados.<br>- Sentirse más seguro en sus trayectos diarios. |
+| **Frustrations** | - No saber cuándo pasará el bus.<br>- Pérdida de tiempo en paraderos inseguros.<br>- Información poco confiable en apps genéricas. |
+| **Biography**    | Manuel viaja dos veces al día en transporte público para ir a su trabajo en el centro de Lima. Gasta en promedio más de 1 hora diaria en esperas. Ha probado apps de mapas, pero no le resultan útiles porque no están adaptadas al sistema de transporte local. Busca una solución confiable y sencilla que le permita organizar mejor su día. |
+| **Personality**  | Extrovert: 60/100<br>Thinking: 80/100<br>Judging: 70/100 |
+| **Technology**   | IT and Internet: 85/100<br>Software: 70/100<br>Mobile Apps: 90/100<br>Social Networks: 95/100 |
+| **Brands**       | WhatsApp, Google Maps, TikTok |
+
+---
+
+## Segmento Objetivo 2: Empresas de Transporte Urbano
+
+| **Atributo**     | **Valor** |
+|------------------|-----------|
+| **Name**         | Rosa Palacios |
+| **Age**          | 45 años |
+| **Occupation**   | Administradora de empresas de transporte |
+| **Status**       | Casada |
+| **Location**     | Lima, Perú |
+| **Tier**         | Empresa de transporte urbano |
+| **Archetype**    | Gestora Eficiente |
+| **Image**        | ![Rosa Palacios](img/commons/rosaPalacios.png) |
+| **Quote**        | "Si puedo monitorear mis buses en tiempo real, puedo ofrecer un mejor servicio y ganar más pasajeros." |
+| **Motivations**  | Incentive: 85/100<br>Fear: 60/100<br>Achievement: 90/100<br>Growth: 80/100<br>Power: 75/100<br>Social: 70/100 |
+| **Goals**        | - Monitorear las unidades en tiempo real.<br>- Mejorar la puntualidad y satisfacción del cliente.<br>- Optimizar costos operativos. |
+| **Frustrations** | - No contar con datos centralizados.<br>- Reclamaciones frecuentes por retrasos.<br>- Falta de herramientas tecnológicas para competir con apps modernas. |
+| **Biography**    | Rosa administra una empresa con 20 buses en Lima. Actualmente depende de llamadas de choferes para conocer incidencias, lo que le genera pérdidas de tiempo y poca precisión. Está interesada en adoptar soluciones digitales que le den control, transparencia y ventaja competitiva en el mercado. |
+| **Personality**  | Extrovert: 65/100<br>Thinking: 85/100<br>Judging: 75/100 |
+| **Technology**   | IT and Internet: 75/100<br>Software: 65/100<br>Mobile Apps: 70/100<br>Social Networks: 60/100 |
+| **Brands**       | WhatsApp Business, Facebook, LinkedIn |
+
 
 ### 2.3.2. User Task Matrix
 
@@ -275,6 +501,14 @@ En el User Task Matrix pudimos ver que cada grupo de usuarios tiene prioridades 
 | Llegada al Destino     | Llega a la universidad a tiempo                          | Confirmación visual en la app      | Satisfecho       | Si hubo retraso, llega con estrés o cansancio   |
 
 ### 2.3.4. Empathy Mapping
+
+Segmento 1: Pasajeros de Transporte Público (Ejemplo: Manuel Suárez)
+
+![Empathy Map Segment 1](img/commons/empathyMapSegmet1.png)
+
+Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
+
+![Empathy Map Segment 2](img/commons/empathyMapSegmet2.png)
 
 ## 2.4. Big Picture Event Storning
 
