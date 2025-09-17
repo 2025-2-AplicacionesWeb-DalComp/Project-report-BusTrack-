@@ -525,7 +525,7 @@ Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
 ### 4.3.1. Landing Page Wireframe
 Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. El prototipo incluye secciones básicas y representativas. Además, se presentan accesos rápidos que permiten al usuario conocer cómo utilizar BusTrack, revisar sus principales ventajas y obtener información esencial de la startup.
 
-**_Desktop Web Browser_** 
+### Desktop Web Browser
 
 **Wireframe 1**
 
@@ -555,7 +555,7 @@ _Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Prese
 _Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de BusTrack, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
 
 
-**_Mobile Web Browser_**
+### Mobile Web Browser
 
 **Wireframe 1**
 
@@ -577,6 +577,30 @@ _Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. P
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%204-Mobile.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
 ### 4.3.2. Landing Page Mock-up
+En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. 
+
+### Desktop Web Browser
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%201%20-%20Web.png" alt="Mock-up 1" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%202%20-%20Web.png" alt="Mock-up 2" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%203%20-%20Web.png" alt="Mock-up 3" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%204%20-%20Web.png" alt="Mock-up 4" style="width: 700px; margin-right: 700px;"/>
+
+
+### Mobile Web Browser
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%201%20-%20Mobile.png" alt="Mock-up 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%202-%20Mobile.png" alt="Mock-up 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%203%20-%20Mobile.png" alt="Mock-up 3.1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%203.2%20-%20Mobile.png" alt="Mock-up 3.2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%204%20-%20Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
 ## 4.4. Web Applications UX/UI Design
 
