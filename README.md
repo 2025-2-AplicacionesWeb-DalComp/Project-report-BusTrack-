@@ -525,6 +525,8 @@ Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
 ### 4.3.1. Landing Page Wireframe
 Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. El prototipo incluye secciones básicas y representativas. Además, se presentan accesos rápidos que permiten al usuario conocer cómo utilizar BusTrack, revisar sus principales ventajas y obtener información esencial de la startup.
 
+**_Desktop Web Browser_** 
+
 **Wireframe 1**
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%201.png" alt="Wireframe 1" style="width: 700px; margin-right: 700px;"/>
@@ -550,7 +552,29 @@ _Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Prese
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%204.png" alt="Wireframe 4" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de la startup, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
+_Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de BusTrack, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
+
+
+**_Mobile Web Browser_**
+
+**Wireframe 1**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%201-Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+
+**Wireframe 2**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%202-Mobile.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+
+**Wireframe 3**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%203-Mobile.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+
+**Wireframe 4**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%204-Mobile.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
 ### 4.3.2. Landing Page Mock-up
 
