@@ -647,9 +647,9 @@ _Descripción:_ Este wireframe corresponde a la sección “Notificaciones”. M
 _Descripción:_ Este wireframe corresponde a la sección “Paraderos Cercanos”. Muestra un mapa interactivo donde el usuario puede visualizar la ubicación de los paraderos más cercanos, acompañado de una lista lateral que detalla el nombre de cada paradero y los buses que pasan por ellos.
 
 
-<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%209.png" alt="Web Applications Wireframes 9" style="width: 700px; margin-right: 700px;"/>
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%209.png" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ Este wireframe corresponde a la sección “Perfil”. Permite al usuario visualizar y gestionar su información personal. Además, cuenta con un botón para editar información personal y otro botón para cerrar sesión.
+_Descripción:_ Este wireframe corresponde a la sección “Perfil”. Permite al usuario visualizar y gestionar su información personal. Además, cuenta con un botón para cerrar sesión.
 
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2010.png" alt="Web Applications Wireframes 10" style="width: 700px; margin-right: 700px;"/>
@@ -657,14 +657,19 @@ _Descripción:_ Este wireframe corresponde a la sección “Perfil”. Permite a
 _Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Rutas favoritas”. Permite al usuario visualizar y gestionar las rutas que ha guardado previamente como favoritas. Además, cuenta con un botón de retorno para volver al perfil principal.
 
 
-<img src="" alt="Web Applications Wireframes 11" style="width: 700px; margin-right: 700px;"/>
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2011.png" alt="Web Applications Wireframes 11" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ 
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Historial de viajes”. Presenta un registro visual de los viajes realizados por el usuario. Además, cuenta con un botón de retorno para volver al perfil principal.
 
 
-<img src="" alt="Web Applications Wireframes 12" style="width: 700px; margin-right: 700px;"/>
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2012.png" alt="Web Applications Wireframes 12" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ 
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Notificaciones”. Permite al usuario personalizar los tipos de notificaciones que desea recibir, como alertas de llegada de buses, retrasos en las rutas, paraderos cercanos e inicio de viaje. Además, cuenta con un botón de retorno para volver al perfil principal.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2013.png" alt="Web Applications Wireframes 13" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Configuración de cuenta”. Permite al usuario actualizar su información personal, incluyendo nombre, correo y contraseña, así como cambiar su foto de perfil. Además, cuenta con un botón para guardar los cambios y otro para de retorno para volver al perfil principal.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
