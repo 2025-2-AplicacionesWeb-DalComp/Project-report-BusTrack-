@@ -540,6 +540,11 @@ El mapeo de escenarios To-Be permite visualizar la experiencia futura de los usu
 
 ## 3.2. User Stories
 
+Para el caso de BusTrack, se han definido inicialmente 4 épicas, que representan grandes bloques funcionales de la aplicación: gestión de rutas y horarios, monitoreo en tiempo real, administración de flota y experiencia del usuario en la app. De cada épica se derivaron tres historias de usuario, sumando un total de 12 User Stories, las cuales buscan reflejar las interacciones clave de pasajeros y administradores de transporte con la aplicación.
+
+Este enfoque asegura que las funcionalidades priorizadas estén alineadas con las necesidades reales de los actores identificados, brindando así una base sólida para la construcción del Product Backlog y el diseño de las próximas iteraciones del producto.
+
+
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
