@@ -364,9 +364,86 @@ Pregunta clave de diseño:
 
 ## 2.1. Competidores
 
+El mercado de aplicaciones de transporte en Lima Metropolitana está en proceso de crecimiento, con actores internacionales y locales que buscan resolver los problemas de movilidad de los ciudadanos. Algunos priorizan la geolocalización, otros la venta de pasajes o la planificación de rutas, pero en conjunto conforman un ecosistema en el que **BusTrack** debe posicionarse con un enfoque diferencial en buses y transporte urbano en tiempo real.
+
+## Principales Competidores
+
+### Moovit (Internacional)
+- Una de las aplicaciones de movilidad urbana más reconocidas a nivel mundial.  
+- En Lima ofrece información sobre rutas de buses, trenes, corredores y otros medios de transporte público.  
+- Aplicación con presencia global y disponible en Lima.  
+- Permite planificar viajes en transporte público y muestra opciones intermodales (bus, tren, bicicleta, etc.).  
+- Usa datos compartidos por la comunidad para estimar tiempos de llegada.  
+- **Fortaleza:** escala internacional e integración con múltiples ciudades.
+  
+### Google Maps (Internacional)
+- Servicio masivo y gratuito utilizado en todo el mundo.  
+- Ofrece mapas, rutas y tráfico en tiempo real.  
+- Integra opciones de transporte público, aunque en Lima su nivel de detalle en buses y colectivos es limitado.  
+- **Fortaleza:** precisión cartográfica.  
+- **Debilidad:** falta de especialización en transporte urbano limeño.  
+
+### TuRuta (Perú)
+- Aplicación peruana creada para ayudar a los limeños a encontrar rutas de transporte público.  
+- Competidor directo al enfocarse en la experiencia de buses y colectivos.  
+- Proyecto local pensado específicamente para Lima Metropolitana.  
+- Se alimenta en gran medida de la colaboración de la comunidad.  
+- **Fortaleza:** cercanía al público limeño.  
+- **Debilidad:** dificultad para mantener datos actualizados y confiables.  
+
+### RedBus (Perú – Interprovincial)
+- Enfocado principalmente en la venta de pasajes interprovinciales.  
+- Competidor indirecto, ya que digitaliza el acceso a información y reservas de transporte.  
+- No compite en transporte urbano, pero es un referente en movilidad digitalizada.  
+- **Fortalezas:** confianza en métodos de pago y amplia cobertura en el país.  
+- **Debilidad:** orientado a viajes de larga distancia, no a transporte urbano.  
+
 ### 2.1.1. Análisis competitivo
 
+- **Moovit**: Su fortaleza está en la integración global y la experiencia en movilidad urbana. Sin embargo, en Lima su desventaja es la falta de personalización para los usuarios locales y una limitada adaptación al transporte informal limeño.  
+
+- **Google Maps**: Es fuerte en geolocalización y datos de tráfico, pero no está especializado en buses urbanos de Lima ni en la variabilidad del transporte público local.  
+
+- **TuRuta**: Es el competidor más directo, con foco en Lima, pero su crecimiento y actualización de datos dependen mucho de la comunidad y carece de sistemas avanzados de notificaciones en tiempo real.  
+
+- **RedBus**: No compite directamente en el transporte urbano, pero representa un referente en digitalización y confianza en servicios de movilidad en el Perú.  
+
+| Competidor | Fortalezas                                   | Debilidades                                       | Oportunidad para BusTrack                        |
+|------------|-----------------------------------------------|---------------------------------------------------|--------------------------------------------------|
+| **Moovit** | Cobertura global, integración con otros transportes | Baja personalización local                         | Adaptar el servicio 100% a Lima                  |
+| **Google Maps** | Precisión cartográfica, tráfico en tiempo real | No especializado en transporte urbano limeño       | Especializarse en buses y paraderos              |
+| **TuRuta** | Orientado a Lima, interfaz sencilla           | Datos poco confiables, sin notificaciones en tiempo real | Diferenciarse con APIs oficiales y datos confiables |
+| **RedBus** | Digitalización de transporte, confianza en pagos | No urbano, solo interprovincial                   | Replicar digitalización en el transporte urbano  |
+
+BusTrack se distingue al enfocarse en información confiable, en tiempo real y adaptada al contexto limeño, integrando APIs externas y ofreciendo notificaciones personalizadas. Esta propuesta llena vacíos que sus competidores aún no cubren de manera completa.  
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Para destacar frente a las aplicaciones ya presentes en el mercado, **BusTrack** aplicará una estrategia de enfoque y personalización local, complementada con innovación progresiva:
+
+## 1. Enfoque en la realidad limeña
+- Integrar información de buses y paraderos formales e informales.  
+- Incorporar APIs y datos oficiales de municipalidades para aumentar la confiabilidad.  
+
+## 2. Alianzas estratégicas
+- Trabajo conjunto con operadores de transporte urbano y universidades para captar usuarios frecuentes.  
+- Posibles acuerdos con entidades públicas de transporte para mejorar la base de datos y validación de rutas.  
+
+## 3. Valor agregado para el usuario
+- Notificaciones en tiempo real sobre llegada de buses.  
+- Guardado de rutas frecuentes y estimación de tiempos con base en tráfico local.  
+- Alertas de seguridad (por ejemplo, paraderos recomendados o zonas de riesgo).  
+
+## 4. Campañas de posicionamiento digital
+- Presencia activa en redes sociales para atraer a estudiantes y trabajadores.  
+- Estrategias de marketing enfocadas en el ahorro de tiempo y la seguridad del transporte.  
+- Construcción de comunidad de usuarios que compartan información en la plataforma.  
+
+## 5. Innovación tecnológica gradual
+- Desarrollo futuro de una app móvil con geolocalización más precisa.  
+- Implementación de funciones predictivas (estimación de tiempos basada en patrones históricos de tráfico).  
+
+Con estas estrategias, **BusTrack** busca convertirse en una opción confiable y útil para los limeños, apostando por la innovación tecnológica y por ofrecer información clara y en tiempo real que realmente ayude a estudiantes y trabajadores a moverse mejor por la ciudad.  
 
 ## 2.2. Entrevistas
 
