@@ -611,45 +611,56 @@ En esta sección se presentan los wireframes de la aplicación web.
 
 _Descripción:_ Este wireframe corresponde a la pantalla de inicio de sesión. Presenta campos para ingresar correo electrónico y contraseña, un enlace para recuperar la contraseña, y un botón para continuar con el inicio de sesión. Además incluye un botón de registro si el usuario aún no tiene una cuenta.
 
+
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%202.png" alt="Web Applications Wireframes 2" style="width: 700px; margin-right: 700px;"/>
 
 _Descripción:_ Este wireframe corresponde a la pantalla de registro. Incluye la opción de continuar con Google, así como campos para ingresar correo, usuario y contraseña. Cuenta con un botón para crear la cuenta de usuario y un enlace para que los usuarios que ya tienen cuenta puedan iniciar sesión.
+
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%203.png" alt="Web Applications Wireframes 3" style="width: 700px; margin-right: 700px;"/>
 
 _Descripción:_ Este wireframe corresponde a la página de inicio que aparece al iniciar sesión. Incluye un menú superior con accesos directos a las funciones "Buscar Ruta", "Notificaciones", "Paraderos cercanos" y "Perfil". En el centro hay un campo de búsqueda y un mapa interactivo que permite al usuario visualizar rutas, ubicaciones y paraderos en tiempo real.
 
+
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%204.png" alt="Web Applications Wireframes 4" style="width: 700px; margin-right: 700px;"/>
 
 _Descripción:_ Este wireframe corresponde a la sección “Buscar Ruta”. Contiene dos campos de entrada para que el usuario ingrese el punto de origen y el destino, junto con un botón de búsqueda. 
+
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%205.png" alt="Web Applications Wireframes 5" style="width: 700px; margin-right: 700px;"/>
 
 _Descripción:_ Este wireframe representa la vista de resultados en la sección “Buscar Ruta”. Después de ingresar origen y destino, el sistema muestra una lista de opciones con la información básica de cada ruta y un botón de “Detalles”.
 
-<img src="" alt="Web Applications Wireframes 6" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ 
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%206.png" alt="Web Applications Wireframes 6" style="width: 700px; margin-right: 700px;"/>
 
-<img src="" alt="Web Applications Wireframes 7" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Buscar Ruta”. Al seleccionar una opción de ruta, se muestra un mapa interactivo acompañado de un panel lateral que presenta información más detallada sobre la ruta elegida.
 
-_Descripción:_ 
 
-<img src="" alt="Web Applications Wireframes 8" style="width: 700px; margin-right: 700px;"/>
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%207.png" alt="Web Applications Wireframes 7" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ 
+_Descripción:_ Este wireframe corresponde a la sección “Notificaciones”. Muestra una lista de notificaciones en tiempo real organizadas de la más reciente a la más antigua.
 
-<img src="" alt="Web Applications Wireframes 9" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ 
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%208.png" alt="Web Applications Wireframes 8" style="width: 700px; margin-right: 700px;"/>
 
-<img src="" alt="Web Applications Wireframes 10" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ Este wireframe corresponde a la sección “Paraderos Cercanos”. Muestra un mapa interactivo donde el usuario puede visualizar la ubicación de los paraderos más cercanos, acompañado de una lista lateral que detalla el nombre de cada paradero y los buses que pasan por ellos.
 
-_Descripción:_ 
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%209.png" alt="Web Applications Wireframes 9" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Perfil”. Permite al usuario visualizar y gestionar su información personal. Además, cuenta con un botón para editar información personal y otro botón para cerrar sesión.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2010.png" alt="Web Applications Wireframes 10" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Rutas favoritas”. Permite al usuario visualizar y gestionar las rutas que ha guardado previamente como favoritas. Además, cuenta con un botón de retorno para volver al perfil principal.
+
 
 <img src="" alt="Web Applications Wireframes 11" style="width: 700px; margin-right: 700px;"/>
 
 _Descripción:_ 
+
 
 <img src="" alt="Web Applications Wireframes 12" style="width: 700px; margin-right: 700px;"/>
 
