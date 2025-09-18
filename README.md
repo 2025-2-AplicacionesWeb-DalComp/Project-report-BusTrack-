@@ -570,7 +570,31 @@ Este enfoque asegura que las funcionalidades priorizadas estén alineadas con la
 
 ## 3.3. Impact Mapping
 
+El mapa de impactos busca conectar la visión del sistema mejorar la experiencia de movilidad urbana y optimizar la gestión del transporte público con las necesidades de sus principales actores: pasajeros, empresas de transporte y administradores de la plataforma. De esta manera, se identifican los comportamientos clave que se desean fomentar en cada actor y las funcionalidades específicas que la aplicación debe proveer para hacer posible dichos impactos.
+
+| Objetivo | Actores | Impactos (comportamientos deseados) | Entregables (funcionalidades de BusTrack) |
+|----------|---------|--------------------------------------|-------------------------------------------|
+| Mejorar la experiencia de movilidad urbana y optimizar el transporte público. | Pasajeros (estudiantes, trabajadores, usuarios frecuentes) | - Consultan rutas y horarios antes de salir.<br>- Guardan sus rutas favoritas para acceso rápido.<br>- Califican los viajes para mejorar el servicio. | - Búsqueda de rutas en el mapa.<br>- Visualización de horarios en tiempo real.<br>- Guardado de rutas frecuentes.<br>- Sistema de calificación y feedback. |
+|          | Empresas de transporte (administradores de flota, operadores) | - Supervisan el estado de buses en tiempo real.<br>- Ajustan rutas y horarios con base en datos.<br>- Configuran alertas para incidentes y tráfico. | - Panel de monitoreo en vivo.<br>- Generación de reportes diarios.<br>- Configuración de alertas internas. |
+|          | Plataforma BusTrack (administradores del sistema) | - Garantizan disponibilidad y escalabilidad de la app.<br>- Gestionan cuentas de usuarios y accesos. | - Módulo de registro y autenticación.<br>- Panel de administración del sistema.<br>- Optimización de la infraestructura en la nube. |
+
+
 ## 3.4. Product Backlog
+
+| ID   | User Story                                                                                  | Prioridad | Story Points |
+|------|---------------------------------------------------------------------------------------------|-----------|--------------|
+| US01 | Como pasajero, quiero buscar una ruta en el mapa para encontrar la mejor opción de transporte. | Alta      | 5            |
+| US02 | Como pasajero, quiero visualizar el horario del próximo bus para organizar mi tiempo.        | Alta      | 3            |
+| US03 | Como pasajero, quiero guardar mis rutas frecuentes para acceder más rápido a ellas.          | Media     | 2            |
+| US04 | Como pasajero, quiero ver la ubicación del bus en el mapa para saber cuánto tardará en llegar. | Alta      | 5            |
+| US05 | Como pasajero, quiero recibir notificaciones si hay un retraso para ajustar mi plan de viaje. | Alta      | 3            |
+| US06 | Como pasajero, quiero recibir alertas si un bus cambia de ruta para evitar confusiones.      | Media     | 3            |
+| US07 | Como administrador de flota, quiero monitorear en tiempo real la ubicación de mis buses para asegurar la puntualidad. | Alta      | 5 |
+| US08 | Como administrador de flota, quiero generar reportes diarios de eficiencia para mejorar el servicio. | Media     | 3 |
+| US09 | Como administrador de flota, quiero configurar alertas de tráfico para reaccionar rápidamente a incidentes. | Media     | 2 |
+| US10 | Como nuevo pasajero, quiero registrarme en la aplicación para personalizar mis rutas.        | Alta      | 3            |
+| US11 | Como pasajero, quiero calificar el servicio después de mi viaje para contribuir a la mejora. | Baja      | 2            |
+| US12 | Como pasajero, quiero editar mis datos personales para mantener mi información actualizada.  | Baja      | 2            |
 
 <br><br>
 
