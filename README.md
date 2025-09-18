@@ -672,6 +672,9 @@ _Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro d
 _Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Configuración de cuenta”. Permite al usuario actualizar su información personal, incluyendo nombre, correo y contraseña, así como cambiar su foto de perfil. Además, cuenta con un botón para guardar los cambios y otro para de retorno para volver al perfil principal.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+En esta sección se presentan los Wireflow Diagrams de BusTrack. Cada diagrama combina wireframes y flujos de navegación para representar de manera visual cómo los usuarios interactúan con la aplicación web.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/%20Web%20Applications%20Wireflow%20Diagrams.png" alt="Web Applications Wireflow Diagrams" style="width: 700px; margin-right: 700px;"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
