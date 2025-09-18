@@ -181,11 +181,11 @@ Descripción del producto: BusTrack es una plataforma web que ofrece informació
 
 | Perfil | Alumno |
 |--------|-------------|
-|  | Nombre: Mathias Andree Cárdenas Huaman Código: U202316353 Descripción: Actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible. |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| ![Mathias Cardenas](img/developers/mathiasCardenas.png) | Nombre: Mathias Andree Cárdenas Huaman Código: U202316353 Descripción: Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible. |
+| ![Elizabeth Apaza](img/developers/elizabethApaza.png) |  |
+| ![Fátima Florez](img/developers/fatimaFlorez.png) |  |
+| ![Joaquin Cuentas](img/developers/joaquinCuentas.png) |  |
+| ![Diego Avalos](img/developers/diegoAvalos.png) |  |
 
 
 ## 1.2. Solution Profile
