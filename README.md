@@ -421,25 +421,25 @@ BusTrack se distingue al enfocarse en información confiable, en tiempo real y a
 
 Para destacar frente a las aplicaciones ya presentes en el mercado, **BusTrack** aplicará una estrategia de enfoque y personalización local, complementada con innovación progresiva:
 
-## 1. Enfoque en la realidad limeña
+### 1. Enfoque en la realidad limeña
 - Integrar información de buses y paraderos formales e informales.  
 - Incorporar APIs y datos oficiales de municipalidades para aumentar la confiabilidad.  
 
-## 2. Alianzas estratégicas
+### 2. Alianzas estratégicas
 - Trabajo conjunto con operadores de transporte urbano y universidades para captar usuarios frecuentes.  
 - Posibles acuerdos con entidades públicas de transporte para mejorar la base de datos y validación de rutas.  
 
-## 3. Valor agregado para el usuario
+### 3. Valor agregado para el usuario
 - Notificaciones en tiempo real sobre llegada de buses.  
 - Guardado de rutas frecuentes y estimación de tiempos con base en tráfico local.  
 - Alertas de seguridad (por ejemplo, paraderos recomendados o zonas de riesgo).  
 
-## 4. Campañas de posicionamiento digital
+### 4. Campañas de posicionamiento digital
 - Presencia activa en redes sociales para atraer a estudiantes y trabajadores.  
 - Estrategias de marketing enfocadas en el ahorro de tiempo y la seguridad del transporte.  
 - Construcción de comunidad de usuarios que compartan información en la plataforma.  
 
-## 5. Innovación tecnológica gradual
+### 5. Innovación tecnológica gradual
 - Desarrollo futuro de una app móvil con geolocalización más precisa.  
 - Implementación de funciones predictivas (estimación de tiempos basada en patrones históricos de tráfico).  
 
