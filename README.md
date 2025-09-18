@@ -615,8 +615,10 @@ Las directrices generales de estilo de BusTrack se definen a partir de la identi
     ![Gris Oscuro](img/commons/GrisOscuro.png)
 
 - Tipografía
-  * Tipografía principal: Georgia, empleada en títulos y subtítulos, transmitiendo seriedad y profesionalismo.
-  * Tipografía secundaria: Sans-serif (ej. Arial/Helvetica), usada en párrafos y descripciones, asegurando claridad en la lectura.
+  * Tipografía principal: Georgia, empleada en títulos y subtítulos, transmitiendo seriedad y profesionalismo.<br
+    <img src="img/commons/Georgia.jpg" alt="Georgia" width="300" height="300">
+  * Tipografía secundaria: Sans-serif (ej. Arial/Helvetica), usada en párrafos y descripciones, asegurando claridad en la lectura.<br>
+    <img src="img/commons/helvetica.jpg" alt="Helvetica" width="300" height="400">
   * Jerarquía de uso:
     - H1: títulos principales (~36px, serif, negrita).
     - H2: subtítulos de secciones (~28px, serif, semibold).
