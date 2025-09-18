@@ -605,6 +605,55 @@ En esta sección se presentan los mockups finales del Landing Page de BusTrack, 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+En esta sección se presentan los wireframes de la aplicación web.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%201.png" alt="Web Applications Wireframes 1" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la pantalla de inicio de sesión. Presenta campos para ingresar correo electrónico y contraseña, un enlace para recuperar la contraseña, y un botón para continuar con el inicio de sesión. Además incluye un botón de registro si el usuario aún no tiene una cuenta.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%202.png" alt="Web Applications Wireframes 2" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la pantalla de registro. Incluye la opción de continuar con Google, así como campos para ingresar correo, usuario y contraseña. Cuenta con un botón para crear la cuenta de usuario y un enlace para que los usuarios que ya tienen cuenta puedan iniciar sesión.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%203.png" alt="Web Applications Wireframes 3" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la página de inicio que aparece al iniciar sesión. Incluye un menú superior con accesos directos a las funciones "Buscar Ruta", "Notificaciones", "Paraderos cercanos" y "Perfil". En el centro hay un campo de búsqueda y un mapa interactivo que permite al usuario visualizar rutas, ubicaciones y paraderos en tiempo real.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%204.png" alt="Web Applications Wireframes 4" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Buscar Ruta”. Contiene dos campos de entrada para que el usuario ingrese el punto de origen y el destino, junto con un botón de búsqueda. 
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%205.png" alt="Web Applications Wireframes 5" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe representa la vista de resultados en la sección “Buscar Ruta”. Después de ingresar origen y destino, el sistema muestra una lista de opciones con la información básica de cada ruta y un botón de “Detalles”.
+
+<img src="" alt="Web Applications Wireframes 6" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ 
+
+<img src="" alt="Web Applications Wireframes 7" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ 
+
+<img src="" alt="Web Applications Wireframes 8" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ 
+
+<img src="" alt="Web Applications Wireframes 9" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ 
+
+<img src="" alt="Web Applications Wireframes 10" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ 
+
+<img src="" alt="Web Applications Wireframes 11" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ 
+
+<img src="" alt="Web Applications Wireframes 12" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
