@@ -660,11 +660,49 @@ La información en BusTrack se organiza en una estructura jerárquica y modular 
 
 ### 4.2.2. Labeling Systems
 
+Los sistemas de etiquetado emplean un lenguaje claro, breve y orientado a la acción:
+Menú de navegación: “Cómo usar”, “Beneficios”, “Sobre Nosotros”.
+
+* Botón principal: “Iniciar Sesión”.
+
+* Secciones: “Misión”, “Visión”.
+
+* Mensajes claros que transmiten utilidad inmediata, evitando tecnicismos.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Se emplearán etiquetas optimizadas para mejorar el posicionamiento en buscadores:
+
+* Meta Title: BusTrack – Encuentra tu bus en tiempo real.
+
+* Meta Description: Aplicación web que muestra ubicación de buses, horarios en vivo y alertas para viajar más seguro y sin esperas innecesarias.
+
+* Keywords: transporte público, buses en tiempo real, rutas de bus, movilidad urbana, BusTrack Perú.
+
+* Etiquetas alt en imágenes: describir de forma breve y precisa.
 
 ### 4.2.4. Searching Systems
 
+BusTrack incorporará un sistema de búsqueda interno enfocado en la funcionalidad clave:
+
+* Búsqueda de rutas → el usuario podrá ingresar su punto de origen y destino para obtener información de buses disponibles.
+
+* Filtros → opción de guardar rutas favoritas para acceder rápidamente.
+
+* Resultados en tiempo real → tiempos estimados de llegada, alertas de tráfico o desvíos.
+  
 ### 4.2.5. Navigation Systems
+
+El sistema de navegación busca ser intuitivo y accesible:
+
+* Navegación principal (top bar): Inicio, Cómo usar, Beneficios, Sobre Nosotros, Iniciar Sesión.
+
+* Navegación secundaria: botones de acción dentro de cada sección (ej. “Guardar rutas favoritas”).
+
+* Estructura responsive: en dispositivos móviles, el menú se transforma en hamburguesa para ahorrar espacio.
+
+* Flujo del usuario: el recorrido esperado es Inicio → Conocer cómo funciona → Revisar beneficios → Iniciar sesión → Usar BusTrack.
+
 
 ## 4.3. Landing Page UI Design
 
