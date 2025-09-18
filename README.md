@@ -544,6 +544,12 @@ Para el caso de BusTrack, se han definido inicialmente 4 épicas, que representa
 
 Este enfoque asegura que las funcionalidades priorizadas estén alineadas con las necesidades reales de los actores identificados, brindando así una base sólida para la construcción del Product Backlog y el diseño de las próximas iteraciones del producto.
 
+| Código | Nombre | Descripción |
+|--------|--------|-------------|
+| E01 | Gestión de rutas y horarios | Permitir a los pasajeros buscar, visualizar y guardar rutas y horarios para mejorar su planificación de viajes |
+| E02 | Monitoreo en tiempo real | Brindar información en vivo sobre la ubicación de los buses y notificaciones de retrasos o desvíos para reducir la incertidumbre del usuario. |
+| E03 | Administración de flota | Proporcionar a las empresas de transporte herramientas para monitorear buses, generar reportes y configurar alertas para optimizar la operación. |
+| E04 | Experiencia del usuario en la app | Ofrecer a los pasajeros funciones de registro, personalización y retroalimentación para mejorar la interacción con la aplicación. |
 
 ## 3.3. Impact Mapping
 
