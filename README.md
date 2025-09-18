@@ -630,7 +630,7 @@ Este enfoque asegura que las funcionalidades priorizadas estén alineadas con la
 
 **Historias de Usuario**
 
-| ID   | Épica                        | Nombre | Hisotira                                                                                         | Criterios de Aceptación |
+| ID   | Épica                        | Nombre | Historia                                                                                         | Criterios de Aceptación |
 |------|------------------------------|--------|----------------------------------------------------------------------------|--------------------------|
 | US01 | Gestión de rutas y horarios  | Buscar rutas | Como pasajero, quiero buscar una ruta en el mapa para encontrar la mejor opción de transporte.   | **Escenario positivo: Ruta encontrada correctamente** <br><br> **Dado** que el pasajero ingresa origen y destino, **cuando** hace clic en “Buscar ruta”, **entonces** la aplicación muestra las rutas disponibles.<br><br>**Escenario negativo: Ruta no encontrada** <br><br> **Dado** que el pasajero no ingresa un destino válido, **cuando** hace clic en “Buscar ruta”, **entonces** se muestra “Ruta no encontrada”. |
 | US02 | Gestión de rutas y horarios  | Visualizar horarios | Como pasajero, quiero visualizar el horario del próximo bus para organizar mi tiempo.            | **Escenario positivo: Horarios disponibles** <br><br> **Dado** que selecciona una ruta, **cuando** presiona “Guardar como favorita”, **entonces** la ruta aparece en favoritos.<br><br>**Escenario negativo: Horarios no disponibles**<br><br> **Dado** que intenta guardar una ruta duplicada, **cuando** presiona “Guardar como favorita”, **entonces** aparece “Esta ruta ya está guardada”. |
