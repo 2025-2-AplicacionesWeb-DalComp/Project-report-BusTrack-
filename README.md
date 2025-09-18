@@ -602,6 +602,8 @@ El mapa de impactos busca conectar la visión del sistema mejorar la experiencia
 
 ## 4.1. Style Guidelines.
 
+### 4.1.1. General Style Guidelines
+
 Las directrices generales de estilo de BusTrack se definen a partir de la identidad visual reflejada en la landing page desarrollada. El objetivo es asegurar coherencia, legibilidad y accesibilidad en todas las plataformas.
 
 - Paleta de colores
@@ -625,10 +627,28 @@ Las directrices generales de estilo de BusTrack se definen a partir de la identi
     - H3: destacados en tarjetas o bloques (~20–22px).
     - Texto base: párrafos (~16px, sans-serif regular).
 
-
-### 4.1.1. General Style Guidelines
-
 ### 4.1.2. Web Style Guidelines
+
+Las directrices específicas para la versión web de BusTrack buscan garantizar consistencia visual, accesibilidad y adaptabilidad en distintos dispositivos.
+
+* Diseño responsive
+  - Estructura modular con secciones claramente diferenciadas (Hero, Cómo usar, Beneficios, Sobre Nosotros).
+  - Uso de grillas en desktop (ej. 3 columnas en Beneficios y Cómo usar), y reordenamiento en formato vertical en mobile.
+
+* Botones y elementos interactivos
+  - Botón primario (ejemplo: “Iniciar Sesión”) en fondo blanco con borde verde, que se rellena en verde al pasar el cursor (hover).
+  - Tamaño mínimo: 44px para accesibilidad en pantallas táctiles.
+  - Estados definidos: normal, hover, activo y deshabilitado.
+
+* Jerarquía de textos
+  - Encabezados en serif negrita (H1 y H2) para impacto visual.
+  - Párrafos y descripciones en sans-serif para mejor legibilidad en pantalla.
+  - Colores de texto adaptados al fondo: verde sobre blanco y negro/gris sobre verde claro.
+
+* Imágenes y multimedia
+  - Iconografía simple en SVG para escalabilidad.
+  - Imágenes optimizadas con bordes redondeados.
+<br>
 
 ## 4.2. Information Architecture
 
