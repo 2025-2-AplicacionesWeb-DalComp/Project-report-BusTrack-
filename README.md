@@ -654,6 +654,10 @@ Las directrices específicas para la versión web de BusTrack buscan garantizar 
 
 ### 4.2.1. Organization Systems
 
+La información en BusTrack se organiza en una estructura jerárquica y modular que facilita la navegación del usuario:
+
+<h3 align="center"><img src="img/commons/Árbol.png" alt="árbol" width="700" height="600"><h3 align="center">
+
 ### 4.2.2. Labeling Systems
 
 ### 4.2.3. SEO Tags and Meta Tags
