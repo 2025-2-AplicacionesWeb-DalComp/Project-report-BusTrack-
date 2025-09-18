@@ -602,6 +602,24 @@ El mapa de impactos busca conectar la visión del sistema mejorar la experiencia
 
 ## 4.1. Style Guidelines.
 
+Las directrices generales de estilo de BusTrack se definen a partir de la identidad visual reflejada en la landing page desarrollada. El objetivo es asegurar coherencia, legibilidad y accesibilidad en todas las plataformas.
+
+- Paleta de colores
+  * Verde principal (#4D7B2D aprox.): utilizado en encabezados, títulos, botones y barra de navegación. Representa sostenibilidad, confianza y movilidad.
+  * Verde claro (#EAF4E0 aprox.): empleado en fondos de secciones secundarias (Beneficios, Misión, Visión). Aporta frescura y ligereza.
+  * Blanco (#FFFFFF): color de fondo predominante para dar limpieza y contraste.
+  * Gris oscuro/Negro (#212121 aprox.): utilizado en textos secundarios y párrafos para la legibilidad.
+
+- Tipografía
+  * Tipografía principal: Georgia, empleada en títulos y subtítulos, transmitiendo seriedad y profesionalismo.
+  * Tipografía secundaria: Sans-serif (ej. Arial/Helvetica), usada en párrafos y descripciones, asegurando claridad en la lectura.
+  * Jerarquía de uso:
+    - H1: títulos principales (~36px, serif, negrita).
+    - H2: subtítulos de secciones (~28px, serif, semibold).
+    - H3: destacados en tarjetas o bloques (~20–22px).
+    - Texto base: párrafos (~16px, sans-serif regular).
+
+
 ### 4.1.1. General Style Guidelines
 
 ### 4.1.2. Web Style Guidelines
