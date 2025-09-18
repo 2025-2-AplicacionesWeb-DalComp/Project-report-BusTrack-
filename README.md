@@ -707,12 +707,154 @@ El sistema de navegación busca ser intuitivo y accesible:
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. El prototipo incluye secciones básicas y representativas. Además, se presentan accesos rápidos que permiten al usuario conocer cómo utilizar BusTrack, revisar sus principales ventajas y obtener información esencial de la startup.
+
+### Desktop Web Browser
+
+**Wireframe 1**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%201.png" alt="Wireframe 1" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe representa la página principal de la landing page de BusTrack. Incluye un botón para iniciar sesión y un menú de navegación en la parte superior con accesos a las secciones “Cómo usar”, “Beneficios” y “Sobre Nosotros”. En el cuerpo central se ubica un espacio para una imagen acompañada de un texto introductorio que presenta la plataforma.
+
+
+**Wireframe 2**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%202.png" alt="Wireframe 2" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe pertenece a la sección “Cómo usar”. El propósito es explicar de manera simple el funcionamiento de la plataforma. Cada paso incluye un espacio para una imagen representativa, un encabezado y una breve descripción.
+
+
+**Wireframe 3**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%203.png" alt="Wireframe 3" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Presenta tres bloques que destacan las principales ventajas de la plataforma. Cada bloque incluye un espacio para un título, una breve descripción y una imagen.
+
+
+**Wireframe 4**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%204.png" alt="Wireframe 4" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de BusTrack, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
+
+
+### Mobile Web Browser
+
+**Wireframe 1**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%201-Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+
+**Wireframe 2**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%202-Mobile.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+
+**Wireframe 3**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%203-Mobile.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+
+**Wireframe 4**
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%204-Mobile.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
 ### 4.3.2. Landing Page Mock-up
+En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. 
+
+### Desktop Web Browser
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%201%20-%20Web.png" alt="Mock-up 1" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%202%20-%20Web.png" alt="Mock-up 2" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%203%20-%20Web.png" alt="Mock-up 3" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%204%20-%20Web.png" alt="Mock-up 4" style="width: 700px; margin-right: 700px;"/>
+
+
+### Mobile Web Browser
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%201%20-%20Mobile.png" alt="Mock-up 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%202-%20Mobile.png" alt="Mock-up 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%203%20-%20Mobile.png" alt="Mock-up 3.1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%203.2%20-%20Mobile.png" alt="Mock-up 3.2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%204%20-%20Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+En esta sección se presentan los wireframes de la aplicación web.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%201.png" alt="Web Applications Wireframes 1" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la pantalla de inicio de sesión. Presenta campos para ingresar correo electrónico y contraseña, un enlace para recuperar la contraseña, y un botón para continuar con el inicio de sesión. Además incluye un botón de registro si el usuario aún no tiene una cuenta.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%202.png" alt="Web Applications Wireframes 2" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la pantalla de registro. Incluye la opción de continuar con Google, así como campos para ingresar correo, usuario y contraseña. Cuenta con un botón para crear la cuenta de usuario y un enlace para que los usuarios que ya tienen cuenta puedan iniciar sesión.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%203.png" alt="Web Applications Wireframes 3" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la página de inicio que aparece al iniciar sesión. Incluye un menú superior con accesos directos a las funciones "Buscar Ruta", "Notificaciones", "Paraderos cercanos" y "Perfil". En el centro hay un campo de búsqueda y un mapa interactivo que permite al usuario visualizar rutas, ubicaciones y paraderos en tiempo real.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%204.png" alt="Web Applications Wireframes 4" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Buscar Ruta”. Contiene dos campos de entrada para que el usuario ingrese el punto de origen y el destino, junto con un botón de búsqueda. 
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%205.png" alt="Web Applications Wireframes 5" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe representa la vista de resultados en la sección “Buscar Ruta”. Después de ingresar origen y destino, el sistema muestra una lista de opciones con la información básica de cada ruta y un botón de “Detalles”.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%206.png" alt="Web Applications Wireframes 6" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Buscar Ruta”. Al seleccionar una opción de ruta, se muestra un mapa interactivo acompañado de un panel lateral que presenta información más detallada sobre la ruta elegida.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%207.png" alt="Web Applications Wireframes 7" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Notificaciones”. Muestra una lista de notificaciones en tiempo real organizadas de la más reciente a la más antigua.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%208.png" alt="Web Applications Wireframes 8" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Paraderos Cercanos”. Muestra un mapa interactivo donde el usuario puede visualizar la ubicación de los paraderos más cercanos, acompañado de una lista lateral que detalla el nombre de cada paradero y los buses que pasan por ellos.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%209.png" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la sección “Perfil”. Permite al usuario visualizar y gestionar su información personal. Además, cuenta con un botón para cerrar sesión.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2010.png" alt="Web Applications Wireframes 10" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Rutas favoritas”. Permite al usuario visualizar y gestionar las rutas que ha guardado previamente como favoritas. Además, cuenta con un botón de retorno para volver al perfil principal.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2011.png" alt="Web Applications Wireframes 11" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Historial de viajes”. Presenta un registro visual de los viajes realizados por el usuario. Además, cuenta con un botón de retorno para volver al perfil principal.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2012.png" alt="Web Applications Wireframes 12" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Notificaciones”. Permite al usuario personalizar los tipos de notificaciones que desea recibir, como alertas de llegada de buses, retrasos en las rutas, paraderos cercanos e inicio de viaje. Además, cuenta con un botón de retorno para volver al perfil principal.
+
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Wireframes%2013.png" alt="Web Applications Wireframes 13" style="width: 700px; margin-right: 700px;"/>
+
+_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Configuración de cuenta”. Permite al usuario actualizar su información personal, incluyendo nombre, correo y contraseña, así como cambiar su foto de perfil. Además, cuenta con un botón para guardar los cambios y otro para de retorno para volver al perfil principal.
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
