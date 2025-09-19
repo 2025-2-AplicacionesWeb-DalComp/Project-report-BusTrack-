@@ -726,7 +726,21 @@ Link del miro:
 
 ### 4.6.2. Software Architecture Context Diagram
 
+**Elementos**
+
+- BusTrack: Plataforma central que gestiona rutas, paraderos y notificaciones en tiempo real
+- Usuario Estudiante: Consulta rutas, paraderos cercanos y recibe notificaciones sobre los buses
+- Empresa de Transporte: Proporciona datos de buses y gestiona información de flotas
+- Google Maps API: Servicio externo de mapas y geolocalización
+- ATU / Flotas de Transporte: Fuente oficial de datos de rutas y buses
+- Servicio de Notificaciones: Permite el envío de alertas en tiempo real a los usuarios
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Context%20Diagram.png" alt="Software Architecture Context Diagram" style="width: 700px; margin-right: 700px;"/>
+
 ### 4.6.3. Software Architecture Container Diagrams
+En esta sección se muestra cómo se organiza BusTrack en contenedores de alto nivel y sus interacciones. La arquitectura incluye el frontend (PWA), servicios de backend (API), la ingesta de datos de flota y el envío de notificaciones, soportados por una base de datos y un sistema de caché. También se integran sistemas externos como mapas y proveedores de notificaciones, garantizando información confiable y en tiempo real.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Container%20Diagram.png" alt="Software Architecture Container Diagrams" style="width: 700px; margin-right: 700px;"/>
 
 ### 4.6.4. Software Architecture Components Diagrams
 
