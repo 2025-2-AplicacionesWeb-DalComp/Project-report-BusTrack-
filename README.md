@@ -678,6 +678,32 @@ En esta sección se presentan los Wireflow Diagrams de BusTrack. Cada diagrama c
 
 ### 4.4.3. Web Applications Mock-ups
 
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%201.png" alt="Web Applications Mock-ups 1" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%202.png" alt="Web Applications Mock-ups 2" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%203.png" alt="Web Applications Mock-ups 3" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%204.png" alt="Web Applications Mock-ups 4" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%205.png" alt="Web Applications Mock-ups 5" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%206.png" alt="Web Applications Mock-ups 6" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%207.png" alt="Web Applications Mock-ups 7" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%208.png" alt="Web Applications Mock-ups 8" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%209.png" alt="Web Applications Mock-ups 9" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%2010.png" alt="Web Applications Mock-ups 10" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%2011.png" alt="Web Applications Mock-ups 11" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%2012.png" alt="Web Applications Mock-ups 12" style="width: 700px; margin-right: 700px;"/>
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%2013.png" alt="Web Applications Mock-ups 13" style="width: 700px; margin-right: 700px;"/>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
