@@ -576,6 +576,7 @@ _Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. P
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Wireframe%204-Mobile.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
+
 ### 4.3.2. Landing Page Mock-up
 En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. 
 
@@ -601,6 +602,9 @@ En esta sección se presentan los mockups finales del Landing Page de BusTrack, 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%203.2%20-%20Mobile.png" alt="Mock-up 3.2 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%204%20-%20Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+
+Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -703,6 +707,8 @@ En esta sección se presentan los Wireflow Diagrams de BusTrack. Cada diagrama c
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%2012.png" alt="Web Applications Mock-ups 12" style="width: 700px; margin-right: 700px;"/>
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Mock-ups%2013.png" alt="Web Applications Mock-ups 13" style="width: 700px; margin-right: 700px;"/>
+
+Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
