@@ -996,8 +996,7 @@ _Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro d
 
 ### 4.7.1. Class Diagrams
 
-![Diagrama de clases](img/commons/Diagrama de Clases.png)
-
+ ![Rosa Palacios](img/commons/classDiagram.png) 
 
 ### 4.7.2. Class Dictionary
 
