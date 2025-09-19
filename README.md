@@ -996,8 +996,8 @@ _Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro d
 
 ### 4.7.1. Class Diagrams
 
+![Diagrama de clases](img/commons/Diagrama de Clases.png)
 
-<img src="img/commons/Diagrama de Clases.png" alt="Web Applications Wireframes 13" style="width: 700px; margin-right: 700px;"/>
 
 ### 4.7.2. Class Dictionary
 
