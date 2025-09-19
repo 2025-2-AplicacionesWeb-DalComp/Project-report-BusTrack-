@@ -1000,6 +1000,88 @@ _Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro d
 
 ### 4.7.2. Class Dictionary
 
+Clase: User
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+id                    | Identificador único del usuario     | UUID
+name                  | Nombre del usuario                  | String
+email                 | Correo electrónico del usuario      | String
+password              | Contraseña del usuario              | String
+role                  | Rol del usuario                     | enum (UserRole)
+Métodos
+login()  — Iniciar sesión del usuario
+logout() — Cerrar sesión del usuario
+updateProfile() — Actualizar perfil del usuario
+
+Clase: Passenger
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+favoriteRoutes        | Rutas favoritas del pasajero        | List<Route>
+travelHistory         | Historial de viajes del pasajero    | List<Travel>
+Métodos
+searchRoute()      — Buscar una ruta
+saveFavoriteRoute() — Guardar una ruta en favoritos
+
+Clase: Driver
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+licenseNumber         | Número de licencia del conductor    | String
+assignedBus           | Bus asignado al conductor           | Bus
+Métodos
+startShift() — Iniciar turno del conductor
+endShift()   — Finalizar turno del conductor
+
+Clase: Bus
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+id                    | Identificador único del bus         | UUID
+licensePlate          | Placa de matrícula del bus          | String
+capacity              | Capacidad del bus                   | int
+currentLocation       | Ubicación actual del bus            | Location
+status                | Estado del bus                      | enum (BusStatus)
+Métodos
+updateLocation() — Actualizar la ubicación del bus
+
+Clase: Route
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+id                    | Identificador único de la ruta      | UUID
+name                  | Nombre de la ruta                   | String
+stops                 | Lista de paraderos de la ruta       | List<Stop>
+estimatedTime         | Tiempo estimado de recorrido        | int
+Métodos
+calculateArrivalTime() — Calcular tiempo estimado de llegada
+
+Clase: Stop
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+id                    | Identificador único del paradero    | UUID
+name                  | Nombre del paradero                 | String
+location              | Ubicación geográfica del paradero   | Location
+buses                 | Lista de buses que paran            | List<Bus>
+
+Clase: Travel
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+id                    | Identificador único del viaje       | UUID
+passenger             | Pasajero asociado al viaje          | Passenger
+route                 | Ruta recorrida en el viaje          | Route
+startTime             | Hora de inicio del viaje            | DateTime
+endTime               | Hora de fin del viaje               | DateTime
+Métodos
+startTravel() — Iniciar el viaje
+endTravel()   — Finalizar el viaje
+
+Clase: Notification
+Nombre de Atributo    | Descripción                        | Tipo de Dato
+----------------------|------------------------------------|-------------
+id                    | Identificador único de la notificación | UUID
+message               | Contenido del mensaje               | String
+type                  | Tipo de notificación                | enum (NotificationType)
+sentAt                | Fecha y hora de envío               | DateTime
+Métodos
+send() — Enviar notificación
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
