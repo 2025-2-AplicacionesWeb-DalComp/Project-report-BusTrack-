@@ -717,8 +717,12 @@ Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 ## 4.6. Domain-Driven Software Architecture
 La arquitectura de software orientada al dominio nos permite estructurar el sistema en torno a los conceptos fundamentales del transporte urbano, asegurando que la lógica de negocio se ajuste con precisión a las necesidades de los usuarios. En esta sección aplicaremos Bounded Contexts para la gestión de usuarios, rutas, paraderos y notificaciones.
 
-
 ### 4.6.1. Design-Level Event Storming
+En esta sección se detallan los procesos clave del dominio, identificando los segmentos objetivos junto con los sucesos, comandos y errores relevantes. Además, las funcionalidades se organizaron en bounded contexts, lo que permite reflejar la lógica del sistema de manera estructurada.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Design-Level%20Event%20Storming.png" alt="Design-Level Event Storming" style="width: 900px; margin-right: 900px;"/>
+
+Link del miro: 
 
 ### 4.6.2. Software Architecture Context Diagram
 
