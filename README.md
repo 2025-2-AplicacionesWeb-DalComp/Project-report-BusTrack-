@@ -1000,88 +1000,146 @@ _Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro d
 
 ### 4.7.2. Class Dictionary
 
-Clase: User
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-id                    | Identificador único del usuario     | UUID
-name                  | Nombre del usuario                  | String
-email                 | Correo electrónico del usuario      | String
-password              | Contraseña del usuario              | String
-role                  | Rol del usuario                     | enum (UserRole)
-Métodos
-login()  — Iniciar sesión del usuario
-logout() — Cerrar sesión del usuario
-updateProfile() — Actualizar perfil del usuario
+## Clase: **User** *(Abstracta)*  
+**Descripción:** Usuario base del sistema  
 
-Clase: Passenger
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-favoriteRoutes        | Rutas favoritas del pasajero        | List<Route>
-travelHistory         | Historial de viajes del pasajero    | List<Travel>
-Métodos
-searchRoute()      — Buscar una ruta
-saveFavoriteRoute() — Guardar una ruta en favoritos
+| Nombre de Atributo | Descripción                  | Tipo de Dato     |
+|--------------------|------------------------------|------------------|
+| id                 | Identificador único          | UUID             |
+| name               | Nombre completo              | String           |
+| email              | Correo electrónico           | String           |
+| password           | Contraseña encriptada        | String           |
+| role               | Tipo de usuario              | enum (UserRole)  |
+| profilePhoto       | Foto de perfil               | String (URL)     |
 
-Clase: Driver
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-licenseNumber         | Número de licencia del conductor    | String
-assignedBus           | Bus asignado al conductor           | Bus
-Métodos
-startShift() — Iniciar turno del conductor
-endShift()   — Finalizar turno del conductor
+**Métodos**  
+- `login()` — Autentica al usuario en el sistema  
+- `logout()` — Cierra la sesión del usuario  
+- `updateProfile()` — Actualiza información del perfil  
 
-Clase: Bus
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-id                    | Identificador único del bus         | UUID
-licensePlate          | Placa de matrícula del bus          | String
-capacity              | Capacidad del bus                   | int
-currentLocation       | Ubicación actual del bus            | Location
-status                | Estado del bus                      | enum (BusStatus)
-Métodos
-updateLocation() — Actualizar la ubicación del bus
+---
 
-Clase: Route
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-id                    | Identificador único de la ruta      | UUID
-name                  | Nombre de la ruta                   | String
-stops                 | Lista de paraderos de la ruta       | List<Stop>
-estimatedTime         | Tiempo estimado de recorrido        | int
-Métodos
-calculateArrivalTime() — Calcular tiempo estimado de llegada
+## Clase: **Passenger** *(Hereda de User)*  
+**Descripción:** Usuario que utiliza el transporte público  
 
-Clase: Stop
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-id                    | Identificador único del paradero    | UUID
-name                  | Nombre del paradero                 | String
-location              | Ubicación geográfica del paradero   | Location
-buses                 | Lista de buses que paran            | List<Bus>
+| Nombre de Atributo | Descripción                   | Tipo de Dato     |
+|--------------------|-------------------------------|------------------|
+| favoriteRoutes     | Rutas guardadas como favoritas | List<Route>      |
+| travelHistory      | Historial de viajes realizados | List<Travel>     |
+| currentTravel      | Viaje en curso                 | Travel           |
 
-Clase: Travel
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-id                    | Identificador único del viaje       | UUID
-passenger             | Pasajero asociado al viaje          | Passenger
-route                 | Ruta recorrida en el viaje          | Route
-startTime             | Hora de inicio del viaje            | DateTime
-endTime               | Hora de fin del viaje               | DateTime
-Métodos
-startTravel() — Iniciar el viaje
-endTravel()   — Finalizar el viaje
+**Métodos**  
+- `searchRoute(origin, destination)` — Busca rutas disponibles  
+- `saveFavoriteRoute(route)` — Guarda una ruta como favorita  
+- `startTravel(route)` — Inicia un viaje  
+- `receiveNotification()` — Recibe notificaciones  
 
-Clase: Notification
-Nombre de Atributo    | Descripción                        | Tipo de Dato
-----------------------|------------------------------------|-------------
-id                    | Identificador único de la notificación | UUID
-message               | Contenido del mensaje               | String
-type                  | Tipo de notificación                | enum (NotificationType)
-sentAt                | Fecha y hora de envío               | DateTime
-Métodos
-send() — Enviar notificación
+---
 
+## Clase: **Driver** *(Hereda de User)*  
+**Descripción:** Conductor de un bus  
+
+| Nombre de Atributo | Descripción                  | Tipo de Dato       |
+|--------------------|------------------------------|--------------------|
+| licenseNumber      | Número de licencia de conducir | String            |
+| assignedBus        | Bus asignado                 | Bus                |
+| shiftStatus        | Estado del turno             | enum (ShiftStatus) |
+
+**Métodos**  
+- `startShift()` — Inicia turno de trabajo  
+- `endShift()` — Finaliza turno de trabajo  
+- `updateLocation()` — Actualiza ubicación en tiempo real  
+- `reportIncident()` — Reporta incidentes en la ruta  
+
+---
+
+## Clase: **Bus**  
+**Descripción:** Vehículo de transporte público  
+
+| Nombre de Atributo | Descripción                  | Tipo de Dato      |
+|--------------------|------------------------------|-------------------|
+| id                 | Identificador único          | UUID              |
+| licensePlate       | Placa del vehículo           | String            |
+| capacity           | Capacidad de pasajeros       | int               |
+| currentLocation    | Ubicación actual             | Location          |
+| status             | Estado operativo             | enum (BusStatus)  |
+| currentRoute       | Ruta actual                  | Route             |
+
+**Métodos**  
+- `updateLocation()` — Actualiza posición GPS  
+- `changeStatus()` — Cambia estado del bus  
+- `getArrivalTime(stop)` — Calcula tiempo de llegada  
+
+---
+
+## Clase: **Route**  
+**Descripción:** Ruta de transporte con paradas definidas  
+
+| Nombre de Atributo | Descripción                  | Tipo de Dato   |
+|--------------------|------------------------------|----------------|
+| id                 | Identificador único          | UUID           |
+| name               | Nombre de la ruta            | String         |
+| stops              | Lista de paradas             | List<Stop>     |
+| estimatedTime      | Tiempo estimado de recorrido | int            |
+| frequency          | Frecuencia de paso           | int            |
+
+**Métodos**  
+- `calculateArrivalTime()` — Calcula tiempo de llegada  
+- `addStop()` — Agrega nueva parada  
+- `removeStop()` — Elimina parada  
+
+---
+
+## Clase: **Stop**  
+**Descripción:** Paradero o punto de parada  
+
+| Nombre de Atributo | Descripción                  | Tipo de Dato   |
+|--------------------|------------------------------|----------------|
+| id                 | Identificador único          | UUID           |
+| name               | Nombre del paradero          | String         |
+| location           | Coordenadas GPS              | Location       |
+| buses              | Buses que pasan por aquí     | List<Bus>      |
+
+**Métodos**  
+- `getNextBuses()` — Obtiene próximos buses  
+- `updateBusArrival()` — Actualiza llegada de buses  
+
+---
+
+## Clase: **Travel**  
+**Descripción:** Registro de un viaje realizado  
+
+| Nombre de Atributo | Descripción                  | Tipo de Dato   |
+|--------------------|------------------------------|----------------|
+| id                 | Identificador único          | UUID           |
+| passenger          | Pasajero que realiza el viaje | Passenger      |
+| route              | Ruta utilizada               | Route          |
+| startTime          | Hora de inicio               | DateTime       |
+| endTime            | Hora de fin                  | DateTime       |
+| duration           | Duración del viaje           | int            |
+
+**Métodos**  
+- `startTravel()` — Inicia el viaje  
+- `endTravel()` — Finaliza el viaje  
+- `calculateDuration()` — Calcula duración  
+
+---
+
+## Clase: **Notification**  
+**Descripción:** Sistema de notificaciones  
+
+| Nombre de Atributo | Descripción                     | Tipo de Dato                    |
+|--------------------|---------------------------------|---------------------------------|
+| id                 | Identificador único             | UUID                            |
+| recipient          | Usuario destinatario            | User                            |
+| message            | Contenido del mensaje           | String                          |
+| sentAt             | Fecha y hora de envío           | DateTime                        |
+| type               | Tipo de notificación            | enum (NotificationType)         |
+| status             | Estado de la notificación       | enum (NotificationStatus)       |
+
+**Métodos**  
+- `send()` — Envía la notificación  
+- `markAsRead()` — Marca como leída  
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
