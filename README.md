@@ -172,8 +172,8 @@
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta |  |  |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. |  |  |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Mathias Andree Cardenas Huaman**<br>Tomé un rol activo en las discusiones del equipo, proponiendo ideas y organizando apartados como las User Stories, Impact Mapping y Product Backlog, que sirvieron como guía de avance. Brindé apoyo a mis compañeros cuando tenían dudas, asegurando que todos pudiéramos contribuir.<br><br> | **Mathias Andree Cardenas Huaman**<br>Mi participación permitió ejercer un liderazgo compartido, en el que no solo coordiné, sino que también motivé y complementé el trabajo de los demás, fortaleciendo la unión del equipo.<br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Mathias Andree Cardenas Huaman**<br>En conjunto con el grupo establecimos metas semanales, y yo avancé secciones clave como las Style Guidelines, la Information Architecture y el EventStorming con Lenguaje Ubicuo. Siempre compartí mis avances para que todos estuvieran informados y alineados.<br><br> | **Mathias Andree Cardenas Huaman**<br>Pude trabajar de forma colaborativa y organizada, cumpliendo con mis tareas en los tiempos previstos. Esto ayudó a que el equipo alcanzara los objetivos y mantuviera un ambiente de confianza e inclusión.<br><br> |
 
 </div>
 <br><br>
