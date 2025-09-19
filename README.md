@@ -35,13 +35,28 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
-| TB1 | 14/09 |
+|  |  |  |  |
+| TB1 | 14/09 | Andree Cardenas | Desarrollo del capitulo 3 del informe |
+| TB1 | 15/09 | Andree Cardenas | Desarrollo de los 4.1. y 4.2. |
+| TB1 | 18/09 | Andree Cardenas | Revisión y corrección del Capítulo 2 |
 
 </div>
 
 <br><br>
 
 # Project Report Collaboration Insights
+
+| URL de la organización del proyecto |
+| ----------------------------------- |
+| [https://github.com/2025-2-AplicacionesWeb-DalComp](https://github.com/2025-2-AplicacionesWeb-DalComp) |
+
+| URL del repositorio del reporte |
+| ------------------------------- |
+| [https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-) |
+
+| URL del repositorio de la landing page |
+| -------------------------------------- |
+| [https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page](https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page) |
 
 <br><br>
 
@@ -153,13 +168,13 @@
 
 <div align="center">
 
-### ABET – EAC - Student Outcome 5
+### *ABET – EAC - Student Outcome 5*
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-| ¿Participó activamente en el equipo, respetando y valorando las ideas de los demás? | | |
-| ¿Asumió y cumplió con sus responsabilidades y tareas asignadas dentro de los plazos? | | |
-| ¿Se comunicó de manera clara y constructiva, aportando al logro de los objetivos del equipo? | | |
+| ¿Participó activamente en el equipo, respetando y valorando las ideas de los demás? | **Mathias Andree Cárdenas Huaman** <br> En las reuniones de equipo escuché las propuestas de mis compañeros y aporté ideas principalmente en la definición de historias de usuario, el impact mapping y la arquitectura de información. Siempre busqué complementar las opiniones de los demás y respetar sus puntos de vista.<br><br> | **Mathias Andree Cárdenas Huaman** <br> Participar activamente me permitió aportar valor en varias etapas del proyecto, fortaleciendo la colaboración y el respeto mutuo dentro del equipo.<br><br> |
+| ¿Asumió y cumplió con sus responsabilidades y tareas asignadas dentro de los plazos? | **Mathias Andree Cárdenas Huaman** <br> Avancé secciones clave del informe como las User Stories con criterios de aceptación en Gherkin, el Impact Mapping, el Product Backlog, las Style Guidelines (general y web), la Information Architecture, y los apartados de EventStorming y Lenguaje Ubicuo. Entregué estas tareas en los plazos establecidos.<br><br> | **Mathias Andree Cárdenas Huaman** <br> Cumplí con mis responsabilidades, aportando contenido fundamental para el proyecto. Esto ayudó a que el equipo mantuviera el ritmo de avance y lográramos cumplir con el cronograma.<br><br> |
+| ¿Se comunicó de manera clara y constructiva, aportando al logro de los objetivos del equipo? | **Mathias Andree Cárdenas Huaman** <br> Compartí mis avances en cada reunión, aclarando dudas y recibiendo feedback. Utilicé un lenguaje claro y me aseguré de que mis aportes fueran útiles para el objetivo del proyecto.<br><br> | **Mathias Andree Cárdenas Huaman** <br> La comunicación efectiva que mantuve con mis compañeros ayudó a integrar mejor las secciones y a que el trabajo del equipo fuera más coherente y consistente.<br><br> |
 
 </div>
 <br><br>
@@ -590,7 +605,34 @@ Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
 
 ## 2.4. Big Picture Event Storning
 
+| **Actor**                 | **Evento**                                 | **Resultado**                                           |
+| ------------------------- | ------------------------------------------ | ------------------------------------------------------- |
+| **Pasajero**              | Busca una ruta ingresando origen y destino | El sistema recibe la solicitud de búsqueda              |
+| **Sistema BusTrack**      | Procesa la búsqueda de rutas disponibles   | Muestra opciones de buses, horarios y tiempos estimados |
+| **Pasajero**              | Selecciona una ruta                        | Puede guardarla como favorita para futuros viajes       |
+| **Sistema BusTrack**      | Rastrea ubicación del bus en tiempo real   | Actualiza la posición en el mapa                        |
+| **Sistema BusTrack**      | Envía notificación al pasajero             | Pasajero recibe alertas de retrasos o desvíos           |
+| **Pasajero**              | Viaja en el bus consultando la app         | Accede a información de llegada en tiempo real          |
+| **Pasajero**              | Califica el viaje                          | El sistema guarda comentarios y puntuaciones            |
+| **Sistema BusTrack**      | Genera reportes de uso y eficiencia        | La empresa de transporte recibe métricas                |
+| **Empresa de transporte** | Ajusta rutas y horarios según reportes     | Se mejora la calidad del servicio ofrecido              |
+
+
 ## 2.5. Ubiquitous Language
+
+| **Término**                          | **Definición**                                                                                       |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Pasajero**                         | Usuario final de BusTrack que consulta rutas, horarios y viaja en transporte público.                |
+| **Empresa de transporte**            | Entidad que gestiona los buses, rutas y horarios registrados en la aplicación.                       |
+| **Ruta**                             | Trayecto definido entre un origen y un destino que sigue un bus.                                     |
+| **Horario**                          | Horas establecidas para salidas y llegadas de buses en una ruta.                                     |
+| **Bus**                              | Vehículo de transporte público registrado en BusTrack con identificación y ubicación GPS.            |
+| **Notificación**                     | Alerta enviada al pasajero sobre retrasos, desvíos o llegada próxima del bus.                        |
+| **Reporte**                          | Documento generado automáticamente con datos de eficiencia, puntualidad y satisfacción del servicio. |
+| **Favoritos**                        | Rutas que el pasajero guarda para consultarlas rápidamente en futuros viajes.                        |
+| **Panel de control**                 | Interfaz usada por la empresa de transporte para monitorear la flota y generar reportes.             |
+| **Tiempo estimado de llegada (ETA)** | Predicción calculada por el sistema sobre el tiempo que falta para que un bus llegue a la parada.    |
+
 
 <br><br>
 
