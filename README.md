@@ -1706,6 +1706,21 @@ La landing page **no incluye funcionalidades dinámicas**, ni conexión con base
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+
+# Desarrollo durante el Sprint  
+
+Durante este Sprint, el equipo se enfocó exclusivamente en el desarrollo de la **Landing Page de BusTrack**, por lo tanto, **no se ha implementado ni documentado ningún Web Service** hasta el momento.  
+
+La **documentación e implementación de endpoints REST** está planificada para los siguientes sprints, en los cuales se abordará la creación de los servicios **frontend y backend** necesarios para funcionalidades como:  
+
+- Login  
+- Registro  
+- Gestión de usuarios  
+- Pruebas vocacionales  
+- Reservas de sesiones con psicólogos  
+
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
