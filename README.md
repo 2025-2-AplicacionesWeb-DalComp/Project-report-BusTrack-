@@ -1080,6 +1080,8 @@ Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
+La arquitectura de software orientada al dominio nos permite estructurar el sistema en torno a los conceptos fundamentales del transporte urbano, asegurando que la lógica de negocio se ajuste con precisión a las necesidades de los usuarios. En esta sección aplicaremos Bounded Contexts para la gestión de usuarios, rutas, paraderos y notificaciones.
+
 
 ### 4.6.1. Design-Level Event Storming
 
