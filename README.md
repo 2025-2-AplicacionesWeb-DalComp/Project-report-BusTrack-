@@ -1723,6 +1723,32 @@ La **documentación e implementación de endpoints REST** está planificada para
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+
+# Sprint 1 - Desarrollo y Despliegue  
+
+Durante el primer sprint, desarrollamos y desplegamos la **landing page** del proyecto.  
+
+## Pasos para el despliegue  
+
+1. **Creación de la Organización BusTrack**  
+   Iniciamos creando una organización que albergará los repositorios del proyecto, entre ellos el de la landing page.
+   ![deploy1](img/deploy1.png)
+
+
+3. **Creación del Repositorio en GitHub**  
+   Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
+   ![deploy2](img/deploy2.png)
+
+
+5. **Despliegue Automático**  
+   Accedemos a la opción de settings y posteriormente de pages. Configuramos el nombre de la web y le damos siguiente. GitHubdesplegó la landing page en la URL proporcionada por GitHub Pages.
+   Link: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
+   ![deploy3](img/deploy3.png)
+
+
+
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews 
