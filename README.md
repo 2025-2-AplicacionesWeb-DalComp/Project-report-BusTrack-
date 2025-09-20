@@ -732,6 +732,7 @@ Este enfoque asegura que las funcionalidades priorizadas estén alineadas con la
 | E02 | Monitoreo en tiempo real | Brindar información en vivo sobre la ubicación de los buses y notificaciones de retrasos o desvíos para reducir la incertidumbre del usuario. |
 | E03 | Administración de flota | Proporcionar a las empresas de transporte herramientas para monitorear buses, generar reportes y configurar alertas para optimizar la operación. |
 | E04 | Experiencia del usuario en la app | Ofrecer a los pasajeros funciones de registro, personalización y retroalimentación para mejorar la interacción con la aplicación. |
+| E05 | Desarrollo de Landing Page | Ofrecer a ambos usuarios una primera toma de contacto de nuestra aplicación web y darles a conocer de qué trata nuestra solución. |
 
 **Historias de Usuario**
 
@@ -749,6 +750,11 @@ Este enfoque asegura que las funcionalidades priorizadas estén alineadas con la
 | US10 | Experiencia del usuario      | Registro de usuario | Como nuevo pasajero, quiero registrarme en la aplicación para personalizar mis rutas.            | **Escenario positivo: Registro exitoso**<br><br> **Dado** que completa los campos, **cuando** presiona “Registrarse”, **entonces** se crea la cuenta.<br><br>**Escenario negativo: Registro fallido por campos incompletos**<br><br> **Dado** que deja campos vacíos, **cuando** presiona “Registrarse”, **entonces** aparece “Complete todos los campos”. |
 | US11 | Experiencia del usuario      | Calificar servicio | Como pasajero, quiero calificar el servicio después de mi viaje para contribuir a la mejora.     | **Escenario positivo: Calificación registrada**<br><br> **Dado** que selecciona una ruta, **cuando** presiona “Calificar”, **entonces** puede dar 1–5 estrellas y un comentario.<br><br>**Escenario negativo: Calificación no registrada por falta de selección**<br><br> **Dado** que no selecciona ruta, **cuando** presiona “Calificar”, **entonces** aparece “Seleccione un viaje realizado”. |
 | US12 | Experiencia del usuario      | Editar perfil | Como pasajero, quiero editar mis datos personales para mantener mi información actualizada.      | **Escenario positivo: Perfil actualizado correctamente**<br><br> **Dado** que actualiza su correo, **cuando** presiona “Guardar cambios”, **entonces** se guarda correctamente.<br><br>**Escenario negativo: Correo inválido al actualizar perfil**<br><br> **Dado** que ingresa un correo inválido, **cuando** presiona “Guardar cambios”, **entonces** aparece “Correo no válido”. |
+| US13 | Desarrollo de Landing Page   | Información de la solución   | Como visitante de la web, quiero ver información concisa de la solución para convencerme de volverme un usuario frecuente.                   | **Escenario positivo: Información concisa mostrada correctamente**<br><br>**Dado** que el visitante entra a la página principal, **cuando** visualiza la sección de la solución, **entonces** encuentra un resumen breve y claro de las funcionalidades principales.<br><br>**Escenario negativo: Información no disponible**<br><br>**Dado** que el visitante entra a la página principal, **cuando** la sección de la solución no carga, **entonces** aparece el mensaje “Información no disponible, intente más tarde”. |
+| US14 | Desarrollo de Landing Page   | Beneficios de la aplicación  | Como visitante de la web interesado en solución de rutas, quiero conocer los beneficios de la aplicación para entender su utilidad en mi vida. | **Escenario positivo: Beneficios visibles**<br><br>**Dado** que el visitante accede a la sección de beneficios, **cuando** revisa la información, **entonces** visualiza al menos tres beneficios claros sobre la solución de rutas.<br><br>**Escenario negativo: Beneficios no claros**<br><br>**Dado** que el visitante accede a la sección de beneficios, **cuando** el contenido se muestra confuso o incompleto, **entonces** aparece el mensaje “Información en actualización”. |
+| US15 | Desarrollo de Landing Page   | Misión y visión              | Como visitante de la web, quiero conocer la misión y visión de la empresa para saber si se orienta a mis necesidades.                        | **Escenario positivo: Misión y visión visibles**<br><br>**Dado** que el visitante ingresa a la sección “Nosotros”, **cuando** revisa la página, **entonces** encuentra claramente descritos la misión y la visión de la empresa.<br><br>**Escenario negativo: Misión y visión no disponibles**<br><br>**Dado** que el visitante ingresa a la sección “Nosotros”, **cuando** el contenido no se carga, **entonces** aparece el mensaje “Contenido no disponible actualmente”. |
+
+
 
 ## 3.3. Impact Mapping
 
@@ -1570,7 +1576,10 @@ Se muestra a continuación la landing page desplegada en su primera versión:
 
 ### 5.2.1. Sprint 1
 
+
+
 #### 5.2.1.1. Sprint Planning 1
+
 
 
 # Primer Sprint - Planificación
@@ -1602,6 +1611,7 @@ De esta manera, se asegura que el **producto inicial** esté operativo y sirva c
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 
+
 # Sprint - Desarrollo de la Landing Page de BusTrack
 
 Para el presente sprint, escogimos el desarrollo de la **Landing Page de BusTrack**, que representa un primer contacto entre el usuario y la plataforma.  
@@ -1630,6 +1640,8 @@ Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que ot
 
 #### 5.2.1.3. Sprint Backlog 1
 
+
+
 # Sprint Backlog 1
 
 En esta sección se presenta el **Sprint Backlog 1**, que corresponde al primer ciclo de desarrollo del proyecto.  
@@ -1655,6 +1667,7 @@ El objetivo principal de este sprint es el **diseño y desarrollo de la landing 
 | US14           | Beneficios de la aplicación   | T06         | Desarrollar el contenido de alertas y notificaciones | Se detalla cómo funcionan las notificaciones en la aplicación | 1                  | Fátima Florez      | done       |
 | US15           | Misión y visión               | T07         | Desarrollar la misión de la empresa            | Se detalla la misión de la empresa                          | 1                       | Joaquin Cuentas    | done       |
 | US15           | Misión y visión               | T08         | Desarrollar la visión de la empresa            | Se detalla la visión de la empresa                          | 1                       | Diego Avalos       | done       |
+
 
 
 
