@@ -39,6 +39,9 @@
 | TB1 | 14/09 | Andree Cardenas | Desarrollo del capitulo 3 del informe |
 | TB1 | 15/09 | Andree Cardenas | Desarrollo de los 4.1. y 4.2. |
 | TB1 | 18/09 | Andree Cardenas | Revisión y corrección del Capítulo 2 |
+| TB1 | 8/09 | Fátima Florez | Desarrollo del capitulo 1 del informe |
+| TB1 | 13/09 | Fátima Florez | Desarrollo de las entrevistas a empresas de transporte urbano |
+| TB1 | 18/09 | Fátima Florez | Desarrollo de los puntos 4.6, 4.6.1, 4.6.2 y 4.6.3 |
 
 </div>
 
