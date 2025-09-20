@@ -1679,6 +1679,31 @@ El objetivo principal de este sprint es el **diseño y desarrollo de la landing 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+# Avances en los Productos Desarrollados  
+
+**Producto desarrollado:** Landing Page (versión estática)  
+
+**Tecnologías utilizadas:** HTML, CSS  
+
+- Se implementó una estructura básica de navegación con menú fijo y enlaces a las secciones: **NavBar, Hero, Cómo usar, Beneficios y Sobre nosotros**.  
+- Se desarrolló una sección de **“Cómo usar”**, estructurada por pasos visuales.  
+- Se diseñó la **sección introductoria**, donde se explica brevemente la finalidad de la plataforma.  
+- Se creó una sección **“Beneficios de BusTrack”**, que presenta los beneficios diferenciales mediante listas e íconos decorativos.  
+- Se añadió una **sección sobre nosotros**, en la que se expone la misión y visión de nuestra empresa y solución.  
+- Se construyó un **footer simple**, que cumple con los créditos del autor.  
+- Se aplicaron **estilos CSS** para lograr un diseño limpio, responsivo en pantallas móviles y legible.  
+
+La landing page **no incluye funcionalidades dinámicas**, ni conexión con base de datos o servicios web, ya que se trata de un desarrollo inicial con **HTML y CSS puro**, orientado a validar la estructura visual y de contenido.  
+
+![landing1](img/landing1.png)
+![landing2](img/landing2.png)
+![landing3](img/landing3.png)
+![landing4](img/landing4.png)
+
+
+
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
