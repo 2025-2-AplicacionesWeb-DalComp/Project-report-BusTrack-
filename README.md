@@ -1768,27 +1768,27 @@ Para este sprint, las tareas de **diseño, implementación y documentación** de
 
 La **implementación y despliegue** de la landing page fue llevada a cabo por **Joaquin Cuentas**.  
 
-Evidencias del repositorio de la landing page
+* Evidencias del repositorio de la landing page
    ![insights1](img/insights1.png)
 
 
 
-Evidencias del repositorio del informe
+* Evidencias del repositorio del informe
    ![insights2](img/insights2.png)
 
 
 
-Network Graph
+* Network Graph
    ![insights3](img/insights3.png)
 
 
 
-Code Frequency
+* Code Frequency
    ![insights4](img/insights4.png)
 
 
 
-Contribuitors
+* Contribuitors
    ![insights5](img/insights5.png)
 
 
