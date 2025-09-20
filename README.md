@@ -783,6 +783,10 @@ El mapa de impactos busca conectar la visión del sistema mejorar la experiencia
 | US10 | Como nuevo pasajero, quiero registrarme en la aplicación para personalizar mis rutas.        | Alta      | 3            |
 | US11 | Como pasajero, quiero calificar el servicio después de mi viaje para contribuir a la mejora. | Baja      | 2            |
 | US12 | Como pasajero, quiero editar mis datos personales para mantener mi información actualizada.  | Baja      | 2            |
+| US13 | Como visitante de la web, quiero ver información concisa de la solución para convencerme de volverme un usuario frecuente.        | Alta      | 3            |
+| US14 | Como visitante de la web interesado en solución de rutas, quiero conocer los beneficios de la aplicación para entender la utilidad que tendría en mi vida. | Media      | 3            |
+| US15 | Como visitante de la web quiero conocer la misión y visión de la empresa para saber si se orienta a mis necesidades.  | Media      | 2            |
+
 
 <br><br>
 
@@ -1603,8 +1607,8 @@ De esta manera, se asegura que el **producto inicial** esté operativo y sirva c
 | **Sprint n – 1 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
 | **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
 | **Sprint 1 Goal**                  | Diseñar los **wireframes** del proyecto y desarrollar y desplegar la **landing page** funcional en **GitHub Pages**, garantizando que cumpla con los requisitos básicos de diseño. |
-| **Sprint 1 Velocity**              | 5                                                                                                                                                          |
-| **Sum of Story Points**            | 5                                                                                                                                                          |
+| **Sprint 1 Velocity**              | 8                                                                                                                                                          |
+| **Sum of Story Points**            | 8                                                                                                                                                          |
 
 
 
