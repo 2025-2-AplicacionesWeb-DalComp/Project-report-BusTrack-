@@ -1751,6 +1751,39 @@ Durante el primer sprint, desarrollamos y desplegamos la **landing page** del pr
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+# Distribución de Tareas - Sprint 1  
+
+Para este sprint, las tareas de **diseño, implementación y documentación** de la landing page se distribuyeron entre todos los integrantes del equipo.  
+
+La **implementación y despliegue** de la landing page fue llevada a cabo por **Joaquin Cuentas**.  
+
+Evidencias del repositorio de la landing page
+   ![insights1](img/insights1.png)
+
+
+
+Evidencias del repositorio del informe
+   ![insights2](img/insights2.png)
+
+
+
+Network Graph
+   ![insights3](img/insights3.png)
+
+
+
+Code Frequency
+   ![insights4](img/insights4.png)
+
+
+
+Contribuitors
+   ![insights5](img/insights5.png)
+
+
+
+
+
 ## 5.3. Validation Interviews 
 
 ### 5.3.1. Diseño de entrevistas
