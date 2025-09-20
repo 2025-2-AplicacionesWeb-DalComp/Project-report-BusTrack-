@@ -515,6 +515,32 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### 2.2.2. Registro de entrevistas
 
+### Segmento 2: Empresas de Transporte Urbano
+### Entrevista 3
+**Entrevistado:** Octavio
+
+**Sexo:** Masculino   
+
+**Edad:** 25  
+
+**Resumen de entrevista:** La empresa administra sus unidades con registros en Excel, hojas de ruta y llamadas telefónicas, recibiendo datos básicos sobre tráfico y fallas mecánicas. Destacan como retos la falta de información en tiempo real y el tráfico. Valoran reportes automáticos y control en vivo de buses, aunque ven como barreras el costo y la adaptación de los conductores.
+
+**Link de entrevista:**
+
+
+### Entrevista 4
+**Entrevistado:** Jean Paul Condori
+
+**Sexo:** Masculino   
+
+**Edad:** 40  
+
+**Resumen de entrevista:** La empresa maneja sus unidades a través de grupos de WhatsApp y anotaciones manuales en cuadernos, obteniendo información sobre demoras, congestión vial y controles policiales. El tráfico, los bloqueos y la falta de modernización en los procesos son sus principales desafíos. En BusTrack ven una posibilidad de monitoreo en tiempo real y consideran útiles los informes sobre horarios, rutas y cantidad de pasajeros. Sin embargo, identifican obstáculos relacionados con la confianza y la adaptación a la tecnología.
+
+**Link de entrevista:**
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ### Segmento 1: Pasajeros de Transporte Público
