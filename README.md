@@ -517,6 +517,24 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### 2.2.3. Análisis de entrevistas
 
+### Segmento 1: Pasajeros de Transporte Público
+
+
+### Segmento 2: Empresas de Transporte Urbano
+| **Preguntas** | **Respuestas Generales** |
+|---|---|
+| ¿Cómo gestionan actualmente la ubicación y monitoreo de sus unidades? | No cuentan con un sistema especializado. Asimismo, usan grupos de WhatsApp para conocer la ubicación de los choferes. |
+| ¿Qué herramientas digitales o manuales utilizan para el control de flotas? | Principalmente cuadernos, hojas de ruta y en algunos casos Excel. |
+| ¿Qué información reciben de los conductores y cómo la gestionan? | Reciben retrasos, problemas en el tráfico, incidentes en ruta y fallas mecánicas, que se comunican por mensajes o llamadas y se registran manualmente. |
+| ¿Han usado o considerado alguna aplicación para interactuar con pasajeros? | Actualmente no tienen contacto directo con pasajeros mediante apps. Algunos lo han considerado pero no lo aplican aún. |
+| ¿Cuáles son los mayores retos para mantener la puntualidad y la seguridad de los viajes? | Los mayores retos son el tráfico, bloqueos, obras en las vías y la falta de información en tiempo real. |
+| ¿Qué tipo de datos o reportes serían más valiosos para su gestión diaria (tiempos de llegada, cantidad de pasajeros, retrasos)? | Los horarios de salida y llegada, retrasos por incidentes, ubicación exacta en ruta y cantidad de pasajeros transportados. |
+| ¿Qué funcionalidades de una aplicación como BusTrack les motivarían a adoptarla? | Funciones como monitoreo de los buses en tiempo real, reportes automáticos y alertas de incidencias. |
+| ¿Cómo creen que una plataforma de información en tiempo real podría mejorar la confianza de los pasajeros? | Permitiéndoles planificar mejor sus tiempos al conocer la hora exacta de llegada y salida de los buses. |
+| ¿Qué beneficios esperan obtener al implementar una solución tecnológica (mayor satisfacción, competitividad, reducción de costos)? | Esperan incrementar la satisfacción de los pasajeros, atraer más usuarios, reducir quejas y mejorar el control interno. |
+| ¿Qué barreras ven para adoptar una aplicación digital de gestión de transporte? | Las barreras serían el costo de implementación, la adaptación de choferes y la desconfianza inicial frente a nuevas tecnologías. |
+
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
