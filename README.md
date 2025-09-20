@@ -1382,6 +1382,7 @@ Luego de diseñar nuestro diagrama, implementamos nuestro script para crear la b
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
+
 ## 5.1. Software Configuration Management
 
 A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambios de desarrollo de BusTrack.
@@ -1420,7 +1421,9 @@ Implementación de software
 | Git        | Herramienta de control de versiones que facilita el registro y la gestión de las versiones distintas del programa. | [https://git-scm.com/](https://git-scm.com/) |
 
 
+
 ### 5.1.2. Source Code Management
+
 
 # Flujo de trabajo y control de versiones
 
@@ -1474,7 +1477,9 @@ El equipo seguirá la convención de mensajes de commits definida en **“Conven
 ![gitflow](./img/gitflow.jpg)
 
 
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
 
 # Guía de Estilo de Desarrollo
 
@@ -1492,9 +1497,9 @@ Se utilizarán etiquetas semánticas, identificadores claros y descriptivos para
 
 ## 1. HTML - Estructura básica
 
-"```html
+html
 <!DOCTYPE html>
-<html lang="es">"
+<html lang="es">
 
 # Reglas de Estilo
 
@@ -1521,7 +1526,9 @@ Se utilizarán etiquetas semánticas, identificadores claros y descriptivos para
 - **Props**: Definir tipos y valores por defecto.  
 
 
+
 ### 5.1.4. Software Deployment Configuration
+
 
 # Despliegue en GitHub Pages
 
@@ -1558,15 +1565,98 @@ Se muestra a continuación la landing page desplegada en su primera versión:
 🔗 [Landing Page desplegada](https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/)  
 
 
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
 
+
+# Primer Sprint - Planificación
+
+El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tendrá una duración de **una semana**.  
+
+El enfoque principal será el **desarrollo y despliegue de la landing page** del proyecto en **GitHub Pages**. Para ello, se deberán crear los **diseños previos** como *wireframes* y *mockups*.  
+
+De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
+
+# Sprint 1 - Planning Background
+
+| **Elemento**                       | **Detalle**                                                                                                                                               |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2025/09/06                                                                                                                                                |
+| **Time**                           | 20:00 PM                                                                                                                                                   |
+| **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
+| **Prepared by**                    | Joaquin Alberto Cuentas Peña                                                                                                                               |
+| **Attendees (to planning meeting)**| Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
+| **Sprint n – 1 Review Summary**    | Se diseñarán **wireframes** y se desarrollará la **landing page** en **HTML y CSS** para esta primera versión.                                              |
+| **Sprint n – 1 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
+| **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
+| **Sprint 1 Goal**                  | Diseñar los **wireframes** del proyecto y desarrollar y desplegar la **landing page** funcional en **GitHub Pages**, garantizando que cumpla con los requisitos básicos de diseño. |
+| **Sprint 1 Velocity**              | 5                                                                                                                                                          |
+| **Sum of Story Points**            | 5                                                                                                                                                          |
+
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+
+# Sprint - Desarrollo de la Landing Page de BusTrack
+
+Para el presente sprint, escogimos el desarrollo de la **Landing Page de BusTrack**, que representa un primer contacto entre el usuario y la plataforma.  
+
+Se han identificado los siguientes aspectos clave:
+
+- **Diseño visual de la landing page (wireframes)**
+- **Sección "Quiénes somos"**
+- **Sección "Cómo usar"**
+- **Sección de beneficios**
+- **Despliegue de la landing page**
+
+Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que otros miembros del equipo cumplen roles de **colaboración (C)** para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a **calidad, funcionalidad y tiempo**.
+
+# Asignación de Roles - Sprint Landing Page
+
+| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Diseño visual de la landing page** | **Sección "Quiénes somos"** | **Sección "Cómo usar"** | **Sección de beneficios** | **Despliegue de la landing page** |
+|-----------------------------------------|-----------------------|--------------------------------------|-----------------------------|--------------------------|-----------------------------|------------------------------------|
+| Mathias Andree Cárdenas Huaman          | AndS56                | C                                    | L                           | C                        | C                           | C                                  |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                    | C                           | L                        | C                           | C                                  |
+| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                    | C                           | C                        | L                           | C                                  |
+| Joaquin Alberto Cuentas Peña            | JoaCUPE               | C                                    | C                           | C                        | C                           | L                                  |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | L                                    | C                           | C                        | C                           | C                                  |
+
+
+
 #### 5.2.1.3. Sprint Backlog 1
+
+# Sprint Backlog 1
+
+En esta sección se presenta el **Sprint Backlog 1**, que corresponde al primer ciclo de desarrollo del proyecto.  
+
+Este backlog contiene las **tareas priorizadas y estimadas** que el equipo debe ejecutar para alcanzar el **objetivo principal del sprint**.  
+
+El objetivo principal de este sprint es el **diseño y desarrollo de la landing page de BusTrack**, cuyo propósito es:
+
+- Comunicar de manera clara y atractiva el valor de la web.  
+- Generar confianza en los visitantes.  
+- Explicar el funcionamiento del servicio.  
+- Motivar a los usuarios a registrarse o explorar la plataforma.  
+
+# Sprint Backlog 1 - User Stories y Tareas
+
+| **User Story** | **Title**                    | **Task ID** | **Task Title**                                | **Description**                                            | **Estimation (hours)** | **Assigned to**    | **Status** |
+|----------------|-------------------------------|-------------|-----------------------------------------------|------------------------------------------------------------|-------------------------|--------------------|------------|
+| US13           | Cómo se usa la solución       | T01         | Desarrollar el contenido de buscar ruta        | Se detalla cómo el usuario encontrará una ruta              | 1                       | Fátima Florez      | done       |
+| US13           | Cómo se usa la solución       | T02         | Desarrollar el contenido de recibir alertas    | Se detalla cómo se recibirán alertas                       | 1                       | Diego Avalos       | done       |
+| US13           | Cómo se usa la solución       | T03         | Desarrollar el contenido de viajar más seguro  | Se detalla por qué se viaja más seguro usando la solución   | 1                       | Elizabeth Apaza    | done       |
+| US14           | Beneficios de la aplicación   | T04         | Desarrollar el contenido de información en tiempo real | Se detalla cómo se obtiene el contenido en tiempo real | 1                       | Mathia Cardenas    | done       |
+| US14           | Beneficios de la aplicación   | T05         | Desarrollar el contenido de guardar rutas favoritas | Se detalla cómo se guardan las rutas favoritas         | 1                       | Joaquin Cuentas    | done       |
+| US14           | Beneficios de la aplicación   | T06         | Desarrollar el contenido de alertas y notificaciones | Se detalla cómo funcionan las notificaciones en la aplicación | 1                  | Fátima Florez      | done       |
+| US15           | Misión y visión               | T07         | Desarrollar la misión de la empresa            | Se detalla la misión de la empresa                          | 1                       | Joaquin Cuentas    | done       |
+| US15           | Misión y visión               | T08         | Desarrollar la visión de la empresa            | Se detalla la visión de la empresa                          | 1                       | Diego Avalos       | done       |
+
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
