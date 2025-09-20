@@ -968,6 +968,8 @@ En esta sección se presentan los mockups finales del Landing Page de BusTrack, 
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Mock-up%204%20-%20Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
 
+Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
