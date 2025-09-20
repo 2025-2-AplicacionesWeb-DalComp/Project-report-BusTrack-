@@ -42,6 +42,10 @@
 | TB1 | 8/09 | Fátima Florez | Desarrollo del capitulo 1 del informe |
 | TB1 | 13/09 | Fátima Florez | Desarrollo de los wireframes y mock-up de landing y web page |
 | TB1 | 18/09 | Fátima Florez | Desarrollo de las entrevistas a empresas de transporte urbano y los puntos 4.6, 4.6.1, 4.6.2 y 4.6.3 |
+| TB1 | 15/09 | Joaquin Cuentas | Desarrollo y desplieque de la landing page |
+| TB1 | 18/09 | Joaquin Cuentas | Desarrollo de la capa de datos |
+| TB1 | 20/09 | Joaquin Cuentas | Desarrollo del capítulo 5 |
+
 
 </div>
 
@@ -194,6 +198,13 @@
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Diego Andres Avalos Cordova**<br>Asumí un rol activo en el análisis del proyecto, desarrollando apartados clave como el estudio de competidores (con sus estrategias y SWOT), la síntesis de entrevistas con resultados porcentuales, y los entregables de la User Task Matrix y el User Journey Mapping. Además, compartí constantemente mis avances para orientar al grupo y facilitar la coordinación.<br><br> | **Diego Andres Avalos Cordova**<br>Mi aporte permitió que el equipo contara con insumos claros y organizados para la toma de decisiones, ejerciendo un liderazgo colaborativo en el que apoyé y motivé a mis compañeros mientras impulsábamos el progreso conjunto.<br><br> |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Diego Andres Avalos Cordova**<br>En las reuniones grupales participé en la definición de metas y me encargué de avanzar en secciones críticas como el análisis competitivo, la matriz de tareas de usuario y los mapas de experiencia (User Journey). Siempre socialicé la información procesada para que todos tuvieran una visión compartida y se mantuviera el ritmo de trabajo.<br><br> | **Diego Andres Avalos Cordova**<br>Pude integrarme de manera efectiva con el equipo, aportando resultados en los plazos acordados y ayudando a mantener un ambiente de confianza y organización. Esto contribuyó al logro de los objetivos generales y al fortalecimiento del trabajo colaborativo.<br><br> |
 
+</div>
+<br><br>
+
+| Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Joaquin Alberto Cuentas Peña**<br>Asumí el rol de líder al crear la organización de BusTrack y los repositorios de trabajp.Brindé indicaciones a mi equipo y viscevers acerca del proceso de gitflow para que todos podamos trabajar en github en equipo.<br><br> | **Joaquin Alberto Cuentas Peña**<br>Mi participación permitió que todo el equipo presentara sus avances optimamente. Además las secciones que yo avancé, como la landing page permitieron que otros integrantes avanzaran oprtunamente sus partes.<br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Joaquin Alberto Cuentas Peña**<br> Con mis avances en el capítulo 5, pude brindar recordatorios a mis compañeros para que sus aportaciones aparezcan en las evidencias. Esto permitió, que todo el equipo nos pongamos las pilas para concluir el entregable.<br><br> | **Joaquin Alberto Cuentas Peña**<br>Pude ejercer mi liderazgo colaborativo desde las tareas que me fueron asignadas y estas ayudaron a otros integrantes.<br><br> |
 
 </div>
 <br><br>
@@ -218,7 +229,7 @@ Descripción del producto: BusTrack es una plataforma web que ofrece informació
 | ![Mathias Cardenas](img/developers/mathiasCardenas.png) | Nombre: Mathias Andree Cárdenas Huaman Código: U202316353 Descripción: Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible. |
 | ![Elizabeth Apaza](img/developers/elizabethApaza.png) | Nombre: Elizabeth Noelia Apaza Bocanegra Código: U20231C197 Descripción: Tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal. |
 | ![Fátima Florez](img/developers/fatimaFlorez.png) |  |
-| ![Joaquin Cuentas](img/developers/joaquinCuentas.png) |  |
+| ![Joaquin Cuentas](img/developers/joaquinCuentas.png) | Nombre: Joaquin Alberto Cuentas Peña Código: U20201f788 Descripción: Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el 6to ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en equipo |
 | ![Diego Avalos](https://i.postimg.cc/s27MM80R/Foto-Diego-Avalos.jpg) | Nombre: Diego Andres Ávalos Cordova Código: U202313922 Descripción: Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente curso el sexto ciclo. Me apasiona el campo de la Ciberseguridad y mi objetivo es especializarme en esta área para convertirme en un profesional capaz de aportar soluciones innovadoras en la protección de la información. Tengo conocimientos en C++, JavaScript, HTML y Python, y me encuentro en constante aprendizaje de nuevos lenguajes y tecnologías que fortalezcan mis habilidades técnicas. Además, me interesa participar en proyectos que me permitan crecer tanto a nivel académico como profesional, desarrollando experiencia práctica y aportando valor en el ámbito tecnológico |
 
 
