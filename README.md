@@ -1088,7 +1088,7 @@ En esta sección se detallan los procesos clave del dominio, identificando los s
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Design-Level%20Event%20Storming.png" alt="Design-Level Event Storming" style="width: 900px; margin-right: 900px;"/>
 
-Link del miro: 
+Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 
 ### 4.6.2. Software Architecture Context Diagram
 
