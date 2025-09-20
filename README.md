@@ -1384,13 +1384,179 @@ Luego de diseñar nuestro diagrama, implementamos nuestro script para crear la b
 
 ## 5.1. Software Configuration Management
 
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambios de desarrollo de BusTrack.
+
 ### 5.1.1. Software Development Environment Configuration
+
+Gestión de las necesidades
+| Plataforma | Descripción | Enlace |
+|------------|-------------|--------|
+| Trello | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso (user stories). | [Inicio \| Trello](https://trello.com) |
+| Uxpressia | Herramienta en línea que ayuda en el proceso de mapeo (user personas). | [https://uxpressia.com](https://uxpressia.com) |
+| Canva | Es una aplicación web de diseño y comunicación visual donde los usuarios pueden diseñar lo que deseen y publicarlo. | [https://www.canva.com](https://www.canva.com) |
+| Lucidchart | Sirve como un lienzo visual versátil para representar cualquier tipo de información estructurada o proceso, facilitando la comprensión. | [https://www.lucidchart.com](https://www.lucidchart.com) |
+
+
+Diseño UX/UI
+| Plataforma | Descripción | Enlace |
+|------------|-------------|--------|
+| Figma | Herramienta para el diseño de productos digitales que fomenta la colaboración y agiliza el flujo de trabajo. | [https://www.figma.com](https://www.figma.com) |
+
+
+Desarrollo de software
+| Plataforma           | Descripción                                                                                              | Link |
+|----------------------|----------------------------------------------------------------------------------------------------------|------|
+| HTML                 | Sirve para definir la estructura y el contenido de una página web.                                       | [HTML Tutorial](https://www.w3schools.com/html/) |
+| CSS                  | Se encarga de la presentación visual y el estilo de la página web.                                       | [CSS Tutorial](https://www.w3schools.com/css/) |
+| JS                   | Añade interactividad y dinamismo a la página web.                                                        | [JavaScript Tutorial](https://www.w3schools.com/js/) |
+| Visual Studio Code   | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos. | [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) |
+
+
+Implementación de software
+| Plataforma | Descripción                                                                 | Link |
+|------------|-----------------------------------------------------------------------------|------|
+| GitHub     | Gestión de la documentación en función a repositorios y organizaciones.     | [https://github.com](https://github.com) |
+| Markdown   | Formato base para la presentación y documentación del proyecto.             | [Markdown - La guía definitiva en español](https://markdown.es/) |
+| Git        | Herramienta de control de versiones que facilita el registro y la gestión de las versiones distintas del programa. | [https://git-scm.com/](https://git-scm.com/) |
+
 
 ### 5.1.2. Source Code Management
 
+# Flujo de trabajo y control de versiones
+
+El proyecto sigue el flujo de trabajo **GitFlow** para el control de versiones, utilizando **GitHub** como plataforma de alojamiento y gestión del código. A continuación, se detalla la implementación de este modelo.
+
+---
+
+## Organización en GitHub
+Se creó una organización para el equipo de trabajo:  
+🔗 [Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-)
+
+---
+
+## Repositorios
+- **Repositorio para el informe del trabajo**:  
+  🔗 [Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-)  
+- **Repositorio para la landing page**:  
+  🔗 [Landing-page](https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page)
+
+---
+
+## Ramas principales
+
+- **main (principal):**  
+  Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de **BusTrack**.  
+  Cada release se marca con etiquetas semánticas (ej. `v1.0.0`) o con etiquetas referentes a cada entregable (ej. `TB1`, `TP`, `TB2`, `TF`) para facilitar el rastreo y la aplicación de las actualizaciones.
+
+- **develop (rama de desarrollo):**  
+  Alberga la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas.  
+  También funciona como base para pruebas internas y ajustes previos a su fusión con la rama `main`.  
+
+---
+
+## Ramas de soporte
+
+- **feature/** → ramas para trabajar nuevas funcionalidades.  
+- **release/** → ramas temporales para preparar una nueva versión estable.  
+- **hotfix/** → ramas para corregir errores en producción.  
+
+---
+
+## Convención de mensajes de commits
+
+El equipo seguirá la convención de mensajes de commits definida en **“Conventional Commits”**.  
+
+### Ejemplos:
+- `feat: agregar nuevo sistema de login`  
+- `fix: corregir validación en formulario de registro`  
+- `docs: actualizar README con instrucciones de despliegue`
+
+![gitflow](./img/gitflow.jpg)
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
+# Guía de Estilo de Desarrollo
+
+El equipo adoptará nomenclatura en inglés para todas las variables, funciones, clases y archivos del proyecto, con el objetivo de mantener flexibilidad, escalabilidad y coherencia en el desarrollo.  
+
+**HTML / CSS** se sigue el **Google HTML/CSS Style Guide**.  
+
+Se utilizarán etiquetas semánticas, identificadores claros y descriptivos para accesibilidad y mantenimiento.  
+
+---
+
+## Normas de Estilo
+
+## Normas de Estilo
+
+## 1. HTML - Estructura básica
+
+"```html
+<!DOCTYPE html>
+<html lang="es">"
+
+# Reglas de Estilo
+
+## 1. Reglas Generales
+
+- Todos los elementos deben estar correctamente cerrados (ej: `<img />`, `<div></div>`).  
+- Usar comillas dobles (`" "`) en atributos que contengan espacios.  
+- Incluir atributos esenciales en imágenes.  
+
+---
+
+## 2. CSS - Formato
+
+- Sangría: 2 espacios (sin pestañas).  
+- Minúsculas en selectores, propiedades y valores.  
+- Evitar espacios en blanco innecesarios y líneas vacías redundantes.  
+
+---
+
+## 3. Frontend en Vue.js
+
+## Reglas clave:
+- **Nombres de componentes**: `PascalCase` (Ejemplo: `UserProfile.vue`).  
+- **Props**: Definir tipos y valores por defecto.  
+
+
 ### 5.1.4. Software Deployment Configuration
+
+# Despliegue en GitHub Pages
+
+Hemos seleccionado **GitHub Pages** como plataforma para alojar nuestro sitio web estático.  
+A continuación, se detalla el proceso realizado:
+
+---
+
+## Paso 1. Creación de un repositorio
+- Crear un nuevo repositorio y subir la **landing page** en él.  
+- Asegurarse de que el repositorio sea **público**.  
+
+---
+
+## Paso 2. Actualización de archivos
+- Subir todos los archivos del proyecto (HTML, CSS, JavaScript, etc.).  
+- Verificar que se encuentren en la **última versión de desarrollo**.  
+
+---
+
+## Paso 3. Configuración de GitHub Pages
+1. Dirigirse a la **configuración** del repositorio en GitHub.  
+2. Ir a la sección **Settings**.  
+3. Desplazarse hasta la sección **Pages**.  
+4. En el menú desplegable **Source**, seleccionar la rama `gh-pages` y la carpeta raíz (`/root`) o `docs/` si los archivos están organizados en esa carpeta.  
+
+> Una vez seleccionado, GitHub Pages generará una **URL pública** para acceder al sitio web.  
+
+---
+
+## Paso 4. Verificación del despliegue
+Se muestra a continuación la landing page desplegada en su primera versión:  
+
+🔗 [Landing Page desplegada](https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/)  
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
