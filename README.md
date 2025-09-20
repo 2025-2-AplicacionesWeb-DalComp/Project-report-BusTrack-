@@ -1133,6 +1133,8 @@ En esta sección se muestra cómo se organiza BusTrack en contenedores de alto n
 
 ### 4.6.4. Software Architecture Components Diagrams
 
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Components%20Diagrams.png" alt="Software Architecture Components Diagrams" style="width: 700px; margin-right: 700px;"/>
+
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
