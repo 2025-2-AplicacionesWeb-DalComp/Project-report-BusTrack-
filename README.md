@@ -1688,6 +1688,45 @@ El objetivo principal de este sprint es el **diseño y desarrollo de la landing 
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
+
+En esta sección, se presentan los commits realizados en el repositorio report-BusTrack, correspondiente al entregable de la TB1.
+
+| Repository      | Branch        | Commit Id                              | Commit Message                                                                 | Commit Message Body                                        | Committed on |
+|-----------------|--------------|----------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|--------------|
+| report-BusTrack | release/TB1  | 9be8d1246065a1df0bf31a8a6770ba6675eb18e3 | docs: Evidence insights                                                        | Agregadas evidencias de resultados del sprint              | 12/09        |
+| report-BusTrack | release/TB1  | e4a0086192cec0ffc386ff31c4c1f32d50e8f0fb | docs: Evidence for deploy updated                                              | Actualizadas evidencias del despliegue                     | 15/09        |
+| report-BusTrack | release/TB1  | 1749bd218bd45853bc535dbbd6f7e31559e84fa7 | docs: Product backlog updated                                                  | Backlog actualizado con nuevas historias                   | 16/09        |
+| report-BusTrack | release/TB1  | 0e2b97949cdf82c5627b4d1d0cfc79c069daadf9 | docs: Chapter 5.2 updated until sprint 1                                       | Capítulo 5.2 documentado hasta el sprint 1                 | 18/09        |
+| report-BusTrack | release/TB1  | 0736d75e03942ad4a5718524b782f3c247bf68d4 | docs: databases updated v.2                                                    | Actualización de la base de datos versión 2                | 20/09        |
+| report-BusTrack | release/TB1  | e196437c3add54b353673b18f9537c478124cb43 | Add files via upload                                                           | Archivos agregados mediante carga directa                  | 12/09        |
+| report-BusTrack | release/TB1  | 75c8e13e662df4302b2dac02e3a00e2c61500c06 | Rename Diagrama de Clases.png to classDiagram.png                              | Imagen de diagrama renombrada                              | 15/09        |
+| report-BusTrack | release/TB1  | 0b34d4f3d6acb8bd4df75e2c32734443889e77a6 | docs: database chapter updated. 20/09                                          | Documento del capítulo de base de datos actualizado         | 20/09        |
+| report-BusTrack | release/TB1  | e716344016ce1b0d198c41bb209151e309eee633 | docs: databases image added. 20-09                                             | Imagen de base de datos añadida                            | 20/09        |
+| report-BusTrack | release/TB1  | d855ca194a4421ec94dfdfaafb1e77fedaf4b78b | docs: execution evidence for sprint updated                                    | Evidencia de ejecución del sprint actualizada              | 16/09        |
+| report-BusTrack | release/TB1  | 52955accf8bb9f903e9ff9d44322b8c2330751f3 | docs: Outcome updated                                                          | Resultados del sprint actualizados                         | 18/09        |
+| report-BusTrack | release/TB1  | b65edeaa23abe060b0ceb85ed865f61748186333 | Finalización del 2.4. Y 2.5.                                                   | Conclusión de las secciones 2.4 y 2.5                      | 20/09        |
+| report-BusTrack | release/TB1  | 0d78a35a109f10da341ca847643fc2d9b7ded03e | Rename Organigrama Árbol de Jerarquías Sencillo Colorido Azul.png to Árbol.png | Organigrama renombrado                                     | 12/09        |
+| report-BusTrack | release/TB1  | c58bcb660fb8d69bc77cfbbed85154be6e5cdd74 | Finalización del 4.2.1.                                                         | Se completó la sección 4.2.1                               | 15/09        |
+| report-BusTrack | release/TB1  | c9fa7ba4b39ef3d7832e7fd769aebf1e389fa378 | Finalización del 4.2.                                                          | Se completó la sección 4.2                                 | 16/09        |
+| report-BusTrack | release/TB1  | c58bcb660fb8d69bc77cfbbed85154be6e5cdd74 | Finalización del 4.2.1.                                                         | Documento de la sección 4.2.1 finalizado                   | 18/09        |
+| report-BusTrack | release/TB1  | 0d78a35a109f10da341ca847643fc2d9b7ded03e | Rename Organigrama Árbol de Jerarquías Sencillo Colorido Azul.png to Árbol.png | Imagen de organigrama renombrada                          | 20/09        |
+| report-BusTrack | release/TB1  | 9431c9904b497b877814f475956c5a4c83e43d59 | Fin de la 4.1.1.                                                               | Documento de la sección 4.1.1 finalizado                   | 12/09        |
+| report-BusTrack | release/TB1  | ad60d03c7f831075ed9779c98df86c84176dd420 | Rename Blanco to Blanco.png                                                     | Archivo renombrado a Blanco.png                            | 15/09        |
+| report-BusTrack | release/TB1  | 2894c859105f88930f604649c90b71d12578276e | Rename GrisOscuro to GrisOscuro.png                                            | Archivo renombrado a GrisOscuro.png                        | 16/09        |
+| report-BusTrack | release/TB1  | 1fa4fd6609178b198e5a297e9d35bbd7e34682b5 | Rename VerdeClaro to VerdeClaro.png                                            | Archivo renombrado a VerdeClaro.png                        | 18/09        |
+| report-BusTrack | release/TB1  | 1fa6ba3edacafdb20c69f54adb2268b8ac235566 | Rename VerdePrincipial to VerdePrincipial.png                                  | Archivo renombrado a VerdePrincipial.png                   | 20/09        |
+| report-BusTrack | release/TB1  | 2c15f56e30e449d408e0dfc8f2711cbe2fed2b69 | Rename Captura de pantalla 2025-09-17 152551.png to GrisOscuro                 | Imagen renombrada a GrisOscuro                             | 12/09        |
+| report-BusTrack | release/TB1  | 1e153713c4774680fa04bccb1b99d9d667be58d3 | Rename Captura de pantalla 2025-09-17 152520.png to VerdeClaro                 | Imagen renombrada a VerdeClaro                             | 15/09        |
+| report-BusTrack | release/TB1  | 2c6554d29a1c1797c8273ed522c92b5a9d01abe7 | Rename Captura de pantalla 2025-09-17 152642.png to Blanco                     | Imagen renombrada a Blanco                                 | 16/09        |
+| report-BusTrack | release/TB1  | c2878754db9b3968e619c3bc591c15b9e2dc9273 | Rename Captura de pantalla 2025-09-17 152415.png to VerdePrincipial            | Imagen renombrada a VerdePrincipial                        | 18/09        |
+| report-BusTrack | release/TB1  | 74f5528ee851aba6848cca335ad41db1e764d44b | Actualización del 4.1. Style Guidelines                                        | Estilo actualizado en la sección 4.1                       | 20/09        |
+| report-BusTrack | release/TB1  | a560e07bb811286a693a6a981f3ca521f0c2282f | Terminado el 3.2. User Stories                                                 | Historias de usuario de la sección 3.2 finalizadas         | 12/09        |
+| report-BusTrack | release/TB1  | 3b2ad5bedc27358a10dcb7596f523efa896ebbae | Edición de User Stories                                                        | Modificación de historias de usuario                       | 15/09        |
+| report-BusTrack | release/TB1  | 6f5ad8b546e69836c87c59d90698d855aec7c76a | Avance del To-Be Scenario Mapping                                              | Progreso en el mapeo del escenario To-Be                   | 16/09        |
+
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 # Avances en los Productos Desarrollados  
