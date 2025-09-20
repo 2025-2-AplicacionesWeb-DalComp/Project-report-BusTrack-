@@ -1122,7 +1122,7 @@ Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 - ATU / Flotas de Transporte: Fuente oficial de datos de rutas y buses
 - Servicio de Notificaciones: Permite el envío de alertas en tiempo real a los usuarios
 
-<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Container%20Diagrams.png" alt="Software Architecture Context Diagram" style="width: 700px; margin-right: 700px;"/>
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Context%20Diagram.png" alt="Software Architecture Context Diagram" style="width: 700px; margin-right: 700px;"/>
 
 
 ### 4.6.3. Software Architecture Container Diagrams
