@@ -1528,13 +1528,13 @@ Se utilizarán etiquetas semánticas, identificadores claros y descriptivos para
 
 ## Normas de Estilo
 
-## Normas de Estilo
-
 ## 1. HTML - Estructura básica
 
-html
+```html
 <!DOCTYPE html>
 <html lang="es">
+``` 
+
 
 # Reglas de Estilo
 
