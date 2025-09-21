@@ -1098,6 +1098,8 @@ Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20User%20Flow%20Diagrams.png" alt="Web Applications User Flow Diagrams" style="width: 700px; margin-right: 700px;"/>
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
