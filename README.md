@@ -804,11 +804,16 @@ El mapa de impactos busca conectar la visión del sistema mejorar la experiencia
 
 ### 4.1.1. General Style Guidelines
 
-Las directrices generales de estilo de BusTrack se definen a partir de la identidad visual reflejada en la landing page desarrollada. El objetivo es asegurar coherencia, legibilidad y accesibilidad en todas las plataformas.
+- Branding
+  Las directrices generales de estilo de BusTrack se definen a partir de la identidad visual reflejada en la landing page desarrollada. El objetivo es asegurar coherencia, legibilidad y accesibilidad en todas las plataformas. Está representado por un logo que combina un ícono de bus y un marcador de ubicación, acompañado por el nombre de la marca en tipografía sans-serif bold. Este diseño transmite movilidad, confianza y simplicidad.<br>
+  <h3 align="center"><img src="img/commons/BusTrackLogo.jpg" alt="Logo" width="200" height="200"><h3 align="center">
 
 - Paleta de colores
+  La paleta refuerza valores de sostenibilidad, frescura y accesibilidad.<br>
+  <br>
   * Verde principal (#4D7B2D aprox.): utilizado en encabezados, títulos, botones y barra de navegación. Representa sostenibilidad, confianza y movilidad.<br>
     ![Verde Principal](img/commons/VerdePrincipial.png)
+    
   * Verde claro (#EAF4E0 aprox.): empleado en fondos de secciones secundarias (Beneficios, Misión, Visión). Aporta frescura y ligereza.<br>
     ![Verde Claro](img/commons/VerdeClaro.png)
   * Blanco (#FFFFFF): color de fondo predominante para dar limpieza y contraste.<br>
@@ -817,16 +822,19 @@ Las directrices generales de estilo de BusTrack se definen a partir de la identi
     ![Gris Oscuro](img/commons/GrisOscuro.png)
 
 - Tipografía
-  * Tipografía principal: Georgia, empleada en títulos y subtítulos, transmitiendo seriedad y profesionalismo.<br
-    <img src="img/commons/Georgia.jpg" alt="Georgia" width="300" height="300">
-  * Tipografía secundaria: Sans-serif (ej. Arial/Helvetica), usada en párrafos y descripciones, asegurando claridad en la lectura.<br>
-    <img src="img/commons/helvetica.jpg" alt="Helvetica" width="300" height="400">
-  * Jerarquía de uso:
-    - H1: títulos principales (~36px, serif, negrita).
-    - H2: subtítulos de secciones (~28px, serif, semibold).
-    - H3: destacados en tarjetas o bloques (~20–22px).
-    - Texto base: párrafos (~16px, sans-serif regular).
+  * Tipografía sans-serif bold, Montserrat Bold. La combinación busca transmitir modernidad, claridad y confianza, manteniendo legibilidad en distintos tamaños y dispositivos.<br>
+  <img src="img/commons/Montserrat.webp" alt="Tipografia" width="400" height="700">
 
+- Spacing
+  * Alrededor del logo: dejar un margen libre equivalente al alto de la letra B de “BusTrack”.
+
+  * Botones: padding interno mínimo de 12–16px para asegurar comodidad en la interacción.
+
+  * Textos: interlineado de 1.5 para mejorar la lectura en pantallas.
+
+  * Secciones web: separar bloques de contenido con márgenes verticales de 48–64px para evitar saturación visual y garantizar orden.
+
+<br>  
 ### 4.1.2. Web Style Guidelines
 
 Las directrices específicas para la versión web de BusTrack buscan garantizar consistencia visual, accesibilidad y adaptabilidad en distintos dispositivos.
