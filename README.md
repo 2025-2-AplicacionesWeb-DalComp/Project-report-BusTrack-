@@ -1852,6 +1852,16 @@ La **implementación y despliegue** de la landing page fue llevada a cabo por **
 # Conclusiones
 
 ## Conclusiones y recomendaciones
+Durante el desarrollo de la plataforma, se logró entender en profundidad a los dos públicos principales: **estudiantes o trabajadores**, y **operadores y administradores de flota**. Esto permitió diseñar una solución centrada en sus necesidades reales, como la búsqueda eficiente de rutas, la validación de información, la comunicación directa y la gestión segura de datos.
+
+A diferencia de otras alternativas, la aplicación destaca por su **enfoque local** y su **propuesta integral**, que va más allá de la simple consulta de rutas al integrar funciones que generan confianza, seguridad y facilidad de uso.
+
+Las **entrevistas con usuarios** y las **pruebas de usabilidad** fueron fundamentales para identificar mejoras en la interfaz y los flujos. Gracias a ello, se están realizando ajustes para optimizar la navegación, mejorar el contraste visual y asegurar una **experiencia intuitiva**.
+
+El uso de **metodologías ágiles** y de **Domain-Driven Design (DDD)** ha facilitado la evolución del producto, organizándolo en módulos clave como **rutas, gestión de paradas y seguimiento en vivo**, lo que mejora su escalabilidad y mantenimiento.
+
+En conjunto, la plataforma no solo busca **facilitar el traslado seguro y eficiente de estudiantes o trabajadores**, sino también **optimizar la gestión operativa de los operadores y administradores de flota** mediante herramientas digitales prácticas y confiables.
+
 
 <br><br>
 
