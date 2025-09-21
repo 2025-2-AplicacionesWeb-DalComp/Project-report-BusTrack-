@@ -45,6 +45,8 @@
 | TB1 | 15/09 | Joaquin Cuentas | Desarrollo y desplieque de la landing page |
 | TB1 | 18/09 | Joaquin Cuentas | Desarrollo de la capa de datos |
 | TB1 | 20/09 | Joaquin Cuentas | Desarrollo del capítulo 5 |
+| TB1 | 18/09 | Diego Andres | Desarrolo del capitulo 1 |
+| TB1 | 18/09 | Diego Andres | Desarrolo de los puntos 2.3.2 2.3.3 |
 
 
 </div>
