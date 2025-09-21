@@ -1839,15 +1839,6 @@ La **implementación y despliegue** de la landing page fue llevada a cabo por **
 
 
 
-
-## 5.3. Validation Interviews 
-
-### 5.3.1. Diseño de entrevistas
-### 5.3.2. Registro de entrevistas
-### 5.3.3. Evaluaciones según heurísticas
-
-## 5.4. Video About-The-Product
-
 <br><br>
 
 # Conclusiones
