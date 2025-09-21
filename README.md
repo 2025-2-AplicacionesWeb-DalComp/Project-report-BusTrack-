@@ -1873,3 +1873,21 @@ Gob.pe. (2024, mayo 31). _Mayoría de usuarios en Lima y Callao se movilizan en 
 <br><br>
 
 # Anexos
+## Anexos  
+
+- **URL de la organización del proyecto**  
+  [https://github.com/2025-2-AplicacionesWeb-DalComp](https://github.com/2025-2-AplicacionesWeb-DalComp)  
+
+- **URL del repositorio del reporte**  
+  [https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-)  
+
+- **URL del repositorio de la landing page**  
+  [https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page](https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page)  
+
+- **URL del figma wireframes**  
+  [https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/Untitled?node-id=0-1&t=drwWMkwR0WqztaeY-1](https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/Untitled?node-id=0-1&t=drwWMkwR0WqztaeY-1)  
+
+- **URL del despliegue**  
+  [https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/](https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/)  
+
+
