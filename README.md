@@ -1866,6 +1866,9 @@ En conjunto, la plataforma no solo busca **facilitar el traslado seguro y eficie
 <br><br>
 
 # Bibliografía
+Comexperu. (2024, abril 19). _Transporte público en Lima en riesgo de empeorar (aun) más._ https://www.comexperu.org.pe/articulo/transporte-publico-en-lima-en-riesgo-de-empeorar-aun-mas
+
+Gob.pe. (2024, mayo 31). _Mayoría de usuarios en Lima y Callao se movilizan en 507 rutas autorizadas de transporte público convencional._ https://www.gob.pe/institucion/atu/noticias/964208-mayoria-de-usuarios-en-lima-y-callao-se-movilizan-en-507-rutas-autorizadas-de-transporte-publico-convencional 
 
 <br><br>
 
