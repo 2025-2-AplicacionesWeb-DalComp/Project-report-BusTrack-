@@ -544,6 +544,33 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### 2.2.2. Registro de entrevistas
 
+### Segmento 1: Pasajeros de Transporte Público (Estudiantes y Trabajadores)  
+
+### Entrevista 1  
+**Entrevistado:** Mariana Rafael  
+
+**Sexo:** Femenino  
+
+**Edad:** 20  
+
+**Resumen de entrevista:** Utiliza con frecuencia corredores de la ATU y el Metropolitano, y sus principales preocupaciones al viajar son la inseguridad y los desvíos inesperados. Considera esencial contar con información en tiempo real y notificaciones actualizadas para optimizar su tiempo y mejorar la confiabilidad del transporte público.  
+
+**Link de entrevista:** [https://youtu.be/fcO25GbbaRY](https://youtu.be/fcO25GbbaRY)  
+
+---
+
+### Entrevista 2  
+**Entrevistado:** Alessandro Bravo  
+
+**Sexo:** Masculino  
+
+**Edad:** 20  
+
+**Resumen de entrevista:** Utiliza a diario buses y combis para trasladarse desde San Martín de Porres, siendo el tiempo de espera y la inseguridad sus principales preocupaciones. Planifica sus viajes investigando rutas, precios y duración, y usa aplicaciones como Moovit, aunque señala que a veces no están actualizadas. Considera muy importante recibir información en tiempo real sobre ubicación, retrasos, precios y desvíos, además de notificaciones confiables que le permitan optimizar sus traslados y reducir riesgos.  
+
+**Link de entrevista:** [https://www.youtube.com/watch?v=5rFwJUM-JS4](https://www.youtube.com/watch?v=5rFwJUM-JS4)  
+
+
 ### Segmento 2: Empresas de Transporte Urbano
 ### Entrevista 3
 **Entrevistado:** Octavio
@@ -572,7 +599,21 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### 2.2.3. Análisis de entrevistas
 
-### Segmento 1: Pasajeros de Transporte Público
+### Segmento 1: Pasajeros de Transporte Público (Estudiantes y Trabajadores)  
+
+| **Preguntas** | **Respuestas Generales** |
+|---|---|
+| ¿Qué medio de transporte público usas con más frecuencia (bus, coaster, combi, Metropolitano, Metro)? | Los más usados son buses, combis, corredores de la ATU y el Metropolitano. |
+| ¿Qué es lo que más te preocupa cuando viajas en transporte público? | La inseguridad (robos) y los desvíos inesperados de ruta. |
+| ¿Cómo planificas actualmente tus viajes? | Revisan rutas y paraderos en el celular, usando apps como “Tu Ruta” o Moovit. También consideran tiempo y costo del pasaje. |
+| ¿Has usado alguna aplicación para movilizarte en la ciudad (Waze, Google Maps, Moovit, etc.)? ¿Cómo fue tu experiencia? | Sí, usan Moovit o apps similares, pero a veces las rutas no están actualizadas, lo que genera confusión y pérdida de tiempo. |
+| ¿Qué importancia le das a recibir información en tiempo real sobre la llegada de buses? | Se considera muy importante, ya que permite organizar mejor el tiempo y evitar esperas innecesarias. |
+| Miedos, expectativas y canales | Miedos: inseguridad y robos. Expectativas: mayor confiabilidad y precisión de la información. Canales: apps móviles y notificaciones en tiempo real. |
+| ¿Qué problemas enfrentas con mayor frecuencia en tus traslados (tiempo de espera, congestión, inseguridad, falta de información)? | Largas esperas sin saber dónde está el bus, congestión vehicular e inseguridad durante los trayectos. |
+| ¿Qué haría que confíes en una aplicación como BusTrack para planificar tus viajes? | Que la información esté actualizada y verificada, con datos en tiempo real de ubicación, precios y posibles desvíos. |
+| ¿Te gustaría recibir notificaciones sobre la llegada del bus, retrasos o desvíos de ruta? | Sí, sería de gran utilidad para anticipar cambios y optimizar el tiempo de viaje. |
+| ¿Qué redes sociales o aplicaciones móviles usas más para informarte en tu día a día? | Principalmente TikTok, Instagram, Twitter (X) y canales de noticias. |
+| ¿Cómo medirías que una aplicación realmente mejora tu experiencia de viaje? | En la práctica, comprobando que reduce tiempos de espera, brinda información confiable y hace el viaje más seguro y eficiente. |
 
 
 ### Segmento 2: Empresas de Transporte Urbano
@@ -588,7 +629,6 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | ¿Cómo creen que una plataforma de información en tiempo real podría mejorar la confianza de los pasajeros? | Permitiéndoles planificar mejor sus tiempos al conocer la hora exacta de llegada y salida de los buses. |
 | ¿Qué beneficios esperan obtener al implementar una solución tecnológica (mayor satisfacción, competitividad, reducción de costos)? | Esperan incrementar la satisfacción de los pasajeros, atraer más usuarios, reducir quejas y mejorar el control interno. |
 | ¿Qué barreras ven para adoptar una aplicación digital de gestión de transporte? | Las barreras serían el costo de implementación, la adaptación de choferes y la desconfianza inicial frente a nuevas tecnologías. |
-
 
 ## 2.3. Needfinding
 
