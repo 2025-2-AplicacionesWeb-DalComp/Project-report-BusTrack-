@@ -48,7 +48,9 @@
 | TB1 | 16/09 | Diego Andres | Desarrolo del capitulo 1 |
 | TB1 | 16/09 | Diego Andres | Desarrolo de los puntos 2.3.2 y 2.3.3 |
 | TB1 | 09/09 | Diego Avalos | Desarrollo de los competidores y analisis de entrevistas |
-
+| TB1 | 12/09 | Elizabeth Apaza | Desarrollo de 1.2.2.1, 1.2.2.2 y 1.2.2.3 |
+| TB1 | 14/09 | Elizabeth Apaza | Avance en 2.2.1, 2.2.2 y 2.3.1 |
+| TB1 | 19/09 | Elizabeth Apaza | Desarrollo de 2.3.4, 4.7.1 y 4.7.2 |
 
 </div>
 
@@ -523,54 +525,49 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### Segmento 1: Pasajeros de Transporte Público (Estudiantes y Trabajadores)  
 
-### Entrevista 1  
-**Entrevistado:** Mariana Rafael  
+### Entrevista 1 
 
-**Sexo:** Femenino  
+| **Entrevistado:** Mariana Rafael |
+|--------|
+| **Sexo:** Femenino |
+| **Edad:** 20 |
+| **Link de entrevista:** [https://youtu.be/fcO25GbbaRY](https://youtu.be/fcO25GbbaRY) |
+| **Resumen de entrevista:** Utiliza con frecuencia corredores de la ATU y el Metropolitano, y sus principales preocupaciones al viajar son la inseguridad y los desvíos inesperados. Considera esencial contar con información en tiempo real y notificaciones actualizadas para optimizar su tiempo y mejorar la confiabilidad del transporte público.  |
 
-**Edad:** 20  
-
-**Resumen de entrevista:** Utiliza con frecuencia corredores de la ATU y el Metropolitano, y sus principales preocupaciones al viajar son la inseguridad y los desvíos inesperados. Considera esencial contar con información en tiempo real y notificaciones actualizadas para optimizar su tiempo y mejorar la confiabilidad del transporte público.  
-
-**Link de entrevista:** [https://youtu.be/fcO25GbbaRY](https://youtu.be/fcO25GbbaRY)  
 
 ---
 
 ### Entrevista 2  
-**Entrevistado:** Alessandro Bravo  
 
-**Sexo:** Masculino  
-
-**Edad:** 20  
-
-**Resumen de entrevista:** Utiliza a diario buses y combis para trasladarse desde San Martín de Porres, siendo el tiempo de espera y la inseguridad sus principales preocupaciones. Planifica sus viajes investigando rutas, precios y duración, y usa aplicaciones como Moovit, aunque señala que a veces no están actualizadas. Considera muy importante recibir información en tiempo real sobre ubicación, retrasos, precios y desvíos, además de notificaciones confiables que le permitan optimizar sus traslados y reducir riesgos.  
-
-**Link de entrevista:** [https://www.youtube.com/watch?v=5rFwJUM-JS4](https://www.youtube.com/watch?v=5rFwJUM-JS4)  
+| **Entrevistado:** Alessandro Bravo |
+|-----------|
+| **Sexo:** Masculino |
+| **Edad:** 20 |
+| **Link de entrevista:** [https://www.youtube.com/watch?v=5rFwJUM-JS4](https://www.youtube.com/watch?v=5rFwJUM-JS4) | 
+| **Resumen de entrevista:** Utiliza a diario buses y combis para trasladarse desde San Martín de Porres, siendo el tiempo de espera y la inseguridad sus principales preocupaciones. Planifica sus viajes investigando rutas, precios y duración, y usa aplicaciones como Moovit, aunque señala que a veces no están actualizadas. Considera muy importante recibir información en tiempo real sobre ubicación, retrasos, precios y desvíos, además de notificaciones confiables que le permitan optimizar sus traslados y reducir riesgos. |
+ 
 
 
 ### Segmento 2: Empresas de Transporte Urbano
 ### Entrevista 3
-**Entrevistado:** Octavio
+| **Entrevistado:** Octavio |
+|-----------|
+| **Sexo:** Masculino |
+| **Edad:** 25 |
+| **Link de entrevista:** https://drive.google.com/file/d/1PqT82exPvO7dkZ61Fa_CRw0skRksIkAb/ |
+| **Resumen de entrevista:** La empresa administra sus unidades con registros en Excel, hojas de ruta y llamadas telefónicas, recibiendo datos básicos sobre tráfico y fallas mecánicas. Destacan como retos la falta de información en tiempo real y el tráfico. Valoran reportes automáticos y control en vivo de buses, aunque ven como barreras el costo y la adaptación de los conductores. |
 
-**Sexo:** Masculino   
-
-**Edad:** 25  
-
-**Resumen de entrevista:** La empresa administra sus unidades con registros en Excel, hojas de ruta y llamadas telefónicas, recibiendo datos básicos sobre tráfico y fallas mecánicas. Destacan como retos la falta de información en tiempo real y el tráfico. Valoran reportes automáticos y control en vivo de buses, aunque ven como barreras el costo y la adaptación de los conductores.
-
-**Link de entrevista:** https://drive.google.com/file/d/1PqT82exPvO7dkZ61Fa_CRw0skRksIkAb/
 
 
 ### Entrevista 4
-**Entrevistado:** Jean Paul Condori
 
-**Sexo:** Masculino   
+| **Entrevistado:** Jean Paul Condori |
+|-----------|
+| **Sexo:** Masculino |
+| **Edad:** 40 |
+| **Link de entrevista:** https://drive.google.com/file/d/1Uefn8y3-nF-yh4fCzbMGzqDCZm3p694Q/ |
+| **Resumen de entrevista:** La empresa maneja sus unidades a través de grupos de WhatsApp y anotaciones manuales en cuadernos, obteniendo información sobre demoras, congestión vial y controles policiales. El tráfico, los bloqueos y la falta de modernización en los procesos son sus principales desafíos. En BusTrack ven una posibilidad de monitoreo en tiempo real y consideran útiles los informes sobre horarios, rutas y cantidad de pasajeros. Sin embargo, identifican obstáculos relacionados con la confianza y la adaptación a la tecnología. |
 
-**Edad:** 40  
-
-**Resumen de entrevista:** La empresa maneja sus unidades a través de grupos de WhatsApp y anotaciones manuales en cuadernos, obteniendo información sobre demoras, congestión vial y controles policiales. El tráfico, los bloqueos y la falta de modernización en los procesos son sus principales desafíos. En BusTrack ven una posibilidad de monitoreo en tiempo real y consideran útiles los informes sobre horarios, rutas y cantidad de pasajeros. Sin embargo, identifican obstáculos relacionados con la confianza y la adaptación a la tecnología.
-
-**Link de entrevista:** https://drive.google.com/file/d/1Uefn8y3-nF-yh4fCzbMGzqDCZm3p694Q/
 
 
 
