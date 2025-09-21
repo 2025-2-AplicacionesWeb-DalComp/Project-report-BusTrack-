@@ -1106,6 +1106,9 @@ Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20User%20Flow%20Diagrams.png" alt="Web Applications User Flow Diagrams" style="width: 700px; margin-right: 700px;"/>
 
 ## 4.5. Web Applications Prototyping
+En esta sección se simula la navegación e interacción del usuario con la plataforma. Los diseños reflejan los flujos definidos en los User Flow Diagrams, priorizando la claridad, la usabilidad y la consistencia visual.
+
+<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Prototyping.png" alt="Web Applications Prototyping" style="width: 700px; margin-right: 700px;"/>
 
 Link del video: https://drive.google.com/file/d/1jQzmb0z41K3b1MGZBZUukn5p4k0_au6g/
 
