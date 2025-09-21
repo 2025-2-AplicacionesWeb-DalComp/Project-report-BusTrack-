@@ -207,6 +207,15 @@
 </div>
 <br><br>
 
+| Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Elizabeth Noelia Apaza Bocanegra**<br>Contribuí a la fase de análisis y diseño centrado en el usuario mediante el **Lean UX Process** (Problem Statements, Assumptions, Hypothesis, Lean UX Canvas), la definición de **segmentos objetivo** y el diseño y registro de **entrevistas**. Además, elaboré **User Personas** y **Empathy Maps**, que guiaron al equipo en la comprensión de los usuarios.<br><br> | **Elizabeth Noelia Apaza Bocanegra**<br>Mi participación fortaleció el enfoque centrado en el usuario y facilitó la toma de decisiones dentro del equipo, ejerciendo un liderazgo compartido que contribuyó a orientar el proyecto.<br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Elizabeth Noelia Apaza Bocanegra**<br>Compartí los resultados del análisis de usuarios con mis compañeros y colaboré en el **Software Object-Oriented Design**, elaborando los **diagramas de clases (4.7.1)** y el **diccionario de clases (4.7.2)**. Estos aportes permitieron una mejor coordinación y base técnica para avanzar en conjunto.<br><br> | **Elizabeth Noelia Apaza Bocanegra**<br>Pude integrarme de manera organizada y colaborativa, aportando tanto en la perspectiva de los usuarios como en el diseño técnico. Esto permitió cumplir las metas del equipo y mantener un entorno de trabajo inclusivo y alineado.<br><br> |
+
+</div>
+<br><br>
+
+
 ## Capítulo I: Introducción
 
 ## 1.1. StartUp Profile
