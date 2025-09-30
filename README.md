@@ -659,6 +659,8 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### 2.3.2. User Task Matrix
 
+## Segmento Objetivo 1: Pasajeros de Transporte Público
+
 | Tarea / Funcionalidad                | Estudiante | Trabajador | Adulto mayor | Turista |
 |--------------------------------------|------------|------------|--------------|---------|
 | Consultar rutas y horarios           | Alta       | Alta       | Alta         | Alta    |
@@ -671,6 +673,23 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | Administración de datos (rol admin)  | Baja       | Baja       | Baja         | Baja    |
 
 En el User Task Matrix pudimos ver que cada grupo de usuarios tiene prioridades distintas: estudiantes y trabajadores buscan sobre todo rapidez e información en tiempo real; los adultos mayores se enfocan más en la seguridad y paraderos cercanos; y los turistas necesitan rutas claras hacia lugares de interés. Aunque las tareas administrativas no se notan directamente, son clave para mantener la información confiable. En general, BusTrack debe centrarse en ofrecer datos precisos, opciones personalizadas y una experiencia segura para todos.
+
+
+## Segmento Objetivo 2: Empresas de Transporte Urbano
+
+| Tarea / Funcionalidad                | Administrador de Flota | Supervisor de Rutas | Propietario |
+|--------------------------------------|------------|------------|--------------|
+| Monitorear buses en tiempo real      | Alta       | Alta       | Media        |
+| Generar reportes automáticos         | Alta       | Media      | Alta         |
+| Gestionar incidencias y alertas en ruta  | Alta       | Alta       | Media        |
+| Comunicar cambios de ruta a choferes | Alta       | Alta       | Baja         |
+| Analizar costos operativos y optimizarlos      | Media      | Baja      | Alta       |
+| Mejorar puntualidad y satisfacción del pasajero   | Alta      | Alta      | Alta     |
+| Planificar mantenimiento preventivo de buses | Media    | Alta       | Media         |
+| Decidir adopción de nuevas tecnologías  | Media       | Baja       | Alta         |
+| Administrar permisos y accesos en la plataforma  | Alta     | Media     | Baja       |
+
+
 
 ### 2.3.3. User Journey Mapping
 
