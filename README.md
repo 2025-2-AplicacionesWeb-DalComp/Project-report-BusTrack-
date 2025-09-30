@@ -614,6 +614,8 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ## Segmento Objetivo 1: Pasajeros de Transporte Público
 
+## Estudiante universitario
+
 | **Atributo**     | **Valor** |
 |------------------|-----------|
 | **Name**         | Manuel Suarez |
@@ -628,10 +630,34 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Motivations**  | Incentive: 80/100<br>Fear: 70/100<br>Achievement: 75/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
 | **Goals**        | - Planificar viajes con menor incertidumbre para llegar a la universidad.<br>- Ahorrar tiempo en traslados.<br>- Sentirse más seguro en sus trayectos diarios. |
 | **Frustrations** | - No saber cuándo pasará el bus.<br>- Pérdida de tiempo en paraderos inseguros.<br>- Información poco confiable en apps genéricas. |
-| **Biography**    | Manuel s estudiante universitario y depende del transporte público todos los días para llegar a clases. Usa entre 2 y 3 buses diarios y planifica sus viajes con apps como Moovit o TuRuta, aunque se siente frustrado porque muchas veces no tienen datos actualizados. Sus principales miedos son los robos en el trayecto y perder tiempo esperando en paraderos inseguros. Busca una solución que le dé confianza, precisión en horarios y alertas en tiempo real para organizar mejor su día. |
+| **Biography**    | Manuel es estudiante universitario y depende del transporte público todos los días para llegar a clases. Usa entre 2 y 3 buses diarios y planifica sus viajes con apps como Moovit o TuRuta, aunque se siente frustrado porque muchas veces no tienen datos actualizados. Sus principales miedos son los robos en el trayecto y perder tiempo esperando en paraderos inseguros. Busca una solución que le dé confianza, precisión en horarios y alertas en tiempo real para organizar mejor su día. |
 | **Personality**  | Extrovert: 60/100<br>Thinking: 80/100<br>Judging: 70/100 |
 | **Technology**   | IT and Internet: 85/100<br>Software: 70/100<br>Mobile Apps: 90/100<br>Social Networks: 95/100 |
 | **Brands**       | WhatsApp, Google Maps, TikTok, Noovit, TuRuta |
+
+---
+
+
+## Trabajador
+
+| **Atributo**     | **Valor** |
+|------------------|-----------|
+| **Name**         | Alejandro Medina |
+| **Age**          | 32 años |
+| **Occupation**   | Empleado administrativo |
+| **Status**       | Soltero |
+| **Location**     | Lima, Perú |
+| **Tier**         | Pasajero frecuente |
+| **Archetype**    | Viajero Organizado |
+| **Image**        | ![Alejandro Medina](img/commons/alejandroMedina.jpg) |
+| **Quote**        | "Necesito que el transporte sea puntual porque llegar tarde al trabajo no es una opción." |
+| **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 85/100<br>Growth: 65/100<br>Power: 50/100<br>Social: 70/100 |
+| **Goals**        | - Llegar puntual a su trabajo todos los días.<br>- Optimizar el tiempo de traslado para pasar más tiempo con su familia.<br>- Usar apps confiables que le den datos actualizados sobre buses y tráfico. |
+| **Frustrations** | - Largas esperas sin información sobre la llegada del bus.<br>- Inseguridad en paraderos y combis.<br>- Aplicaciones desactualizadas que generan pérdida de tiempo. |
+| **Biography**    | Alejandro viaja más de dos horas diarias en transporte público para llegar a su oficina. Ha probado aplicaciones como Moovit, pero muchas veces no reflejan la realidad del tráfico limeño ni los desvíos de ruta. Esto le genera estrés porque puede llegar tarde al trabajo. Está dispuesto a usar una plataforma que le brinde confianza, puntualidad y alertas útiles para organizar su rutina diaria. |
+| **Personality**  | Extrovert: 55/100<br>Thinking: 85/100<br>Judging: 70/100 |
+| **Technology**   | IT and Internet: 85/100<br>Software: 65/100<br>Mobile Apps: 80/100<br>Social Networks: 85/100 |
+| **Brands**       | WhatsApp, Moovit, Facebook, TikTok |
 
 ---
 
