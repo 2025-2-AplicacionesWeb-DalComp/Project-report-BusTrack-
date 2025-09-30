@@ -663,6 +663,8 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ## Segmento Objetivo 2: Empresas de Transporte Urbano
 
+##  Administrador de flota
+
 | **Atributo**     | **Valor** |
 |------------------|-----------|
 | **Name**         | Luis Palacios |
@@ -681,6 +683,32 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Personality**  | Extrovert: 65/100<br>Thinking: 85/100<br>Judging: 70/100 |
 | **Technology**   | IT and Internet: 75/100<br>Software: 60/100<br>Mobile Apps: 65/100<br>Social Networks: 60/100 |
 | **Brands**       | WhatsApp, Excel, Facebook |
+
+---
+
+##  Supervisor de Rutas
+
+| **Atributo**     | **Valor** |
+|------------------|-----------|
+| **Name**         | José Ramírez |
+| **Age**          | 40 años |
+| **Occupation**   | Supervisor de rutas en empresa de transporte urbano |
+| **Status**       | Casado |
+| **Location**     | Lima, Perú |
+| **Tier**         | Empresa de transporte urbano |
+| **Archetype**    | Supervisor Operativo |
+| **Image**        | ![José Ramírez](img/commons/joseRamirez.jpg) |
+| **Quote**        | "Lo más difícil es coordinar con los choferes en medio del tráfico y asegurar que los buses lleguen a tiempo." |
+| **Motivations**  | Incentive: 70/100<br>Fear: 60/100<br>Achievement: 80/100<br>Growth: 60/100<br>Power: 65/100<br>Social: 70/100 |
+| **Goals**        | - Coordinar eficientemente la operación diaria de las rutas.<br>- Anticipar problemas como desvíos o retrasos.<br>- Garantizar que los pasajeros perciban puntualidad y seguridad. |
+| **Frustrations** | - Depender de WhatsApp y llamadas para coordinar con choferes.<br>- Falta de información en tiempo real que dificulta la toma de decisiones.<br>- Dificultad para estandarizar reportes de incidencias. |
+| **Biography**    | José se encarga de supervisar varias rutas en simultáneo. Usa cuadernos, hojas de ruta y grupos de WhatsApp para mantenerse informado, pero muchas veces la información llega tarde o incompleta. Esto genera reclamos de pasajeros y presión sobre su trabajo. Está interesado en una herramienta que le permita reaccionar más rápido ante incidentes, mejorar la coordinación y reducir errores. |
+| **Personality**  | Extrovert: 65/100<br>Thinking: 75/100<br>Judging: 80/100 |
+| **Technology**   | IT and Internet: 65/100<br>Software: 50/100<br>Mobile Apps: 75/100<br>Social Networks: 60/100 |
+| **Brands**       | WhatsApp, Excel, Facebook |
+
+---
+
 
 
 ### 2.3.2. User Task Matrix
