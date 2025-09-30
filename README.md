@@ -533,7 +533,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Edad:** 20 |
 | **Ocupación:** Estudiante universitario |
 | **Link de entrevista:** [https://youtu.be/fcO25GbbaRY](https://youtu.be/fcO25GbbaRY) |
-| **Resumen de entrevista:** Utiliza con frecuencia corredores de la ATU y el Metropolitano, y sus principales preocupaciones al viajar son la inseguridad y los desvíos inesperados. Considera esencial contar con información en tiempo real y notificaciones actualizadas para optimizar su tiempo y mejorar la confiabilidad del transporte público.  |
+| **Resumen de entrevista:** El entrevistado utiliza principalmente corredores de la ATU y el Metropolitano para ir a la universidad o salir con amigos. Sus principales preocupaciones son la inseguridad y los desvíos inesperados, además de los costos para acceder al bus. Considera esencial contar con información en tiempo real y notificaciones confiables, lo que le permitiría optimizar su tiempo y aumentar la confianza en el transporte público. |
 
 
 ---
@@ -546,7 +546,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Edad:** 20 |
 | **Ocupación:** Estudiante universitario |
 | **Link de entrevista:** [https://www.youtube.com/watch?v=5rFwJUM-JS4](https://www.youtube.com/watch?v=5rFwJUM-JS4) | 
-| **Resumen de entrevista:** Utiliza a diario buses y combis para trasladarse desde San Martín de Porres, siendo el tiempo de espera y la inseguridad sus principales preocupaciones. Planifica sus viajes investigando rutas, precios y duración, y usa aplicaciones como Moovit, aunque señala que a veces no están actualizadas. Considera muy importante recibir información en tiempo real sobre ubicación, retrasos, precios y desvíos, además de notificaciones confiables que le permitan optimizar sus traslados y reducir riesgos. |
+| **Resumen de entrevista:** El entrevistado viaja diariamente en buses y combis, tomando hasta tres por día desde San Martín de Porres. Sus principales preocupaciones son el tiempo de espera, la inseguridad y la falta de información confiable. Usa aplicaciones como Moovit, aunque critica que no siempre están actualizadas. Valora recibir notificaciones en tiempo real sobre ubicación, desvíos y precios para llegar a tiempo a sus clases y optimizar sus traslados. |
  
 
 
