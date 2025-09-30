@@ -531,6 +531,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 |--------|
 | **Sexo:** Femenino |
 | **Edad:** 20 |
+| **Ocupación:** Estudiante universitario |
 | **Link de entrevista:** [https://youtu.be/fcO25GbbaRY](https://youtu.be/fcO25GbbaRY) |
 | **Resumen de entrevista:** Utiliza con frecuencia corredores de la ATU y el Metropolitano, y sus principales preocupaciones al viajar son la inseguridad y los desvíos inesperados. Considera esencial contar con información en tiempo real y notificaciones actualizadas para optimizar su tiempo y mejorar la confiabilidad del transporte público.  |
 
@@ -543,6 +544,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 |-----------|
 | **Sexo:** Masculino |
 | **Edad:** 20 |
+| **Ocupación:** Estudiante universitario |
 | **Link de entrevista:** [https://www.youtube.com/watch?v=5rFwJUM-JS4](https://www.youtube.com/watch?v=5rFwJUM-JS4) | 
 | **Resumen de entrevista:** Utiliza a diario buses y combis para trasladarse desde San Martín de Porres, siendo el tiempo de espera y la inseguridad sus principales preocupaciones. Planifica sus viajes investigando rutas, precios y duración, y usa aplicaciones como Moovit, aunque señala que a veces no están actualizadas. Considera muy importante recibir información en tiempo real sobre ubicación, retrasos, precios y desvíos, además de notificaciones confiables que le permitan optimizar sus traslados y reducir riesgos. |
  
@@ -554,8 +556,9 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 |-----------|
 | **Sexo:** Masculino |
 | **Edad:** 25 |
+| **Ocupación:** Supervisor de rutas |
 | **Link de entrevista:** https://drive.google.com/file/d/1PqT82exPvO7dkZ61Fa_CRw0skRksIkAb/ |
-| **Resumen de entrevista:** La empresa administra sus unidades con registros en Excel, hojas de ruta y llamadas telefónicas, recibiendo datos básicos sobre tráfico y fallas mecánicas. Destacan como retos la falta de información en tiempo real y el tráfico. Valoran reportes automáticos y control en vivo de buses, aunque ven como barreras el costo y la adaptación de los conductores. |
+| **Resumen de entrevista:** El entrevistado gestiona la flota mediante llamadas a los choferes y el uso de Excel y hojas de ruta, recibiendo solo información básica sobre tráfico y fallas mecánicas. Señala que los principales retos son el tráfico y la ausencia de datos en tiempo real. Considera valioso contar con reportes automáticos, ubicación exacta y control en vivo de buses para mejorar la operación. Reconoce que una plataforma como BusTrack podría aumentar la confianza de los pasajeros, aunque identifica como barreras el costo y la resistencia de los conductores a adaptarse. |
 
 
 
@@ -565,8 +568,9 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 |-----------|
 | **Sexo:** Masculino |
 | **Edad:** 40 |
+| **Ocupación:** Administrador de flota |
 | **Link de entrevista:** https://drive.google.com/file/d/1Uefn8y3-nF-yh4fCzbMGzqDCZm3p694Q/ |
-| **Resumen de entrevista:** La empresa maneja sus unidades a través de grupos de WhatsApp y anotaciones manuales en cuadernos, obteniendo información sobre demoras, congestión vial y controles policiales. El tráfico, los bloqueos y la falta de modernización en los procesos son sus principales desafíos. En BusTrack ven una posibilidad de monitoreo en tiempo real y consideran útiles los informes sobre horarios, rutas y cantidad de pasajeros. Sin embargo, identifican obstáculos relacionados con la confianza y la adaptación a la tecnología. |
+| **Resumen de entrevista:** El entrevistado gestiona las unidades a través de grupos de WhatsApp y cuadernos, recibiendo de los choferes información sobre retrasos, cambios de ruta y controles policiales. Los principales retos identificados son el tráfico, los bloqueos y la falta de procesos modernos, además de problemas operativos como la limpieza de los buses. Considera útiles reportes sobre horarios, rutas y cantidad de pasajeros, y ve en BusTrack una oportunidad para implementar un sistema de monitoreo en tiempo real. Sin embargo, reconoce barreras relacionadas con la confianza y la adaptación de los conductores a la tecnología. |
 
 
 
