@@ -597,16 +597,16 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 ### Segmento 2: Empresas de Transporte Urbano
 | **Preguntas** | **Respuestas Generales** |
 |---|---|
-| ¿Cómo gestionan actualmente la ubicación y monitoreo de sus unidades? | No cuentan con un sistema especializado, dependen de llamadas rápidas a los choferes y grupos de WhatsApp para reportar ubicación en ruta. |
-| ¿Qué herramientas digitales o manuales utilizan para el control de flotas? | Usan cuadernos, hojas de ruta y, en algunos casos, Excel para registrar salidas, llegadas y control básico de operaciones. |
+| ¿Cómo gestionan actualmente la ubicación y monitoreo de sus buses? | No cuentan con un sistema especializado, dependen de llamadas rápidas a los choferes y grupos de WhatsApp para reportar ubicación en ruta. |
+| ¿Qué herramientas usan para controlar sus buses y qué limitaciones encuentran en ellas? | Usan cuadernos, hojas de ruta y, en algunos casos, Excel para registrar salidas, llegadas y control básico de operaciones. |
 | ¿Qué información reciben de los conductores y cómo la gestionan? | Se reportan retrasos, tráfico, problemas mecánicos e incidentes en ruta (como policías o semáforos dañados) mediante mensajes o llamadas, y se gestionan manualmente. |
-| ¿Han usado o considerado alguna aplicación para interactuar con pasajeros? | No cuentan con un canal digital para pasajeros; algunos han considerado apps, pero aún no las aplican. |
+| ⁠¿Han utilizado aplicaciones para comunicarse con pasajeros? Si ese es el caso, ¿les fue útil? y qué problemas encontraron? | No cuentan con un canal digital para pasajeros; algunos han considerado apps, pero aún no las aplican. |
 | ¿Cuáles son los mayores retos para mantener la puntualidad y la seguridad de los viajes? | El tráfico, bloqueos, obras en las vías y la falta de información en tiempo real. Además, la limpieza de buses y la coordinación con choferes a distancia dificultan la operación. |
 | ¿Qué tipo de datos o reportes serían más valiosos para su gestión diaria (tiempos de llegada, cantidad de pasajeros, retrasos)? | Horarios exactos de salida y llegada, ubicación en tiempo real, retrasos por incidentes y cantidad de pasajeros transportados por vuelta. |
 | ¿Qué funcionalidades de una aplicación como BusTrack les motivarían a adoptarla? | Monitoreo en tiempo real de las unidades, reportes automáticos y alertas inmediatas de incidencias o desvíos. |
 | ¿Cómo creen que una plataforma de información en tiempo real podría mejorar la confianza de los pasajeros? | Brindando horarios verificados de salida y llegada para que los pasajeros planifiquen mejor su tiempo y perciban mayor confiabilidad. |
 | ¿Qué beneficios esperan obtener al implementar una solución tecnológica (mayor satisfacción, competitividad, reducción de costos)? | Mayor satisfacción de los pasajeros, incremento de usuarios, reducción de quejas y mayor control interno de la operación. |
-| ¿Qué barreras ven para adoptar una aplicación digital de gestión de transporte? | Los costos de implementación, la resistencia de los choferes a adaptarse y la desconfianza inicial hacia nuevas tecnologías. |
+| ¿Qué barreras internas o externas ven para adoptar una aplicación digital de gestión de transporte? | Los costos de implementación, la resistencia de los choferes a adaptarse y la desconfianza inicial hacia nuevas tecnologías. |
 
 ## 2.3. Needfinding
 
