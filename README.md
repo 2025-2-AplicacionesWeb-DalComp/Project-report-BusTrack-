@@ -639,22 +639,22 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 | **Atributo**     | **Valor** |
 |------------------|-----------|
-| **Name**         | Rosa Palacios |
-| **Age**          | 45 años |
-| **Occupation**   | Administradora de empresas de transporte |
-| **Status**       | Casada |
+| **Name**         | Luis Palacios |
+| **Age**          | 38 años |
+| **Occupation**   | Administrador de flota en empresa de transporte urbano |
+| **Status**       | Casado |
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
-| **Archetype**    | Gestora Eficiente |
-| **Image**        | ![Rosa Palacios](img/commons/rosaPalacios.png) |
+| **Archetype**    | Gestor Eficiente |
+| **Image**        | ![Luis Palacios](img/commons/rosaPalacios.png) |
 | **Quote**        | "Si puedo monitorear mis buses en tiempo real, puedo ofrecer un mejor servicio y ganar más pasajeros." |
-| **Motivations**  | Incentive: 85/100<br>Fear: 60/100<br>Achievement: 90/100<br>Growth: 80/100<br>Power: 75/100<br>Social: 70/100 |
-| **Goals**        | - Monitorear las unidades en tiempo real.<br>- Mejorar la puntualidad y satisfacción del cliente.<br>- Optimizar costos operativos. |
-| **Frustrations** | - No contar con datos centralizados.<br>- Reclamaciones frecuentes por retrasos.<br>- Falta de herramientas tecnológicas para competir con apps modernas. |
-| **Biography**    | Rosa administra una empresa con 20 buses en Lima. Actualmente depende de llamadas de choferes para conocer incidencias, lo que le genera pérdidas de tiempo y poca precisión. Está interesada en adoptar soluciones digitales que le den control, transparencia y ventaja competitiva en el mercado. |
-| **Personality**  | Extrovert: 65/100<br>Thinking: 85/100<br>Judging: 75/100 |
-| **Technology**   | IT and Internet: 75/100<br>Software: 65/100<br>Mobile Apps: 70/100<br>Social Networks: 60/100 |
-| **Brands**       | WhatsApp Business, Facebook, LinkedIn |
+| **Motivations**  | Incentive: 85/100<br>Fear: 65/100<br>Achievement: 90/100<br>Growth: 70/100<br>Power: 75/100<br>Social: 70/100 |
+| **Goals**        | - Monitorear las unidades en tiempo real.<br>- Mejorar la puntualidad y satisfacción del cliente.<br>- Optimizar costos operativos.<br>- Modernizar los procesos de control manual. |
+| **Frustrations** | - Uso de cuadernos, WhatsApp y llamadas para controlar unidades.<br>- Retrasos constantes por tráfico y bloqueos.<br>- Dificultad para obtener datos confiables en vivo. |
+| **Biography**    | Luis administra una flota de 18 buses en Lima. Supervisa operaciones con Excel y llamadas directas a choferes, lo que genera ineficiencia y falta de precisión. Su mayor preocupación es mejorar la puntualidad y evitar reclamos de pasajeros. Está interesado en digitalizar procesos y brindar información confiable en tiempo real. |
+| **Personality**  | Extrovert: 65/100<br>Thinking: 85/100<br>Judging: 70/100 |
+| **Technology**   | IT and Internet: 75/100<br>Software: 60/100<br>Mobile Apps: 65/100<br>Social Networks: 60/100 |
+| **Brands**       | WhatsApp, Excel, Facebook |
 
 
 ### 2.3.2. User Task Matrix
