@@ -581,16 +581,16 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 | **Preguntas** | **Respuestas Generales** |
 |---|---|
-| ¿Qué medio de transporte público usas con más frecuencia (bus, coaster, combi, Metropolitano, Metro)? | Los más usados son buses, combis, corredores de la ATU y el Metropolitano. |
-| ¿Qué situaciones específicas te generan más preocupación al viajar? | La inseguridad (robos) y los desvíos inesperados de ruta. |
-| ¿Qué pasos sigues normalmente antes de salir de casa para tomar el bus? | Revisan rutas y paraderos en el celular, usando apps como “Tu Ruta” o Moovit. También consideran tiempo y costo del pasaje. |
-| ¿Has usado alguna aplicación para movilizarte en la ciudad (Waze, Google Maps, Moovit, etc.)? ¿Cómo fue tu experiencia? | Sí, usan Moovit o apps similares, pero a veces las rutas no están actualizadas, lo que genera confusión y pérdida de tiempo. |
+| ¿Qué medio de transporte público usas con más frecuencia (bus, coaster, combi, Metropolitano, Metro)? | Los más utilizados son buses y combis para recorridos diarios, además de corredores de la ATU y el Metropolitano para trayectos largos o frecuentes. |
+| ¿Qué situaciones específicas te generan más preocupación al viajar? | Principalmente la inseguridad (robos durante los trayectos) y la incertidumbre por desvíos de ruta o cambios inesperados. |
+| ¿Qué pasos sigues normalmente antes de salir de casa para tomar el bus? | Consultan previamente rutas y paraderos en el celular, investigan precios y tiempos estimados. Algunos usan apps como “TuRuta” o Moovit, aunque no siempre confían en su precisión. |
+| ¿Has usado alguna aplicación para movilizarte en la ciudad (Waze, Google Maps, Moovit, etc.)? ¿Cómo fue tu experiencia? | Sí, principalmente Moovit. Sin embargo, señalan que no siempre está actualizada, lo que genera retrasos y confusión en la planificación de viajes. |
 | ¿Qué importancia le das a recibir información en tiempo real sobre la llegada de buses? | Se considera muy importante, ya que permite organizar mejor el tiempo y evitar esperas innecesarias. |
-| Miedos, expectativas y canales | Miedos: inseguridad y robos. Expectativas: mayor confiabilidad y precisión de la información. Canales: apps móviles y notificaciones en tiempo real. |
-| ¿Qué problemas enfrentas con mayor frecuencia en tus traslados (tiempo de espera, congestión, inseguridad, falta de información)? | Largas esperas sin saber dónde está el bus, congestión vehicular e inseguridad durante los trayectos. |
-| ¿Qué haría que confíes en una aplicación como BusTrack para planificar tus viajes? | Que la información esté actualizada y verificada, con datos en tiempo real de ubicación, precios y posibles desvíos. |
-| ¿Te gustaría recibir notificaciones sobre la llegada del bus, retrasos o desvíos de ruta? | Sí, sería de gran utilidad para anticipar cambios y optimizar el tiempo de viaje. |
-| ¿Qué redes sociales o aplicaciones móviles usas más para informarte en tu día a día? | Principalmente TikTok, Instagram, Twitter (X) y canales de noticias. |
+| Es considerada fundamental, especialmente para estudiantes y trabajadores que dependen de llegar puntuales. Les ayuda a organizar mejor el tiempo y reducir la ansiedad al esperar. |
+| ¿Qué problemas enfrentas con mayor frecuencia en tus traslados (tiempo de espera, congestión, inseguridad, falta de información)? | Las largas esperas sin información, congestión en horas punta e inseguridad dentro de buses y paraderos. |
+| ¿Qué haría que confíes en una aplicación como BusTrack para planificar tus viajes? | Que muestre información actualizada y verificada sobre ubicación de buses, precios y posibles desvíos. También que garantice seguridad validando a los conductores. |
+| ¿Te gustaría recibir notificaciones sobre la llegada del bus, retrasos o desvíos de ruta? | Sí, especialmente sobre retrasos y desvíos, ya que afectan la puntualidad en clases y el trabajo. |
+| ¿Qué redes sociales o aplicaciones móviles usas más para informarte en tu día a día? | Principalmente TikTok, Instagram, X (Twitter) y canales de noticias digitales. |
 | ¿Cómo medirías que una aplicación realmente mejora tu experiencia de viaje? | En la práctica, comprobando que reduce tiempos de espera, brinda información confiable y hace el viaje más seguro y eficiente. |
 
 
