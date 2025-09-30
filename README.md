@@ -484,15 +484,15 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ### Motivaciones y comportamientos
 - ¿Qué medio de transporte público usas con más frecuencia (bus, coaster, combi, Metropolitano, Metro)?  
-- ¿Qué es lo que más te preocupa cuando viajas en transporte público?  
-- ¿Cómo planificas actualmente tus viajes?  
-- ¿Has usado alguna aplicación para movilizarte en la ciudad (Waze, Google Maps, Moovit, etc.)? ¿Cómo fue tu experiencia?  
+- ¿Qué situaciones específicas te generan más preocupación al viajar?
+- ¿Qué pasos sigues normalmente antes de salir de casa para tomar el bus?
+- ¿Qué aplicaciones de movilidad has usado y qué funcionalidades te resultaron más útiles? ¿Tuviste problemas al usarlas?  
 - ¿Qué importancia le das a recibir información en tiempo real sobre la llegada de buses?  
 
 ### Miedos, expectativas y canales
 - ¿Qué problemas enfrentas con mayor frecuencia en tus traslados (tiempo de espera, congestión, inseguridad, falta de información)?  
 - ¿Qué haría que confíes en una aplicación como BusTrack para planificar tus viajes?  
-- ¿Te gustaría recibir notificaciones sobre la llegada del bus, retrasos o desvíos de ruta?  
+- ¿Qué tipo de notificaciones serían más útiles para ti?
 - ¿Qué redes sociales o aplicaciones móviles usas más para informarte en tu día a día?  
 - ¿Cómo medirías que una aplicación realmente mejora tu experiencia de viaje?  
 
@@ -508,10 +508,10 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 - Zonas o rutas que cubren  
 
 ### Operaciones y herramientas
-- ¿Cómo gestionan actualmente la ubicación y monitoreo de sus unidades?  
-- ¿Qué herramientas digitales o manuales utilizan para el control de flotas?  
+- ¿Cómo gestionan actualmente la ubicación y monitoreo de sus buses?  
+- ¿Qué herramientas usan para controlar sus buses y qué limitaciones encuentran en ellas?
 - ¿Qué información reciben de los conductores y cómo la gestionan?  
-- ¿Han usado o considerado alguna aplicación para interactuar con pasajeros?  
+- ¿Han utilizado aplicaciones para comunicarse con pasajeros? Si ese es el caso, ¿les fue útil? y qué problemas encontraron?
 - ¿Cuáles son los mayores retos para mantener la puntualidad y la seguridad de los viajes?  
 
 ### Expectativas y valor esperado
@@ -519,7 +519,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 - ¿Qué funcionalidades de una aplicación como BusTrack les motivarían a adoptarla?  
 - ¿Cómo creen que una plataforma de información en tiempo real podría mejorar la confianza de los pasajeros?  
 - ¿Qué beneficios esperan obtener al implementar una solución tecnológica (mayor satisfacción, competitividad, reducción de costos)?  
-- ¿Qué barreras ven para adoptar una aplicación digital de gestión de transporte?  
+- ¿Qué barreras internas o externas ven para adoptar una aplicación digital de gestión de transporte?
 
 ### 2.2.2. Registro de entrevistas
 
