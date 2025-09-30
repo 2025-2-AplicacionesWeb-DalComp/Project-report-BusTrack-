@@ -748,6 +748,8 @@ En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el
 
 ### 2.3.3. User Journey Mapping
 
+## Segmento Objetivo 1: Pasajeros de Transporte Público
+
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
 | Identificación de Necesidad | Se da cuenta que está saliendo tarde y necesita llegar a clases a tiempo  | Reloj, calendario personal         | Ansioso          | Desconoce si llegará puntual, desconoce frecuencia de buses        |
@@ -756,6 +758,21 @@ En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el
 | Espera en Paradero     | Llega al paradero y revisa la notificación de proximidad del bus        | BusTrack en el celular             | Impaciente       | El bus se retrasa y la app no actualiza la ubicación al instante  |
 | Viaje en Bus           | Revisa en tiempo real la ubicación y tiempo restante      | BusTrack GPS + mapas               | Confiado         | Problemas de señal de GPS/internet generan datos poco precisos  |
 | Llegada al Destino     | Llega a la universidad a tiempo                          | Confirmación visual en la app      | Satisfecho       | Si hubo retraso, llega con estrés, cansancio y con menor disposición a confiar   |
+
+
+## Segmento Objetivo 2: Empresas de Transporte Urbano
+
+| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
+|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
+| Identificación de Necesidad | Detecta que necesita controlar la puntualidad y ubicación de los buses  | Llamadas a choferes, grupos de WhatsApp | Frustrado | No tiene datos centralizados ni en tiempo real |
+| Búsqueda de Información | Revisa reportes manuales y mensajes de los conductores | Cuadernos, hojas de ruta, Excel | Agobiado | La información es incompleta, confusa o llega tarde  |
+| Planificación Operativa | Organiza salidas, asigna choferes y define rutas  | Excel, listas en papel  | Concentrado    | Requiere mucho tiempo y aumenta riesgo de errores  |
+| Monitoreo en ruta  | Recibe llamadas o mensajes sobre retrasos y problemas    | WhatsApp, llamadas telefónicas  | Estresado | No puede verificar ubicación exacta ni anticipar incidentes |
+| Gestión de incidencias  | Decide acciones frente a bloqueos o desvíos  | Comunicación directa con choferes  | Estresado   | Reacción tardía, genera quejas de pasajeros  |
+| Evaluación y reportes  | Intenta consolidar datos de operación al final del día | Excel  | Cansado   | Falta de precisión, pérdida de tiempo y poca trazabilidad   |
+| Implementación digital | Usa BusTrack para monitoreo en tiempo real, alertas y reportes automáticos | BusTrack web/app, notificaciones en vivo | Confiado | Se reduce la carga manual, pero aún teme costos y adaptación de choferes |
+
+
 
 ### 2.3.4. Empathy Mapping
 
