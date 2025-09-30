@@ -672,7 +672,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | Consultar rutas hacia puntos turísticos | Baja    | Baja       | Baja         | Alta    |
 | Administración de datos (rol admin)  | Baja       | Baja       | Baja         | Baja    |
 
-En el User Task Matrix pudimos ver que cada grupo de usuarios tiene prioridades distintas: estudiantes y trabajadores buscan sobre todo rapidez e información en tiempo real; los adultos mayores se enfocan más en la seguridad y paraderos cercanos; y los turistas necesitan rutas claras hacia lugares de interés. Aunque las tareas administrativas no se notan directamente, son clave para mantener la información confiable. En general, BusTrack debe centrarse en ofrecer datos precisos, opciones personalizadas y una experiencia segura para todos.
+En el User Task Matrix del segmento 1 pudimos ver que cada grupo de usuarios tiene prioridades distintas: estudiantes y trabajadores buscan sobre todo rapidez e información en tiempo real; los adultos mayores se enfocan más en la seguridad y paraderos cercanos; y los turistas necesitan rutas claras hacia lugares de interés. Aunque las tareas administrativas no se notan directamente, son clave para mantener la información confiable. En general, BusTrack debe centrarse en ofrecer datos precisos, opciones personalizadas y una experiencia segura para todos.
 
 
 ## Segmento Objetivo 2: Empresas de Transporte Urbano
@@ -689,6 +689,7 @@ En el User Task Matrix pudimos ver que cada grupo de usuarios tiene prioridades 
 | Decidir adopción de nuevas tecnologías  | Media       | Baja       | Alta         |
 | Administrar permisos y accesos en la plataforma  | Alta     | Media     | Baja       |
 
+En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el administrador de flota priorizan tareas operativas como el monitoreo en tiempo real, reportes e incidencias, mientras que los propietarios se enfocan en aspectos estratégicos como la reducción de costos y la adopción de nuevas tecnologías. Esto evidencia que las empresas necesitan una solución que combine eficiencia operativa y decisiones estratégicas, garantizando puntualidad, satisfacción del pasajero y modernización de procesos.
 
 
 ### 2.3.3. User Journey Mapping
@@ -712,7 +713,7 @@ Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
 
 ![Empathy Map Segment 2](img/commons/empathyMapSegmet2.png)
 
-## 2.4. Big Picture Event Storning
+## 2.4. Big Picture Event Storming
 
 | **Actor**                 | **Evento**                                 | **Resultado**                                           |
 | ------------------------- | ------------------------------------------ | ------------------------------------------------------- |
