@@ -796,15 +796,18 @@ Segmento 2: Supervisor de rutas en empresa de transporte urbano (Ejemplo: José 
 
 | **Actor**                 | **Evento**                                 | **Resultado**                                           |
 | ------------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| **Pasajero**              | Busca una ruta ingresando origen y destino | El sistema recibe la solicitud de búsqueda              |
-| **Sistema BusTrack**      | Procesa la búsqueda de rutas disponibles   | Muestra opciones de buses, horarios y tiempos estimados |
-| **Pasajero**              | Selecciona una ruta                        | Puede guardarla como favorita para futuros viajes       |
-| **Sistema BusTrack**      | Rastrea ubicación del bus en tiempo real   | Actualiza la posición en el mapa                        |
-| **Sistema BusTrack**      | Envía notificación al pasajero             | Pasajero recibe alertas de retrasos o desvíos           |
-| **Pasajero**              | Viaja en el bus consultando la app         | Accede a información de llegada en tiempo real          |
-| **Pasajero**              | Califica el viaje                          | El sistema guarda comentarios y puntuaciones            |
-| **Sistema BusTrack**      | Genera reportes de uso y eficiencia        | La empresa de transporte recibe métricas                |
-| **Empresa de transporte** | Ajusta rutas y horarios según reportes     | Se mejora la calidad del servicio ofrecido              |
+| **Pasajero**              | Buscó una ruta ingresando origen y destino | El sistema registró la solicitud de búsqueda              |
+| **Sistema BusTrack**      | Procesó la búsqueda de rutas disponibles   | Mostró opciones de buses, horarios y tiempos estimados |
+| **Pasajero**              | Seleccionó una ruta                        | El sistema guardó la ruta como favorita para futuros viajes       |
+| **Chofer**                | Reportó retraso o incidencia vía app o WhatsApp | El sistema actualizó el estado de la unidad        |
+| **Sistema BusTrack**      | Detectó congestión o bloqueo en la ruta    | Generó alerta automática para pasajeros y supervisores  |
+| **Supervisor de rutas**   | Recibió notificación de incidencia          | Coordinó cambios de ruta con choferes                   |
+| **Sistema BusTrack**      | Envió notificación al pasajero           | El pasajero recibió alertas de retrasos, desvíos o incidentes |
+| **Pasajero**              | Viajó en el bus consultando la app         | Visualizó ubicación y tiempo estimado en tiempo real    |
+| **Pasajero**              | Envió calificación del viaje                | El sistema guardó comentarios y puntuaciones            |
+| **Sistema BusTrack**      | Generó reportes de uso y eficiencia        | La empresa de transporte recibió métricas detalladas     |
+| **Administrador de flota** | Revisó reportes de eficiencia             | Ajustó horarios, mantenimiento y distribución de buses  |
+| **Empresa de transporte** | Ajustó rutas y horarios según reportes     | Optimizó la calidad del servicio ofrecido               |
 
 
 ## 2.5. Ubiquitous Language
