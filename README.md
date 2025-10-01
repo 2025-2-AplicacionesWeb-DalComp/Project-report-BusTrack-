@@ -776,13 +776,21 @@ En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el
 
 ### 2.3.4. Empathy Mapping
 
-Segmento 1: Pasajeros de Transporte Público (Ejemplo: Manuel Suárez)
+Segmento 1: Estudiante universitario (Ejemplo: Manuel Suárez)
 
-![Empathy Map Segment 1](img/commons/empathyMapSegmet1.png)
+![Empathy Map Segment 1](img/commons/empathyMapSegmet1ManuelSuarez.png)
 
-Segmento 2: Empresas de Transporte Urbano (Ejemplo: Rosa Palacios)
+Segmento 1: Empleado administrativo (Ejemplo: Alejandro Medina)
 
-![Empathy Map Segment 2](img/commons/empathyMapSegmet2.png)
+![Empathy Map Segment 1](img/commons/empathyMapSegmet1AlejandroMedina.png)
+
+Segmento 2: Administrador de flota en empresa de transporte urbano (Ejemplo: Luis Palacios)
+
+![Empathy Map Segment 2](img/commons/empathyMapSegmet2LuisPalacios.png)
+
+Segmento 2: Supervisor de rutas en empresa de transporte urbano (Ejemplo: José Ramírez)
+
+![Empathy Map Segment 2](img/commons/empathyMapSegmet2JoseRamirez.png)
 
 ## 2.4. Big Picture Event Storming
 
