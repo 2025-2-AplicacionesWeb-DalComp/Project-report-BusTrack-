@@ -250,11 +250,11 @@ Pregunta clave de diseño:
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Los pasajeros de transporte público en Lima enfrentan incertidumbre diaria: no saben con precisión cuánto demorará en llegar un bus ni cuánto tiempo tomará el viaje. Esta falta de información genera estrés, pérdida de productividad y, en muchos casos, el uso de alternativas más costosas o inseguras.
+Los pasajeros frecuentes de Lima, especialmente estudiantes y trabajadores, enfrentan una gran incertidumbre diaria: no saben con precisión cuándo llegará su bus ni cuánto demorará el viaje, lo que les genera estrés, pérdida de tiempo y exposición a paraderos inseguros.
 
-A la par, las empresas de transporte carecen de herramientas para monitorear sus unidades en tiempo real, lo que impide mejorar el servicio y reduce la confianza de los usuarios.
+A la par, supervisores y administradores de flota no cuentan con herramientas digitales eficientes para monitorear unidades en tiempo real ni coordinar incidentes, lo que repercute en retrasos y reclamos.
 
-Bustrack propone una solución que centraliza información en tiempo real sobre la ubicación de los buses, estimaciones precisas de llegada, rutas actualizadas y notificaciones de seguridad. A diferencia de las redes sociales o aplicaciones genéricas de mapas, nuestra plataforma está diseñada específicamente para las condiciones del transporte urbano local, generando confianza y seguridad en los usuarios.
+BusTrack propone una solución integral que conecta a pasajeros y operadores mediante información en tiempo real, notificaciones inteligentes y paneles de gestión, mejorando la puntualidad, seguridad y eficiencia del sistema de transporte urbano local.
 
 Pregunta clave de diseño:
 ¿Cómo podemos desarrollar una plataforma que no solo brinde datos en tiempo real sobre el transporte público, sino que también aumente la confianza y reduzca la incertidumbre en los desplazamientos diarios?
@@ -336,7 +336,7 @@ Pregunta clave de diseño:
 | **Business Problem** | Los usuarios del transporte público en Lima Metropolitana enfrentan largos tiempos de espera, desinformación sobre los horarios y baja confianza en la puntualidad de las unidades. Esto genera frustración, pérdidas de tiempo y afecta la percepción de seguridad en el servicio. Al mismo tiempo, las empresas de transporte carecen de herramientas digitales que les permitan organizar mejor sus unidades y comunicarse eficazmente con los pasajeros. |
 | **Business Outcomes** | - Conseguir 50,000 usuarios activos en el primer año.<br>- Reducir en un 30% la percepción de incertidumbre en los tiempos de espera.<br>- Lograr que el 70% de las rutas principales estén integradas en la app.<br>- Aumentar en un 20% la satisfacción general de los pasajeros en encuestas de movilidad urbana. |
 | **Users and Customers** | **Primarios:** Pasajeros que utilizan transporte público a diario.<br>**Secundarios:** Empresas de transporte. |
-| **User Benefits** | - Pasajeros: Mayor confianza, reducción de tiempos de espera y mejor planificación.<br>- Empresas: Mejor gestión de flota, mayor satisfacción del cliente. |
+| **User Benefits** | - Estudiantes y trabajadores: reducen su tiempo de espera, planifican mejor sus viajes y se sienten más seguros en paraderos gracias a notificaciones inteligentes y horarios confiables. <br>- - Supervisores y administradores: optimizan el control de flota con paneles en tiempo real, mejoran la coordinación y reducen incidentes no reportados. |
 | **Solution Ideas** | - Geolocalización en tiempo real de buses.<br>- Estimaciones precisas de llegada.<br>- Mapas interactivos con rutas alternativas.<br>- Notificaciones sobre retrasos y cambios.<br>- Panel de control para empresas de transporte. |
 | **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción.<br>- Creemos que integrar empresas de transporte reducirá los errores en la información. |
 | **What's the most important thing we need to learn first?** | ¿Los pasajeros confían y usan de forma recurrente la información en tiempo real para planificar sus viajes? |
