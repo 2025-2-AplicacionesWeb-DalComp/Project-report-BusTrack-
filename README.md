@@ -626,14 +626,14 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Usuario Pragmático |
 | **Image**        | ![Manuel Suarez](img/commons/manuelSuarez.png) |
-| **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme." |
-| **Motivations**  | Incentive: 80/100<br>Fear: 70/100<br>Achievement: 75/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
-| **Goals**        | - Planificar viajes con menor incertidumbre para llegar a la universidad.<br>- Ahorrar tiempo en traslados.<br>- Sentirse más seguro en sus trayectos diarios. |
-| **Frustrations** | - No saber cuándo pasará el bus.<br>- Pérdida de tiempo en paraderos inseguros.<br>- Información poco confiable en apps genéricas. |
-| **Biography**    | Manuel es estudiante universitario y depende del transporte público todos los días para llegar a clases. Usa entre 2 y 3 buses diarios y planifica sus viajes con apps como Moovit o TuRuta, aunque se siente frustrado porque muchas veces no tienen datos actualizados. Sus principales miedos son los robos en el trayecto y perder tiempo esperando en paraderos inseguros. Busca una solución que le dé confianza, precisión en horarios y alertas en tiempo real para organizar mejor su día. |
+| **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme en el paradero." |
+| **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 80/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
+| **Goals**        | - Llegar puntual a clases sin depender de información incierta.<br>- Optimizar su tiempo para estudiar y evitar esperas innecesarias.<br>- Sentirse seguro en los trayectos diarios, especialmente en paraderos con poca iluminación o vigilancia. |
+| **Frustrations** | - No saber con exactitud cuándo pasará el bus.<br>- Perder tiempo en paraderos inseguros o llenos.<br>- Apps como Moovit no siempre muestran retrasos reales ni desvíos de ruta.<br> - Estrés cuando llega tarde por demoras inesperadas. |
+| **Biography**    | Manuel estudia en una universidad en el centro de Lima y vive en un distrito alejado. Sale temprano todos los días y realiza entre 2 y 3 transbordos para llegar a clases. Antes de salir, suele revisar apps como Moovit o Google Maps para planificar su ruta, pero muchas veces la información no es confiable ya que los buses se retrasan, no aparecen en el mapa o toman desvíos sin aviso. Esto lo obliga a esperar largos minutos en paraderos inseguros, lo que le genera ansiedad y pérdida de tiempo valioso. En días de evaluación, su principal preocupación es llegar puntual. Usa activamente redes sociales y confía en aplicaciones cuando estas le brindan datos claros y en tiempo real.|
 | **Personality**  | Extrovert: 60/100<br>Thinking: 80/100<br>Judging: 70/100 |
 | **Technology**   | IT and Internet: 85/100<br>Software: 70/100<br>Mobile Apps: 90/100<br>Social Networks: 95/100 |
-| **Brands**       | WhatsApp, Google Maps, TikTok, Noovit, TuRuta |
+| **Brands**       | WhatsApp, Google Maps, TikTok, Moovit, TuRuta |
 
 ---
 
