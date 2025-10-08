@@ -746,18 +746,33 @@ En el User Task Matrix del segmento 1 pudimos ver que cada grupo de usuarios tie
 En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el administrador de flota priorizan tareas operativas como el monitoreo en tiempo real, reportes e incidencias, mientras que los propietarios se enfocan en aspectos estratégicos como la reducción de costos y la adopción de nuevas tecnologías. Esto evidencia que las empresas necesitan una solución que combine eficiencia operativa y decisiones estratégicas, garantizando puntualidad, satisfacción del pasajero y modernización de procesos.
 
 
-### 2.3.3. User Journey Mapping
+## 2.3.3. User Journey Mapping
 
-## Segmento Objetivo 1: Pasajeros de Transporte Público
+## Segmento Objetivo 1
+
+### User Persona 1: Manuel Suarez
 
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Se da cuenta que está saliendo tarde y necesita llegar a clases a tiempo  | Reloj, calendario personal         | Ansioso          | Desconoce si llegará puntual, desconoce frecuencia de buses        |
-| Búsqueda de Información | Abre BusTrack y consulta rutas y horarios                | BusTrack web/app, comparación con Moovit                  | Esperanzado      | La información de otras apps suele estar desactualizada       |
-| Planificación del Viaje | Selecciona su ruta y activa notificaciones de llegada     | Función de favoritos, notificaciones | Aliviado        | Estimaciones de tiempo pueden no ser totalmente precisas  |
-| Espera en Paradero     | Llega al paradero y revisa la notificación de proximidad del bus        | BusTrack en el celular             | Impaciente       | El bus se retrasa y la app no actualiza la ubicación al instante  |
-| Viaje en Bus           | Revisa en tiempo real la ubicación y tiempo restante      | BusTrack GPS + mapas               | Confiado         | Problemas de señal de GPS/internet generan datos poco precisos  |
-| Llegada al Destino     | Llega a la universidad a tiempo                          | Confirmación visual en la app      | Satisfecho       | Si hubo retraso, llega con estrés, cansancio y con menor disposición a confiar   |
+| Identificación de Necesidad | Se da cuenta que está saliendo tarde y necesita llegar a clases a tiempo  | Reloj, calendario personal         | Ansioso          | No tiene información actualizada sobre la frecuencia y horarios de los buses    |
+| Búsqueda de Información | Abre BusTrack y busca la mejor ruta disponible | BusTrack web/app, comparación con Moovit | Esperanzado      | Apps externas no muestran datos precisos ni retrasos en tiempo real    |
+| Planificación del Viaje | Selecciona la ruta adecuada y activa notificaciones de llegada  | Función de favoritos, notificaciones | Aliviado        | Estimaciones pueden variar con el tráfico impredecible  |
+| Espera en Paradero     | Llega al paradero y revisa actualizaciones   | BusTrack en el celular             | Impaciente       | A veces el bus se retrasa y no hay alertas inmediatas  |
+| Viaje en Bus           | Consulta la ubicación del bus y tiempo restante  | BusTrack GPS + mapas interactivos  | Confiado         | Problemas de señal GPS pueden afectar la precisión  |
+| Llegada al Destino     | Llega puntual y revisa historial de trayecto   | Confirmación visual     | Satisfecho       | Si hubo retraso inesperado, disminuye su confianza para futuros viajes |
+
+### User Persona 2: Alejandro Medina
+
+| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
+|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
+| Identificación de Necesidad | Se da cuenta de que el tráfico está complicado y necesita llegar puntual al trabajo  | Reloj, calendario laboral, apps de clima/tráfico  | Ansioso          | No tiene certeza si podrá llegar a tiempo; no sabe si hay desvíos o retrasos en su ruta habitual |
+| Búsqueda de Información | Abre BusTrack para verificar en tiempo real la posición del bus y estimar el tiempo de llegada | BusTrack web/app, GPS, comparación rápida con Moovit| Esperanzado      | Otras apps no reflejan desvíos por tráfico real; información incompleta o tardía |
+| Planificación del Viaje | Activa notificaciones de llegada y elige la ruta más rápida disponible  | Función de favoritos, notificaciones | Aliviado        | Las estimaciones no siempre consideran bloqueos súbitos o tráfico intenso  |
+| Espera en Paradero     | Llega al paradero y revisa constantemente la app para evitar sorpresas   | BusTrack en el celular             | Impaciente       | Retrasos de unidades sin aviso generan estrés y pérdida de tiempo |
+| Viaje en Bus           | Monitorea el trayecto para prever desvíos y notifica en el trabajo si hay retrasos | BusTrack GPS + mapas interactivos  | Confiado         | Problemas de señal o actualizaciones lentas pueden dificultar la toma de decisiones a tiempo |
+| Llegada al Destino     | Llega puntual y revisa historial de trayecto   | Confirmación visual     | Satisfecho       | Si llega tarde por información poco precisa, su confianza en la app disminuye |
+
+
 
 
 ## Segmento Objetivo 2: Empresas de Transporte Urbano
