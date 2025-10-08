@@ -715,7 +715,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ## Segmento Objetivo 1
       
-| Tarea / Funcionalidad                | Manuel Suarez (Estudiante) | Alejandro Medina (Trabajador) | Adulto mayor | Turista |
+| Tarea / Funcionalidad                | Manuel Suarez (Estudiante Universitario) | Alejandro Medina (Trabajador) | Adulto mayor | Turista |
 |--------------------------------------|------------|------------|--------------|---------|
 | Consultar rutas y horarios           | Alta       | Alta       | Alta         | Alta    |
 | Recibir notificaciones en tiempo real| Alta       | Alta       | Media        | Media   |
@@ -750,7 +750,7 @@ En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el
 
 ## Segmento Objetivo 1
 
-### User Persona 1: Manuel Suarez
+### Manuel Suarez - Estudiante Universitario
 
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
@@ -761,7 +761,7 @@ En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el
 | Viaje en Bus           | Consulta la ubicación del bus y tiempo restante  | BusTrack GPS + mapas interactivos  | Confiado         | Problemas de señal GPS pueden afectar la precisión  |
 | Llegada al Destino     | Llega puntual y revisa historial de trayecto   | Confirmación visual     | Satisfecho       | Si hubo retraso inesperado, disminuye su confianza para futuros viajes |
 
-### User Persona 2: Alejandro Medina
+### Alejandro Medina - Trabajador
 
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
@@ -775,17 +775,33 @@ En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el
 
 
 
-## Segmento Objetivo 2: Empresas de Transporte Urbano
+## Segmento Objetivo 2
+
+### Luis Palacios - Administrador de Flota
 
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Detecta que necesita controlar la puntualidad y ubicación de los buses  | Llamadas a choferes, grupos de WhatsApp | Frustrado | No tiene datos centralizados ni en tiempo real |
-| Búsqueda de Información | Revisa reportes manuales y mensajes de los conductores | Cuadernos, hojas de ruta, Excel | Agobiado | La información es incompleta, confusa o llega tarde  |
-| Planificación Operativa | Organiza salidas, asigna choferes y define rutas  | Excel, listas en papel  | Concentrado    | Requiere mucho tiempo y aumenta riesgo de errores  |
-| Monitoreo en ruta  | Recibe llamadas o mensajes sobre retrasos y problemas    | WhatsApp, llamadas telefónicas  | Estresado | No puede verificar ubicación exacta ni anticipar incidentes |
-| Gestión de incidencias  | Decide acciones frente a bloqueos o desvíos  | Comunicación directa con choferes  | Estresado   | Reacción tardía, genera quejas de pasajeros  |
-| Evaluación y reportes  | Intenta consolidar datos de operación al final del día | Excel  | Cansado   | Falta de precisión, pérdida de tiempo y poca trazabilidad   |
-| Implementación digital | Usa BusTrack para monitoreo en tiempo real, alertas y reportes automáticos | BusTrack web/app, notificaciones en vivo | Confiado | Se reduce la carga manual, pero aún teme costos y adaptación de choferes |
+| Identificación de Necesidad | Nota que varios buses están llegando tarde y recibe múltiples quejas de pasajeros | Llamadas a choferes, grupos de WhatsApp | Frustrado | No cuenta con información centralizada ni actualizada en tiempo real para tomar decisiones rápidas |
+| Búsqueda de Información | Revisa manualmente hojas de ruta y reportes enviados por conductores | Cuadernos, Excel, grupos de WhatsApp | Agobiado | La información es tardía, incompleta o confusa; depende de mensajes dispersos |
+| Planificación Operativa | Asigna choferes, define rutas y horarios para el día siguiente | Excel, llamadas, listas en papel | Concentrado    | Este proceso consume tiempo, tiene alta probabilidad de errores humanos y poca trazabilidad  |
+| Monitoreo en ruta  | Recibe llamadas constantes sobre bloqueos, tráfico o retrasos   | WhatsApp, llamadas telefónicas  | Estresado | No puede anticipar incidentes ni verificar ubicación real de los buses |
+| Gestión de incidencias  | Intenta reubicar buses o reasignar rutas frente a retrasos | Comunicación directa con choferes  | Estresado   | Las reacciones son tardías; los reclamos de pasajeros aumentan  |
+| Evaluación y reportes  | Al final del día, recopila información para enviar informes de operación | Excel, reportes manuales  | Cansado   | Consolidar datos toma horas y los reportes no reflejan el estado real de la operación   |
+| Implementación digital | Utiliza BusTrack para monitorear buses en tiempo real, recibir alertas y generar reportes automáticos | BusTrack web/app, notificaciones en vivo, panel administrativo | Confiado | Reduce carga manual y mejora control, pero le preocupa la capacitación del personal y adopción |
+
+
+### José Ramírez - Supervisor de Rutas
+
+| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
+|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
+| Identificación de Necesidad | Nota que varios buses están retrasados en distintas rutas al mismo tiempo | Llamadas de choferes, reclamos de pasajeros | Frustrado | No tiene visibilidad centralizada y debe responder a múltiples incidentes simultáneamente |
+| Búsqueda de Información | Intenta confirmar el estado de cada bus llamando a los choferes y revisando mensajes | WhatsApp, llamadas telefónicas, hojas de ruta | Agobiado | La información llega tarde o es inconsistente; depende de respuestas individuales de cada chofer |
+| Planificación Operativa | Ajusta la programación de salidas o reasigna buses en función de reportes manuales | Excel, hojas impresas, grupos de WhatsApp | Concentrado    | Toma tiempo coordinar cambios y comunicar a todos los involucrados |
+| Monitoreo en ruta  | Supervisa el desarrollo de múltiples rutas simultáneamente | Llamadas, mensajes, comunicación directa| Estresado | No puede anticipar desvíos o bloqueos; solo reacciona cuando ya hay problemas |
+| Gestión de incidencias  | Coordina desvíos, reemplazos de unidades o modificaciones de ruta en tiempo real | Comunicación directa con choferes  | Estresado   | Falta información en tiempo real para tomar decisiones rápidas y evitar acumulación de retrasos |
+| Comunicación Operativa | Envía actualizaciones a choferes y a otros supervisores | WhatsApp, llamadas telefónicas | Presionado | La comunicación manual provoca demoras y errores de coordinación |
+| Evaluación y reportes  | Al finalizar el turno, debe consolidar incidencias y tiempos de cada ruta | Excel, reportes manuales  | Cansado   | Reunir información manual es lento, propenso a errores y poco útil para mejoras futuras  |
+| Implementación digital | Usa BusTrack para ver todas las rutas en tiempo real, recibir alertas automáticas y coordinar cambios desde el panel | BusTrack web/app, panel supervisor | Aliviado | Mejora su capacidad de reacción, reduce llamadas, aunque requiere adaptar el trabajo diario a la plataforma |
 
 
 
