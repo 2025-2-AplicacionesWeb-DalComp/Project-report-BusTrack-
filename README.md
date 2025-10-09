@@ -783,12 +783,15 @@ Este enfoque asegura que las funcionalidades priorizadas estén alineadas con la
 
 El mapa de impactos busca conectar la visión del sistema mejorar la experiencia de movilidad urbana y optimizar la gestión del transporte público con las necesidades de sus principales actores: pasajeros, empresas de transporte y administradores de la plataforma. De esta manera, se identifican los comportamientos clave que se desean fomentar en cada actor y las funcionalidades específicas que la aplicación debe proveer para hacer posible dichos impactos.
 
-| Objetivo | Actores | Impactos (comportamientos deseados) | Entregables (funcionalidades de BusTrack) |
-|----------|---------|--------------------------------------|-------------------------------------------|
-| Mejorar la experiencia de movilidad urbana y optimizar el transporte público. | Pasajeros (estudiantes, trabajadores, usuarios frecuentes) | - Consultan rutas y horarios antes de salir.<br>- Guardan sus rutas favoritas para acceso rápido.<br>- Califican los viajes para mejorar el servicio. | - Búsqueda de rutas en el mapa.<br>- Visualización de horarios en tiempo real.<br>- Guardado de rutas frecuentes.<br>- Sistema de calificación y feedback. |
-|          | Empresas de transporte (administradores de flota, operadores) | - Supervisan el estado de buses en tiempo real.<br>- Ajustan rutas y horarios con base en datos.<br>- Configuran alertas para incidentes y tráfico. | - Panel de monitoreo en vivo.<br>- Generación de reportes diarios.<br>- Configuración de alertas internas. |
-|          | Plataforma BusTrack (administradores del sistema) | - Garantizan disponibilidad y escalabilidad de la app.<br>- Gestionan cuentas de usuarios y accesos. | - Módulo de registro y autenticación.<br>- Panel de administración del sistema.<br>- Optimización de la infraestructura en la nube. |
-
+| **Objetivos (Business Goal)**                                    |  **Actor**  | **Impact (Cambio esperado)**           | **Deliverables (Acciones del sistema)**        |
+| ---------------------------------------------------------------- | ----------- | -------------------------------------- | ---------------------------------------------- |
+| Lograr 1,000 descargas activas en 6 meses                        | Pasajero    | Descargar y usar la app regularmente   | Landing page atractiva con beneficios claros   |
+| Reducir en 20% el tiempo de espera en 1 año                      | Pasajero    | Consultar rutas antes de salir de casa | Buscador de rutas, visualización de horarios   |
+| Conseguir que 50% de pasajeros activen notificaciones en 3 meses | Pasajero    | Activar notificaciones en la app       | Sistema de alertas de retraso y desvíos        |
+| Lograr que 5 empresas de transporte adopten BusTrack en 8 meses  | Empresa     | Contratar el servicio digital          | Panel de administración de flota y buses       |
+| Generar 50 reportes automáticos en 6 meses                       | Empresa     | Usar reportes para decisiones          | Módulo de reportes de puntualidad y eficiencia |
+| Reducir en 15% las quejas de pasajeros en 1 año                  | Empresa     | Ajustar rutas con base en datos        | Integración de feedback y calificaciones       |
+| Garantizar la seguridad y correcto funcionamiento de la app      | Administrador | Supervisar usuarios y contenidos, prevenir fallos | Gestión de usuarios, configuración de la app, monitoreo de incidencias |
 
 ## 3.4. Product Backlog
 
