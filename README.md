@@ -792,23 +792,24 @@ El mapa de impactos busca conectar la visión del sistema mejorar la experiencia
 
 ## 3.4. Product Backlog
 
-| ID   | User Story                                                                                  | Prioridad | Story Points |
-|------|---------------------------------------------------------------------------------------------|-----------|--------------|
-| US01 | Como pasajero, quiero buscar una ruta en el mapa para encontrar la mejor opción de transporte. | Alta      | 5            |
-| US02 | Como pasajero, quiero visualizar el horario del próximo bus para organizar mi tiempo.        | Alta      | 3            |
-| US03 | Como pasajero, quiero guardar mis rutas frecuentes para acceder más rápido a ellas.          | Media     | 2            |
-| US04 | Como pasajero, quiero ver la ubicación del bus en el mapa para saber cuánto tardará en llegar. | Alta      | 5            |
-| US05 | Como pasajero, quiero recibir notificaciones si hay un retraso para ajustar mi plan de viaje. | Alta      | 3            |
-| US06 | Como pasajero, quiero recibir alertas si un bus cambia de ruta para evitar confusiones.      | Media     | 3            |
-| US07 | Como administrador de flota, quiero monitorear en tiempo real la ubicación de mis buses para asegurar la puntualidad. | Alta      | 5 |
-| US08 | Como administrador de flota, quiero generar reportes diarios de eficiencia para mejorar el servicio. | Media     | 3 |
-| US09 | Como administrador de flota, quiero configurar alertas de tráfico para reaccionar rápidamente a incidentes. | Media     | 2 |
-| US10 | Como nuevo pasajero, quiero registrarme en la aplicación para personalizar mis rutas.        | Alta      | 3            |
-| US11 | Como pasajero, quiero calificar el servicio después de mi viaje para contribuir a la mejora. | Baja      | 2            |
-| US12 | Como pasajero, quiero editar mis datos personales para mantener mi información actualizada.  | Baja      | 2            |
-| US13 | Como visitante de la web, quiero ver información concisa de la solución para convencerme de volverme un usuario frecuente.        | Alta      | 3            |
-| US14 | Como visitante de la web interesado en solución de rutas, quiero conocer los beneficios de la aplicación para entender la utilidad que tendría en mi vida. | Media      | 3            |
-| US15 | Como visitante de la web quiero conocer la misión y visión de la empresa para saber si se orienta a mis necesidades.  | Media      | 2            |
+| # Orden | User Story Id | Título                            | Descripción                                                                                                                | Story Points |
+| ------- | ------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1       | US-01         | Buscar rutas                      | Como pasajero, quiero buscar una ruta en el mapa para encontrar la mejor opción de transporte.                             | 3            |
+| 2       | US-02         | Visualizar horarios               | Como pasajero, quiero visualizar el horario del próximo bus para organizar mi tiempo.                                      | 2            |
+| 3       | US-03         | Guardar rutas frecuentes          | Como pasajero, quiero guardar mis rutas frecuentes para acceder más rápido a ellas.                                        | 3            |
+| 4       | US-04         | Ver ubicación del bus             | Como pasajero, quiero ver la ubicación del bus en el mapa para saber cuánto tardará en llegar.                             | 5            |
+| 5       | US-05         | Recibir notificaciones de retraso | Como pasajero, quiero recibir notificaciones si hay un retraso para ajustar mi plan de viaje.                              | 5            |
+| 6       | US-06         | Alertas de desvío                 | Como pasajero, quiero recibir alertas si un bus cambia de ruta para evitar confusiones.                                    | 5            |
+| 7       | US-07         | Monitorear buses en ruta          | Como administrador de flota, quiero monitorear en tiempo real la ubicación de mis buses para asegurar la puntualidad.      | 5            |
+| 8       | US-08         | Generar reportes diarios          | Como administrador de flota, quiero generar reportes diarios de eficiencia para mejorar el servicio.                       | 8            |
+| 9       | US-09         | Configurar alertas internas       | Como administrador de flota, quiero configurar alertas de tráfico para reaccionar rápidamente a incidentes.                | 5            |
+| 10      | US-10         | Registro de usuario               | Como nuevo pasajero, quiero registrarme en la aplicación para personalizar mis rutas.                                      | 3            |
+| 11      | US-11         | Calificar servicio                | Como pasajero, quiero calificar el servicio después de mi viaje para contribuir a la mejora.                               | 2            |
+| 12      | US-12         | Editar perfil                     | Como pasajero, quiero editar mis datos personales para mantener mi información actualizada.                                | 3            |
+| 13      | US-13         | Información de la solución        | Como visitante de la web, quiero ver información concisa de la solución para convencerme de volverme un usuario frecuente. | 2            |
+| 14      | US-14         | Beneficios de la aplicación       | Como visitante de la web, quiero conocer los beneficios de la aplicación para entender su utilidad en mi vida.             | 2            |
+| 15      | US-15         | Misión y visión                   | Como visitante de la web, quiero conocer la misión y visión de la empresa para saber si se orienta a mis necesidades.      | 1            |
+
 
 
 <br><br>
