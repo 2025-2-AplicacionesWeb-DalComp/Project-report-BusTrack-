@@ -1299,14 +1299,92 @@ Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 
 
 ### 4.6.3. Software Architecture Container Diagrams
+
 La arquitectura de BusTrack adopta un estilo modular orientado a servicios, combinando una PWA en el frontend con un Backend API centralizado y un servicio de tiempo real basado en eventos. También, se emplea un enfoque event-driven para las notificaciones y actualizaciones de posición, mientras que las operaciones CRUD se gestionan mediante REST. El componente de Fleet Data Ingestion aplica un patrón de data normalization pipeline para procesar datos de GPS en distintos formatos provenientes de las empresas de transporte.
 
-<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Container%20Diagrams.png" style="width: 700px; margin-right: 700px;"/>
+<img src="" style="width: 700px; margin-right: 700px;"/>
+
+**Leyenda**
+
+<img src="" style="width: 700px; margin-right: 700px;"/>
 
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Components%20Diagrams.png" style="width: 900px; margin-right: 900px;"/>
+Cada contenedor del sistema BusTrack se descompone en componentes que implementan sus principales responsabilidades internas. A continuación se presentan los diagramas de componentes correspondientes a la Aplicación Web (PWA), el Backend API, el Servicio en Tiempo Real y el módulo de Ingesta de Datos de Flota.
+
+**Web App (PWA)**
+
+La PWA gestiona la interfaz del usuario final y las vistas operativas para pasajeros y personal de transporte.
+
+- BuscarRutasView: búsqueda y visualización de rutas.
+- ParaderoDetalleView: muestra información de paraderos.
+- MapaInteractivo: renderiza rutas y ubicaciones.
+- ApiClient: comunica con el Backend API (HTTP REST).
+- ClientTiempoReal: suscripción WebSocket con el Servicio en Tiempo Real.
+- AuthUI y SesionStore: control de autenticación y persistencia de sesión.
+- AjustesNotificaciones: permisos para recibir alertas push.
+- RouterSPA: navegación interna entre vistas.
+
+<img src="img/commons/WebAppComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+**Leyenda**
+
+<img src="img/commons/Leyenda WebAppComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+
+**Backend API**
+
+La API central implementa la lógica de negocio siguiendo una arquitectura por capas:
+
+- Controladores (Controller): gestionan endpoints REST (AuthController, BuscarRutasController, ParaderosController, AlertasController).
+- Servicios (Service): encapsulan la lógica (RutasService, ParaderosService, AuthService, AlertasService).
+-Repositorios (Repository): abstraen el acceso a datos (RutasRepository, ParaderosRepository, UsuariosRepository).
+-Infraestructura (Infrastructure): integraciones externas (MapsGateway, ATUGateway, PushGateway, CacheAdapter, ORMAdapter).
+
+Los controladores reciben solicitudes HTTP, delegan en los servicios y retornan respuestas JSON. Los servicios pueden consultar APIs externas, cachear resultados o emitir eventos.
+
+<img src="img/commons/BackendApiComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+**Leyenda**
+
+<img src="img/commons/Leyenda BackendApiComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+
+**Real-time Service**
+
+Este servicio maneja la comunicación asincrónica con los clientes mediante WebSockets.
+
+- GatewayWebSocket: gestiona las conexiones y salas de suscripción por ruta.
+- AuthWSMiddleware: valida tokens JWT antes de permitir conexión.
+- SuscriptorEventos: consume eventos de posición desde el sistema de ingesta.
+- PublicadorActualizaciones: difunde mensajes bus:update a los clientes conectados.
+
+Se comunica de manera asincrónica (MQ) con la ingesta y bidireccional (WebSocket) con la PWA.
+
+<img src="img/commons/RealTimeComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+**Leyenda**
+
+<img src="img/commons/LeyendaRealTimeComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+
+**Fleet Data Ingestion**
+
+Este módulo procesa y normaliza la telemetría proveniente de distintas empresas de transporte.
+
+- ConectorProveedorA/B: adaptadores específicos para cada fuente de datos.
+- NormalizadorPosiciones: unifica formatos de GPS.
+- ValidadorTelemetria: filtra datos inválidos.
+- PublicadorEventos: emite eventos PosicionActualizada hacia el sistema de tiempo real.
+
+<img src="img/commons/IngestionComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+**Leyenda**
+
+<img src="img/commons/LeyendaIngestionComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+
 
 ## 4.7. Software Object-Oriented Design
 
