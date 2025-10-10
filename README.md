@@ -2183,9 +2183,9 @@ Para este sprint, las tareas de diseño, implementación y documentación del fr
 - #Network Graph#<br>
   [![Evidencia-1.png](https://i.postimg.cc/904XZpVL/Evidencia-1.png)](https://postimg.cc/5QVMM8Xz)<br>
 - #Code Frequency#<br>
-
+  [![Captura-de-pantalla-2025-10-10-122844.png](https://i.postimg.cc/gcwvhGZD/Captura-de-pantalla-2025-10-10-122844.png)](https://postimg.cc/5jVYddpY)<br>
 - #Contribuitors#<br>
-
+  [![imagen-2025-10-10-123119424.png](https://i.postimg.cc/9FntSrj2/imagen-2025-10-10-123119424.png)](https://postimg.cc/KRtM3czp)<br>
 <br><br>
 
 
