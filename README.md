@@ -2036,6 +2036,17 @@ De esta manera, se asegura que el **producto inicial** esté operativo y sirva c
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que otros miembros del equipo cumplen roles de **colaboración (C)** para asegurar que el desarrollo cumpla con los objetivos del sprint 2.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Login, Sign In y Home** | **Sección "Notificaciones"** | **Sección "Perfil"** | **Sección "Paraderos Cercanos"** | **Sección "Buscar Ruta"** |
+|-----------------------------------------|-----------------------|--------------------------------------|-----------------------------|--------------------------|-----------------------------|------------------------------------|
+| Mathias Andree Cárdenas Huaman          | AndS56                | C                                    | L                           | C                        | C                           | C                                  |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                    | C                           | L                        | C                           | C                                  |
+| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                    | C                           | C                        | L                           | C                                  |
+| Joaquin Alberto Cuentas Peña            | JoaCUPE               | C                                    | C                           | C                        | C                           | L                                  |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | L                                    | C                           | C                        | C                           | C                                  |
+
+
 #### 5.2.2.3. Sprint Backlog 2
 
 ## Sprint Backlog 2
