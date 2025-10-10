@@ -2198,6 +2198,12 @@ En esta sección, se presentan los commits realizados en el repositorio report-B
 
 Durante este Sprint, nos enfocamos en el desarrollo del frontend del sistema web **BusTrack** utilizando **WebStorm** y siguiendo los principios de **Domain-Driven Design (DDD)** para organizar la estructura y responsabilidades del sistema. El objetivo principal de este Sprint fue implementar vistas funcionales que brinden a los usuarios una experiencia clara y amigable.  
 
+- **Crear Cuenta:**
+<img src="img/commons/CreateAccount.jpeg" alt="Buscar ruta BusTrack" width="600">
+
+- **Log In:**
+<img src="img/commons/LogIn.jpeg" alt="Buscar ruta BusTrack" width="600">
+
 - **Buscar Ruta:**
 <img src="https://i.postimg.cc/DzNCGp8x/buscar-ruta-bustrack.jpg" alt="Buscar ruta BusTrack" width="600">
   
