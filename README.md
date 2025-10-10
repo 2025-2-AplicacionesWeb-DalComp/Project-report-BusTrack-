@@ -1791,8 +1791,8 @@ De esta manera, se asegura que el **producto inicial** esté operativo y sirva c
 | **Sprint n – 1 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
 | **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
 | **Sprint 1 Goal**                  | Diseñar los **wireframes** del proyecto y desarrollar y desplegar la **landing page** funcional en **GitHub Pages**, garantizando que cumpla con los requisitos básicos de diseño. |
-| **Sprint 1 Velocity**              | 8                                                                                                                                                          |
-| **Sum of Story Points**            | 8                                                                                                                                                          |
+| **Sprint 1 Velocity**              | 10                                                                                                                                                          |
+| **Sum of Story Points**            | 21                                                                                                                                                          |
 
 
 
