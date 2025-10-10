@@ -1302,11 +1302,11 @@ Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 
 La arquitectura de BusTrack adopta un estilo modular orientado a servicios, combinando una PWA en el frontend con un Backend API centralizado y un servicio de tiempo real basado en eventos. También, se emplea un enfoque event-driven para las notificaciones y actualizaciones de posición, mientras que las operaciones CRUD se gestionan mediante REST. El componente de Fleet Data Ingestion aplica un patrón de data normalization pipeline para procesar datos de GPS en distintos formatos provenientes de las empresas de transporte.
 
-<img src="" style="width: 700px; margin-right: 700px;"/>
+<img src="img/commons/4.6.3. Software Architecture Container Diagrams.png" style="width: 700px; margin-right: 700px;"/>
 
 **Leyenda**
 
-<img src="" style="width: 700px; margin-right: 700px;"/>
+<img src="img/commons/Leyenda- Software Architecture Container Diagrams.png" style="width: 700px; margin-right: 700px;"/>
 
 
 ### 4.6.4. Software Architecture Components Diagrams
