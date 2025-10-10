@@ -2269,10 +2269,10 @@ Primero, nos aseguramos de que el código de la aplicación estuviera en GitHub 
 ## 2. Conectamos el Proyecto a Vercel
 Luego, creamos una cuenta en Vercel y conectamos nuestro repositorio de GitHub. Vercel fue lo suficientemente inteligente como para reconocer que era una aplicación de Vue/Vite y preparó casi todo automáticamente.
 
-## 3. Usamos un Secreto para la URL
+## 3. Paso
 Para que la URL de la API no estuviera escrita directamente en el código, la guardamos como un "secreto" (una variable de entorno) en Vercel. Luego, le dijimos a nuestro código que leyera ese secreto. Así, si la URL cambia en el futuro, solo la actualizamos en Vercel sin tocar el código.
 
-## 4. ¡Listo y en Automático!
+## 4. Paso
 Finalmente, con todo configurado, volvimos a desplegar. Vercel nos dio un enlace público a nuestra aplicación y activó el "despliegue continuo". Esto significa que ahora, cada vez que actualicemos el código y lo subamos a GitHub, Vercel reconstruirá y actualizará el sitio web automáticamente.
 
 link: https://bustrackfront.vercel.app/
