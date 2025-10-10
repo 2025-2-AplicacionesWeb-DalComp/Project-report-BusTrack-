@@ -1303,7 +1303,7 @@ En esta sección se muestra cómo se organiza BusTrack en contenedores de alto n
 
 ### 4.7.1. Class Diagrams
 
- ![Rosa Palacios](img/commons/classDiagram.png) 
+<img src="/img/commons/classDiagram.png" style="width: 900px; margin-right: 900px;"/>
 
 ### 4.7.2. Class Dictionary
 
