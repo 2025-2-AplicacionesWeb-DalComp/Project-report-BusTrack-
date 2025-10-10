@@ -275,10 +275,10 @@ Pregunta clave de diseño:
 ## ¿Quién es el usuario?
 
 **Primarios:**  
-- Pasajeros frecuentes (estudiantes, trabajadores, familias).  
+Pasajeros frecuentes (estudiantes, trabajadores, familias).  
 
 **Secundarios:**  
-- Empresas de transporte que necesitan gestionar sus unidades.  
+Empresas de transporte que necesitan gestionar sus unidades.  
 
 ---
 
@@ -293,8 +293,8 @@ Pregunta clave de diseño:
 
 ## User Outcomes esperados
 
-- Los pasajeros planifican sus viajes con mayor confianza y menos estrés.  
-- Los operadores optimizan el control de sus flotas y mejoran su reputación.
+Los pasajeros planifican sus viajes con mayor confianza y menos estrés.  
+Los operadores optimizan el control de sus flotas y mejoran su reputación.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
