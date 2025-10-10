@@ -2263,10 +2263,10 @@ Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) desarr
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-## 1. Preparamos el Código
+## 1. Paso
 Primero, nos aseguramos de que el código de la aplicación estuviera en GitHub y le cambiamos la dirección de la API, para que en lugar de buscar los datos en nuestra propia computadora (localhost), los buscara en la dirección pública del servidor que ya habíamos desplegado en Render.
 
-## 2. Conectamos el Proyecto a Vercel
+## 2. Paso
 Luego, creamos una cuenta en Vercel y conectamos nuestro repositorio de GitHub. Vercel fue lo suficientemente inteligente como para reconocer que era una aplicación de Vue/Vite y preparó casi todo automáticamente.
 
 ## 3. Paso
