@@ -2008,6 +2008,13 @@ La **implementación y despliegue** de la landing page fue llevada a cabo por **
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 1
+# Segundo Sprint - Planificación
+
+El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del segundo sprint, el cual tendrá una duración de **una semana**.  
+
+El enfoque principal será el **desarrollo y despliegue del front end** del proyecto. Para ello, se deberán crear los **diseños previos** como *wireframes* y *mockups*, así como desplegar la *landing page*.
+
+De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
