@@ -36,22 +36,16 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 |  |  |  |  |
-| TB1 | 14/09 | Andree Cardenas | Desarrollo del capitulo 3 del informe |
-| TB1 | 15/09 | Andree Cardenas | Desarrollo de los 4.1. y 4.2. |
-| TB1 | 18/09 | Andree Cardenas | Revisión y corrección del Capítulo 2 |
-| TB1 | 8/09 | Fátima Florez | Desarrollo del capitulo 1 del informe |
-| TB1 | 13/09 | Fátima Florez | Desarrollo de los wireframes y mock-up de landing y web page |
-| TB1 | 18/09 | Fátima Florez | Desarrollo de las entrevistas a empresas de transporte urbano y los puntos 4.6, 4.6.1, 4.6.2 y 4.6.3 |
-| TB1 | 15/09 | Joaquin Cuentas | Desarrollo y desplieque de la landing page |
-| TB1 | 18/09 | Joaquin Cuentas | Desarrollo de la capa de datos |
-| TB1 | 20/09 | Joaquin Cuentas | Desarrollo del capítulo 5 |
-| TB1 | 16/09 | Diego Andres | Desarrolo del capitulo 1 |
-| TB1 | 16/09 | Diego Andres | Desarrolo de los puntos 2.3.2 y 2.3.3 |
-| TB1 | 09/09 | Diego Avalos | Desarrollo de los competidores y analisis de entrevistas |
-| TB1 | 12/09 | Elizabeth Apaza | Desarrollo de 1.2.2.1, 1.2.2.2 y 1.2.2.3 |
-| TB1 | 14/09 | Elizabeth Apaza | Avance en 2.2.1, 2.2.2 y 2.3.1 |
-| TB1 | 19/09 | Elizabeth Apaza | Desarrollo de 2.3.4, 4.7.1 y 4.7.2 |
-
+| TP | 09/10 | Andree Cardenas | Desarrollo del 5.2.2.8. | 
+| TP | 06/10 | Andree Cardenas | Desarrollo del apartado de perfil del fronted |
+| TP | 05/09 | Fátima Florez | Desarrollo del inicio del fronted |
+| TP | 09/09 | Fátima Florez | Desarrollo del 5.2.2.4 |
+| TP | 07/09 | Joaquin Cuentas | Desarrollo de la primera interfaz luego del inicio |
+| TP | 09/09 | Joaquin Cuentas | Desarrollo 5.2.2.2. y 5.2.2.7. |
+| TP | 07/09 | Diego Andres | Desarrollo del apartado de paraderos cercanos del fronted |
+| TP | 09/09 | Diego Andres | Desarrollo del 5.2.2.5. y 5.2.2.6. |
+| TP | 06/09 | Elizabeth Apaza | Desarrollo del apartado de perfil del fronted |
+| TP | 09/09 | Elizabeth Apaza | Sprint Planning 2 y Sprint Backlog 2 |
 </div>
 
 <br><br>
@@ -1262,7 +1256,7 @@ Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20User%20Flow%20Diagrams.png" alt="Web Applications User Flow Diagrams" style="width: 700px; margin-right: 700px;"/>
+[![imagen-2025-10-10-095403230.png](https://i.postimg.cc/bYsmFNHr/imagen-2025-10-10-095403230.png)](https://postimg.cc/Hj10rmN1)
 
 ## 4.5. Web Applications Prototyping
 En esta sección se simula la navegación e interacción del usuario con la plataforma. Los diseños reflejan los flujos definidos en los User Flow Diagrams, priorizando la claridad, la usabilidad y la consistencia visual.
