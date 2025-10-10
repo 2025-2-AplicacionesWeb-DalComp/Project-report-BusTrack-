@@ -1791,8 +1791,8 @@ De esta manera, se asegura que el **producto inicial** esté operativo y sirva c
 | **Sprint n – 1 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
 | **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
 | **Sprint 1 Goal**                  | Diseñar los **wireframes** del proyecto y desarrollar y desplegar la **landing page** funcional en **GitHub Pages**, garantizando que cumpla con los requisitos básicos de diseño. |
-| **Sprint 1 Velocity**              | 10                                                                                                                                                          |
-| **Sum of Story Points**            | 21                                                                                                                                                          |
+| **Sprint 1 Velocity**              | 8                                                                                                                                                          |
+| **Sum of Story Points**            | 8                                                                                                                                                          |
 
 
 
@@ -2030,8 +2030,8 @@ De esta manera, se asegura que el **producto inicial** esté operativo y sirva c
 | **Sprint n – 2 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
 | **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
 | **Sprint 2 Goal**                  | Desarrollar y desplegar el frontend de la aplicación web en GitHub Pages, implementando los diseños de los mock-ups previamente creados y garantizando que cumpla con los requisitos de interactividad, diseño responsive y experiencia de usuario. |
-| **Sprint 2 Velocity**              | 8                                                                                                                                                          |
-| **Sum of Story Points**            | 8                                                                                                                                                          |
+| **Sprint 2 Velocity**              | 10                                                                                                                                                          |
+| **Sum of Story Points**            | 21                                                                                                                                                          |
 
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
@@ -2065,6 +2065,7 @@ El objetivo principal de este sprint es **diseñar y maquetar las pantallas prin
 | US06           | Alertas de desvío                   | T21         | Mostrar mensaje de falta de conexión                     | Agregar mensaje cuando no se pueda mostrar alerta (simulado).                                  | 1                       | Diego Avalos       | done     |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
+En esta sección, se presentan los commits realizados en el repositorio report-BusTrack, correspondiente al entregable de la TP.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
