@@ -1955,18 +1955,18 @@ Durante el primer sprint, desarrollamos y desplegamos la **landing page** del pr
 
 1. **Creación de la Organización BusTrack**  
    Iniciamos creando una organización que albergará los repositorios del proyecto, entre ellos el de la landing page.
-   ![deploy1](img/deploy1.png)
+   [![deploy1](https://i.postimg.cc/VvDKXqs6/imagen-2025-10-10-084539146.png)](https://postimg.cc/WqqmvJkL)
 
 
 3. **Creación del Repositorio en GitHub**  
    Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
-   ![deploy2](img/deploy2.png)
+   [![deploy2](https://i.postimg.cc/Kv0WT24t/imagen-2025-10-10-084506760.png)](https://postimg.cc/TpWQ8BVP)
 
 
 5. **Despliegue Automático**  
    Accedemos a la opción de settings y posteriormente de pages. Configuramos el nombre de la web y le damos siguiente. GitHubdesplegó la landing page en la URL proporcionada por GitHub Pages.
    Link: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
-   ![deploy3](img/deploy3.png)
+   [![deploy3](https://i.postimg.cc/R0629DSd/imagen-2025-10-10-084441748.png)](https://postimg.cc/TyxtJQW5)
 
 
 
@@ -1980,28 +1980,28 @@ Para este sprint, las tareas de **diseño, implementación y documentación** de
 
 La **implementación y despliegue** de la landing page fue llevada a cabo por **Joaquin Cuentas**.  
 
-* Evidencias del repositorio de la landing page
-   ![insights1](img/insights1.png)
+* Evidencias del repositorio de la landing page<br>
+   [![insights1](https://i.postimg.cc/52nfjTMc/imagen-2025-10-10-084323600.png)](https://postimg.cc/VJrxV764)
 
 
 
-* Evidencias del repositorio del informe
-   ![insights2](img/insights2.png)
+* Evidencias del repositorio del informe<br>
+   [![insights2](https://i.postimg.cc/G2BLWQNF/imagen-2025-10-10-084302968.png)](https://postimg.cc/DJT3sq70)
 
 
 
-* Network Graph
-   ![insights3](img/insights3.png)
+* Network Graph<br>
+   [![insights3](https://i.postimg.cc/NF9cnjK4/imagen-2025-10-10-084158362.png)](https://postimg.cc/CngXBYHB)
 
 
 
-* Code Frequency
-   ![insights4](img/insights4.png)
+* Code Frequency<br>
+   [![insights4](https://i.postimg.cc/9QGWV0Lm/imagen-2025-10-10-084143723.png)](https://postimg.cc/nXh8GF8g)<br>
 
 
 
-* Contribuitors
-   ![insights5](img/insights5.png)
+* Contribuitors<br>
+   [![insights5](https://i.postimg.cc/jj0LQBkB/imagen-2025-10-10-084016026.png)](https://postimg.cc/w12q94zk)<br>
 
 <br><br>
 
