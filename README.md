@@ -2016,6 +2016,24 @@ El enfoque principal será el **desarrollo y despliegue del front end** del proy
 
 De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
 
+
+# Sprint 1 - Planning Background
+
+| **Elemento**                       | **Detalle**                                                                                                                                               |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2025/10/06                                                                                                                                                |
+| **Time**                           | 20:00 PM                                                                                                                                                   |
+| **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
+| **Prepared by**                    | Todos los integrantes de DalComp                                                                                                                             |
+| **Attendees (to planning meeting)**| Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
+| **Sprint n – 1 Review Summary**    | Se diseñarón **wireframes** y se desarrollará la **landing page** en **HTML y CSS**.                                              |
+| **Sprint n – 1 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
+| **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
+| **Sprint 2 Goal**                  | Diseñar el **frontend** del proyecto, incluyendo las secciones "Inicio", "Buscar Ruta", "Notificaciones", "Paraderos Cercanos" y "Perfil".Además, implementar el **inicio de sesión** y el **registro del usuario**, incorporando **i18n** para las traducciones, así como la implementación de una API simulada (fake API). |
+| **Sprint 1 Velocity**              | 8                                                                                                                                                          |
+| **Sum of Story Points**            | 8                                                                                                                                                          |
+
+
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
 #### 5.2.2.3. Sprint Backlog 1
