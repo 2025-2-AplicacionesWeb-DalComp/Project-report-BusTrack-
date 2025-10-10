@@ -173,9 +173,6 @@
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 <br><br>
-# Student Outcome
-
-<div align="center">
 
 ### *ABET – EAC - Student Outcome 5*
 
