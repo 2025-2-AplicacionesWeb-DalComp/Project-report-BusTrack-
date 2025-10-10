@@ -1298,7 +1298,7 @@ Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 
 
 ### 4.6.3. Software Architecture Container Diagrams
-En esta sección se muestra cómo se organiza BusTrack en contenedores de alto nivel y sus interacciones. La arquitectura incluye el frontend (PWA), servicios de backend (API), la ingesta de datos de flota y el envío de notificaciones, soportados por una base de datos y un sistema de caché. También se integran sistemas externos como mapas y proveedores de notificaciones, garantizando información confiable y en tiempo real.
+La arquitectura de BusTrack adopta un estilo modular orientado a servicios, combinando una PWA en el frontend con un Backend API centralizado y un servicio de tiempo real basado en eventos. También, se emplea un enfoque event-driven para las notificaciones y actualizaciones de posición, mientras que las operaciones CRUD se gestionan mediante REST. El componente de Fleet Data Ingestion aplica un patrón de data normalization pipeline para procesar datos de GPS en distintos formatos provenientes de las empresas de transporte.
 
 <img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Software%20Architecture%20Container%20Diagrams.png" style="width: 700px; margin-right: 700px;"/>
 
