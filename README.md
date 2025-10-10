@@ -2021,7 +2021,7 @@ De esta manera, se asegura que el **producto inicial** esté operativo y sirva c
 
 | **Elemento**                       | **Detalle**                                                                                                                                               |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Date**                           | 2025/09/06                                                                                                                                                |
+| **Date**                           | 2025/10/06                                                                                                                                                |
 | **Time**                           | 20:00 PM                                                                                                                                                   |
 | **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
 | **Prepared by**                    | Todos los integrantes de DalComp                                                                                                                               |
@@ -2178,6 +2178,16 @@ Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) desarr
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para este sprint, las tareas de diseño, implementación y documentación del frounted se distribuyeron entre todos los integrantes del equipo.
+
+- #Evidencias del repositorio del fronted:#<br>
+  [![Evidencia.png](https://i.postimg.cc/G3ZTzBNM/Evidencia.png)](https://postimg.cc/V5WNkNzM)<br>
+- #Network Graph#<br>
+  [![Evidencia-1.png](https://i.postimg.cc/904XZpVL/Evidencia-1.png)](https://postimg.cc/5QVMM8Xz)<br>
+- #Code Frequency#<br>
+
+- #Contribuitors#<br>
 
 <br><br>
 
