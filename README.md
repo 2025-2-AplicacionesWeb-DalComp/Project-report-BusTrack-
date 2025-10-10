@@ -2008,35 +2008,61 @@ La **implementación y despliegue** de la landing page fue llevada a cabo por **
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 1
-# Segundo Sprint - Planificación
 
-El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del segundo sprint, el cual tendrá una duración de **una semana**.  
+# Primer Sprint - Planificación
 
-El enfoque principal será el **desarrollo y despliegue del front end** del proyecto. Para ello, se deberán crear los **diseños previos** como *wireframes* y *mockups*, así como desplegar la *landing page*.
+El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tendrá una duración de **una semana**.  
+
+El enfoque principal será el **desarrollo y despliegue del fontend de la aplicación** del proyecto en **GitHub Pages**. Para ello, se deberán crear los **diseños previos** como *wireframes* y *mockups*.  
 
 De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
 
-
-# Sprint 1 - Planning Background
+# Sprint 2 - Planning Background
 
 | **Elemento**                       | **Detalle**                                                                                                                                               |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Date**                           | 2025/10/06                                                                                                                                                |
+| **Date**                           | 2025/09/06                                                                                                                                                |
 | **Time**                           | 20:00 PM                                                                                                                                                   |
 | **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
-| **Prepared by**                    | Todos los integrantes de DalComp                                                                                                                             |
+| **Prepared by**                    | Todos los integrantes de DalComp                                                                                                                               |
 | **Attendees (to planning meeting)**| Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
-| **Sprint n – 1 Review Summary**    | Se diseñarón **wireframes** y se desarrollará la **landing page** en **HTML y CSS**.                                              |
-| **Sprint n – 1 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
+| **Sprint n – 2 Review Summary**    | Se implementará el frontend de la aplicación web, desarrollando la interfaz de usuario con HTML, CSS y JavaScript para la segunda entrega                   |
+| **Sprint n – 2 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
 | **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
-| **Sprint 2 Goal**                  | Diseñar el **frontend** del proyecto, incluyendo las secciones "Inicio", "Buscar Ruta", "Notificaciones", "Paraderos Cercanos" y "Perfil".Además, implementar el **inicio de sesión** y el **registro del usuario**, incorporando **i18n** para las traducciones, así como la implementación de una API simulada (fake API). |
-| **Sprint 2 Velocity**              | 10                                                                                                                                                          |
+| **Sprint 2 Goal**                  | Desarrollar y desplegar el frontend de la aplicación web en GitHub Pages, implementando los diseños de los mock-ups previamente creados y garantizando que cumpla con los requisitos de interactividad, diseño responsive y experiencia de usuario. |
+| **Sprint 2 Velocity**              | 8                                                                                                                                                          |
 | **Sum of Story Points**            | 8                                                                                                                                                          |
 
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-#### 5.2.2.3. Sprint Backlog 1
+#### 5.2.2.3. Sprint Backlog 2
+
+## Sprint Backlog 2
+
+En esta sección se presenta el **Sprint Backlog 2**, correspondiente al segundo ciclo de desarrollo del proyecto.  
+
+El objetivo principal de este sprint es **diseñar y maquetar las pantallas principales relacionadas con la búsqueda de rutas, visualización de horarios y alertas**, simulando los flujos principales que luego serán conectados al backend en sprints futuros.
+
+---
+
+### Sprint Backlog 2 - User Stories y Tareas
+
+| **User Story** | **Title**                        | **Task ID** | **Task Title**                                         | **Description**                                                                                 | **Estimation (hours)** | **Assigned to**    | **Status** |
+|----------------|------------------------------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------|--------------------|------------|
+| US01           | Buscar rutas                       | T09         | Diseñar interfaz de búsqueda de rutas                   | Crear pantalla con campos de “origen” y “destino” y botón de búsqueda.                          | 3                       | Mathia Cárdenas    | to do     |
+| US01           | Buscar rutas                       | T10         | Implementar estado de resultado de búsqueda             | Simular resultado de rutas disponibles en lista o tarjetas.                                     | 3                       | Diego Avalos       | to do     |
+| US01           | Buscar rutas                       | T11         | Mostrar mensaje de “Ruta no encontrada”                 | Mostrar mensaje de error si no hay resultado simulado.                                          | 1                       | Fátima Florez      | to do     |
+| US02           | Visualizar horarios                 | T12         | Crear componente de horarios                            | Diseñar vista con horarios simulados para una ruta seleccionada.                                | 3                       | Joaquin Cuentas    | to do     |
+| US02           | Visualizar horarios                 | T13         | Simular mensajes de horarios no disponibles             | Mostrar mensaje “Horarios no disponibles” cuando no haya datos simulados.                       | 1                       | Diego Avalos       | to do     |
+| US03           | Guardar rutas frecuentes            | T14         | Añadir botón “Guardar ruta”                             | Crear botón de acción visual para guardar ruta (sin conexión real).                             | 2                       | Elizabeth Apaza    | to do     |
+| US03           | Guardar rutas frecuentes            | T15         | Mostrar mensaje de validación                           | Simular validación de ruta duplicada mediante mensajes en pantalla.                             | 1                       | Mathia Cárdenas    | to do     |
+| US04           | Ver ubicación del bus               | T16         | Integrar mapa embebido (mock)                            | Incluir un mapa estático o marcador simulado de ubicación.                                      | 3                       | Diego Avalos       | to do     |
+| US04           | Ver ubicación del bus               | T17         | Mostrar mensaje de “Ubicación no disponible”            | Mensaje visible cuando no hay información (sin lógica real).                                   | 1                       | Fátima Florez      | to do     |
+| US05           | Recibir notificaciones de retraso   | T18         | Crear UI para alertas de retraso                         | Maquetar componente visual de notificación o modal.                                            | 2                       | Joaquin Cuentas    | to do     |
+| US05           | Recibir notificaciones de retraso   | T19         | Simular alerta desactivada                              | Mostrar estado visual cuando las notificaciones están “desactivadas”.                           | 1                       | Mathia Cárdenas    | to do     |
+| US06           | Alertas de desvío                   | T20         | Maquetar UI para alertas de desvío                       | Crear interfaz visual que muestre alerta de cambio de ruta.                                     | 2                       | Elizabeth Apaza    | to do     |
+| US06           | Alertas de desvío                   | T21         | Mostrar mensaje de falta de conexión                     | Agregar mensaje cuando no se pueda mostrar alerta (simulado).                                  | 1                       | Diego Avalos       | to do     |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
