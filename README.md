@@ -2078,6 +2078,42 @@ El objetivo principal de este sprint es **diseñar y maquetar las pantallas prin
 #### 5.2.2.4. Development Evidence for Sprint Review
 En esta sección, se presentan los commits realizados en el repositorio report-BusTrack, correspondiente al entregable de la TP.
 
+
+| Repository                        | Branch                  | Commit Message                                 | Commited on  |
+|------------------------------------|-------------------------|------------------------------------------------|--------------|
+| JoaCUPE/BusTrack-Frontend | main    | initial commit  | 06/10/2025   |
+| JoaCUPE/BusTrack-Frontend | main    | feat: Create a new front repository  | 06/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Delete BusTrack-Frontend/src  | 09/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Delete BusTrack-Frontend/server  | 09/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Add files via upload  | 09/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Create extensions.json  | 09/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | feat: Create a new front repository  | 09/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update MainToolbar.vue  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update layout.vue  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update en.json  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update es.json  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | add publishing  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update profile.vue  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update App.vue  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update main.js  | 10/10/2025   |
+| AndS56/BusTrack-Frontend | develop    | Update router.js  | 10/10/2025   |
+| Elizabeth-Apaza/BusTrack-Frontend | develop    | add notifications.vue travel-history.vue  | 10/10/2025   |
+| Elizabeth-Apaza/BusTrack-Frontend | develop    | Delete BusTrack-Frontend/src directory  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Update en.json  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Update es.json  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create LoginForm.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create RegisterForm.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create HomePage.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create LoginPage.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create RegisterPage.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Add files via upload  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create Card.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create LocationBadge.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create MapEmbed.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Create TopNav.vue  | 10/10/2025   |
+| PengwinKingdom/BusTrack-Frontend | develop    | Update router.js  | 10/10/2025   |
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 Durante este Sprint, nos enfocamos en el desarrollo del frontend del sistema web **BusTrack** utilizando **WebStorm** y siguiendo los principios de **Domain-Driven Design (DDD)** para organizar la estructura y responsabilidades del sistema. El objetivo principal de este Sprint fue implementar vistas funcionales que brinden a los usuarios una experiencia clara y amigable.  
