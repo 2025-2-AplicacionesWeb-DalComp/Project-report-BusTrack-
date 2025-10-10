@@ -2080,7 +2080,64 @@ En esta sección, se presentan los commits realizados en el repositorio report-B
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Durante este Sprint, nos enfocamos en el desarrollo del frontend del sistema web **BusTrack** utilizando **WebStorm** y siguiendo los principios de **Domain-Driven Design (DDD)** para organizar la estructura y responsabilidades del sistema. El objetivo principal de este Sprint fue implementar vistas funcionales que brinden a los usuarios una experiencia clara y amigable.  
+
+- **Buscar Ruta:**
+<img src="https://i.postimg.cc/DzNCGp8x/buscar-ruta-bustrack.jpg" alt="Buscar ruta BusTrack" width="600">
+  
+- **Notificaciones:**
+<img src="https://i.postimg.cc/0QmTZKMf/notificaciones-bustrack.jpg" alt="Notificaciones1 BusTrack" width="600">
+<img src="https://i.postimg.cc/gJRC4LXV/notificaciones2-bustrack.jpg" alt="Notificaciones2 BusTrack" width="600">
+
+- **Paraderos Cercanos:**
+<img src="https://i.postimg.cc/Pq76DVPF/paraderos-cercanos-bustrack.png" alt="Paraderos cercanos BusTrack" width="600">
+  
+- **Perfil de Usuario:**
+<img src="https://i.postimg.cc/KYW9TpR7/perfil2-bustrack.jpg" alt="Perfil 1 BusTrack" width="600">
+<img src="https://i.postimg.cc/Pq76DVP2/perfil1-bustrack.jpg" alt="Perfil 2 BusTrack" width="600">
+<img src="https://i.postimg.cc/GpfMDgHz/peefil3-bustrack.jpg" alt="Perfil 3 BusTrack" width="600">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) desarrollados para **BusTrack** utilizando **OpenAPI**. El objetivo fue asegurar que todos los endpoints relacionados con el alcance del Sprint estén correctamente descritos, incluyendo las acciones soportadas, parámetros, sintaxis de las solicitudes y ejemplos de respuestas. Esta documentación facilita la integración con el frontend y sirve como referencia para el mantenimiento futuro.  
+
+### Logros alcanzados en este Sprint
+- Documentación de los principales endpoints implementados: búsqueda de rutas, notificaciones, paraderos cercanos y gestión de perfil de usuario.  
+- Inclusión de métodos HTTP, ejemplos de request y response, y especificación de parámetros para cada endpoint.  
+- Generación de la documentación OpenAPI accesible localmente (o desplegada, si aplica).  
+- Capturas de interacción con la API utilizando datos de muestra para demostrar respuestas correctas y funcionalidad.  
+
+### Distribución de responsabilidades del equipo
+
+| Área / Funcionalidad | Integrante(s) | Acciones Realizadas |
+|---------------------|----------------|------------------|
+| Inicio de sesión | 1 Integrante (Fátima Belén) | Implementación de login, registro y validaciones básicas. |
+| Primera interfaz luego del inicio | 1 Integrante (Joaquín Cuentas) | Desarrollo de la interfaz principal tras el login y navegación inicial. |
+| Perfil de usuario | 2 Integrantes (Elizabeth Apaza y Andree Cardenas) | Implementación de la vista de perfil, edición de información y gestión de preferencias. |
+| Paraderos cercanos | 1 Integrante (Diego Avalos) | Desarrollo de la interfaz para mostrar paraderos cercanos y su interacción con la búsqueda de rutas. |
+
+**Nota:** No se generaron commits relacionados con endpoints o documentación de servicios web en este Sprint, ya que estas tareas están planificadas para sprints futuros.  
+
+### Tabla de Documentación de Endpoints
+
+| Endpoint | Acciones | Método HTTP | Sintaxis / URL | Parámetros | Ejemplo de Respuesta | Enlace a Documentación |
+|----------|---------|------------|----------------|------------|-------------------|----------------------|
+| `/routes` | Listar todas las rutas | GET | `/routes` | Ninguno | `{ "routes": [ { "id": 1, "name": "Ruta A" } ] }` | [Doc OpenAPI](#) |
+| `/routes/{id}` | Obtener detalles de una ruta | GET | `/routes/1` | `id` (ID de la ruta) | `{ "id": 1, "name": "Ruta A", "stops": [...] }` | [Doc OpenAPI](#) |
+| `/notifications` | Listar notificaciones de usuario | GET | `/notifications?userId=1` | `userId` (obligatorio) | `[ { "id": 1, "message": "Retraso en Ruta A" } ]` | [Doc OpenAPI](#) |
+| `/notifications` | Crear notificación | POST | `/notifications` | `userId`, `message` | `{ "id": 2, "message": "Nueva alerta" }` | [Doc OpenAPI](#) |
+| `/stops/nearby` | Obtener paraderos cercanos | GET | `/stops/nearby?lat=-12.0464&lng=-77.0428` | `lat`, `lng` | `[ { "id": 1, "name": "Paradero A", "distance": 120 } ]` | [Doc OpenAPI](#) |
+| `/users/{id}` | Obtener perfil de usuario | GET | `/users/1` | `id` (ID del usuario) | `{ "id": 1, "name": "Juan Pérez", "preferences": {...} }` | [Doc OpenAPI](#) |
+| `/users/{id}` | Actualizar perfil de usuario | PUT | `/users/1` | `id` (ID del usuario), body con campos a actualizar | `{ "id": 1, "name": "Juan Pérez Actualizado" }` | [Doc OpenAPI](#) |
+
+> Nota: Reemplazar `#` en el enlace de documentación con la URL real o ruta local de tus documentos OpenAPI.  
+
+### Evidencia Visual
+<img src="https://i.postimg.cc/3N7FjX1d/api-notificaciones-bustrack.png" alt="Notificaciones BusTrack" width="600">
+
+<img src="https://i.postimg.cc/mkRy3YjM/api-rutas-bustrack.png" alt="Rutas BusTrack" width="600">
+
+<img src="https://i.postimg.cc/br890xgk/api-users-bustrack.png" alt="Usuarios BusTrack" width="600">
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
