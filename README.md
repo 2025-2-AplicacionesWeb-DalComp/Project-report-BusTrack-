@@ -2263,6 +2263,20 @@ Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) desarr
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+## 1. Preparamos el Código
+Primero, nos aseguramos de que el código de la aplicación estuviera en GitHub y le cambiamos la dirección de la API, para que en lugar de buscar los datos en nuestra propia computadora (localhost), los buscara en la dirección pública del servidor que ya habíamos desplegado en Render.
+
+## 2. Conectamos el Proyecto a Vercel
+Luego, creamos una cuenta en Vercel y conectamos nuestro repositorio de GitHub. Vercel fue lo suficientemente inteligente como para reconocer que era una aplicación de Vue/Vite y preparó casi todo automáticamente.
+
+## 3. Usamos un Secreto para la URL
+Para que la URL de la API no estuviera escrita directamente en el código, la guardamos como un "secreto" (una variable de entorno) en Vercel. Luego, le dijimos a nuestro código que leyera ese secreto. Así, si la URL cambia en el futuro, solo la actualizamos en Vercel sin tocar el código.
+
+## 4. ¡Listo y en Automático!
+Finalmente, con todo configurado, volvimos a desplegar. Vercel nos dio un enlace público a nuestra aplicación y activó el "despliegue continuo". Esto significa que ahora, cada vez que actualicemos el código y lo subamos a GitHub, Vercel reconstruirá y actualizará el sitio web automáticamente.
+
+link: https://bustrackfront.vercel.app/
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para este sprint, las tareas de diseño, implementación y documentación del frounted se distribuyeron entre todos los integrantes del equipo.
