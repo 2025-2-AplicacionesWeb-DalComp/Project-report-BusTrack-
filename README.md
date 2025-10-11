@@ -2275,7 +2275,9 @@ Para que la URL de la API no estuviera escrita directamente en el código, la gu
 ## 4. Paso
 Finalmente, con todo configurado, volvimos a desplegar. Vercel nos dio un enlace público a nuestra aplicación y activó el "despliegue continuo". Esto significa que ahora, cada vez que actualicemos el código y lo subamos a GitHub, Vercel reconstruirá y actualizará el sitio web automáticamente.
 
-link: https://bustrackfront.vercel.app/
+link de la landing page: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
+
+link de la web: https://bustrackfront.vercel.app/
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
