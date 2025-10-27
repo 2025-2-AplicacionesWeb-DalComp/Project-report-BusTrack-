@@ -2296,7 +2296,71 @@ Para este sprint, las tareas de diseño, implementación y documentación del fr
 
 ## 5.3. Validation Interviews
 
+En esta sección se registrarán y explicarán las actividades que abarcarán las entrevistas de validación para el desarrollo de BusTrack.
+
+El objetivo principal será obtener retroalimentación directa de los segmentos objetivo, con el propósito de confirmar las hipótesis presentadas en el Lean UX Canvas y analizar la facilidad de uso, claridad y confiabilidad tanto del landing page como de la aplicación web.
+
+Para lograrlo, se realizarán entrevistas en las que los participantes de ambos segmentos describirán su experiencia al interactuar con el landing page y la aplicación web. A través de estas entrevistas se buscará identificar cómo los usuarios perciben la facilidad de uso, comprenden el propósito de BusTrack y qué grado de confianza les genera esta solución tecnológica.
+
 ### 5.3.1. Diseño de Entrevistas
+
+#### Preguntas Generales
+
+- ¿Cuál es su nombre completo?
+
+- ¿Qué edad tiene?
+
+- ¿Cuál es su ocupación?
+
+- ¿En qué distrito reside?
+
+<br>
+
+#### Preguntas Específicas
+
+
+#### Segmento Objetivo 1: Pasajeros de Transporte Público (Estudiantes y Trabajadores)
+
+- ¿Qué le pareció el diseño general de nuestra landing page y de la aplicación web BusTrack?
+
+- ¿Cuál considera que es la parte más útil o interesante de ambas? ¿Por qué?
+
+- Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación web, ¿qué modificaría o agregaría?
+
+- ¿Cree que la información en tiempo real sobre la ubicación de los buses y el tiempo estimado de llegada le ayudaría a planificar mejor sus viajes? ¿Por qué?
+
+- ¿La interfaz de la aplicación le pareció intuitiva y fácil de usar? ¿Por qué?
+
+- ¿Le gustaría recibir notificaciones sobre la llegada del bus, retrasos o desvíos de ruta?
+
+- ¿Usted utilizaría la aplicación BusTrack para sus desplazamientos diarios? ¿Por qué?
+
+- ¿Nuestra página web le genera confianza? ¿Se registraría? ¿Por qué?
+
+- ¿Recomendaría BusTrack a sus amigos o familiares? ¿Por qué?
+
+<br>
+
+#### Segmento Objetivo 2: Empresas de Transporte Urbano (Administradores y Supervisores de Flota)
+
+- ¿Qué le pareció la presentación general de la landing page y de la aplicación web BusTrack?
+
+- ¿Qué aspectos considera más relevantes o valiosos para su empresa? ¿Por qué?
+
+- Si tuviera la posibilidad de mejorar alguna sección de la landing page o de la aplicación web, ¿qué cambiaría o agregaría?
+
+- ¿Considera que la plataforma ayudaría a mejorar la gestión de flota y la puntualidad de las unidades? ¿Por qué?
+
+- En cuanto a la landing page, ¿cree que comunica adecuadamente los beneficios y funcionalidades para las empresas de transporte?
+
+- Sobre la aplicación web, ¿le pareció intuitiva y fácil de usar en lo referente al monitoreo de buses y reportes? ¿Por qué?
+
+- ¿Considera que las alertas e informes automáticos facilitarían su trabajo diario como supervisor o administrador?
+
+- ¿Su empresa estaría dispuesta a implementar BusTrack como herramienta tecnológica? ¿Por qué?
+
+- ¿Recomendaría esta solución a otras empresas del rubro? ¿Por qué?
+
 
 ### 5.3.2. Registro de Entrevistas
 
