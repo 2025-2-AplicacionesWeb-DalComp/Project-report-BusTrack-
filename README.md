@@ -1543,11 +1543,11 @@ En esta sección se diseñará e implementará la base de datos BusTrack con la 
 En primer lugar, diseñanmos la base de datos en un diagrama Entidad-Relación (ER) usando el sitio web LucidChart. Este fue elegido debido a su practicidad e implementación de plantillas ER dentro de ella.
 link: https://lucid.app/lucidchart/7b7fbca6-a61b-4653-8ea2-b8b1985b5e9f/edit?viewport_loc=-393%2C-62%2C3568%2C1532%2C0_0&invitationId=inv_7298d486-3846-4284-ac1c-f5b20085366e 
 
-![DiagramaERBusTrack](img/DiagramaERBusTrack.jpeg)
+<img src="img/commons/DiagramaERBusTrack.jpeg" style="width: 900px; margin-right: 900px;"/>
 
 Luego de diseñar nuestro diagrama, implementamos nuestro script para crear la base de datos BusTrack, la cual una vez implementada nos muestra el mapa físico de la base de datos. Para este entregable trabajamos con MySQL Workbench.
 
-![DiagramaERBusTrack-Workbench](img/DiagramaERBusTrack-Workbench.jpg)
+<img src="img/commons/DiagramaERBusTrack-Workbench.jpg" style="width: 900px; margin-right: 900px;"/>
 
 # Base de Datos: BusTrack1
 
@@ -1748,7 +1748,7 @@ El equipo seguirá la convención de mensajes de commits definida en **“Conven
 - `fix: corregir validación en formulario de registro`  
 - `docs: actualizar README con instrucciones de despliegue`
 
-![gitflow](./img/gitflow.jpg)
+<img src="img/commons/gitflow.jpg" style="width: 700px; margin-right: 700px;"/>
 
 
 
