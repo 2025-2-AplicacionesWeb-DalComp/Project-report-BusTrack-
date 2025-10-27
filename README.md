@@ -1260,12 +1260,12 @@ Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-[![imagen-2025-10-10-095403230.png](https://i.postimg.cc/bYsmFNHr/imagen-2025-10-10-095403230.png)](https://postimg.cc/Hj10rmN1)
+<img src="/img/commons/Web Applications User Flow Diagrams.png" alt="Web Applications User Flow Diagrams" style="width: 900px; margin-right: 900px;"/>
 
 ## 4.5. Web Applications Prototyping
 En esta sección se simula la navegación e interacción del usuario con la plataforma. Los diseños reflejan los flujos definidos en los User Flow Diagrams, priorizando la claridad, la usabilidad y la consistencia visual.
 
-<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Web%20Applications%20Prototyping.png" alt="Web Applications Prototyping" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/Web%20Applications%20Prototyping.png" alt="Web Applications Prototyping" style="width: 700px; margin-right: 700px;"/>
 
 Link del video: https://drive.google.com/file/d/1jQzmb0z41K3b1MGZBZUukn5p4k0_au6g/
 
@@ -1276,7 +1276,7 @@ La arquitectura de software orientada al dominio nos permite estructurar el sist
 ### 4.6.1. Design-Level Event Storming
 En esta sección se detallan los procesos clave del dominio, identificando los segmentos objetivos junto con los sucesos, comandos y errores relevantes. Además, las funcionalidades se organizaron en bounded contexts, lo que permite reflejar la lógica del sistema de manera estructurada.
 
-<img src="https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-/blob/main/img/commons/Design-Level%20Event%20Storming.png" alt="Design-Level Event Storming" style="width: 900px; margin-right: 900px;"/>
+<img src="/img/commons/Design-Level%20Event%20Storming.png" alt="Design-Level Event Storming" style="width: 900px; margin-right: 900px;"/>
 
 Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 
