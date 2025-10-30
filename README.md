@@ -253,11 +253,11 @@ Pregunta clave de diseño:
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Los pasajeros frecuentes de Lima, especialmente estudiantes y trabajadores, enfrentan una gran incertidumbre diaria: no saben con precisión cuándo llegará su bus ni cuánto demorará el viaje, lo que les genera estrés, pérdida de tiempo y exposición a paraderos inseguros.
+Los pasajeros que viajan frecuentemente en Lima, especialmente estudiantes y trabajadores, enfrentan una constante incertidumbre al no saber con exactitud cuándo llegará su autobús ni cuánto tiempo tomará el trayecto. Esta falta de información genera estrés, pérdida de tiempo y exposición a paraderos inseguros.
 
-A la par, supervisores y administradores de flota no cuentan con herramientas digitales eficientes para monitorear unidades en tiempo real ni coordinar incidentes, lo que repercute en retrasos y reclamos.
+Por otro lado, los administradores y supervisores de flota carecen de herramientas digitales eficaces para supervisar unidades, coordinar incidentes y prever demoras, lo que afecta la puntualidad del servicio y el nivel de satisfacción de los pasajeros.
 
-BusTrack propone una solución integral que conecta a pasajeros y operadores mediante información en tiempo real, notificaciones inteligentes y paneles de gestión, mejorando la puntualidad, seguridad y eficiencia del sistema de transporte urbano local.
+BusTrack tiene como objetivo conectar a ambos grupos a través de una plataforma que proporcione información en tiempo real, paneles de gestión y notificaciones inteligentes, promoviendo así viajes más seguros, eficientes y puntuales.
 
 Pregunta clave de diseño:
 ¿Cómo podemos desarrollar una plataforma que no solo brinde datos en tiempo real sobre el transporte público, sino que también aumente la confianza y reduzca la incertidumbre en los desplazamientos diarios?
@@ -316,7 +316,7 @@ Los operadores optimizan el control de sus flotas y mejoran su reputación.
 
 ## 3. Interfaz intuitiva y accesible
 - **Hipótesis:** Creemos que una interfaz intuitiva, simple y accesible facilitará la adopción tecnológica en distintos grupos de edad y niveles de experiencia digital.
-- **Validación:** Sabremos que esto es cierto cuando **el 70% de los usuarios, independientemente de su rango etario, puedan completar las funciones principales sin necesidad de soporte**.  
+- **Validación:** Sabremos que esto es cierto cuando **el 70% de los usuarios, independientemente de su rango etario, puedan completar las funciones principales sin necesidad de soporte.**
 
 ---
 
@@ -328,7 +328,21 @@ Los operadores optimizan el control de sus flotas y mejoran su reputación.
 
 ## 5. Historial de rutas frecuentes
 - **Hipótesis:** Creemos que integrar un sistema de historial de rutas frecuentes aumentará la retención de usuarios, especialmente pasajeros frecuentes que repiten trayectos.
-- **Validación:** Sabremos que esto es cierto cuando **el 50% de los usuarios registrados utilicen esta funcionalidad al menos una vez por semana**.
+- **Validación:** Sabremos que esto es cierto cuando **el 50% de los usuarios registrados utilicen esta funcionalidad al menos una vez por semana.**
+
+---
+
+## 6. Panel de monitoreo en tiempo real
+- **Hipótesis:** Creemos que si los supervisores tienen acceso a un panel de monitoreo en tiempo real, se reducirá el número de incidentes no atendidos y aumentará la puntualidad de las unidades.
+- **Validación:** Sabremos que esto es cierto cuando **el 70% de los supervisores reporten una disminución en los tiempos de respuesta ante retrasos o fallas.**
+
+---
+
+## 7. Reportes automáticos de operación
+- **Hipótesis:** Creemos que generar informes automáticos sobre horarios, demoras y número de pasajeros mejorará la capacidad de toma de decisiones de los administradores.
+- **Validación:** Sabremos que esto es cierto cuando **al menos el 60% de los administradores indiquen haber reducido el tiempo dedicado al registro manual en un 40%.**
+
+---
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -338,7 +352,7 @@ Los operadores optimizan el control de sus flotas y mejoran su reputación.
 |-------------|---------------|
 | **Business Problem** | Los usuarios del transporte público en Lima Metropolitana enfrentan largos tiempos de espera, desinformación sobre los horarios y baja confianza en la puntualidad de las unidades. Esto genera frustración, pérdidas de tiempo y afecta la percepción de seguridad en el servicio. Al mismo tiempo, las empresas de transporte carecen de herramientas digitales que les permitan organizar mejor sus unidades y comunicarse eficazmente con los pasajeros. |
 | **Business Outcomes** | - Conseguir 50,000 usuarios activos en el primer año.<br>- Reducir en un 30% la percepción de incertidumbre en los tiempos de espera.<br>- Lograr que el 70% de las rutas principales estén integradas en la app.<br>- Aumentar en un 20% la satisfacción general de los pasajeros en encuestas de movilidad urbana. |
-| **Users and Customers** | **Primarios:** Estudiantes universitarios y trabajadores que usan transporte público a diario.<br>**Secundarios:** Supervisores y administradores de flota de empresas de transporte urbano. |
+| **Users and Customers** | **Primarios:** Estudiantes y trabajadores que dependen del transporte público para asistir a clases o trabajar puntualmente.<br>**Secundarios:** Supervisores y administradores de flota que necesitan controlar y optimizar la operación en tiempo real. |
 | **User Benefits** | - Estudiantes y trabajadores: Obtienen certeza en los horarios, reducen tiempos de espera, planifican mejor sus viajes y se sienten más seguros gracias a notificaciones inteligentes en tiempo real. <br>- Supervisores y administradores: Monitorean la flota en tiempo real, reaccionan rápidamente ante incidencias y mejoran la puntualidad general. A diferencia de apps genéricas, BusTrack integra datos operativos directamente de las empresas, ofreciendo precisión adaptada al contexto limeño. |
 | **Solution Ideas** | - Geolocalización en tiempo real de buses.<br>- Estimaciones precisas de llegada.<br>- Mapas interactivos con rutas alternativas.<br>- Notificaciones sobre retrasos y cambios.<br>- Panel de control para empresas de transporte. |
 | **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza de los pasajeros.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción.<br>- Creemos que la integración de paneles de control en tiempo real mejorará la eficiencia operativa de supervisores y administradores en al menos un 30 %. |
