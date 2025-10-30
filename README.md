@@ -889,7 +889,7 @@ Segmento 2: Supervisor de rutas en empresa de transporte urbano (Ejemplo: José 
 
 ---
 
-### Etapa 3: Postviaje y retroalimentación
+### Etapa 3: Post viaje y retroalimentación
 
 | **Actor**            | **Evento**                                 | **Resultado**                                           |
 | -------------------- | ------------------------------------------ | ------------------------------------------------------- |
