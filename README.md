@@ -478,6 +478,8 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 ## Segmento 1: Pasajeros de Transporte Público
 
+**Objetivo:** Entender las frustraciones en el uso del transporte diario
+
 ### Datos generales
 - Nombre  
 - Edad  
@@ -502,6 +504,8 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 ---
 
 ## Segmento 2: Empresas de Transporte Urbano
+
+**Objetivo:** Comprender los procesos operativos de las empresas de transporte urbano
 
 ### Datos generales
 - Nombre del entrevistado  
@@ -535,6 +539,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Sexo:** Femenino |
 | **Edad:** 20 |
 | **Ocupación:** Estudiante universitario |
+| **Medio usado:** Zoom |
 | **Link de entrevista:** [https://youtu.be/fcO25GbbaRY](https://youtu.be/fcO25GbbaRY) |
 | **Resumen de entrevista:** El entrevistado utiliza principalmente corredores de la ATU y el Metropolitano para ir a la universidad o salir con amigos. Sus principales preocupaciones son la inseguridad y los desvíos inesperados, además de los costos para acceder al bus. Considera esencial contar con información en tiempo real y notificaciones confiables, lo que le permitiría optimizar su tiempo y aumentar la confianza en el transporte público. |
 
@@ -548,18 +553,21 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Sexo:** Masculino |
 | **Edad:** 20 |
 | **Ocupación:** Estudiante universitario |
+| **Medio usado:** Zoom |
 | **Link de entrevista:** [https://www.youtube.com/watch?v=5rFwJUM-JS4](https://www.youtube.com/watch?v=5rFwJUM-JS4) | 
 | **Resumen de entrevista:** El entrevistado viaja diariamente en buses y combis, tomando hasta tres por día desde San Martín de Porres. Sus principales preocupaciones son el tiempo de espera, la inseguridad y la falta de información confiable. Usa aplicaciones como Moovit, aunque critica que no siempre están actualizadas. Valora recibir notificaciones en tiempo real sobre ubicación, desvíos y precios para llegar a tiempo a sus clases y optimizar sus traslados. |
  
 
 
 ### Segmento 2: Empresas de Transporte Urbano
+
 ### Entrevista 3
 | **Entrevistado:** Octavio |
 |-----------|
 | **Sexo:** Masculino |
 | **Edad:** 25 |
 | **Ocupación:** Supervisor de rutas |
+| **Medio usado:** Zoom |
 | **Link de entrevista:** https://drive.google.com/file/d/1PqT82exPvO7dkZ61Fa_CRw0skRksIkAb/ |
 | **Resumen de entrevista:** El entrevistado gestiona la flota mediante llamadas a los choferes y el uso de Excel y hojas de ruta, recibiendo solo información básica sobre tráfico y fallas mecánicas. Señala que los principales retos son el tráfico y la ausencia de datos en tiempo real. Considera valioso contar con reportes automáticos, ubicación exacta y control en vivo de buses para mejorar la operación. Reconoce que una plataforma como BusTrack podría aumentar la confianza de los pasajeros, aunque identifica como barreras el costo y la resistencia de los conductores a adaptarse. |
 
@@ -572,6 +580,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Sexo:** Masculino |
 | **Edad:** 40 |
 | **Ocupación:** Administrador de flota |
+| **Medio usado:** Zoom |
 | **Link de entrevista:** https://drive.google.com/file/d/1Uefn8y3-nF-yh4fCzbMGzqDCZm3p694Q/ |
 | **Resumen de entrevista:** El entrevistado gestiona las unidades a través de grupos de WhatsApp y cuadernos, recibiendo de los choferes información sobre retrasos, cambios de ruta y controles policiales. Los principales retos identificados son el tráfico, los bloqueos y la falta de procesos modernos, además de problemas operativos como la limpieza de los buses. Considera útiles reportes sobre horarios, rutas y cantidad de pasajeros, y ve en BusTrack una oportunidad para implementar un sistema de monitoreo en tiempo real. Sin embargo, reconoce barreras relacionadas con la confianza y la adaptación de los conductores a la tecnología. |
 
@@ -579,6 +588,8 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 
 ### 2.2.3. Análisis de entrevistas
+
+A partir de las entrevistas realizadas, se agruparon las respuestas más representativas de cada segmento para identificar patrones comunes, necesidades y oportunidades de mejora.
 
 ### Segmento 1: Pasajeros de Transporte Público (Estudiantes y Trabajadores)  
 
@@ -595,6 +606,12 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | ¿Qué redes sociales o aplicaciones móviles usas más para informarte en tu día a día? | Principalmente TikTok, Instagram, X (Twitter) y canales de noticias digitales. |
 | ¿Cómo medirías que una aplicación realmente mejora tu experiencia de viaje? | En la práctica, comprobando que reduce tiempos de espera, brinda información confiable y hace el viaje más seguro y eficiente. |
 
+**Insights:**
+
+Se identificó una fuerte necesidad de control en los pasajeros, quienes experimentan ansiedad e inseguridad ante la falta de información sobre los tiempos de llegada de los buses. La inmediatez es un valor clave, ya que los usuarios prefieren aplicaciones que proporcionen datos actualizados en tiempo real sobre rutas y horarios.
+
+La confianza está estrechamente relacionada con la seguridad, por lo que esperan validación de conductores, monitoreo de unidades y rutas verificadas. Finalmente, su motivación principal es de carácter práctico, pues buscan optimizar el tiempo de viaje y reducir la incertidumbre más que explorar aplicaciones por simple novedad
+
 
 ### Segmento 2: Empresas de Transporte Urbano
 | **Preguntas** | **Respuestas Generales** |
@@ -609,6 +626,14 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | ¿Cómo creen que una plataforma de información en tiempo real podría mejorar la confianza de los pasajeros? | Brindando horarios verificados de salida y llegada para que los pasajeros planifiquen mejor su tiempo y perciban mayor confiabilidad. |
 | ¿Qué beneficios esperan obtener al implementar una solución tecnológica (mayor satisfacción, competitividad, reducción de costos)? | Mayor satisfacción de los pasajeros, incremento de usuarios, reducción de quejas y mayor control interno de la operación. |
 | ¿Qué barreras internas o externas ven para adoptar una aplicación digital de gestión de transporte? | Los costos de implementación, la resistencia de los choferes a adaptarse y la desconfianza inicial hacia nuevas tecnologías. |
+
+**Insights:**
+
+Las empresas de transporte urbano presentan una gestión operativa manual y poco eficiente, sustentada en llamadas telefónicas, registros en papel o en hojas de cálculo, lo que limita la trazabilidad y control de la flota. La falta de visibilidad en tiempo real impide tomar decisiones oportunas y afecta la puntualidad de los servicios.
+
+Se observó además una resistencia cultural hacia la adopción tecnológica, especialmente entre conductores con menor experiencia digital. Aun así, los entrevistados expresaron alto interés en obtener reportes automáticos y datos analíticos para mejorar la gestión. Las barreras económicas y de capacitación continúan siendo los principales obstáculos para la implementación de soluciones tecnológicas como BusTrack.
+
+<br>
 
 ## 2.3. Needfinding
 
