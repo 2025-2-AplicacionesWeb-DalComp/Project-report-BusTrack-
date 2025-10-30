@@ -866,21 +866,48 @@ Segmento 2: Supervisor de rutas en empresa de transporte urbano (Ejemplo: José 
 
 ## 2.4. Big Picture Event Storming
 
-| **Actor**                 | **Evento**                                 | **Resultado**                                           |
-| ------------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| **Pasajero**              | Buscó una ruta ingresando origen y destino | El sistema registró la solicitud de búsqueda              |
-| **Sistema BusTrack**      | Procesó la búsqueda de rutas disponibles   | Mostró opciones de buses, horarios y tiempos estimados |
-| **Pasajero**              | Seleccionó una ruta                        | El sistema guardó la ruta como favorita para futuros viajes       |
-| **Chofer**                | Reportó retraso o incidencia vía app o WhatsApp | El sistema actualizó el estado de la unidad        |
-| **Sistema BusTrack**      | Detectó congestión o bloqueo en la ruta    | Generó alerta automática para pasajeros y supervisores  |
-| **Supervisor de rutas**   | Recibió notificación de incidencia          | Coordinó cambios de ruta con choferes                   |
-| **Sistema BusTrack**      | Envió notificación al pasajero           | El pasajero recibió alertas de retrasos, desvíos o incidentes |
-| **Pasajero**              | Viajó en el bus consultando la app         | Visualizó ubicación y tiempo estimado en tiempo real    |
-| **Pasajero**              | Envió calificación del viaje                | El sistema guardó comentarios y puntuaciones            |
-| **Sistema BusTrack**      | Generó reportes de uso y eficiencia        | La empresa de transporte recibió métricas detalladas     |
-| **Administrador de flota** | Revisó reportes de eficiencia             | Ajustó horarios, mantenimiento y distribución de buses  |
-| **Empresa de transporte** | Ajustó rutas y horarios según reportes     | Optimizó la calidad del servicio ofrecido               |
+### Etapa 1: Planificación del viaje
 
+| **Actor**            | **Evento**                                 | **Resultado**                                           |
+| -------------------- | ------------------------------------------ | ------------------------------------------------------- |
+| **Pasajero**         | Buscó una ruta ingresando origen y destino | El sistema registró la solicitud de búsqueda.           |
+| **Sistema BusTrack** | Procesó la búsqueda de rutas disponibles   | Mostró opciones de buses, horarios y tiempos estimados. |
+| **Pasajero**         | Seleccionó una ruta                        | El sistema guardó la ruta como favorita para futuros viajes. |
+| **Sistema BusTrack** | No encontró rutas disponibles *(flujo alternativo)* | Mostró mensaje de error y sugirió rutas cercanas o alternativas. |
+
+---
+
+### Etapa 2: Ejecución y monitoreo del viaje
+
+| **Actor**            | **Evento**                                 | **Resultado**                                           |
+| -------------------- | ------------------------------------------ | ------------------------------------------------------- |
+| **Chofer**           | Reportó retraso o incidencia vía app o WhatsApp | El sistema actualizó el estado de la unidad. |
+| **Sistema BusTrack** | Detectó congestión o bloqueo en la ruta    | Generó alerta automática para pasajeros y supervisores. |
+| **Supervisor de rutas** | Recibió notificación de incidencia      | Coordinó cambios de ruta con choferes.                 |
+| **Sistema BusTrack** | Envió notificación al pasajero             | El pasajero recibió alertas de retrasos, desvíos o incidentes. |
+| **Supervisor de rutas** | No respondió a la notificación *(flujo alternativo)* | El sistema escaló la alerta al administrador de flota. |
+
+---
+
+### Etapa 3: Postviaje y retroalimentación
+
+| **Actor**            | **Evento**                                 | **Resultado**                                           |
+| -------------------- | ------------------------------------------ | ------------------------------------------------------- |
+| **Pasajero**         | Viajó en el bus consultando la app         | Visualizó ubicación y tiempo estimado en tiempo real.   |
+| **Pasajero**         | Envió calificación del viaje               | El sistema guardó comentarios y puntuaciones.           |
+| **Sistema BusTrack** | Generó reportes de uso y eficiencia        | La empresa de transporte recibió métricas detalladas.   |
+
+---
+
+### Etapa 4: Aprendizaje y mejora continua
+
+| **Actor**               | **Evento**                                | **Resultado**                                           |
+| ----------------------- | ----------------------------------------- | ------------------------------------------------------- |
+| **Administrador de flota** | Revisó reportes de eficiencia           | Ajustó horarios, mantenimiento y distribución de buses. |
+| **Sistema BusTrack**    | Analizó calificaciones y demoras registradas | Generó recomendaciones automáticas para mejorar rutas.  |
+| **Empresa de transporte** | Implementó mejoras en base a los reportes | Optimizó la puntualidad y satisfacción de los pasajeros. |
+
+---
 
 ## 2.5. Ubiquitous Language
 
