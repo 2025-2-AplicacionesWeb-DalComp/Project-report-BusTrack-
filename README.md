@@ -1916,7 +1916,7 @@ Se muestra a continuación la landing page desplegada en su primera versión:
 
 
 
-# Primer Sprint - Planificación
+#### Primer Sprint - Planificación
 
 El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tendrá una duración de **una semana**.  
 
@@ -1924,7 +1924,7 @@ El enfoque principal será el **desarrollo y despliegue de la landing page** del
 
 De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
 
-# Sprint 1 - Planning Background
+#### Sprint 1 - Planning Background
 
 | **Elemento**                       | **Detalle**                                                                                                                                               |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2153,9 +2153,9 @@ La **implementación y despliegue** de la landing page fue llevada a cabo por **
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint Planning 1
+#### 5.2.2.1. Sprint Planning 2
 
-# Primer Sprint - Planificación
+#### Primer Sprint - Planificación
 
 El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tendrá una duración de **una semana**.  
 
@@ -2163,7 +2163,7 @@ El enfoque principal será el **desarrollo y despliegue del fontend de la aplica
 
 De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
 
-# Sprint 2 - Planning Background
+#### Sprint 2 - Planning Background
 
 | **Elemento**                       | **Detalle**                                                                                                                                               |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2358,6 +2358,36 @@ Para este sprint, las tareas de diseño, implementación y documentación del fr
 - #Contribuitors#<br>
   [![imagen-2025-10-10-123119424.png](https://i.postimg.cc/9FntSrj2/imagen-2025-10-10-123119424.png)](https://postimg.cc/KRtM3czp)<br>
 <br><br>
+
+
+### 5.2.3. Sprint 3
+
+En esta parte, se registran y explican los avances del Sprint 3 en cuanto al desarrollo de la página y la colaboración del equipo. 
+
+El objetivo de este sprint fue lograr la integración total entre el frontend, el backend y la base de datos.
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### Primer Sprint - Planificación
+
+A continuación, se muestra la planificación del equipo para llevar a cabo de manera exitosa el Sprint 3.
+
+#### Sprint 3 - Planning Background
+
+| **Elemento**                       | **Detalle**                                                                                                                                               |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2025/11/03                                                                                                                                                |
+| **Time**                           | 20:00 PM                                                                                                                                                   |
+| **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
+| **Prepared by**                    | Todos los integrantes de DalComp                                                                                                                               |
+| **Attendees (to planning meeting)**| Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
+| **Sprint n – 2 Review Summary**    | Se implementará el frontend de la aplicación web, desarrollando la interfaz de usuario con HTML, CSS y JavaScript para la segunda entrega                   |
+| **Sprint 2 Review Summary** | En el Sprint 2 se implementó el frontend de la aplicación web, incluyendo login, registro, perfil, notificaciones, paraderos cercanos y búsqueda de rutas. Además, se realizó el despliegue del frontend y la conexión con la API mediante variables de entorno                                                                                                                 |
+| **Sprint 2 Retrospective Summary**     | Se identificó que la distribución de aspectos por pantallas y el uso de GitFlow facilitaron el trabajo en paralelo. Como oportunidades de mejora, el equipo detectó la necesidad de dedicar más tiempo a pruebas integrales y a la gestión de errores entre frontend y backend                                                                                                         |
+| **Sprint 3 Goal**                  | Desplegar una versión integrada y estable de BusTrack, conectando completamente el frontend con el backend y la base de datos de BusTrack permitiendo la persistencia real de usuarios, rutas favoritas, historial de viajes y notificaciones |
+| **Sprint 3 Velocity**              | 12                                                                                                                                                          |
+| **Sum of Story Points**            | 14                                                                                                                                                          |
+
 
 
 ## 5.3. Validation Interviews
