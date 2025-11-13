@@ -2385,7 +2385,7 @@ A continuación, se muestra la planificación del equipo para llevar a cabo de m
 | **Sprint 2 Retrospective Summary**     | Se identificó que la distribución de aspectos por pantallas y el uso de GitFlow facilitaron el trabajo en paralelo. Como oportunidades de mejora, el equipo detectó la necesidad de dedicar más tiempo a pruebas integrales y a la gestión de errores entre frontend y backend                                                                                                         |
 | **Sprint 3 Goal**                  | Desplegar una versión integrada y estable de BusTrack, conectando completamente el frontend con el backend y la base de datos de BusTrack permitiendo la persistencia real de usuarios, rutas favoritas, historial de viajes y notificaciones |
 | **Sprint 3 Velocity**              | 12                                                                                                                                                          |
-| **Sum of Story Points**            | 14                                                                                                                                                          |
+| **Sum of Story Points**            | 16                                                                                                                                                          |
 
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
@@ -2425,6 +2425,10 @@ El objetivo principal del Sprint 3 es consolidar la conexión del frontend con e
 | US12           | Editar perfil                    | T29      | Manejo global de errores | Implementar mensajes de error, estados vacíos y loaders en perfil, rutas, favoritos y notificaciones | 2                       | Joaquin Cuentas   | Done     |
 | US12           | Editar perfil                    | T30      | Ajustar textos y validaciones | Revisar y estandarizar mensajes de validación para el usuario (éxito/error) | 2                       | Joaquin Cuentas   | Done     |
 
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 
 ## 5.3. Validation Interviews
