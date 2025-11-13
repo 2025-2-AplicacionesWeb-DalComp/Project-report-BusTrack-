@@ -2388,6 +2388,45 @@ A continuación, se muestra la planificación del equipo para llevar a cabo de m
 | **Sum of Story Points**            | 14                                                                                                                                                          |
 
 
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Para este sprint, se definieron aspectos clave centrados en la **integración funcional** y la **persistencia de datos.** Cada aspecto cuenta con un líder (L) y uno o más colaboradores (C).
+
+| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Login, Sign In y Home** | **Sección "Notificaciones"** | **Sección "Perfil"** | **Sección "Paraderos Cercanos"** | **Sección "Buscar Ruta"** |
+|-----------------------------------------|-----------------------|--------------------------------------|-----------------------------|--------------------------|-----------------------------|------------------------------------|
+| Mathias Andree Cárdenas Huaman          | AndS56                | C                                    | C                           | C                        | L                           | C                                  |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                    | L                           | L                        | C                           | C                                  |
+| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                    | C                           | L                        | L                           | C                                  |
+| Joaquin Alberto Cuentas Peña            | JoaCUPE               | C                                    | C                           | C                        | C                           | L                                  |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | L                                    | C                           | C                        | C                           | C                                  |
+
+
+#### 5.2.3.3. Sprint Backlog 3
+
+El objetivo principal del Sprint 3 es consolidar la conexión del frontend con el backend y habilitando la persistencia en la base de datos. Se priorizaron historias de usuario relacionadas con:
+
+- Gestión de cuenta (login, registro, edición de perfil)
+- Historial de viajes
+- Rutas favoritas
+- Notificaciones relacionadas a la operación del bus
+- Estabilidad y manejo de errores de la aplicación
+
+## Sprint Backlog 3
+
+| **User Story** | **Title**                        | **Task ID** | **Task Title**                                         | **Description**                                                                                 | **Estimation (hours)** | **Assigned to**    | **Status** |
+|----------------|------------------------------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------|--------------------|------------|
+| US07           | Gestionar cuenta del usuario                    | T22         | Conectar formulario de registro con la API | Integrar el formulario de registro del frontend con el endpoint `/users` para crear usuarios reales en la BD | 3                       | Fátima Florez    | done     |
+| US07           | Gestionar cuenta del usuario                    | T23         | Conectar login con autenticación en backend | Consumir el endpoint de login y manejar estados de éxito / error en la interfaz | 3                       | Fátima Florez    | done     |
+| US08           | Editar perfil e información básica                    | T24        | Implementar actualización de perfil | Integrar la vista de perfil con el endpoint `PUT` `/users/{id}` para editar nombre, correo y foto de perfil | 3                       | Elizabeth Apaza    | done     |
+| US09           | Ver historial de viajes                    | T25        | Mostrar historial de viajes desde la API | Consumir el endpoint `/travels` filtrando por usuario y mostrar los viajes en la sección correspondiente | 3                       | Elizabeth Apaza    | done     |
+| US10           | Guardar rutas favoritas                    | T26       | Conectar botón “Guardar ruta” con backend | Enviar la ruta seleccionada al endpoint `/favorites` y mostrar mensajes de confirmación o error | 2                       | Diego Avalos    | done     |
+| US10           | Guardar rutas favoritas                    | T27       | Listar rutas favoritas del usuario | Consumir el endpoint `/favorites` y mostrar las rutas favoritas en la interfaz de perfil | 2                       | Diego Avalos    | done     |
+| US11           | Recibir notificaciones sobre rutas                    | T28      | Integrar listado de notificaciones desde la API | Conectar la vista de notificaciones con el endpoint `/notifications?userId={id}` | 2                       | Mathias Cárdenas   | done     |
+| US11           | Recibir notificaciones sobre rutas                    | T29      | Marcar notificaciones como leídas | Implementar acción para actualizar el estado de una notificación usando `PATCH` `/notifications/{id}` | 2                       | Mathias Cárdenas   | done     |
+| US12           | Mejorar estabilidad de la aplicación                    | T30      | Manejo global de errores y estados vacíos | Agregar mensajes de error, loaders y estados vacíos (sin datos) en secciones de rutas, notificaciones y paraderos | 2                       | Joaquin Cuentas   | done     |
+| US12           | Mejorar estabilidad de la aplicación                    | T31      | Ajustar mensajes y textos para validación | Revisar textos de feedback al usuario (éxito/error) para usarlos en las entrevistas de validación | 2                       | Joaquin Cuentas   | done     |
+
+
 
 ## 5.3. Validation Interviews
 
