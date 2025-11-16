@@ -2501,7 +2501,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 
 ### 5.3.2. Registro de Entrevistas
 
-### Segmento Objetivo:
+### Segmento Objetivo 1: Pasajeros de Transporte Público
 
 <table>
 <colgroup>
@@ -2509,6 +2509,59 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 <thead>
   <tr>
     <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>J </td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>o</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista 1"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> n
+  </tr>
+</tbody>
+</table>
+
+
+
+
+### Segmento Objetivo 2: Empresas de Transporte Urbano
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
   </tr>
 </thead>
 <tbody>
@@ -2534,7 +2587,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista Condori"></div></td>
+    <td><div align="center"><img src="/img/commons/administrador-de-flota-entrevista1.png" alt="Entrevista Condori"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -2559,7 +2612,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2">Entrevista #4<br></th>
   </tr>
 </thead>
 <tbody>
@@ -2585,7 +2638,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista Rodriguez"></div></td>
+    <td><div align="center"><img src="/img/commons/Supervisor de rutas de Transporte Urbano - Entrevista 2.png" alt="Entrevista Rodriguez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
