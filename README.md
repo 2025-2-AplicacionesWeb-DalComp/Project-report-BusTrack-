@@ -2503,6 +2503,167 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+# Evaluación Heurística de Usabilidad y Diseño Inclusivo  
+## Plataforma Web **“AutoFix”**
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Aplicaciones Web |
+| **Sección** | 7452 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 3 |
+| **Cliente(s)** | Grupo 4 (Prime-Fix) |
+| **Sitio evaluado** | **AutoFix** |
+
+---
+
+## Tareas Evaluadas
+
+Para esta auditoría revisamos la experiencia del usuario en tareas clave alineadas al objetivo de AutoFix: conectar a talleres con dueños de vehículos. Las tareas evaluadas fueron:
+
+1. Entender la propuesta de valor al ingresar.  
+2. Navegar entre las secciones principales.  
+3. Identificar acciones importantes (registro, login, búsqueda).  
+4. Buscar talleres por distrito o por tipo de servicio.  
+5. Ver información de un taller: perfil, especialidades, precios.  
+6. Solicitar un servicio o agendar una cita.  
+7. Revisar historial de servicios (si está implementado).  
+8. Acceder al panel del taller para gestionar solicitudes.  
+9. Ver y editar el perfil del conductor o del taller.
+
+---
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema leve, no afecta el uso general. Mejora recomendable. |
+| **2** | Problema menor, aparece con cierta frecuencia. Debe revisarse. |
+| **3** | Problema importante, afecta la experiencia. Requiere prioridad. |
+| **4** | Problema crítico, bloquea el uso normal. Corregir antes del lanzamiento. |
+
+---
+
+## Resumen General de Problemas
+
+| # | Problema identificado | Sev. | Principio afectado |
+|---|-----------------------|:---:|---------------------|
+| 1 | Propuesta de valor poco clara al ingresar. | 3 | Information Architecture |
+| 2 | Falta un CTA principal claro en el hero. | 3 | Prioridad visual |
+| 3 | No se indica la sección activa en el menú. | 2 | Visibilidad del sistema |
+| 4 | Mezcla de español e inglés. | 2 | Consistencia / Lenguaje |
+| 5 | Búsqueda de talleres poco guiada. | 3 | Ayuda mínima |
+| 6 | Imágenes sin texto alternativo accesible. | 3 | Diseño inclusivo |
+| 7 | Formularios sin validación en tiempo real. | 3 | Prevención de errores |
+| 8 | Falta feedback después de solicitar un servicio. | 2 | Feedback y visibilidad |
+| 9 | Perfil sin claridad sobre qué se puede editar. | 2 | Control y libertad |
+| 10 | Disponibilidad de talleres poco clara. | 3 | Correspondencia con el mundo real |
+
+---
+
+# Descripción de Problemas y Recomendaciones
+
+---
+
+### P1. Propuesta de valor poco clara
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Is it usable?*  
+- **Descripción:** El hero no explica claramente qué hace AutoFix ni a quién está dirigido. El usuario no entiende el propósito inicial.  
+- **Recomendación:** Añadir mensaje directo (“Encuentra talleres confiables cerca de ti”) y un mini flujo (Registrarse → Buscar → Reservar).
+
+---
+
+### P2. Falta CTA principal en el hero
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Prioridad visual*  
+- **Descripción:** No existe un CTA principal que guíe la acción del usuario; se pierde el camino inicial.  
+- **Recomendación:** Incorporar botones principales (“Buscar taller”, “Registrarme”) con color destacado y jerarquía clara.
+
+---
+
+### P3. Navegación sin estado activo
+- **Severidad:** 2  
+- **Heurística:** *Usability – Visibilidad del estado del sistema*  
+- **Descripción:** El menú no muestra en qué sección se encuentra el usuario.  
+- **Recomendación:** Resaltar el enlace activo y usar `aria-current="page"` para accesibilidad.
+
+---
+
+### P4. Inconsistencia de idioma (ES/EN)
+- **Severidad:** 2  
+- **Heurística:** *Consistencia – Lenguaje del usuario*  
+- **Descripción:** La interfaz mezcla español e inglés en botones y etiquetas.  
+- **Recomendación:** Unificar idioma o aplicar un sistema de internacionalización (i18n).
+
+---
+
+### P5. Búsqueda poco guiada
+- **Severidad:** 3  
+- **Heurística:** *Usability – Ayuda mínima*  
+- **Descripción:** El buscador no indica qué se puede ingresar ni muestra mensajes útiles cuando no hay resultados.  
+- **Recomendación:** Mejorar placeholder (“Busca por distrito, nombre o servicio”) y mostrar estados de búsqueda.
+
+---
+
+### P6. Imágenes sin texto alternativo
+- **Severidad:** 3  
+- **Heurística:** *Inclusive Design – Experiencias comparables*  
+- **Descripción:** Las imágenes informativas no tienen `alt`, afectando accesibilidad.  
+- **Recomendación:** Añadir `alt` descriptivos o `aria-hidden="true"` si son decorativas.
+
+---
+
+### P7. Formularios sin validación en tiempo real
+- **Severidad:** 3  
+- **Heurística:** *Usability – Prevención de errores*  
+- **Descripción:** Los formularios no validan email, teléfono u obligatorios hasta el envío.  
+- **Recomendación:** Implementar validación inline y mensajes de error claros bajo cada campo.
+
+---
+
+### P8. Falta de feedback después de solicitar un servicio
+- **Severidad:** 2  
+- **Heurística:** *Usability – Feedback del sistema*  
+- **Descripción:** Tras enviar una solicitud no se muestra confirmación clara ni detalles del envío.  
+- **Recomendación:** Agregar modal o toast indicando que la solicitud fue enviada y mostrar información del taller.
+
+---
+
+### P9. Perfil sin indicación de edición
+- **Severidad:** 2  
+- **Heurística:** *Usability – Control y libertad del usuario*  
+- **Descripción:** Los campos del perfil no muestran claramente si son editables.  
+- **Recomendación:** Incluir botón “Editar perfil” y diferenciar visualmente el modo edición.
+
+---
+
+### P10. Disponibilidad del taller poco clara
+- **Severidad:** 3  
+- **Heurística:** *Match with the real world – Comunicación clara*  
+- **Descripción:** No se muestran horarios, disponibilidad ni días de atención del taller.  
+- **Recomendación:** Añadir horarios visibles y estados de disponibilidad (abierto/cerrado, reserva en línea).
+
+---
+
+# Conclusión
+
+AutoFix presenta una propuesta de valor interesante y alineada con la digitalización del sector automotriz en Perú. Sin embargo, se identifican oportunidades claras de mejora en:
+
+- Claridad de la propuesta de valor y del flujo principal.  
+- Accesibilidad (texto alternativo, contraste, feedback visual).  
+- Manejo de formularios y mensajes de error.  
+- Consistencia en idioma y diseño visual.  
+- Presencia de elementos de confianza (ayuda, soporte y legales).
+
+Trabajar estos puntos ayudará a:
+
+- Aumentar la confianza de los usuarios.  
+- Reducir errores y abandonos en el flujo.  
+- Facilitar la adopción tanto para dueños de vehículos como para talleres asociados.
+
+---
+
 ## 5.4. Video About-the-Product
 
 
