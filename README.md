@@ -579,7 +579,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Entrevistado:** Octavio |
 |-----------|
 | **Sexo:** Masculino |
-| **Edad:** 25 |
+| **Edad:** 35 |
 | **Ocupación:** Supervisor de rutas |
 | **Medio usado:** Zoom |
 | **Link de entrevista:** https://drive.google.com/file/d/1PqT82exPvO7dkZ61Fa_CRw0skRksIkAb/ |
@@ -2599,7 +2599,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> n
+    <td> El administrador destacó que la plataforma es fácil de navegar gracias a sus botones grandes y la estructura clara. Valoró especialmente funciones como paraderos cercanos y un mapa para visualizar la ubicación del bus. Sin embargo, sugirió mejorar la claridad de la landing page, ya que está dirigida solo a estudiantes y trabajadores. Asimismo, considera fundamental que la web permita monitorear tanto a los buses como a los choferes para mantener el orden operativo, idealmente mediante GPS integrado y notificaciones automáticas. Además, indicó que estaría dispuesto a pagar por una demo de un mes y que sí recomendaría la herramienta para probarla.
   </tr>
 </tbody>
 </table>
