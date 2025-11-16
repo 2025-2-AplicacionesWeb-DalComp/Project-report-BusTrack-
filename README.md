@@ -2428,6 +2428,16 @@ El objetivo principal del Sprint 3 es consolidar la conexión del frontend con e
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
+
+| Repository                        | Branch                  | Commit Message                                                         | Commited on  |
+|-----------------------------------|-------------------------|------------------------------------------------------------------------|--------------|
+| PengwinKingdom/BusTrack-Backend | feature-notifications  | feat(notifications): implement notification bounded context (domain, application, infra & API) | 2025-11-16   |
+| JoaCUPE/BusTrack-Backend | feature-searchroute  |  | 2025-11-16   |
+| AndS56/BusTrack-Backend | feature-profile  |  | 2025-11-16   |
+| AndS56/BusTrack-Backend | feature-profile  |  | 2025-11-16   |
+
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 
