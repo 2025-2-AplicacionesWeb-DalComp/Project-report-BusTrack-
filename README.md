@@ -2650,7 +2650,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> n
+    <td> La presentación de BusTrack resulta clara, ordenada e intuitiva, tanto en la landing page como en la aplicación web. Destaca la sección de paraderos cercanos y la búsqueda de rutas. Como mejoras, sería útil añadir una sección exclusiva para empresas, un video demostrativo e indicadores de desempeño como reportes históricos y un mapa general de la flota. En general, la plataforma facilitaría la supervisión diaria, permitiría decisiones más rápidas y es totalmente recomendable para empresas que buscan optimizar su control de flota.
   </tr>
 </tbody>
 </table>
