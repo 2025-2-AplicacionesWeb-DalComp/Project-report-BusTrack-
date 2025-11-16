@@ -36,16 +36,16 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 |  |  |  |  |
-| TP | 09/10 | Andree Cardenas | Desarrollo del 5.2.2.8. | 
-| TP | 06/10 | Andree Cardenas | Desarrollo del apartado de perfil del fronted |
-| TP | 05/09 | Fátima Florez | Desarrollo del inicio del fronted |
-| TP | 09/09 | Fátima Florez | Desarrollo del 5.2.2.4 |
-| TP | 07/09 | Joaquin Cuentas | Desarrollo de la primera interfaz luego del inicio |
-| TP | 09/09 | Joaquin Cuentas | Desarrollo 5.2.2.2. y 5.2.2.7. |
-| TP | 07/09 | Diego Andres | Desarrollo del apartado de paraderos cercanos del fronted |
-| TP | 09/09 | Diego Andres | Desarrollo del 5.2.2.5. y 5.2.2.6. |
-| TP | 06/09 | Elizabeth Apaza | Desarrollo del apartado de perfil del fronted |
-| TP | 09/09 | Elizabeth Apaza | Sprint Planning 2 y Sprint Backlog 2 |
+| TB2 | 09/10 | Andree Cardenas |  | 
+| TB2 | 06/10 | Andree Cardenas | Desarrollo del apartado de perfil del backend |
+| TB2 | 05/09 | Fátima Florez | Desarrollo del inicio en backend |
+| TB2 | 09/09 | Fátima Florez |  |
+| TB2 | 07/09 | Joaquin Cuentas | Desarrollo de la primera interfaz luego del inicio |
+| TB2 | 09/09 | Joaquin Cuentas |  |
+| TB2 | 07/09 | Diego Andres | Desarrollo del apartado de paraderos cercanos del backend |
+| TB2 | 09/09 | Diego Andres |  |
+| TB2 | 06/09 | Elizabeth Apaza | Desarrollo del apartado de perfil del backend |
+| TB2 | 09/09 | Elizabeth Apaza |  |
 </div>
 
 <br><br>
