@@ -2501,6 +2501,108 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 
 ### 5.3.2. Registro de Entrevistas
 
+### Segmento Objetivo:
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jean Paul </td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Condori</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>40 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Villa María del Triunfo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista Condori"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/15VTwUG2F1Gw29zwPIvR-8cGvkLp0O0Hr/view?usp=sharing" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 10:35 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> n
+  </tr>
+</tbody>
+</table>
+
+
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Octavio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rodriguez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>35 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista Rodriguez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1qKKhOw2OZ8dCuMwnyJvNUXtmG2p_DWpJ/view?usp=sharing" title="Title">Video</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 7:23 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> n
+  </tr>
+</tbody>
+</table>
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 # Evaluación Heurística de Usabilidad y Diseño Inclusivo  
