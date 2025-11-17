@@ -2547,51 +2547,97 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 <colgroup>
 </colgroup>
 <thead>
-  <tr>
-    <th colspan="2">Entrevista #1<br></th>
-  </tr>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>J </td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>o</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista 1"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Video</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td> 00:00 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td> n
-  </tr>
+  <tr>
+    <td>Nombre</td>
+    <td>Carla</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Ramirez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>No especificado (Contexto: Trabajadora y Estudiante)</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Grabación de pantalla</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista Pasajero 1"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQCjNKnAhNypSbqt894bbPwyAQYP6RomstVAooYRDJmPErk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BYVwZ0" title="Video Entrevista 1">Video 1</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 4:38 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> La entrevistada, que es <b>trabajadora y estudiante universitaria</b>, valoró el diseño como "limpio y fácil de entender". Considera que la función más útil es la <b>información en tiempo real de los buses</b> para ir a su trabajo y universidad, ya que le permitiría ahorrar tiempo y estrés. Sugirió añadir una <b>opción de tema oscuro</b> y una vista previa del mapa. Confirmó que la interfaz es intuitiva, genera confianza por su aspecto profesional y que la recomendaría a amigos.
+  </tr>
 </tbody>
 </table>
 
-
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Alessandro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Bravo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>No especificado</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Martin</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Grabación de pantalla</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista Pasajero 2"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQDqj0410PX9TJyB4htEfpmwAf9LXqgAaMSsiGT_qBo6idA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yVbeg5" title="Video Entrevista 2">Video 2</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 2:23 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> El usuario encontró la aplicación "bastante intuitiva". Destacó como más útil la <b>búsqueda de rutas y los paraderos cercanos</b>, especialmente para personas que no conocen la zona. Considera que la app es "bastante funcional" y no modificaría nada. Valoró la información en tiempo real y las notificaciones como "bastante importantes" debido al tráfico y los largos tiempos de espera. Confía en la plataforma por su entorno y la recomendaría a amigos que viven lejos.
+  </tr>
+</tbody>
+</table>
 
 
 ### Segmento Objetivo 2: Empresas de Transporte Urbano
