@@ -47,6 +47,8 @@
 | TB2 | 16/11 | Diego Andres | Sprint 3 | 
 | TB2 | 14/11 | Elizabeth Apaza | Desarrollo del apartado de perfil del backend |
 | TB2 | 15/11 | Elizabeth Apaza | Sprint 3 | 
+| TB2 | 15/11 | Diego Andres | Sprint 3 | 
+| TB2 | 15/11 | Diego Andres | Desarrollo del backen apatarado de paradas | 
 </div>
 
 <br><br>
