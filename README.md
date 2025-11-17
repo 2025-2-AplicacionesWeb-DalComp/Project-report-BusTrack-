@@ -36,16 +36,16 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 |  |  |  |  |
-| TB2 | 09/10 | Andree Cardenas |  | 
-| TB2 | 06/10 | Andree Cardenas | Desarrollo del apartado de perfil del backend |
-| TB2 | 05/09 | Fátima Florez | Desarrollo del inicio en backend |
-| TB2 | 09/09 | Fátima Florez |  |
-| TB2 | 07/09 | Joaquin Cuentas | Desarrollo de la primera interfaz luego del inicio |
-| TB2 | 09/09 | Joaquin Cuentas |  |
-| TB2 | 07/09 | Diego Andres | Desarrollo del apartado de paraderos cercanos del backend |
-| TB2 | 09/09 | Diego Andres |  |
-| TB2 | 06/09 | Elizabeth Apaza | Desarrollo del apartado de perfil del backend |
-| TB2 | 09/09 | Elizabeth Apaza |  |
+| TB2 | 14/11 | Andree Cardenas | Sprint 3 | 
+| TB2 | 15/11 | Andree Cardenas | Desarrollo del apartado de perfil del backend |
+| TB2 | 13/11 | Fátima Florez | Desarrollo del apartado de notificaciones del backend |
+| TB2 | 14/11 | Fátima Florez | Sprint 3 | 
+| TB2 | 13/11 | Joaquin Cuentas | Desarrollo del apartado de publicaciones del backend |
+| TB2 | 14/11 | Joaquin Cuentas | Sprint 3 | 
+| TB2 | 14/11 | Diego Andres | Desarrollo del apartado de paraderos cercanos del backend |
+| TB2 | 16/11 | Diego Andres | Sprint 3 | 
+| TB2 | 14/11 | Elizabeth Apaza | Desarrollo del apartado de perfil del backend |
+| TB2 | 15/11 | Elizabeth Apaza | Sprint 3 | 
 </div>
 
 <br><br>
@@ -67,6 +67,10 @@
 | URL del repositorio del Frontend |
 | -------------------------------------- |
 | [https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Frontend](https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Frontend) |
+
+| URL del repositorio del Backend |
+| -------------------------------------- |
+| [https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend](https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend) |
 
 <br><br>
 
@@ -176,6 +180,20 @@
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-The-Product](#54-video-about-the-product)
 <br><br>
 
 ### *ABET – EAC - Student Outcome 5*
