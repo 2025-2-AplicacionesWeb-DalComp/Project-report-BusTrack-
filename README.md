@@ -2476,6 +2476,60 @@ El objetivo principal del Sprint 3 es consolidar la conexión del frontend con e
 
 #### 5.2.4.1. Sprint Planning 4
 
+<table> 
+  <tr> 
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr> 
+  <tr>
+    <td colspan="2">
+      <b>Sprint Planning Background</b>
+    </td>
+  </tr>
+  <tr> 
+    <td>Date</td> 
+    <td>24/11/2025</td> 
+  </tr>
+  <tr> 
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr> 
+  <tr> 
+    <td>Location</td> 
+    <td>Reunión virtual vía Google Meet</td>
+  </tr>
+  <tr> 
+    <td>Attendees</td>
+    <td> Mathias Andree Cárdenas Huaman / Elizabeth Noelia Apaza Bocanegra / Diego Andrés Avalos Córdova / Joaquín Alberto Cuentas Peña / Fátima Belén Florez Shimabukuro </td>
+  </tr>
+  <tr> 
+    <td>Sprint 3 Review Summary</td> 
+    <td> Durante el Sprint 3 se logró una integración completa entre frontend, backend y base de datos, habilitando la persistencia real de usuarios, rutas favoritas, historial y notificaciones. La aplicación alcanzó un estado estable y funcional en sus flujos principales. Sin embargo, durante las entrevistas de validación surgió la necesidad de habilitar una experiencia también para empresas de buses, lo cual se incorpora como nueva prioridad para este último sprint. </td>
+  </tr> 
+  <tr> 
+    <td>Sprint 3 Retrospective Summary</td>
+    <td> El equipo resaltó como fortaleza su buena coordinación mediante GitFlow y la división del trabajo por pantallas. Las oportunidades de mejora identificadas fueron: aumentar las pruebas integrales, optimizar la gestión del tiempo para evitar acumulación de tareas, y asegurar la correcta integración de nuevas funcionalidades. Para el Sprint 4 se acordó priorizar correcciones, despliegue final e implementación de la nueva ruta de acceso para empresas. </td>
+  </tr> 
+  <tr>
+    <td colspan="2">
+      <b>Sprint Goal & User Stories</b>
+    </td>
+  </tr> 
+  <tr> 
+    <td>Sprint 4 Goal</td>
+    <td> Nuestro objetivo es entregar la versión final, completamente integrada, accesible y lista para validación de BusTrack, incorporando además dos rutas diferenciadas para nuestros segmentos principales: pasajeros y empresas de transporte público. Asimismo, creemos que nuestra página brindara una experiencia sólida, profesional y lista para operación real, permitiendo que tanto ciudadanos como compañías de buses accedan a funcionalidades relevantes para su uso.
+    </td> 
+  </tr> 
+  <tr> 
+    <td>Sprint 4 Velocity</td>
+        <td>14 </td>
+      </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>14</td>
+  </tr>
+</table>
+
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
 #### 5.2.4.3. Sprint Backlog 4
