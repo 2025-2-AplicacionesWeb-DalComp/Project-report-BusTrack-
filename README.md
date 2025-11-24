@@ -2471,6 +2471,8 @@ El objetivo principal del Sprint 3 es consolidar la conexión del frontend con e
 
 ### 5.2.4. Sprint 4
 
+En esta parte, se registran y explican los avances del Sprint 4 en cuanto al desarrollo de la página y la colaboración del equipo. El objetivo de este sprint fue consolidar la versión final de BusTrack, incorporando el acceso diferenciado para pasajeros y empresas de transporte, corrigiendo errores pendientes y preparando el despliegue, la documentación y la validación final del producto.
+
 #### 5.2.4.1. Sprint Planning 4
 
 <table> 
@@ -2529,7 +2531,64 @@ El objetivo principal del Sprint 3 es consolidar la conexión del frontend con e
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
+Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que otros miembros del equipo cumplen roles de **colaboración (C)** para asegurar que el desarrollo cumpla con los objetivos del sprint 4.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Acceso diferenciado (Pasajeros / Empresas)** | **Módulo Web para Pasajeros (ajustes finales)** | **Módulo Web para Empresas de Transporte** | **Internacionalización (i18n) y accesibilidad** | **Documentación, despliegue y validación final** |
+|-----------------------------------------|-----------------------|-----------------------------------------------|-------------------------------------------------|--------------------------------------------|---------------------------------------------------------|-------------------------------------------------|
+| Mathias Andree Cárdenas Huaman          | AndS56                | C                                             | C                                               | **L**                                      | C                                                       | C                                               |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                             | C                                               | C                                          | **L**                                                   | C                                               |
+| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                             | C                                               | C                                          | C                                                       | **L**                                           |
+| Joaquin Alberto Cuentas Peña            | JoaCUPE               | **L**                                         | C                                               | C                                          | C                                                       | C                                               |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | C                                             | **L**                                           | C                                          | C                                                       | C                                               |
+
 #### 5.2.4.3. Sprint Backlog 4
+
+En esta sección se presenta el **Sprint Backlog 4**, correspondiente al cuarto ciclo de desarrollo del proyecto BusTrack.
+
+El objetivo principal de este sprint es **finalizar y consolidar la versión completa del sistema**, incorporando acceso diferenciado para pasajeros y empresas de transporte, corrigiendo errores identificados en las validaciones previas, aplicando internacionalización, accesibilidad, documentación técnica final y realizando el despliegue completo del producto.
+
+
+| User Story | Title | Task ID | Task Title | Description | Estimation (hours) | Assigned to | Status |
+|-----------|--------|----------|-------------|--------------|---------------------|--------------|--------|
+
+| US16 | Acceso diferenciado (Pasajero/Empresa) | T60 | Crear vista de selección de tipo de usuario | Pantalla inicial para elegir entre tipo de usuario. | 3 | Joaquín C. | to-do |
+| US16 | Acceso diferenciado | T61 | Configurar rutas independientes | Crear `/passenger` y `/company` en frontend. | 2 | Mathias C. | to-do |
+
+| US17 | Módulo Web para Empresas | T62 | Diseñar pantalla empresa | Vista de beneficios, CTA y presentación del módulo empresarial. | 3 | Fátima F. | to-do |
+| US17 | Módulo Empresa | T63 | Implementación funcional | Construcción del flujo accesible desde `/company`. | 4 | Elizabeth A. | to-do |
+
+| US07 | Panel de Monitoreo (empresa) | T64 | Ajustes finales panel de flota | Corrección de errores + mejoras de UI. | 3 | Diego A. | in-process |
+
+| US04 | Ubicación de buses (pasajero) | T65 | Optimización del mapa | Mejorar carga, marcadores y fallback visual. | 2 | Diego A. | in-process |
+| US04 | Ubicación | T66 | Mensaje “Ubicación no disponible” | Refinar mensaje y estilo visual. | 1 | Fátima F. | done |
+
+| US05 | Notificaciones de retraso | T67 | Validar activación/desactivación | Ajustar lógica visual y estados. | 2 | Joaquín C. | to-do |
+
+| US06 | Alertas de desvío | T68 | Manejo de error sin conexión | Mostrar mensaje correspondiente. | 1 | Mathias C. | to-do |
+
+| US12 | Editar perfil | T69 | Mejorar validaciones | Ajustar reglas (email, campos vacíos). | 2 | Elizabeth A. | to-do |
+
+| US13 | Información de la solución | T70 | Ajustes finales landing | Corrección de textos e imágenes. | 2 | Fátima F. | in-process |
+| US14 | Beneficios | T71 | Revisión visual y textual | Mejorar secciones y responsividad. | 1 | Mathias C. | to-do |
+| US15 | Misión y visión | T72 | Ajustes UI/UX | Pulido estético final. | 1 | Elizabeth A. | to-do |
+
+| US-T1 | Internacionalización (i18n) | T73 | Implementar EN/ES | Crear archivos de idioma. | 3 | Elizabeth A. | to-do |
+| US-T1 | i18n | T74 | Ajustes globales | Aplicar traducción en pantallas principales. | 2 | Fátima F. | to-do |
+
+| US-T2 | Accesibilidad (a11y) | T75 | ARIA labels | Añadir roles aria-* a todos los componentes. | 2 | Joaquín C. | to-do |
+| US-T2 | a11y | T76 | Contraste y teclado | Revisar colores, tab-index y navegación. | 2 | Diego A. | to-do |
+
+| US-T3 | Documentación backend | T77 | Completar Swagger | Documentar todos los endpoints. | 3 | Diego A. | to-do |
+| US-T3 | Documentación | T78 | Validar consistencia | Revisar parámetros y respuestas. | 1 | Mathias C. | to-do |
+
+| US-T4 | Despliegue final | T79 | Deploy frontend | Subir versión final a Netlify/GitHub Pages. | 2 | Joaquín C. | to-do |
+| US-T4 | Deploy backend | T80 | Configurar Render/Azure | Variables de entorno + rutas base. | 3 | Diego A. | to-do |
+
+| US-T5 | Validación final | T81 | Pruebas con usuarios | Validar flujos de pasajero y empresa. | 2 | Fátima F. | to-do |
+| US-T5 | Correcciones | T82 | Ajustes post-validación | Resolver errores detectados. | 2 | Todo el equipo | to-do |
+
+
+
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
