@@ -2548,44 +2548,23 @@ En esta sección se presenta el **Sprint Backlog 4**, correspondiente al cuarto 
 El objetivo principal de este sprint es **finalizar y consolidar la versión completa del sistema**, incorporando acceso diferenciado para pasajeros y empresas de transporte, corrigiendo errores identificados en las validaciones previas, aplicando internacionalización, accesibilidad, documentación técnica final y realizando el despliegue completo del producto.
 
 
+### **Sprint Backlog 4**
+
 | User Story | Title | Task ID | Task Title | Description | Estimation (hours) | Assigned to | Status |
 |-----------|--------|----------|-------------|--------------|---------------------|--------------|--------|
-
-| US16 | Acceso diferenciado (Pasajero/Empresa) | T60 | Crear vista de selección de tipo de usuario | Pantalla inicial para elegir entre tipo de usuario. | 3 | Joaquín C. | to-do |
-| US16 | Acceso diferenciado | T61 | Configurar rutas independientes | Crear `/passenger` y `/company` en frontend. | 2 | Mathias C. | to-do |
-
-| US17 | Módulo Web para Empresas | T62 | Diseñar pantalla empresa | Vista de beneficios, CTA y presentación del módulo empresarial. | 3 | Fátima F. | to-do |
-| US17 | Módulo Empresa | T63 | Implementación funcional | Construcción del flujo accesible desde `/company`. | 4 | Elizabeth A. | to-do |
-
-| US07 | Panel de Monitoreo (empresa) | T64 | Ajustes finales panel de flota | Corrección de errores + mejoras de UI. | 3 | Diego A. | in-process |
-
-| US04 | Ubicación de buses (pasajero) | T65 | Optimización del mapa | Mejorar carga, marcadores y fallback visual. | 2 | Diego A. | in-process |
-| US04 | Ubicación | T66 | Mensaje “Ubicación no disponible” | Refinar mensaje y estilo visual. | 1 | Fátima F. | done |
-
-| US05 | Notificaciones de retraso | T67 | Validar activación/desactivación | Ajustar lógica visual y estados. | 2 | Joaquín C. | to-do |
-
-| US06 | Alertas de desvío | T68 | Manejo de error sin conexión | Mostrar mensaje correspondiente. | 1 | Mathias C. | to-do |
-
-| US12 | Editar perfil | T69 | Mejorar validaciones | Ajustar reglas (email, campos vacíos). | 2 | Elizabeth A. | to-do |
-
-| US13 | Información de la solución | T70 | Ajustes finales landing | Corrección de textos e imágenes. | 2 | Fátima F. | in-process |
-| US14 | Beneficios | T71 | Revisión visual y textual | Mejorar secciones y responsividad. | 1 | Mathias C. | to-do |
-| US15 | Misión y visión | T72 | Ajustes UI/UX | Pulido estético final. | 1 | Elizabeth A. | to-do |
-
-| US-T1 | Internacionalización (i18n) | T73 | Implementar EN/ES | Crear archivos de idioma. | 3 | Elizabeth A. | to-do |
-| US-T1 | i18n | T74 | Ajustes globales | Aplicar traducción en pantallas principales. | 2 | Fátima F. | to-do |
-
-| US-T2 | Accesibilidad (a11y) | T75 | ARIA labels | Añadir roles aria-* a todos los componentes. | 2 | Joaquín C. | to-do |
-| US-T2 | a11y | T76 | Contraste y teclado | Revisar colores, tab-index y navegación. | 2 | Diego A. | to-do |
-
-| US-T3 | Documentación backend | T77 | Completar Swagger | Documentar todos los endpoints. | 3 | Diego A. | to-do |
-| US-T3 | Documentación | T78 | Validar consistencia | Revisar parámetros y respuestas. | 1 | Mathias C. | to-do |
-
-| US-T4 | Despliegue final | T79 | Deploy frontend | Subir versión final a Netlify/GitHub Pages. | 2 | Joaquín C. | to-do |
-| US-T4 | Deploy backend | T80 | Configurar Render/Azure | Variables de entorno + rutas base. | 3 | Diego A. | to-do |
-
-| US-T5 | Validación final | T81 | Pruebas con usuarios | Validar flujos de pasajero y empresa. | 2 | Fátima F. | to-do |
-| US-T5 | Correcciones | T82 | Ajustes post-validación | Resolver errores detectados. | 2 | Todo el equipo | to-do |
+| US16 | Acceso diferenciado (Pasajero/Empresa) | T31 | Crear vista de selección de tipo de usuario | Pantalla inicial para elegir entre tipo de usuario. | 3 | Joaquin Cuentas | Done |
+| US16 | Acceso diferenciado | T32 | Configurar rutas independientes | Crear `/passenger` y `/company` en frontend. | 2 | Mathia Cardenas | Done |
+| US17 | Módulo Web para Empresas | T33 | Diseñar pantalla empresa | Vista de beneficios, CTA y presentación del módulo empresarial. | 3 | Fátima Florez | Done |
+| US17 | Módulo Empresa | T34 | Implementación funcional | Construcción del flujo accesible desde `/company`. | 4 | Elizabeth Apaza | Done |
+| US07 | Panel de Monitoreo (empresa) | T35 | Ajustes finales panel de flota | Corrección de errores + mejoras de UI. | 3 | Diego Avalos | Done|
+| US04 | Ubicación de buses (pasajero) | T36 | Optimización del mapa | Mejorar carga, marcadores y fallback visual. | 2 | Diego Avalos | Done |
+| US04 | Ubicación | T37 | Mensaje “Ubicación no disponible” | Refinar mensaje y estilo visual. | 1 | Fátima Florez | Done |
+| US05 | Notificaciones de retraso | T38 | Validar activación/desactivación | Ajustar lógica visual y estados. | 2 | Joaquin Cuentas | Done |
+| US06 | Alertas de desvío | T39 | Manejo de error sin conexión | Mostrar mensaje correspondiente. | 1 | Mathia Cardenas | Done |
+| US12 | Editar perfil | T40 | Mejorar validaciones | Ajustar reglas (email, campos vacíos). | 2 | Elizabeth Apaza | Done|
+| US13 | Información de la solución | T41 | Ajustes finales landing | Corrección de textos e imágenes. | 2 | Fátima Florez | Done |
+| US14 | Beneficios | T42 | Revisión visual y textual | Mejorar secciones y responsividad. | 1 | Mathia Cardenas | Done |
+| US15 | Misión y visión | T43 | Ajustes UI/UX | Pulido estético final. | 1 | Elizabeth Apaza | Done |
 
 
 
