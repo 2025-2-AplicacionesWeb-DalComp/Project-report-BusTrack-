@@ -2,14 +2,14 @@
 
 ![UPC](img/commons/logoUpc.png) 
 
-<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Carrera: Ingeniería de Software </h3>
 <h3 align="center"> Periodo 2025 - 2 </h3>
 
 
 # Informe del Trabajo Final (TF)  
 
-<h3 align="center"> Aplicaciones Web</h3>
-<h3 align="center"> 1ASI0730
+<h3 align="center"> Curso: Aplicaciones Web</h3>
+<h3 align="center"> Código de curso: 1ASI0730
 <h3 align="center"> NRC: 7452  </h3>
 <h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
 <h3> Startup: DaL Company </h3>
