@@ -3,13 +3,13 @@
 ![UPC](img/commons/logoUpc.png) 
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2025 - 2 </h3>
+<h3 align="center"> Periodo 2025 - 2 </h3>
 
 
-# Informe del Trabajo Final (TB1)  
+# Informe del Trabajo Final (TF)  
 
 <h3 align="center"> Aplicaciones Web</h3>
-<h3 align="center"> Sección: 7452  </h3>
+<h3 align="center"> NRC: 7452  </h3>
 <h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
 <h3> Startup: DaL Company </h3>
 <h3> Product: BusTrack </h3>
