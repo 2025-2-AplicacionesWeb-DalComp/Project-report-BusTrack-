@@ -9,6 +9,7 @@
 # Informe del Trabajo Final (TF)  
 
 <h3 align="center"> Aplicaciones Web</h3>
+<h3 align="center"> 1ASI0730
 <h3 align="center"> NRC: 7452  </h3>
 <h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
 <h3> Startup: DaL Company </h3>
@@ -25,7 +26,7 @@
 
 </div>
 
-<h3 align="center">Septiembre, 2025</h3>
+<h3 align="center">Diciembre, 2025</h3>
 
 <br><br>
 
@@ -36,19 +37,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 |  |  |  |  |
-| TB2 | 14/11 | Andree Cardenas | Sprint 3 | 
-| TB2 | 15/11 | Andree Cardenas | Desarrollo del apartado de perfil del backend |
-| TB2 | 13/11 | Fátima Florez | Desarrollo del apartado de notificaciones del backend |
-| TB2 | 14/11 | Fátima Florez | Sprint 3 | 
-| TB2 | 16/11 | Fátima Florez | Desarrollo del apartado de notificaciones del backend | 
-| TB2 | 13/11 | Joaquin Cuentas | Desarrollo del apartado de publicaciones del backend |
-| TB2 | 14/11 | Joaquin Cuentas | Sprint 3 | 
-| TB2 | 14/11 | Diego Andres | Desarrollo del apartado de paraderos cercanos del backend |
-| TB2 | 16/11 | Diego Andres | Sprint 3 | 
-| TB2 | 14/11 | Elizabeth Apaza | Desarrollo del apartado de perfil del backend |
-| TB2 | 15/11 | Elizabeth Apaza | Sprint 3 | 
-| TB2 | 15/11 | Diego Andres | Sprint 3 | 
-| TB2 | 15/11 | Diego Andres | Desarrollo del backen apatarado de paradas | 
+
 </div>
 
 <br><br>
@@ -2994,24 +2983,6 @@ Para esta auditoría revisamos la experiencia del usuario en tareas clave alinea
 - **Heurística:** *Match with the real world – Comunicación clara*  
 - **Descripción:** No se muestran horarios, disponibilidad ni días de atención del taller.  
 - **Recomendación:** Añadir horarios visibles y estados de disponibilidad (abierto/cerrado, reserva en línea).
-
----
-
-# Conclusión
-
-AutoFix presenta una propuesta de valor interesante y alineada con la digitalización del sector automotriz en Perú. Sin embargo, se identifican oportunidades claras de mejora en:
-
-- Claridad de la propuesta de valor y del flujo principal.  
-- Accesibilidad (texto alternativo, contraste, feedback visual).  
-- Manejo de formularios y mensajes de error.  
-- Consistencia en idioma y diseño visual.  
-- Presencia de elementos de confianza (ayuda, soporte y legales).
-
-Trabajar estos puntos ayudará a:
-
-- Aumentar la confianza de los usuarios.  
-- Reducir errores y abandonos en el flujo.  
-- Facilitar la adopción tanto para dueños de vehículos como para talleres asociados.
 
 ---
 
