@@ -490,8 +490,8 @@ El análisis competitivo permite comparar a **BusTrack** con los principales act
     <td colspan="2"><div align="center"><strong>Logo</strong></div></td>
     <td align="center"><img src="img/commons/moovit.png" width="90"/></td>
     <td align="center"><img src="img/commons/googlemaps.png" width="90"/></td>
-    <td align="center"><img src="img/commons/turuta.png" width="90"/></td>
-    <td align="center"><img src="img/commons/redbus.webp" width="90"/></td>
+    <td align="center"><img src="img/commons/turuta.webp" width="90"/></td>
+    <td align="center"><img src="img/commons/redbus.png" width="90"/></td>
   </tr>
   <tr>
     <td rowspan="2"><strong>Perfil</strong></td>
