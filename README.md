@@ -711,8 +711,6 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Resumen de entrevista:** El entrevistado viaja diariamente en buses y combis, tomando hasta tres por día desde San Martín de Porres. Sus principales preocupaciones son el tiempo de espera, la inseguridad y la falta de información confiable. Usa aplicaciones como Moovit, aunque señala que no siempre están actualizadas. Valora recibir notificaciones en tiempo real sobre ubicación, desvíos y precios para llegar a tiempo a clases y optimizar sus traslados. |
  
 <br>
----
-<br>
 
 ### Segmento 2: Empresas de Transporte Urbano
 
@@ -737,6 +735,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Link de entrevista:** <https://drive.google.com/file/d/1Uefn8y3-nF-yh4fCzbMGzqDCZm3p694Q/> |
 | **Resumen de entrevista:** El entrevistado gestiona las unidades mediante grupos de WhatsApp y cuadernos físicos, recibiendo información de los conductores sobre retrasos, cambios de ruta y controles policiales. Identifica retos como tráfico, bloqueos y falta de procesos modernos. Considera útil contar con reportes sobre rutas, horarios y cantidad de pasajeros. Percibe a BusTrack como una oportunidad para implementar monitoreo en tiempo real, aunque también identifica barreras relacionadas con la confianza y la adaptación tecnológica de los conductores. |
 
+<br>
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -763,8 +762,6 @@ Se identificó una fuerte necesidad de control en los pasajeros, quienes experim
 
 La confianza está estrechamente relacionada con la seguridad, por lo que esperan validación de conductores, monitoreo de unidades y rutas verificadas. Finalmente, su motivación principal es de carácter práctico, pues buscan optimizar el tiempo de viaje y reducir la incertidumbre más que explorar aplicaciones por simple novedad. 
 
-<br>
----
 <br>
 
 ### Segmento 2: Empresas de Transporte Urbano
@@ -808,7 +805,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Usuario Pragmático |
-| **Image**        | ![Manuel Suarez](img/commons/manuelSuarez.png) |
+| **Image**        | <img src="img/commons/manuelSuarez.png" alt="Manuel Suarez" width="200"/> |
 | **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme en el paradero." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 80/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
 | **Goals**        | - Llegar puntual a clases sin depender de información incierta.<br>- Optimizar su tiempo para estudiar y evitar esperas innecesarias.<br>- Sentirse seguro en trayectos diarios, especialmente en paraderos con poca iluminación o vigilancia. |
@@ -818,7 +815,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Technology**   | IT and Internet: 85/100<br>Software: 70/100<br>Mobile Apps: 90/100<br>Social Networks: 95/100 |
 | **Brands**       | WhatsApp, Google Maps, TikTok, Moovit, TuRuta |
 
----
+<br>
 
 ## Trabajador
 
@@ -831,7 +828,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Viajero Organizado |
-| **Image**        | ![Alejandro Medina](img/commons/alejandroMedina.jpg) |
+| **Image**        | <img src="img/commons/alejandroMedina.jpg" alt="Alejandro Medina" width="200"/> |
 | **Quote**        | "Necesito que el transporte sea puntual porque llegar tarde al trabajo no es una opción." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 85/100<br>Growth: 65/100<br>Power: 50/100<br>Social: 70/100 |
 | **Goals**        | - Llegar puntual al trabajo evitando esperas innecesarias.<br>- Optimizar su tiempo de traslado para tener más tiempo libre al final del día.<br>- Usar una app confiable que proporcione información precisa sobre buses y tráfico en tiempo real.<br> - Reducir el estrés diario asociado al transporte público. |
@@ -840,10 +837,6 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Personality**  | Extrovert: 55/100<br>Thinking: 85/100<br>Judging: 70/100 |
 | **Technology**   | IT and Internet: 85/100<br>Software: 65/100<br>Mobile Apps: 80/100<br>Social Networks: 85/100 |
 | **Brands**       | WhatsApp, Moovit, Facebook, TikTok |
-
-<br>
-
----
 
 <br>
 
@@ -860,7 +853,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Gestor Eficiente |
-| **Image**        | ![Luis Palacios](img/commons/luisPalacios.jpg) |
+| **Image**        | <img src="img/commons/luisPalacios.jpg" alt="Luis Palacios" width="200"/> |
 | **Quote**        | "Si puedo monitorear mis buses en tiempo real, puedo ofrecer un mejor servicio y ganar más pasajeros." |
 | **Motivations**  | Incentive: 85/100<br>Fear: 65/100<br>Achievement: 90/100<br>Growth: 70/100<br>Power: 75/100<br>Social: 70/100 |
 | **Goals**        | - Monitorear en tiempo real la ubicación y estado de todas las unidades.<br>- Detectar y resolver incidencias operativas rápidamente.<br>- Mejorar la puntualidad general y reducir reclamos de usuarios.<br>- Digitalizar procesos manuales para optimizar tiempos y costos.<br>- Usar herramientas que faciliten decisiones estratégicas. |
@@ -870,7 +863,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Technology**   | IT and Internet: 75/100<br>Software: 60/100<br>Mobile Apps: 65/100<br>Social Networks: 60/100 |
 | **Brands**       | WhatsApp, Excel, Facebook |
 
----
+<br>
 
 ##  Supervisor de Rutas
 
@@ -883,7 +876,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Supervisor Operativo |
-| **Image**        | ![José Ramírez](img/commons/joseRamirez.jpg) |
+| **Image**        | <img src="img/commons/joseRamirez.jpg" alt="José Ramírez" width="200"/> |
 | **Quote**        | "Lo más difícil es coordinar con los choferes en medio del tráfico y asegurar que los buses lleguen a tiempo." |
 | **Motivations**  | Incentive: 70/100<br>Fear: 60/100<br>Achievement: 80/100<br>Growth: 60/100<br>Power: 65/100<br>Social: 70/100 |
 | **Goals**        | - Coordinar eficientemente la operación diaria de múltiples rutas.<br>- Anticipar problemas de tráfico o desvíos antes de que afecten a los pasajeros.<br>- Reducir reclamos por incumplimiento de horarios.<br>- Estandarizar reportes e incidencias.<br>- Recibir alertas automáticas para actuar más rápido. |
@@ -897,7 +890,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 
 ### 2.3.2. User Task Matrix
 
-## Segmento Objetivo 1
+### Segmento Objetivo 1
       
 | Tarea / Funcionalidad                | Manuel Suarez (Estudiante Universitario) | Alejandro Medina (Trabajador) | Adulto mayor | Turista |
 |--------------------------------------|------------|------------|--------------|---------|
@@ -910,10 +903,11 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | Consultar rutas hacia puntos turísticos | Baja    | Baja       | Baja         | Alta    |
 | Administración de datos (rol admin)  | Baja       | Baja       | Baja         | Baja    |
 
-En el User Task Matrix del segmento 1 pudimos ver que cada grupo de usuarios tiene prioridades distintas: estudiantes y trabajadores buscan sobre todo rapidez e información en tiempo real; los adultos mayores se enfocan más en la seguridad y paraderos cercanos; y los turistas necesitan rutas claras hacia lugares de interés. Aunque las tareas administrativas no se notan directamente, son clave para mantener la información confiable. En general, BusTrack debe centrarse en ofrecer datos precisos, opciones personalizadas y una experiencia segura para todos.
+En el User Task Matrix del Segmento 1 se observa que cada grupo de usuarios tiene prioridades distintas: los estudiantes y trabajadores buscan principalmente rapidez e información en tiempo real; los adultos mayores se enfocan en la seguridad y en identificar paraderos cercanos; y los turistas necesitan rutas claras hacia lugares de interés. Aunque las tareas administrativas no se perciben directamente, son clave para mantener la información confiable. En general, BusTrack debe centrarse en ofrecer datos precisos, opciones personalizadas y una experiencia segura para todos.
 
+<br>
 
-## Segmento Objetivo 2
+### Segmento Objetivo 2
 
 | Tarea / Funcionalidad                | Luis Palacios (Administrador de Flota) | José Ramírez (Supervisor de Rutas) | Propietario |
 |--------------------------------------|------------|------------|--------------|
@@ -921,45 +915,45 @@ En el User Task Matrix del segmento 1 pudimos ver que cada grupo de usuarios tie
 | Generar reportes automáticos         | Alta       | Media      | Alta         |
 | Gestionar incidencias y alertas en ruta  | Alta       | Alta       | Media        |
 | Comunicar cambios de ruta a choferes | Alta       | Alta       | Baja         |
-| Analizar costos operativos y optimizarlos      | Media      | Baja      | Alta       |
-| Mejorar puntualidad y satisfacción del pasajero   | Alta      | Alta      | Alta     |
-| Planificar mantenimiento preventivo de buses | Media    | Alta       | Media         |
-| Decidir adopción de nuevas tecnologías  | Media       | Baja       | Alta         |
-| Administrar permisos y accesos en la plataforma  | Alta     | Media     | Baja       |
+| Analizar costos operativos y optimizarlos | Media    | Baja      | Alta         |
+| Mejorar puntualidad y satisfacción del pasajero | Alta | Alta | Alta |
+| Planificar mantenimiento preventivo de buses | Media | Alta | Media |
+| Decidir adopción de nuevas tecnologías | Media | Baja | Alta |
+| Administrar permisos y accesos en la plataforma | Alta | Media | Baja |
 
-En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el administrador de flota priorizan tareas operativas como el monitoreo en tiempo real, reportes e incidencias, mientras que los propietarios se enfocan en aspectos estratégicos como la reducción de costos y la adopción de nuevas tecnologías. Esto evidencia que las empresas necesitan una solución que combine eficiencia operativa y decisiones estratégicas, garantizando puntualidad, satisfacción del pasajero y modernización de procesos.
+En el User Task Matrix del Segmento 2 se observa que el supervisor de rutas y el administrador de flota priorizan tareas operativas como el monitoreo en tiempo real, la generación de reportes y la gestión de incidencias, mientras que los propietarios se enfocan en aspectos estratégicos como la reducción de costos y la adopción de nuevas tecnologías. Esto evidencia que las empresas necesitan una solución que combine eficiencia operativa y capacidad estratégica, garantizando puntualidad, satisfacción del pasajero y modernización de procesos.
 
+<br>
 
-## 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping
 
-## Segmento Objetivo 1
+### Segmento Objetivo 1
 
 ### Manuel Suarez - Estudiante Universitario
 
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Se da cuenta que está saliendo tarde y necesita llegar a clases a tiempo  | Reloj, calendario personal         | Ansioso          | No tiene información actualizada sobre la frecuencia y horarios de los buses    |
-| Búsqueda de Información | Abre BusTrack y busca la mejor ruta disponible | BusTrack web/app, comparación con Moovit | Esperanzado      | Apps externas no muestran datos precisos ni retrasos en tiempo real    |
-| Planificación del Viaje | Selecciona la ruta adecuada y activa notificaciones de llegada  | Función de favoritos, notificaciones | Aliviado        | Estimaciones pueden variar con el tráfico impredecible  |
-| Espera en Paradero     | Llega al paradero y revisa actualizaciones   | BusTrack en el celular             | Impaciente       | A veces el bus se retrasa y no hay alertas inmediatas  |
-| Viaje en Bus           | Consulta la ubicación del bus y tiempo restante  | BusTrack GPS + mapas interactivos  | Confiado         | Problemas de señal GPS pueden afectar la precisión  |
-| Llegada al Destino     | Llega puntual y revisa historial de trayecto   | Confirmación visual     | Satisfecho       | Si hubo retraso inesperado, disminuye su confianza para futuros viajes |
+| Identificación de Necesidad | Se da cuenta de que está saliendo tarde y necesita llegar a clases a tiempo | Reloj, calendario personal | Ansioso | No tiene información actualizada sobre la frecuencia y horarios de los buses |
+| Búsqueda de Información | Abre BusTrack y busca la mejor ruta disponible | BusTrack web/app, comparación con Moovit | Esperanzado | Las aplicaciones externas no muestran datos precisos ni retrasos en tiempo real |
+| Planificación del Viaje | Selecciona la ruta adecuada y activa notificaciones de llegada | Función de favoritos, notificaciones | Aliviado | Las estimaciones pueden variar con el tráfico impredecible |
+| Espera en Paradero     | Llega al paradero y revisa actualizaciones | BusTrack en el celular | Impaciente | A veces el bus se retrasa y no hay alertas inmediatas |
+| Viaje en Bus           | Consulta la ubicación del bus y el tiempo restante | BusTrack GPS + mapas interactivos | Confiado | Problemas de señal GPS pueden afectar la precisión |
+| Llegada al Destino     | Llega puntual y revisa historial de trayecto | Confirmación visual | Satisfecho | Si hubo retraso inesperado, disminuye su confianza para futuros viajes |
 
 ### Alejandro Medina - Trabajador
 
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Se da cuenta de que el tráfico está complicado y necesita llegar puntual al trabajo  | Reloj, calendario laboral, apps de clima/tráfico  | Ansioso          | No tiene certeza si podrá llegar a tiempo; no sabe si hay desvíos o retrasos en su ruta habitual |
-| Búsqueda de Información | Abre BusTrack para verificar en tiempo real la posición del bus y estimar el tiempo de llegada | BusTrack web/app, GPS, comparación rápida con Moovit| Esperanzado      | Otras apps no reflejan desvíos por tráfico real; información incompleta o tardía |
-| Planificación del Viaje | Activa notificaciones de llegada y elige la ruta más rápida disponible  | Función de favoritos, notificaciones | Aliviado        | Las estimaciones no siempre consideran bloqueos súbitos o tráfico intenso  |
-| Espera en Paradero     | Llega al paradero y revisa constantemente la app para evitar sorpresas   | BusTrack en el celular             | Impaciente       | Retrasos de unidades sin aviso generan estrés y pérdida de tiempo |
-| Viaje en Bus           | Monitorea el trayecto para prever desvíos y notifica en el trabajo si hay retrasos | BusTrack GPS + mapas interactivos  | Confiado         | Problemas de señal o actualizaciones lentas pueden dificultar la toma de decisiones a tiempo |
-| Llegada al Destino     | Llega puntual y revisa historial de trayecto   | Confirmación visual     | Satisfecho       | Si llega tarde por información poco precisa, su confianza en la app disminuye |
+| Identificación de Necesidad | Se da cuenta de que el tráfico está complicado y necesita llegar puntual al trabajo | Reloj, calendario laboral, apps de clima/tráfico | Ansioso | No tiene certeza de si podrá llegar a tiempo; no sabe si hay desvíos o retrasos en su ruta habitual |
+| Búsqueda de Información | Abre BusTrack para verificar en tiempo real la posición del bus y estimar el tiempo de llegada | BusTrack web/app, GPS, comparación con Moovit | Esperanzado | Otras aplicaciones no reflejan desvíos por tráfico real; información incompleta o tardía |
+| Planificación del Viaje | Activa notificaciones de llegada y elige la ruta más rápida disponible | Función de favoritos, notificaciones | Aliviado | Las estimaciones no siempre consideran bloqueos súbitos o tráfico intenso |
+| Espera en Paradero     | Llega al paradero y revisa constantemente la app para evitar sorpresas | BusTrack en el celular | Impaciente | Retrasos de unidades sin aviso generan estrés y pérdida de tiempo |
+| Viaje en Bus           | Monitorea el trayecto para prever desvíos y notifica en el trabajo si hay retrasos | BusTrack GPS + mapas interactivos | Confiado | Problemas de señal o actualizaciones lentas pueden dificultar la toma de decisiones |
+| Llegada al Destino     | Llega puntual y revisa historial de trayecto | Confirmación visual | Satisfecho | Si llega tarde por información poco precisa, su confianza en la app disminuye |
 
+---
 
-
-
-## Segmento Objetivo 2
+### Segmento Objetivo 2
 
 ### Luis Palacios - Administrador de Flota
 
@@ -967,43 +961,59 @@ En el User Task Matrix del segmento 2 se observa que el supervisor de rutas y el
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
 | Identificación de Necesidad | Nota que varios buses están llegando tarde y recibe múltiples quejas de pasajeros | Llamadas a choferes, grupos de WhatsApp | Frustrado | No cuenta con información centralizada ni actualizada en tiempo real para tomar decisiones rápidas |
 | Búsqueda de Información | Revisa manualmente hojas de ruta y reportes enviados por conductores | Cuadernos, Excel, grupos de WhatsApp | Agobiado | La información es tardía, incompleta o confusa; depende de mensajes dispersos |
-| Planificación Operativa | Asigna choferes, define rutas y horarios para el día siguiente | Excel, llamadas, listas en papel | Concentrado    | Este proceso consume tiempo, tiene alta probabilidad de errores humanos y poca trazabilidad  |
-| Monitoreo en ruta  | Recibe llamadas constantes sobre bloqueos, tráfico o retrasos   | WhatsApp, llamadas telefónicas  | Estresado | No puede anticipar incidentes ni verificar ubicación real de los buses |
-| Gestión de incidencias  | Intenta reubicar buses o reasignar rutas frente a retrasos | Comunicación directa con choferes  | Estresado   | Las reacciones son tardías; los reclamos de pasajeros aumentan  |
-| Evaluación y reportes  | Al final del día, recopila información para enviar informes de operación | Excel, reportes manuales  | Cansado   | Consolidar datos toma horas y los reportes no reflejan el estado real de la operación   |
-| Implementación digital | Utiliza BusTrack para monitorear buses en tiempo real, recibir alertas y generar reportes automáticos | BusTrack web/app, notificaciones en vivo, panel administrativo | Confiado | Reduce carga manual y mejora control, pero le preocupa la capacitación del personal y adopción |
-
+| Planificación Operativa | Asigna choferes, define rutas y horarios para el día siguiente | Excel, llamadas, listas en papel | Concentrado | Este proceso consume tiempo, tiene alta probabilidad de errores humanos y poca trazabilidad |
+| Monitoreo en Ruta  | Recibe llamadas constantes sobre bloqueos, tráfico o retrasos | WhatsApp, llamadas telefónicas | Estresado | No puede anticipar incidentes ni verificar la ubicación real de los buses |
+| Gestión de Incidencias  | Intenta reubicar buses o reasignar rutas frente a retrasos | Comunicación directa con choferes | Estresado | Las reacciones son tardías; los reclamos de pasajeros aumentan |
+| Evaluación y Reportes  | Al final del día, recopila información para enviar informes de operación | Excel, reportes manuales | Cansado | Consolidar datos toma horas y los reportes no reflejan el estado real de la operación |
+| Implementación Digital | Utiliza BusTrack para monitorear buses en tiempo real, recibir alertas y generar reportes automáticos | BusTrack web/app, notificaciones, panel administrativo | Confiado | Reduce carga manual y mejora el control, pero le preocupa la capacitación del personal y la adopción |
 
 ### José Ramírez - Supervisor de Rutas
 
 | Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
 |------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
 | Identificación de Necesidad | Nota que varios buses están retrasados en distintas rutas al mismo tiempo | Llamadas de choferes, reclamos de pasajeros | Frustrado | No tiene visibilidad centralizada y debe responder a múltiples incidentes simultáneamente |
-| Búsqueda de Información | Intenta confirmar el estado de cada bus llamando a los choferes y revisando mensajes | WhatsApp, llamadas telefónicas, hojas de ruta | Agobiado | La información llega tarde o es inconsistente; depende de respuestas individuales de cada chofer |
-| Planificación Operativa | Ajusta la programación de salidas o reasigna buses en función de reportes manuales | Excel, hojas impresas, grupos de WhatsApp | Concentrado    | Toma tiempo coordinar cambios y comunicar a todos los involucrados |
-| Monitoreo en ruta  | Supervisa el desarrollo de múltiples rutas simultáneamente | Llamadas, mensajes, comunicación directa| Estresado | No puede anticipar desvíos o bloqueos; solo reacciona cuando ya hay problemas |
-| Gestión de incidencias  | Coordina desvíos, reemplazos de unidades o modificaciones de ruta en tiempo real | Comunicación directa con choferes  | Estresado   | Falta información en tiempo real para tomar decisiones rápidas y evitar acumulación de retrasos |
+| Búsqueda de Información | Intenta confirmar el estado de cada bus llamando a los choferes y revisando mensajes | WhatsApp, llamadas telefónicas, hojas de ruta | Agobiado | La información llega tarde o es inconsistente; depende de respuestas individuales |
+| Planificación Operativa | Ajusta la programación de salidas o reasigna buses según reportes manuales | Excel, hojas impresas, grupos de WhatsApp | Concentrado | Toma tiempo coordinar cambios y comunicar a todos los involucrados |
+| Monitoreo en Ruta  | Supervisa el desarrollo de múltiples rutas simultáneamente | Llamadas, mensajes, comunicación directa | Estresado | No puede anticipar desvíos o bloqueos; solo reacciona cuando el problema ya ocurrió |
+| Gestión de Incidencias  | Coordina desvíos, reemplazos de unidades o modificaciones de ruta en tiempo real | Comunicación directa con choferes | Estresado | Falta información en tiempo real para tomar decisiones rápidas |
 | Comunicación Operativa | Envía actualizaciones a choferes y a otros supervisores | WhatsApp, llamadas telefónicas | Presionado | La comunicación manual provoca demoras y errores de coordinación |
-| Evaluación y reportes  | Al finalizar el turno, debe consolidar incidencias y tiempos de cada ruta | Excel, reportes manuales  | Cansado   | Reunir información manual es lento, propenso a errores y poco útil para mejoras futuras  |
-| Implementación digital | Usa BusTrack para ver todas las rutas en tiempo real, recibir alertas automáticas y coordinar cambios desde el panel | BusTrack web/app, panel supervisor | Aliviado | Mejora su capacidad de reacción, reduce llamadas, aunque requiere adaptar el trabajo diario a la plataforma |
-
+| Evaluación y Reportes  | Al finalizar el turno, consolida incidencias y tiempos de cada ruta | Excel, reportes manuales | Cansado | Reunir información manual es lento, propenso a errores y poco útil para mejoras |
+| Implementación Digital | Usa BusTrack para ver rutas en tiempo real, recibir alertas automáticas y coordinar cambios desde el panel | BusTrack web/app, panel supervisor | Aliviado | Mejora su capacidad de reacción y reduce llamadas, aunque requiere adaptación del personal |
 
 
 ### 2.3.4. Empathy Mapping
 
-Segmento 1: Estudiante universitario (Ejemplo: Manuel Suárez)
+A continuación se presentan los mapas de empatía elaborados para cada uno de los perfiles de usuario identificados. Cada imagen incluye su respectiva descripción, tal como fue solicitado.
+
+<br>
+
+**Segmento 1: Estudiante universitario (Ejemplo: Manuel Suárez)**
+
+**Descripción:** Mapa de empatía del estudiante universitario Manuel Suárez, donde se detallan sus emociones, pensamientos, dolores, motivaciones y percepciones relacionadas con su experiencia usando el transporte público en Lima.
 
 ![Empathy Map Segment 1](img/commons/empathyMapSegmet1ManuelSuarez.png)
 
-Segmento 1: Empleado administrativo (Ejemplo: Alejandro Medina)
+---
+
+**Segmento 1: Empleado administrativo (Ejemplo: Alejandro Medina)**
+
+**Descripción:** Mapa de empatía del trabajador administrativo Alejandro Medina, mostrando su comportamiento, frustraciones, expectativas y necesidades al movilizarse diariamente hacia su centro laboral.
 
 ![Empathy Map Segment 1](img/commons/empathyMapSegmet1AlejandroMedina.png)
 
-Segmento 2: Administrador de flota en empresa de transporte urbano (Ejemplo: Luis Palacios)
+---
+
+**Segmento 2: Administrador de flota en empresa de transporte urbano (Ejemplo: Luis Palacios)**
+
+**Descripción:** Mapa de empatía del administrador de flota Luis Palacios, donde se analizan sus preocupaciones, necesidades operativas, puntos de dolor y objetivos relacionados con la gestión de buses y supervisión de rutas.
 
 ![Empathy Map Segment 2](img/commons/empathyMapSegmet2LuisPalacios.png)
 
-Segmento 2: Supervisor de rutas en empresa de transporte urbano (Ejemplo: José Ramírez)
+---
+
+**Segmento 2: Supervisor de rutas en empresa de transporte urbano (Ejemplo: José Ramírez)**
+
+**Descripción:** Mapa de empatía del supervisor de rutas José Ramírez, que refleja sus dificultades diarias, retos operativos, motivaciones y oportunidades de mejora en la coordinación del transporte urbano.
 
 ![Empathy Map Segment 2](img/commons/empathyMapSegmet2JoseRamirez.png)
 
