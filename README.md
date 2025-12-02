@@ -228,7 +228,7 @@ Descripción del producto: BusTrack es una plataforma web que ofrece informació
 
 | Perfil | Alumno |
 |--------|-------------|
-| ![Mathias Cardenas](img/developers/mathiasCardenas.png) |  Nombre: Mathias Andree Cárdenas Huaman Código: U202316353 - Descripción: Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, tengo habilidades para el trabajo en equipo y la resolución de problemas. También me gusta plantearme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarlo con la máxima nota posible. |
+| ![Mathias Cardenas](img/developers/mathiasCardenas.png) |  Nombre: Mathias Andree Cardenas Huaman Código: U202316353 Descripción: Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, tengo habilidades para el trabajo en equipo y la resolución de problemas. También me gusta plantearme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarlo con la máxima nota posible. |
 | ![Elizabeth Apaza](img/developers/elizabethApaza.png) | Nombre: Elizabeth Noelia Apaza Bocanegra Código: U20231C197 Descripción: Soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal. |
 | ![Fátima Florez](img/developers/fatimaFlorez.jpeg) | Nombre: Fátima Belén Florez Shimabukuro Código: U202320610 Descripción: Soy estudiante de la carrera de Ingeniería de Software y actualmente curso el quinto ciclo. Considero que mis habilidades de trabajo en equipo y mi puntualidad serán importantes para el desarrollo del trabajo. Asimismo, cuento con conocimientos en C++, Python, HTML y SQL.|
 | ![Joaquin Cuentas](img/developers/joaquinCuentas.png) | Nombre: Joaquin Alberto Cuentas Peña Código: U20201f788 Descripción: Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo. |
@@ -259,45 +259,44 @@ Para la elaboración de la descripción de los antecedentes y la problemática, 
 
 - **How (Cómo):** Los usuarios enfrentan largas esperas, vehículos inseguros y viajes en condiciones de exceso de pasajeros, donde los buses circulan sobrecargados y sin garantizar comodidad ni seguridad. La congestión incrementa los tiempos de desplazamiento y provoca un mayor número de accidentes. La falta de fiscalización permite que colectivos y unidades informales circulen sin controles técnicos ni seguros, elevando el riesgo para los pasajeros.
 
-- **How Much (¿Cuánto impacta?):** El impacto es considerable, ya que cada limeño pierde en promedio 157 horas al año en congestión vehicular y la ciudad registra más de 41 000 accidentes de tránsito anuales. Además, estos problemas generan costos económicos, sociales y ambientales que afectan directamente la calidad de vida de los ciudadanos.
+- **How Much (¿Cuánto impacta?):** El impacto es considerable, debido a que cada limeño pierde en promedio 157 horas al año en congestión vehicular y la ciudad registra más de 41 000 accidentes de tránsito anuales. Además, estos problemas generan costos económicos, sociales y ambientales que afectan directamente la calidad de vida de los ciudadanos.
 
 
 ### 1.2.2. Lean UX Process
 
 Los pasajeros de transporte público en Lima enfrentan incertidumbre diaria: no saben con precisión cuánto demorará en llegar un bus ni cuánto tiempo tomará el viaje. Esta falta de información genera estrés, pérdida de productividad y, en muchos casos, el uso de alternativas más costosas o inseguras.
 
-A la par, las empresas de transporte carecen de herramientas para monitorear sus unidades en tiempo real, lo que impide mejorar el servicio y reduce la confianza de los usuarios.
+Asimismo, las empresas de transporte carecen de herramientas para monitorear sus unidades en tiempo real, lo que impide mejorar el servicio y reduce la confianza de los usuarios.
 
 BusTrack propone una solución que centraliza información en tiempo real sobre la ubicación de los buses, estimaciones precisas de llegada, rutas actualizadas y notificaciones de seguridad. A diferencia de las redes sociales o aplicaciones genéricas de mapas, nuestra plataforma está diseñada específicamente para las condiciones del transporte urbano local, generando confianza y seguridad en los usuarios.
 
-Pregunta clave de diseño:
+**Pregunta clave de diseño:**
+
 ¿Cómo podemos desarrollar una plataforma que no solo brinde datos en tiempo real sobre el transporte público, sino que también aumente la confianza y reduzca la incertidumbre en los desplazamientos diarios?
 
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Los pasajeros que viajan frecuentemente en Lima, especialmente estudiantes y trabajadores, enfrentan una constante incertidumbre al no saber con exactitud cuándo llegará su autobús ni cuánto tiempo tomará el trayecto. Esta falta de información genera estrés, pérdida de tiempo y exposición a paraderos inseguros.
+Los pasajeros que viajan con frecuencia en Lima, especialmente estudiantes y trabajadores, enfrentan una constante incertidumbre al no saber con exactitud cuándo llegará su autobús ni cuánto tiempo tomará el trayecto. Esta falta de información genera estrés, pérdida de tiempo y exposición a paraderos inseguros.
 
 Por otro lado, los administradores y supervisores de flota carecen de herramientas digitales eficaces para supervisar unidades, coordinar incidentes y prever demoras, lo que afecta la puntualidad del servicio y el nivel de satisfacción de los pasajeros.
 
 BusTrack tiene como objetivo conectar a ambos grupos a través de una plataforma que proporcione información en tiempo real, paneles de gestión y notificaciones inteligentes, promoviendo así viajes más seguros, eficientes y puntuales.
 
-Pregunta clave de diseño:
-¿Cómo podemos desarrollar una plataforma que no solo brinde datos en tiempo real sobre el transporte público, sino que también aumente la confianza y reduzca la incertidumbre en los desplazamientos diarios?
 
 #### 1.2.2.2. Lean UX Assumptions
 
 #### Supuestos principales para BusTrack
 
-- Creemos que los pasajeros usarán la app de manera recurrente si la información de tiempos y rutas es precisa y confiable
+- Creemos que los pasajeros usarán la app de manera recurrente si la información de tiempos y rutas es precisa y confiable.
 
-- Creemos que los operadores de transporte adoptarán la plataforma si esta les permite monitorear flotas y mejorar la satisfacción del cliente
+- Creemos que los operadores de transporte adoptarán la plataforma si esta les permite monitorear flotas y mejorar la satisfacción del cliente.
 
-- Creemos que la confianza de los usuarios se fortalecerá mediante transparencia en los datos y notificaciones claras sobre retrasos o cambios de ruta
+- Creemos que la confianza de los usuarios se fortalecerá mediante transparencia en los datos y notificaciones claras sobre retrasos o cambios de ruta.
 
-- Suponemos que la falta de información confiable es la principal causa de insatisfacción con el transporte público
+- Suponemos que la falta de información confiable es la principal causa de insatisfacción con el transporte público.
 
-- Asumimos que la implementación de herramientas tecnológicas puede contribuir a reducir la percepción de inseguridad al brindar alternativas claras y ordenadas de movilidad
+- Asumimos que la implementación de herramientas tecnológicas puede contribuir a reducir la percepción de inseguridad al brindar alternativas claras y ordenadas de movilidad.
 
 ---
 
@@ -313,21 +312,21 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 #### Business Outcomes esperados
 
-- Conseguir **50 000 usuarios activos** en el primer año
+- Conseguir **50 000 usuarios activos** en el primer año.
 
-- Reducir en un **30 % la percepción de incertidumbre** en los tiempos de espera
+- Reducir en un **30 % la percepción de incertidumbre** en los tiempos de espera.
 
-- Lograr que el **70 % de las rutas principales** estén integradas en la app
+- Lograr que el **70 % de las rutas principales** estén integradas en la app.
 
-- Aumentar en un **20 % la satisfacción general de los pasajeros** en encuestas de movilidad urbana
+- Aumentar en un **20 % la satisfacción general de los pasajeros** en encuestas de movilidad urbana.
 
 ---
 
 #### User Outcomes esperados
 
-- Los pasajeros planifican sus viajes con mayor confianza y menos estrés
+- Los pasajeros planifican sus viajes con mayor confianza y menos estrés.
 
-- Los operadores optimizan el control de sus flotas y mejoran su reputación
+- Los operadores optimizan el control de sus flotas y mejoran su reputación.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -371,7 +370,7 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 #### 7. Reportes automáticos de operación
 - **Hipótesis:** Creemos que generar informes automáticos sobre horarios, demoras y número de pasajeros mejorará la capacidad de toma de decisiones de los administradores.
-- **Validación:** Sabremos que esto es cierto cuando al menos el 60 % de los administradores indiquen haber reducido el tiempo dedicado al registro manual en un 40 %.
+- **Validación:** Sabremos que esto es cierto cuando al menos el 60 % de los administradores indiquen haber reducido el tiempo dedicado al registro manual en un 40 % .
 
 ---
 
@@ -393,7 +392,7 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 ## 1.3. Segmentos objetivo
 
-### Segmento objetivo N.º 1: Pasajeros de transporte público (estudiantes y trabajadores)
+### Segmento objetivo Nº 1: Pasajeros de transporte público (estudiantes y trabajadores)
 
 ### Aspectos demográficos
 - Sexo: masculino y femenino.  
@@ -412,7 +411,7 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 ---
 
-### Segmento objetivo N.º 2: Empresas de transporte urbano (operadores y administradores de flota)
+### Segmento objetivo Nº 2: Empresas de transporte urbano (operadores y administradores de flota)
 
 ### Aspectos demográficos
 - Tipo de entidad: empresas medianas y grandes que operan buses, coasters o combis.  
