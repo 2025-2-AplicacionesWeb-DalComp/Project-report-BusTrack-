@@ -228,20 +228,20 @@ Descripción del producto: BusTrack es una plataforma web que ofrece informació
 
 | Perfil | Alumno |
 |--------|-------------|
-| ![Mathias Cardenas](img/developers/mathiasCardenas.png) |  Nombre: Mathias Andree Cardenas Huaman Código: U202316353 Descripción: Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, tengo habilidades para el trabajo en equipo y la resolución de problemas. También me gusta plantearme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarlo con la máxima nota posible. |
-| ![Elizabeth Apaza](img/developers/elizabethApaza.png) | Nombre: Elizabeth Noelia Apaza Bocanegra Código: U20231C197 Descripción: Soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal. |
-| ![Fátima Florez](img/developers/fatimaFlorez.jpeg) | Nombre: Fátima Belén Florez Shimabukuro Código: U202320610 Descripción: Soy estudiante de la carrera de Ingeniería de Software y actualmente curso el quinto ciclo. Considero que mis habilidades de trabajo en equipo y mi puntualidad serán importantes para el desarrollo del trabajo. Asimismo, cuento con conocimientos en C++, Python, HTML y SQL.|
-| ![Joaquin Cuentas](img/developers/joaquinCuentas.png) | Nombre: Joaquin Alberto Cuentas Peña Código: U20201f788 Descripción: Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo. |
-| ![Diego Avalos](https://i.postimg.cc/s27MM80R/Foto-Diego-Avalos.jpg) | Nombre: Diego Andres Ávalos Cordova Código: U202313922 Descripción: Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente curso el sexto ciclo. Me apasiona el campo de la ciberseguridad y mi objetivo es especializarme en esta área para convertirme en un profesional capaz de aportar soluciones innovadoras en la protección de la información. Tengo conocimientos en C++, JavaScript, HTML y Python, y me encuentro en constante aprendizaje de nuevos lenguajes y tecnologías que fortalezcan mis habilidades técnicas. Además, me interesa participar en proyectos que me permitan crecer tanto a nivel académico como profesional, desarrollando experiencia práctica y aportando valor en el ámbito tecnológico. |
+| ![Mathias Cardenas](img/developers/mathiasCardenas.png) |  Nombre: Mathias Andree Cardenas Huaman <br><br> Código: U202316353 <br><br> Descripción: Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, tengo habilidades para el trabajo en equipo y la resolución de problemas. También me gusta plantearme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarlo con la máxima nota posible. |
+| ![Elizabeth Apaza](img/developers/elizabethApaza.png) | Nombre: Elizabeth Noelia Apaza Bocanegra <br><br> Código: U20231C197 <br><br> Descripción: Soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal. |
+| ![Fátima Florez](img/developers/fatimaFlorez.jpeg) | Nombre: Fátima Belén Florez Shimabukuro <br><br>  Código: U202320610 <br><br> Descripción: Soy estudiante de la carrera de Ingeniería de Software y actualmente curso el quinto ciclo. Considero que mis habilidades de trabajo en equipo y mi puntualidad serán importantes para el desarrollo del trabajo. Asimismo, cuento con conocimientos en C++, Python, HTML y SQL.|
+| ![Joaquin Cuentas](img/developers/joaquinCuentas.png) | Nombre: Joaquin Alberto Cuentas Peña <br><br> Código: U20201f788 <br><br> Descripción: Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo. |
+| ![Diego Avalos](https://i.postimg.cc/s27MM80R/Foto-Diego-Avalos.jpg) | Nombre: Diego Andres Ávalos Cordova <br><br> Código: U202313922 <br><br> Descripción: Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente curso el sexto ciclo. Me apasiona el campo de la ciberseguridad y mi objetivo es especializarme en esta área para convertirme en un profesional capaz de aportar soluciones innovadoras en la protección de la información. Tengo conocimientos en C++, JavaScript, HTML y Python, y me encuentro en constante aprendizaje de nuevos lenguajes y tecnologías que fortalezcan mis habilidades técnicas. Además, me interesa participar en proyectos que me permitan crecer tanto a nivel académico como profesional, desarrollando experiencia práctica y aportando valor en el ámbito tecnológico. |
 
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
 
-El transporte urbano en Lima Metropolitana se ha convertido, en los últimos años, en uno de los problemas más críticos de la ciudad, evidenciando deficiencias tanto en seguridad vial como en eficiencia del servicio. En 2023 se registraron 41 627 accidentes de tránsito, lo que representó un aumento del 10,2 % respecto al año anterior (ComexPerú, 2024). Además, Lima ocupa el quinto lugar en el ranking mundial de ciudades con peor tráfico, según el índice TomTom, un estudio internacional que mide la congestión vehicular en más de 380 ciudades del mundo. Esta situación tiene un impacto significativo en la calidad de vida de los limeños, que en su mayoría dependen de un transporte poco confiable: el 34,4 % se moviliza en coasters o combis y el 42,2 % de los usuarios se siente insatisfecho con el servicio (ComexPerú, 2024).
+El transporte urbano en Lima Metropolitana se ha convertido, en los últimos años, en uno de los problemas más críticos de la ciudad, evidenciando deficiencias tanto en seguridad vial como en eficiencia del servicio. En 2023 se registraron 41 627 accidentes de tránsito, lo que representó un aumento del 10,2% respecto al año anterior (ComexPerú, 2024). Además, Lima ocupa el quinto lugar en el ranking mundial de ciudades con peor tráfico, según el índice TomTom, un estudio internacional que mide la congestión vehicular en más de 380 ciudades del mundo. Esta situación tiene un impacto significativo en la calidad de vida de los limeños, que en su mayoría dependen de un transporte poco confiable: el 34,4% se moviliza en coasters o combis y el 42,2% de los usuarios se siente insatisfecho con el servicio (ComexPerú, 2024).
 
-Por otro lado, la magnitud del sistema de transporte en la capital evidencia la complejidad del problema. Según la ATU, en Lima y Callao se realizan diariamente 24 millones de viajes, de los cuales el 87 % es cubierto por el transporte público convencional, que opera mediante 507 rutas y una flota de 22 000 vehículos. En contraste, solo el 12,1 % corresponde a sistemas formales como los corredores complementarios, el Metro de Lima y el Metropolitano (Gob.pe, 2024). Para afrontar esta situación, la ATU ha iniciado un proceso de reorganización de rutas y renovación gradual de la flota, promoviendo el uso de buses híbridos, eléctricos y a gas natural. Sin embargo, estos avances resultan insuficientes frente a la creciente demanda y el predominio del transporte informal, lo que mantiene el descontento ciudadano y refuerza la urgencia de implementar soluciones tecnológicas innovadoras que permitan mejorar la movilidad urbana. 
+Por otro lado, la magnitud del sistema de transporte en la capital evidencia la complejidad del problema. Según la ATU, en Lima y Callao se realizan diariamente 24 millones de viajes, de los cuales el 87% es cubierto por el transporte público convencional, que opera mediante 507 rutas y una flota de 22 000 vehículos. En contraste, solo el 12,1% corresponde a sistemas formales como los corredores complementarios, el Metro de Lima y el Metropolitano (Gob.pe, 2024). Para afrontar esta situación, la ATU ha iniciado un proceso de reorganización de rutas y renovación gradual de la flota, promoviendo el uso de buses híbridos, eléctricos y a gas natural. Sin embargo, estos avances resultan insuficientes frente a la creciente demanda y el predominio del transporte informal, lo que mantiene el descontento ciudadano y refuerza la urgencia de implementar soluciones tecnológicas innovadoras que permitan mejorar la movilidad urbana. 
 
 En este contexto, surge BusTrack como una propuesta tecnológica orientada a optimizar la planificación y la experiencia de viaje de los usuarios, respondiendo a la urgencia de contar con soluciones innovadoras y confiables.
 
@@ -251,7 +251,7 @@ Para la elaboración de la descripción de los antecedentes y la problemática, 
 
 - **When (Cuándo):** El problema se presenta a diario, especialmente en horas punta, cuando la congestión vehicular alcanza niveles críticos y los limeños enfrentan largas esperas para llegar a sus destinos.
 
-- **Where (Dónde):** La problemática se concentra en Lima Metropolitana y el Callao, zonas con alta densidad poblacional y más de 507 rutas de transporte convencional. La infraestructura vial es insuficiente y los sistemas formales, como el Metropolitano, los corredores complementarios y el Metro, solo cubren el 12,1 % de la demanda.
+- **Where (Dónde):** La problemática se concentra en Lima Metropolitana y el Callao, zonas con alta densidad poblacional y más de 507 rutas de transporte convencional. La infraestructura vial es insuficiente y los sistemas formales, como el Metropolitano, los corredores complementarios y el Metro, solo cubren el 12,1% de la demanda.
 
 - **Who (Quién):** El problema afecta principalmente a estudiantes y trabajadores que dependen de combis, coasters y buses convencionales, así como a la ciudadanía en general, que sufre las consecuencias en términos de tiempo perdido, inseguridad y menor productividad.
 
@@ -314,11 +314,11 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 - Conseguir **50 000 usuarios activos** en el primer año.
 
-- Reducir en un **30 % la percepción de incertidumbre** en los tiempos de espera.
+- Reducir en un **30% la percepción de incertidumbre** en los tiempos de espera.
 
-- Lograr que el **70 % de las rutas principales** estén integradas en la app.
+- Lograr que el **70% de las rutas principales** estén integradas en la app.
 
-- Aumentar en un **20 % la satisfacción general de los pasajeros** en encuestas de movilidad urbana.
+- Aumentar en un **20% la satisfacción general de los pasajeros** en encuestas de movilidad urbana.
 
 ---
 
@@ -340,13 +340,13 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 #### 2. Notificaciones de llegada
 - **Hipótesis:** Creemos que ofrecer notificaciones sobre la llegada de los buses reducirá el tiempo de espera percibido por los pasajeros y disminuirá su frustración.
-- **Validación:** Sabremos que esto es cierto cuando al menos el 60 % de los usuarios reporten una disminución en su frustración relacionada con los tiempos de espera.  
+- **Validación:** Sabremos que esto es cierto cuando al menos el 60% de los usuarios reporten una disminución en su frustración relacionada con los tiempos de espera.  
 
 ---
 
 #### 3. Interfaz intuitiva y accesible
 - **Hipótesis:** Creemos que una interfaz intuitiva, simple y accesible facilitará la adopción tecnológica en distintos grupos de edad y niveles de experiencia digital.
-- **Validación:** Sabremos que esto es cierto cuando el 70 % de los usuarios, independientemente de su rango etario, puedan completar las funciones principales sin necesidad de soporte.
+- **Validación:** Sabremos que esto es cierto cuando el 70% de los usuarios, independientemente de su rango etario, puedan completar las funciones principales sin necesidad de soporte.
 
 ---
 
@@ -358,19 +358,19 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 #### 5. Historial de rutas frecuentes
 - **Hipótesis:** Creemos que integrar un sistema de historial de rutas frecuentes aumentará la retención de usuarios, especialmente pasajeros frecuentes que repiten trayectos.
-- **Validación:** Sabremos que esto es cierto cuando el 50 % de los usuarios registrados utilicen esta funcionalidad al menos una vez por semana.
+- **Validación:** Sabremos que esto es cierto cuando el 50% de los usuarios registrados utilicen esta funcionalidad al menos una vez por semana.
 
 ---
 
 #### 6. Panel de monitoreo en tiempo real
 - **Hipótesis:** Creemos que si los supervisores tienen acceso a un panel de monitoreo en tiempo real, se reducirá el número de incidentes no atendidos y aumentará la puntualidad de las unidades.
-- **Validación:** Sabremos que esto es cierto cuando el 70 % de los supervisores reporten una disminución en los tiempos de respuesta ante retrasos o fallas.
+- **Validación:** Sabremos que esto es cierto cuando el 70% de los supervisores reporten una disminución en los tiempos de respuesta ante retrasos o fallas.
 
 ---
 
 #### 7. Reportes automáticos de operación
 - **Hipótesis:** Creemos que generar informes automáticos sobre horarios, demoras y número de pasajeros mejorará la capacidad de toma de decisiones de los administradores.
-- **Validación:** Sabremos que esto es cierto cuando al menos el 60 % de los administradores indiquen haber reducido el tiempo dedicado al registro manual en un 40 % .
+- **Validación:** Sabremos que esto es cierto cuando al menos el 60% de los administradores indiquen haber reducido el tiempo dedicado al registro manual en un 40% .
 
 ---
 
@@ -381,11 +381,11 @@ Empresas de transporte que necesitan gestionar sus unidades.
 | **Sección** | **Contenido** |
 |-------------|---------------|
 | **Business Problem** | Los usuarios del transporte público en Lima Metropolitana enfrentan largos tiempos de espera, desinformación sobre los horarios y baja confianza en la puntualidad de las unidades. Esto genera frustración, pérdida de tiempo y afecta la percepción de seguridad en el servicio. Al mismo tiempo, las empresas de transporte carecen de herramientas digitales que les permitan organizar mejor sus unidades y comunicarse eficazmente con los pasajeros. |
-| **Business Outcomes** | - Conseguir **50 000 usuarios activos** en el primer año.<br>- Reducir en un **30 % la percepción de incertidumbre** en los tiempos de espera.<br>- Lograr que el **70 % de las rutas principales** estén integradas en la app.<br>- Aumentar en un **20 % la satisfacción general** de los pasajeros en encuestas de movilidad urbana. |
+| **Business Outcomes** | - Conseguir **50 000 usuarios activos** en el primer año.<br>- Reducir en un **30% la percepción de incertidumbre** en los tiempos de espera.<br>- Lograr que el **70% de las rutas principales** estén integradas en la app.<br>- Aumentar en un **20% la satisfacción general** de los pasajeros en encuestas de movilidad urbana. |
 | **Users and Customers** | **Primarios:** Estudiantes y trabajadores que dependen del transporte público para asistir a clases o llegar puntualmente al trabajo.<br><br>**Secundarios:** Supervisores y administradores de flota que necesitan controlar y optimizar la operación en tiempo real. |
 | **User Benefits** | - **Estudiantes y trabajadores:** Obtienen certeza en los horarios, reducen tiempos de espera, planifican mejor sus viajes y se sienten más seguros gracias a notificaciones inteligentes en tiempo real.<br><br>- **Supervisores y administradores:** Monitorean la flota en tiempo real, reaccionan rápidamente ante incidencias y mejoran la puntualidad general. A diferencia de apps genéricas, BusTrack integra datos operativos directamente de las empresas, ofreciendo precisión adaptada al contexto limeño. |
 | **Solution Ideas** | - Geolocalización en tiempo real de buses.<br>- Estimaciones precisas de llegada.<br>- Mapas interactivos con rutas alternativas.<br>- Notificaciones sobre retrasos y cambios.<br>- Panel de control para empresas de transporte. |
-| **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza de los pasajeros.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción.<br>- Creemos que la integración de paneles de control en tiempo real mejorará la eficiencia operativa de supervisores y administradores en al menos un **30 %**. |
+| **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza de los pasajeros.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción.<br>- Creemos que la integración de paneles de control en tiempo real mejorará la eficiencia operativa de supervisores y administradores en al menos un **30%**. |
 | **What's the most important thing we need to learn first?** | ¿Los pasajeros confían y usan de forma recurrente la información en tiempo real para planificar sus viajes? |
 | **What’s the least amount of work we need to do to learn the next most important thing?** | MVP: Una app funcional con mapa de rutas principales, localización en tiempo real en una zona piloto y sistema básico de notificaciones. Validar si los usuarios utilizan la app en sus trayectos diarios. |
 
@@ -400,7 +400,7 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 ### Aspectos geográficos
 - Nacionalidad: peruana.  
-- Zona geográfica: principalmente Lima Metropolitana y Callao, donde se concentra el 87 % de los viajes en transporte convencional.  
+- Zona geográfica: principalmente Lima Metropolitana y Callao, donde se concentra el 87% de los viajes en transporte convencional.  
 - También tienen potencial en ciudades intermedias como Arequipa, Trujillo y Chiclayo.  
 
 ### Aspectos psicográficos
