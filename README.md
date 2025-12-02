@@ -1,19 +1,30 @@
-<h3 align="center"> Universidad Peruana de Ciencias Aplicadas <h3 align="center">
-
+<div align="center">
+  
 ![UPC](img/commons/logoUpc.png) 
 
-<h3 align="center"> Carrera: Ingeniería de Software </h3>
-<h3 align="center"> Periodo 2025 - 2 </h3>
+</div>
 
+<h1 align="center"> Universidad Peruana de Ciencias Aplicadas <h1 align="center">
 
-# Informe del Trabajo Final (TF)  
+<h1 align="center"> Carrera: Ingeniería de Software </h1>
 
-<h3 align="center"> Curso: Aplicaciones Web</h3>
-<h3 align="center"> Código de curso: 1ASI0730
-<h3 align="center"> NRC: 7452  </h3>
-<h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
-<h3> Startup: DaL Company </h3>
-<h3> Product: BusTrack </h3>
+<h1 align="center"> Periodo 2025 - 2 </h1>
+
+<h1 align="center"> Código de curso: 1ASI0730</h1>
+
+<h1 align="center"> Nombre del curso: Aplicaciones Web</h1>
+
+<h1 align="center"> NRC: 7452  </h1>
+
+<h1 align="center"> Docente: Mori Paiva, Hugo Allan </h1>
+
+<h1 align="center"> Informe del Trabajo Final (TF) </h1>
+
+<h3 align="center"> Startup: DaL Company </h3>
+
+<h3 align="center"> Product: BusTrack </h3>
+
+<h3 align="center"> Relación de integrantes: </h3>
 <div align="center">
 
 | Member                           |    Code    |
@@ -30,7 +41,7 @@
 
 <br><br>
 
-# Registro de Versiones del Informe
+<h3 align="center">Registro de Versiones del Informe</h3>
 
 <div align="center">
 
@@ -42,7 +53,11 @@
 
 <br><br>
 
+<div align="center">
+
 # Project Report Collaboration Insights
+
+</div>
 
 | URL de la organización del proyecto |
 | ----------------------------------- |
@@ -63,6 +78,7 @@
 | URL del repositorio del Backend |
 | -------------------------------------- |
 | [https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend](https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend) |
+
 
 <br><br>
 
