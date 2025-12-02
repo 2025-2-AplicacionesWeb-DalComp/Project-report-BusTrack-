@@ -1084,24 +1084,26 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 # Capítulo III: Requirements Specification
 
-## 3.1. To-Be Scenario Mapping
+## 3.1 To-Be Scenario Mapping
 
-El mapeo de escenarios To-Be permite visualizar la experiencia futura de los usuarios al utilizar BusTrack, comparando el estado actual con la experiencia mejorada gracias a la plataforma.
+A continuación, se presentan los To-Be Scenario Maps desarrollados para los dos segmentos objetivo de BusTrack: pasajeros y empresas de transporte.
 
-**Segemento Objetivo: Pasajeros.**
-| Phases | Inicio de Uso | Planificación | Durante la espera | En el viaje | Post-viaje |
-|--------|---------------|---------------|-------------------|-------------|------------|
-| Doing | Abre Bustrack y se loguea con su cuenta. | Busca la ruta a su destino en el buscador de la app. | Revisa en el mapa la ubicación en tiempo real en la app | Consulta el tiempo estimado de llegada en la app. | Califica la ruta y guarda comentarios en la app |
-| Thinking | “Quiero ver rápido mis rutas guardadas.” | “Espero que la app me muestre el bus más cercano.” | “Ya sé cuánto falta para que llegue, puedo organizarme mejor.” | “Voy a llegar a tiempo, puedo avisar de mi retraso.” | “Esto ayudará a mejorar el servicio." |
-| Feeling | Confiado, siente simplicidad en el acceso | Tranquilo porque encuentra opciones claras | Seguro, menos ansiedad que antes | Cómodo y organizado. | Satisfecho, motivado a seguir usando Bustrack. |
+### To-Be Scenario Map – Pasajeros
 
+**Descripción:**  
+El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se observa cómo, en cada fase (abrir la app, buscar ruta, revisar ubicación, monitorear el viaje y calificar), el usuario realiza acciones guiadas por la información en tiempo real, reduciendo incertidumbre y mejorando su percepción de control. A nivel emocional, el usuario pasa de la ansiedad típica del transporte público a la tranquilidad, confianza y satisfacción gracias a las funcionalidades de la aplicación.
 
-**Segmento Objetivo: Empresas de Transporte**
-| Phases | Inicio de Uso | Planificación | Durante la espera | En el viaje | Post-viaje |
-|--------|---------------|---------------|-------------------|-------------|------------|
-| Doing | Inicia sesión en el panel web de BusTrack. | Supervisa en el panel la ubicación y tiempos de cada bus en ruta. | Recibe notificaciones de tráfico o incidentes y redirige buses desde la app. | Genera reportes automáticos de eficiencia y puntualidad en el sistema. | Ajusta rutas en base al historial de datos que muestra la app. |
-| Thinking | “Necesito revisar el estado de todos los buses antes de empezar.” | “Puedo detectar retrasos y tomar decisiones rápidas.” | “Con esto evito reclamos y mejorar la puntualidad del servicio.” | “Estos datos me servirán para justificar cambios de rutas y horarios.” | “Puedo reducir costos y mejorar la experiencia del pasajero. |
-| Feeling | Seguro, con control de la operación. | Tranquilo, siente dominio. | Confiado, en control de la situación. | Satisfecho, motivado a optimizar. | Confiado en la mejora continua. |
+<img src="img/commons/To-BeScenarioMap–Pasajeros.png" width="850">
+
+---
+
+### To-Be Scenario Map – Empresa de Transporte
+
+**Descripción:**  
+El mapa presenta la experiencia futura de una empresa de transporte utilizando el panel web de BusTrack. A lo largo de las fases (ingreso al panel, revisión de buses, gestión de alertas, generación de reportes y ajuste de rutas), se observa un flujo operativo más eficiente, basado en datos en tiempo real y reportes automáticos. Emocionalmente, el usuario empresarial pasa de la incertidumbre operativa a una sensación de control, seguridad y optimización continua.
+
+<img src="img/commons/To-BeScenarioMap–EmpresadeTransporte.png" width="850">
+
 
 ## 3.2. User Stories
 
