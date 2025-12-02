@@ -1093,7 +1093,7 @@ A continuación, se presentan los To-Be Scenario Maps desarrollados para los dos
 **Descripción:**  
 El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se observa cómo, en cada fase (abrir la app, buscar ruta, revisar ubicación, monitorear el viaje y calificar), el usuario realiza acciones guiadas por la información en tiempo real, reduciendo incertidumbre y mejorando su percepción de control. A nivel emocional, el usuario pasa de la ansiedad típica del transporte público a la tranquilidad, confianza y satisfacción gracias a las funcionalidades de la aplicación.
 
-<img src="img/commons/To-BeScenarioMap–Pasajeros.png" width="850">
+<img src="img/commons/to-be-bustrack-pasajeros.png" width="850">
 
 ---
 
@@ -1102,7 +1102,7 @@ El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se obse
 **Descripción:**  
 El mapa presenta la experiencia futura de una empresa de transporte utilizando el panel web de BusTrack. A lo largo de las fases (ingreso al panel, revisión de buses, gestión de alertas, generación de reportes y ajuste de rutas), se observa un flujo operativo más eficiente, basado en datos en tiempo real y reportes automáticos. Emocionalmente, el usuario empresarial pasa de la incertidumbre operativa a una sensación de control, seguridad y optimización continua.
 
-<img src="img/commons/To-BeScenarioMap–EmpresadeTransporte.png" width="850">
+<img src="img/commons/to-be-bustrack-empresa.png" width="850">
 
 
 ## 3.2. User Stories
