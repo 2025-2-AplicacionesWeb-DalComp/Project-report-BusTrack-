@@ -1189,6 +1189,7 @@ ___
 | 12      | US-12         | Beneficios de la aplicación       | Como visitante de la web, quiero conocer los beneficios de la aplicación para entender su utilidad en mi vida.             | 2            |
 | 13      | US-13         | Misión y visión                   | Como visitante de la web, quiero conocer la misión y visión de la empresa para saber si se orienta a mis necesidades.      | 1            |
 
+Enlace de Trello: https://trello.com/invite/b/692fe4bec2c3e91c1f113f3c/ATTI5db98658822488213d3156c13fab841f95FECEDF/bustrack-product-backlog 
 
 <br><br>
 
