@@ -969,6 +969,7 @@ ___
 
 ![Journey Map Supervisor](./assets/img/journey-supervisor.png)
 
+<br>
 
 ### 2.3.4. Empathy Mapping
 
