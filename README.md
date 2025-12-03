@@ -929,58 +929,45 @@ En el User Task Matrix del Segmento 2 se observa que el supervisor de rutas y el
 
 ### 2.3.3. User Journey Mapping
 
-### Segmento Objetivo 1
+A continuación se presentan los User Journey Maps desarrollados para los dos segmentos objetivo de BusTrack: Pasajeros y Empresas de transporte. Cada mapa describe el flujo actual del usuario, destacando acciones, emociones, problemas y oportunidades de mejora que BusTrack busca resolver.
 
-### Manuel Suarez - Estudiante Universitario
+### Segmento 1: Pasajeros
 
-| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
-|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Se da cuenta de que está saliendo tarde y necesita llegar a clases a tiempo | Reloj, calendario personal | Ansioso | No tiene información actualizada sobre la frecuencia y horarios de los buses |
-| Búsqueda de Información | Abre BusTrack y busca la mejor ruta disponible | BusTrack web/app, comparación con Moovit | Esperanzado | Las aplicaciones externas no muestran datos precisos ni retrasos en tiempo real |
-| Planificación del Viaje | Selecciona la ruta adecuada y activa notificaciones de llegada | Función de favoritos, notificaciones | Aliviado | Las estimaciones pueden variar con el tráfico impredecible |
-| Espera en Paradero     | Llega al paradero y revisa actualizaciones | BusTrack en el celular | Impaciente | A veces el bus se retrasa y no hay alertas inmediatas |
-| Viaje en Bus           | Consulta la ubicación del bus y el tiempo restante | BusTrack GPS + mapas interactivos | Confiado | Problemas de señal GPS pueden afectar la precisión |
-| Llegada al Destino     | Llega puntual y revisa historial de trayecto | Confirmación visual | Satisfecho | Si hubo retraso inesperado, disminuye su confianza para futuros viajes |
+#### User Persona 1 – Manuel Suárez (Estudiante Universitario)
 
-### Alejandro Medina - Trabajador
+**Descripción breve:** Este mapa muestra cómo un estudiante organiza su viaje diario utilizando BusTrack, centrado en la precisión del tiempo estimado de llegada, la ansiedad por retrasos y la necesidad de información confiable en tiempo real.
 
-| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
-|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Se da cuenta de que el tráfico está complicado y necesita llegar puntual al trabajo | Reloj, calendario laboral, apps de clima/tráfico | Ansioso | No tiene certeza de si podrá llegar a tiempo; no sabe si hay desvíos o retrasos en su ruta habitual |
-| Búsqueda de Información | Abre BusTrack para verificar en tiempo real la posición del bus y estimar el tiempo de llegada | BusTrack web/app, GPS, comparación con Moovit | Esperanzado | Otras aplicaciones no reflejan desvíos por tráfico real; información incompleta o tardía |
-| Planificación del Viaje | Activa notificaciones de llegada y elige la ruta más rápida disponible | Función de favoritos, notificaciones | Aliviado | Las estimaciones no siempre consideran bloqueos súbitos o tráfico intenso |
-| Espera en Paradero     | Llega al paradero y revisa constantemente la app para evitar sorpresas | BusTrack en el celular | Impaciente | Retrasos de unidades sin aviso generan estrés y pérdida de tiempo |
-| Viaje en Bus           | Monitorea el trayecto para prever desvíos y notifica en el trabajo si hay retrasos | BusTrack GPS + mapas interactivos | Confiado | Problemas de señal o actualizaciones lentas pueden dificultar la toma de decisiones |
-| Llegada al Destino     | Llega puntual y revisa historial de trayecto | Confirmación visual | Satisfecho | Si llega tarde por información poco precisa, su confianza en la app disminuye |
+![Journey Map Estudiante](./assets/img/journey-estudiante.png)
 
----
+___
 
-### Segmento Objetivo 2
+#### User Persona 2 – Alejandro Medina (Trabajador)
 
-### Luis Palacios - Administrador de Flota
+**Descripción breve:** Este mapa visualiza cómo un trabajador depende de la aplicación para adaptarse a condiciones de tráfico variables y evitar retrasos, destacando su necesidad de alertas inmediatas y estimaciones precisas.
 
-| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
-|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Nota que varios buses están llegando tarde y recibe múltiples quejas de pasajeros | Llamadas a choferes, grupos de WhatsApp | Frustrado | No cuenta con información centralizada ni actualizada en tiempo real para tomar decisiones rápidas |
-| Búsqueda de Información | Revisa manualmente hojas de ruta y reportes enviados por conductores | Cuadernos, Excel, grupos de WhatsApp | Agobiado | La información es tardía, incompleta o confusa; depende de mensajes dispersos |
-| Planificación Operativa | Asigna choferes, define rutas y horarios para el día siguiente | Excel, llamadas, listas en papel | Concentrado | Este proceso consume tiempo, tiene alta probabilidad de errores humanos y poca trazabilidad |
-| Monitoreo en Ruta  | Recibe llamadas constantes sobre bloqueos, tráfico o retrasos | WhatsApp, llamadas telefónicas | Estresado | No puede anticipar incidentes ni verificar la ubicación real de los buses |
-| Gestión de Incidencias  | Intenta reubicar buses o reasignar rutas frente a retrasos | Comunicación directa con choferes | Estresado | Las reacciones son tardías; los reclamos de pasajeros aumentan |
-| Evaluación y Reportes  | Al final del día, recopila información para enviar informes de operación | Excel, reportes manuales | Cansado | Consolidar datos toma horas y los reportes no reflejan el estado real de la operación |
-| Implementación Digital | Utiliza BusTrack para monitorear buses en tiempo real, recibir alertas y generar reportes automáticos | BusTrack web/app, notificaciones, panel administrativo | Confiado | Reduce carga manual y mejora el control, pero le preocupa la capacitación del personal y la adopción |
+![Journey Map Trabajador](./assets/img/journey-trabajador.png)
 
-### José Ramírez - Supervisor de Rutas
+<br>
 
-| Journey Phases        | Acción                                                   | Herramientas/Canales              | Emoción           | Punto de Dolor                                  |
-|------------------------|----------------------------------------------------------|-----------------------------------|------------------|------------------------------------------------|
-| Identificación de Necesidad | Nota que varios buses están retrasados en distintas rutas al mismo tiempo | Llamadas de choferes, reclamos de pasajeros | Frustrado | No tiene visibilidad centralizada y debe responder a múltiples incidentes simultáneamente |
-| Búsqueda de Información | Intenta confirmar el estado de cada bus llamando a los choferes y revisando mensajes | WhatsApp, llamadas telefónicas, hojas de ruta | Agobiado | La información llega tarde o es inconsistente; depende de respuestas individuales |
-| Planificación Operativa | Ajusta la programación de salidas o reasigna buses según reportes manuales | Excel, hojas impresas, grupos de WhatsApp | Concentrado | Toma tiempo coordinar cambios y comunicar a todos los involucrados |
-| Monitoreo en Ruta  | Supervisa el desarrollo de múltiples rutas simultáneamente | Llamadas, mensajes, comunicación directa | Estresado | No puede anticipar desvíos o bloqueos; solo reacciona cuando el problema ya ocurrió |
-| Gestión de Incidencias  | Coordina desvíos, reemplazos de unidades o modificaciones de ruta en tiempo real | Comunicación directa con choferes | Estresado | Falta información en tiempo real para tomar decisiones rápidas |
-| Comunicación Operativa | Envía actualizaciones a choferes y a otros supervisores | WhatsApp, llamadas telefónicas | Presionado | La comunicación manual provoca demoras y errores de coordinación |
-| Evaluación y Reportes  | Al finalizar el turno, consolida incidencias y tiempos de cada ruta | Excel, reportes manuales | Cansado | Reunir información manual es lento, propenso a errores y poco útil para mejoras |
-| Implementación Digital | Usa BusTrack para ver rutas en tiempo real, recibir alertas automáticas y coordinar cambios desde el panel | BusTrack web/app, panel supervisor | Aliviado | Mejora su capacidad de reacción y reduce llamadas, aunque requiere adaptación del personal |
+___
+
+<br>
+
+### Segmento 2: Empresas de transporte
+
+#### User Persona 3 – Luis Palacios (Administrador de Flota)
+
+**Descripción breve:** El mapa muestra cómo el administrador enfrenta procesos manuales, comunicación dispersa y falta de datos centralizados para la toma de decisiones, resaltando la oportunidad de automatización y monitoreo en tiempo real que ofrece BusTrack.
+
+![Journey Map Administrador](./assets/img/journey-administrador.png)
+
+___
+
+#### User Persona 4 – José Ramírez (Supervisor de Rutas)
+
+**Descripción breve:** Este Journey Map refleja la complejidad del monitoreo de múltiples unidades en tiempo real, la presión operativa y los errores causados por la comunicación manual, destacando la necesidad de alertas automáticas y paneles centralizados.
+
+![Journey Map Supervisor](./assets/img/journey-supervisor.png)
 
 
 ### 2.3.4. Empathy Mapping
