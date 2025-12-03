@@ -1151,22 +1151,26 @@ Las siguientes Technical Stories describen los endpoints mínimos del RESTful AP
 | TS03 | E03     | Endpoint: Monitoreo de flota de la empresa  | Como **Developer**, quiero implementar el endpoint `GET /api/companies/{companyId}/buses` para que la vista de “Monitoreo en tiempo real” pueda listar los buses de la empresa con su estado básico. | **Positivo:** Dado que la empresa tiene buses registrados, cuando el frontend realiza `GET /api/companies/{companyId}/buses`, entonces la API retorna código **200** y un JSON con la lista de buses (id, ruta actual, estado, última posición conocida). <br><br> **Negativo (sin buses):** Dado que la empresa aún no tiene buses configurados, cuando se hace la petición, entonces la API retorna código **200** y una lista vacía. <br><br> **Negativo (companyId inválido):** Dado que el `companyId` no existe, cuando se consulta el endpoint, entonces la API retorna código **404** con el mensaje `"Empresa no encontrada"`. |
 | TS04 | E03     | Endpoint: Alertas internas de la empresa    | Como **Developer**, quiero implementar los endpoints `GET /api/companies/{companyId}/alerts` y `POST /api/companies/{companyId}/alerts` para que la vista de “Alertas internas” pueda listar y registrar incidentes. | **Positivo (listar):** Dado que existen alertas registradas, cuando el frontend ejecuta `GET /api/companies/{companyId}/alerts`, entonces la API retorna código **200** y un JSON con la lista de alertas (tipo, hora, estado). <br><br> **Positivo (registrar):** Dado que se envía una alerta válida, cuando el frontend realiza un `POST` con los datos de la alerta, entonces la API retorna código **201** y la alerta queda registrada. <br><br> **Negativo (datos inválidos):** Dado que el cuerpo del `POST` está incompleto, cuando se intenta registrar la alerta, entonces la API retorna código **400** con el mensaje `"Datos de alerta inválidos"`. |
 
-
-
+<br>
 
 ## 3.3. Impact Mapping
 
-El mapa de impactos busca conectar la visión del sistema mejorar la experiencia de movilidad urbana y optimizar la gestión del transporte público con las necesidades de sus principales actores: pasajeros, empresas de transporte y administradores de la plataforma. De esta manera, se identifican los comportamientos clave que se desean fomentar en cada actor y las funcionalidades específicas que la aplicación debe proveer para hacer posible dichos impactos.
+El Impact Mapping permite conectar los objetivos del negocio con los actores principales, los cambios esperados en su comportamiento y los entregables del sistema que harán posible esos impactos. A continuación, se presentan los mapas desarrollados para los dos segmentos principales: pasajeros y empresas de transporte.
 
-| **Objetivos (Business Goal)**                                    |  **Actor**  | **Impact (Cambio esperado)**           | **Deliverables (Acciones del sistema)**        |
-| ---------------------------------------------------------------- | ----------- | -------------------------------------- | ---------------------------------------------- |
-| Lograr 1,000 descargas activas en 6 meses                        | Pasajero    | Descargar y usar la app regularmente   | Landing page atractiva con beneficios claros   |
-| Reducir en 20% el tiempo de espera en 1 año                      | Pasajero    | Consultar rutas antes de salir de casa | Buscador de rutas, visualización de horarios   |
-| Conseguir que 50% de pasajeros activen notificaciones en 3 meses | Pasajero    | Activar notificaciones en la app       | Sistema de alertas de retraso y desvíos        |
-| Lograr que 5 empresas de transporte adopten BusTrack en 8 meses  | Empresa     | Contratar el servicio digital          | Panel de administración de flota y buses       |
-| Generar 50 reportes automáticos en 6 meses                       | Empresa     | Usar reportes para decisiones          | Módulo de reportes de puntualidad y eficiencia |
-| Reducir en 15% las quejas de pasajeros en 1 año                  | Empresa     | Ajustar rutas con base en datos        | Integración de feedback y calificaciones       |
-| Garantizar la seguridad y correcto funcionamiento de la app      | Administrador | Supervisar usuarios y contenidos, prevenir fallos | Gestión de usuarios, configuración de la app, monitoreo de incidencias |
+### Segmento Pasajeros
+
+**Descripción:** Este mapa muestra cómo los objetivos de negocio orientados a reducir el tiempo de espera y aumentar el uso activo de la aplicación se conectan con los dos principales perfiles de pasajeros. El impacto esperado es que los usuarios consulten BusTrack antes de salir de casa para elegir su ruta y horario. Para lograrlo, los deliverables clave son el *buscador de rutas* y el *gestor de rutas favoritas*, de los cuales se derivan las User Stories asociadas a la búsqueda de rutas, visualización de horarios y guardado de rutas frecuentes.
+
+![Impact Map Pasajeros](img/commons/impact-map-pasajeros.png)
+
+___
+
+### Segmento Empresas de transporte
+
+**Descripción:** Este mapa relaciona los objetivos de negocio orientados a la adopción del sistema por empresas de transporte y la reducción de quejas operativas. Los actores principales son el administrador de flota y el supervisor de rutas, cuyo impacto deseado es que monitoreen buses en tiempo real y ajusten rutas usando datos de operación. Los deliverables identificados incluyen el *módulo web de monitoreo de buses* y el *módulo de calificación y análisis interno*, que se traducen en User Stories asociadas al monitoreo operativo, recepción de alertas automatizadas y visualización de métricas.
+
+![Impact Map Empresas](img/commons/impact-map-empresas.png)
+
 
 ## 3.4. Product Backlog
 
