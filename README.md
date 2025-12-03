@@ -937,7 +937,7 @@ A continuación se presentan los User Journey Maps desarrollados para los dos se
 
 **Descripción breve:** Este mapa muestra cómo un estudiante organiza su viaje diario utilizando BusTrack, centrado en la precisión del tiempo estimado de llegada, la ansiedad por retrasos y la necesidad de información confiable en tiempo real.
 
-![Journey Map Estudiante](./assets/img/journey-estudiante.png)
+![Journey Map Estudiante](img/commons/journey-estudiante.png)
 
 ___
 
@@ -945,7 +945,7 @@ ___
 
 **Descripción breve:** Este mapa visualiza cómo un trabajador depende de la aplicación para adaptarse a condiciones de tráfico variables y evitar retrasos, destacando su necesidad de alertas inmediatas y estimaciones precisas.
 
-![Journey Map Trabajador](./assets/img/journey-trabajador.png)
+![Journey Map Trabajador](img/commons/journey-trabajador.png)
 
 <br>
 
@@ -959,7 +959,7 @@ ___
 
 **Descripción breve:** El mapa muestra cómo el administrador enfrenta procesos manuales, comunicación dispersa y falta de datos centralizados para la toma de decisiones, resaltando la oportunidad de automatización y monitoreo en tiempo real que ofrece BusTrack.
 
-![Journey Map Administrador](./assets/img/journey-administrador.png)
+![Journey Map Administrador](img/commons/journey-administrador.png)
 
 ___
 
@@ -967,7 +967,7 @@ ___
 
 **Descripción breve:** Este Journey Map refleja la complejidad del monitoreo de múltiples unidades en tiempo real, la presión operativa y los errores causados por la comunicación manual, destacando la necesidad de alertas automáticas y paneles centralizados.
 
-![Journey Map Supervisor](./assets/img/journey-supervisor.png)
+![Journey Map Supervisor](img/commons/journey-supervisor.png)
 
 <br>
 
