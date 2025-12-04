@@ -242,7 +242,7 @@ La solución propuesta busca responder de manera directa y efectiva a la problem
 
 ### 1.2.1. Antecedentes y problemática
 
-El transporte urbano en Lima Metropolitana se ha convertido, en los últimos años, en uno de los problemas más críticos de la ciudad, evidenciando deficiencias tanto en seguridad vial como en eficiencia del servicio. En 2023 se registraron 41 627 accidentes de tránsito, lo que representó un aumento del 10,2% respecto al año anterior (ComexPerú, 2024). Además, Lima ocupa el quinto lugar en el ranking mundial de ciudades con peor tráfico, según el índice TomTom, un estudio internacional que mide la congestión vehicular en más de 380 ciudades del mundo. Esta situación tiene un impacto significativo en la calidad de vida de los limeños, que en su mayoría dependen de un transporte poco confiable: el 34,4% se moviliza en coasters o combis y el 42,2% de los usuarios se siente insatisfecho con el servicio (ComexPerú, 2024).
+El transporte urbano en Lima Metropolitana se ha convertido, en los últimos años, en uno de los problemas más críticos de la ciudad, evidenciando deficiencias tanto en seguridad vial como en eficiencia del servicio. En 2023 se registraron 41 627 accidentes de tránsito, lo que representó un aumento del 10,2% respecto al año anterior (ComexPerú, 2024). Además, Lima se ubica en el puesto 7 a nivel mundial en el ranking de congestión vehicular, según el TomTom Traffic Index 2024, un estudio internacional que analiza las condiciones del tráfico en más de 500 ciudades del mundo. Esta situación tiene un impacto significativo en la calidad de vida de los limeños, que en su mayoría dependen de un transporte poco confiable: el 34,4% se moviliza en coasters o combis y el 42,2% de los usuarios se siente insatisfecho con el servicio (ComexPerú, 2024).
 
 Por otro lado, la magnitud del sistema de transporte en la capital evidencia la complejidad del problema. Según la ATU, en Lima y Callao se realizan diariamente 24 millones de viajes, de los cuales el 87% es cubierto por el transporte público convencional, que opera mediante 507 rutas y una flota de 22 000 vehículos. En contraste, solo el 12,1% corresponde a sistemas formales como los corredores complementarios, el Metro de Lima y el Metropolitano (Gob.pe, 2024). Para afrontar esta situación, la ATU ha iniciado un proceso de reorganización de rutas y renovación gradual de la flota, promoviendo el uso de buses híbridos, eléctricos y a gas natural. Sin embargo, estos avances resultan insuficientes frente a la creciente demanda y el predominio del transporte informal, lo que mantiene el descontento ciudadano y refuerza la urgencia de implementar soluciones tecnológicas innovadoras que permitan mejorar la movilidad urbana. 
 
@@ -729,7 +729,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Edad:** 35 |
 | **Ocupación:** Supervisor de rutas |
 | **Medio utilizado:** Zoom |
-| **Link de entrevista:** <https://drive.google.com/file/d/1PqT82exPvO7dkZ61Fa_CRw0skRksIkAb/> |
+| **Link de entrevista:** <https://youtu.be/MOjHcLv6YDY> |
 | **Resumen de entrevista:** El entrevistado gestiona la flota mediante llamadas a los choferes y el uso de Excel y hojas de ruta, recibiendo solo información básica sobre tráfico y fallas mecánicas. Considera valiosos los reportes automáticos y la ubicación exacta de buses para mejorar la operación. Reconoce que una plataforma como BusTrack podría incrementar la confianza de los pasajeros, aunque identifica barreras como el costo y la resistencia de algunos conductores a adoptar tecnología. |
 
 
@@ -740,7 +740,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Edad:** 40 |
 | **Ocupación:** Administrador de flota |
 | **Medio utilizado:** Zoom |
-| **Link de entrevista:** <https://drive.google.com/file/d/1Uefn8y3-nF-yh4fCzbMGzqDCZm3p694Q/> |
+| **Link de entrevista:** <https://youtu.be/JAEwGB9mBGk> |
 | **Resumen de entrevista:** El entrevistado gestiona las unidades mediante grupos de WhatsApp y cuadernos físicos, recibiendo información de los conductores sobre retrasos, cambios de ruta y controles policiales. Identifica retos como tráfico, bloqueos y falta de procesos modernos. Considera útil contar con reportes sobre rutas, horarios y cantidad de pasajeros. Percibe a BusTrack como una oportunidad para implementar monitoreo en tiempo real, aunque también identifica barreras relacionadas con la confianza y la adaptación tecnológica de los conductores. |
 
 <br>
@@ -1232,8 +1232,7 @@ ___
 | 15      | US15          | Acceso para empresas              | Como empresa, quiero acceder a un módulo exclusivo con las funciones disponibles para la gestión de flota.                 | 5            |
 
 
-Enlace de Trello: https://trello.com/invite/b/692fe4bec2c3e91c1f113f3c/ATTI5db98658822488213d3156c13fab841f95FECEDF/bustrack-product-backlog 
-
+Enlace de Trello: <https://trello.com/b/MhxlfsAK>
 <br><br>
 
 # Capítulo IV: Product Design
@@ -3215,6 +3214,9 @@ En conjunto, la plataforma no solo busca **facilitar el traslado seguro y eficie
 Comexperu. (2024, abril 19). _Transporte público en Lima en riesgo de empeorar (aun) más._ https://www.comexperu.org.pe/articulo/transporte-publico-en-lima-en-riesgo-de-empeorar-aun-mas
 
 Gob.pe. (2024, mayo 31). _Mayoría de usuarios en Lima y Callao se movilizan en 507 rutas autorizadas de transporte público convencional._ https://www.gob.pe/institucion/atu/noticias/964208-mayoria-de-usuarios-en-lima-y-callao-se-movilizan-en-507-rutas-autorizadas-de-transporte-publico-convencional 
+
+TomTom. (2024). _TomTom traffic index 2024._ https://www.tomtom.com/traffic-index/ranking/
+
 
 <br><br>
 
