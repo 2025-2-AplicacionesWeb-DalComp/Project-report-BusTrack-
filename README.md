@@ -1207,117 +1207,127 @@ Enlace de Trello: <https://trello.com/b/MhxlfsAK>
 
 ## 4.1. Style Guidelines.
 
+La presente sección define las pautas visuales y de identidad gráfica empleadas en BusTrack. Su objetivo es garantizar coherencia, claridad y accesibilidad en todos los elementos de la interfaz, alineando la experiencia del usuario con la propuesta de valor y el enfoque profesional de la plataforma web.
+
 ### 4.1.1. General Style Guidelines
 
-- Branding
-  Las directrices generales de estilo de BusTrack se definen a partir de la identidad visual reflejada en la landing page desarrollada. El objetivo es asegurar coherencia, legibilidad y accesibilidad en todas las plataformas. Está representado por un logo que combina un ícono de bus y un marcador de ubicación, acompañado por el nombre de la marca en tipografía sans-serif bold. Este diseño transmite movilidad, confianza y simplicidad.<br>
-  <h3 align="center"><img src="img/commons/BusTrackLogo.jpg" alt="Logo" width="200" height="200"><h3 align="center">
+- **Branding**  
+  Las directrices generales de estilo de BusTrack se definen a partir de la identidad visual reflejada en la landing page desarrollada. El objetivo es asegurar coherencia, legibilidad y accesibilidad en todas las plataformas. La marca está representada por un logo que combina un ícono de bus y un marcador de ubicación, acompañado por el nombre de la startup en tipografía sans-serif bold. Este diseño transmite movilidad, confianza y simplicidad.
+<p align="center">
+  <img src="img/commons/BusTrackLogo.jpg" alt="Logo BusTrack" width="200" height="200">
+</p>
 
-- Paleta de colores
-  La paleta refuerza valores de sostenibilidad, frescura y accesibilidad.<br>
-  <br>
-  * Verde principal (#4D7B2D aprox.): utilizado en encabezados, títulos, botones y barra de navegación. Representa sostenibilidad, confianza y movilidad.<br>
+
+_**Figura 24.** Logo de BusTrack, que combina un ícono de bus y un marcador de ubicación para representar el transporte urbano geolocalizado._  <br> _**Fuente:** elaboración propia._
+
+<br>
+
+- **Paleta de colores**  
+  La paleta refuerza valores de sostenibilidad, frescura y accesibilidad.  <br><br>
+  * **Verde principal** (#4D7B2D aprox.): utilizado en encabezados, títulos, botones y barra de navegación. Representa sostenibilidad, confianza y movilidad. <br>
     ![Verde Principal](img/commons/VerdePrincipial.png)
     
-  * Verde claro (#EAF4E0 aprox.): empleado en fondos de secciones secundarias (Beneficios, Misión, Visión). Aporta frescura y ligereza.<br>
+  * **Verde claro** (#EAF4E0 aprox.): empleado en fondos de secciones secundarias (Beneficios, Misión, Visión). Aporta frescura y ligereza.  <br>
     ![Verde Claro](img/commons/VerdeClaro.png)
-  * Blanco (#FFFFFF): color de fondo predominante para dar limpieza y contraste.<br>
+    
+  * **Blanco** (#FFFFFF): color de fondo predominante para dar limpieza y contraste.  <br>
+  
     ![Blanco](img/commons/Blanco.png)
-  * Gris oscuro/Negro (#212121 aprox.): utilizado en textos secundarios y párrafos para la legibilidad.<br>
+    
+  * **Gris oscuro / Negro** (#212121 aprox.): utilizado en textos secundarios y párrafos para la legibilidad.<br>
     ![Gris Oscuro](img/commons/GrisOscuro.png)
 
-- Tipografía
-  * Tipografía sans-serif bold, Montserrat Bold. La combinación busca transmitir modernidad, claridad y confianza, manteniendo legibilidad en distintos tamaños y dispositivos.<br>
-  <img src="img/commons/Montserrat.webp" alt="Tipografia" width="400" height="700">
+- **Tipografía**  
+  Se utiliza una tipografía sans-serif, principalmente **Montserrat** en sus variantes regular y bold. La combinación busca transmitir modernidad, claridad y confianza, manteniendo legibilidad en distintos tamaños y dispositivos.
+<p align="center">
+  <img src="img/commons/Montserrat.webp" alt="Tipografía Montserrat" width="400" height="700">
+</p>
 
-- Spacing
-  * Alrededor del logo: dejar un margen libre equivalente al alto de la letra B de “BusTrack”.
+_**Figura 25.** Muestra de la tipografía Montserrat utilizada como base para los textos de BusTrack._  <br> _**Fuente:** elaboración propia._
 
-  * Botones: padding interno mínimo de 12–16px para asegurar comodidad en la interacción.
-
-  * Textos: interlineado de 1.5 para mejorar la lectura en pantallas.
-
-  * Secciones web: separar bloques de contenido con márgenes verticales de 48–64px para evitar saturación visual y garantizar orden.
-
+- **Spacing**  
+  * Alrededor del logo: dejar un margen libre equivalente al alto de la letra **B** de “BusTrack”.  
+  * Botones: padding interno mínimo de 12–16 px para asegurar comodidad en la interacción.  
+  * Textos: interlineado de 1.5 para mejorar la lectura en pantallas.  
+  * Secciones web: separar bloques de contenido con márgenes verticales de 48–64 px para evitar saturación visual y garantizar orden.
 
 ### 4.1.2. Web Style Guidelines
 
 Las directrices específicas para la versión web de BusTrack buscan garantizar consistencia visual, accesibilidad y adaptabilidad en distintos dispositivos.
 
-* Diseño responsive
-  - Estructura modular con secciones claramente diferenciadas (Hero, Cómo usar, Beneficios, Sobre Nosotros).
-  - Uso de grillas en desktop (ej. 3 columnas en Beneficios y Cómo usar), y reordenamiento en formato vertical en mobile.
+* **Diseño responsive**
+  - Estructura modular con secciones claramente diferenciadas (Hero, Cómo usar, Beneficios, Sobre Nosotros).  
+  - Uso de grillas en desktop (por ejemplo, tres columnas en Beneficios y Cómo usar) y reordenamiento en formato vertical en mobile.
 
-* Botones y elementos interactivos
-  - Botón primario (ejemplo: “Iniciar Sesión”) en fondo blanco con borde verde, que se rellena en verde al pasar el cursor (hover).
-  - Tamaño mínimo: 44px para accesibilidad en pantallas táctiles.
+* **Botones y elementos interactivos**
+  - Botón primario (ejemplo: “Iniciar Sesión”) en fondo blanco con borde verde, que se rellena en verde al pasar el cursor (*hover*).  
+  - Tamaño mínimo de 44 px para accesibilidad en pantallas táctiles.  
   - Estados definidos: normal, hover, activo y deshabilitado.
 
-* Jerarquía de textos
-  - Encabezados en serif negrita (H1 y H2) para impacto visual.
-  - Párrafos y descripciones en sans-serif para mejor legibilidad en pantalla.
+* **Jerarquía de textos**
+  - Encabezados en tipografía sans-serif (Montserrat) en negrita (H1 y H2) para lograr impacto visual.  
+  - Párrafos y descripciones en sans-serif regular para asegurar legibilidad en pantalla.  
   - Colores de texto adaptados al fondo: verde sobre blanco y negro/gris sobre verde claro.
 
-* Imágenes y multimedia
-  - Iconografía simple en SVG para escalabilidad.
-  - Imágenes optimizadas con bordes redondeados.
+* **Imágenes y multimedia**
+  - Iconografía simple en formato SVG para garantizar escalabilidad.  
+  - Imágenes optimizadas con bordes redondeados para mantener coherencia visual.
+
 <br>
 
 ## 4.2. Information Architecture
 
+Esta sección describe la arquitectura de información de BusTrack, detallando la organización, etiquetado, navegación y sistemas de búsqueda utilizados. Su propósito es asegurar que los usuarios puedan acceder de manera rápida e intuitiva a las funcionalidades principales de la plataforma.
+
 ### 4.2.1. Organization Systems
 
-La información en BusTrack se organiza en una estructura jerárquica y modular que facilita la navegación del usuario:
+La información en BusTrack se organiza en una estructura jerárquica y modular que facilita la navegación del usuario, tanto en la landing page como en la aplicación web.
+<p align="center">
+  <img src="img/commons/Arbol.png" alt="Árbol de contenidos de BusTrack" width="700" height="600">
+</p>
 
-<h3 align="center"><img src="img/commons/Arbol.png" alt="árbol" width="700" height="600"><h3 align="center">
+_**Figura 26.** Árbol de contenidos de BusTrack, que muestra la organización jerárquica de la información en la landing page y la aplicación web._  <br> _**Fuente:** elaboración propia._
 
 ### 4.2.2. Labeling Systems
 
 Los sistemas de etiquetado emplean un lenguaje claro, breve y orientado a la acción:
-Menú de navegación: “Cómo usar”, “Beneficios”, “Sobre Nosotros”.
 
-* Botón principal: “Iniciar Sesión”.
-
-* Secciones: “Misión”, “Visión”.
-
+* Menú de navegación: “Cómo usar”, “Beneficios”, “Sobre Nosotros”.  
+* Botón principal: “Iniciar Sesión”.  
+* Secciones informativas: “Misión”, “Visión”.  
 * Mensajes claros que transmiten utilidad inmediata, evitando tecnicismos.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 Se emplearán etiquetas optimizadas para mejorar el posicionamiento en buscadores:
 
-* Meta Title: BusTrack – Encuentra tu bus en tiempo real.
+* **Meta Title:** *BusTrack – Encuentra tu bus en tiempo real*.  
+* **Meta Description:** Aplicación web que muestra ubicación de buses, horarios en vivo y alertas para viajar más seguro y sin esperas innecesarias.  
+* **Keywords:** transporte público, buses en tiempo real, rutas de bus, movilidad urbana, BusTrack Perú.  
+* **Etiquetas alt en imágenes:** descripciones breves y precisas que indiquen el contenido visual y su propósito.
 
-* Meta Description: Aplicación web que muestra ubicación de buses, horarios en vivo y alertas para viajar más seguro y sin esperas innecesarias.
-
-* Keywords: transporte público, buses en tiempo real, rutas de bus, movilidad urbana, BusTrack Perú.
-
-* Etiquetas alt en imágenes: describir de forma breve y precisa.
 
 ### 4.2.4. Searching Systems
 
 BusTrack incorporará un sistema de búsqueda interno enfocado en la funcionalidad clave:
 
-* Búsqueda de rutas → el usuario podrá ingresar su punto de origen y destino para obtener información de buses disponibles.
-
-* Filtros → opción de guardar rutas favoritas para acceder rápidamente.
-
-* Resultados en tiempo real → tiempos estimados de llegada, alertas de tráfico o desvíos.
+* **Búsqueda de rutas:** el usuario podrá ingresar su punto de origen y destino para obtener información de buses disponibles.  
+* **Acceso a rutas favoritas:** opción para guardar y consultar rápidamente rutas frecuentes.  
+* **Resultados en tiempo real:** tiempos estimados de llegada (ETA) y alertas sobre tráfico o desvíos en las rutas seleccionadas.
   
 ### 4.2.5. Navigation Systems
 
 El sistema de navegación busca ser intuitivo y accesible:
 
-* Navegación principal (top bar): Inicio, Cómo usar, Beneficios, Sobre Nosotros, Iniciar Sesión.
-
-* Navegación secundaria: botones de acción dentro de cada sección (ej. “Guardar rutas favoritas”).
-
-* Estructura responsive: en dispositivos móviles, el menú se transforma en hamburguesa para ahorrar espacio.
-
-* Flujo del usuario: el recorrido esperado es Inicio → Conocer cómo funciona → Revisar beneficios → Iniciar sesión → Usar BusTrack.
-
+* **Navegación principal (top bar):** Inicio, Cómo usar, Beneficios, Sobre Nosotros, Iniciar Sesión.  
+* **Navegación secundaria:** botones de acción dentro de cada sección (por ejemplo, “Guardar rutas favoritas”).  
+* **Estructura responsive:** en dispositivos móviles, el menú se transforma en un ícono de hamburguesa para ahorrar espacio.  
+* **Flujo del usuario:** el recorrido esperado es Inicio → Conocer cómo funciona → Revisar beneficios → Iniciar sesión → Usar BusTrack.
 
 ## 4.3. Landing Page UI Design
+
+En esta sección se presentan los wireframes y mockups de la landing page de BusTrack. El diseño visual propuesto busca comunicar de forma clara el valor de la solución, facilitando que los visitantes comprendan sus beneficios y accedan a las principales funcionalidades del sistema.
 
 ### 4.3.1. Landing Page Wireframe
 Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. El prototipo incluye secciones básicas y representativas. Además, se presentan accesos rápidos que permiten al usuario conocer cómo utilizar BusTrack, revisar sus principales ventajas y obtener información esencial de la startup.
@@ -1330,12 +1340,20 @@ Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. 
 
 _Descripción:_ Este wireframe representa la página principal de la landing page de BusTrack. Incluye un botón para iniciar sesión y un menú de navegación en la parte superior con accesos a las secciones “Cómo usar”, “Beneficios” y “Sobre Nosotros”. En el cuerpo central se ubica un espacio para una imagen acompañada de un texto introductorio que presenta la plataforma.
 
+<br>
+
+_**Figura 27.** Wireframe de la página principal de la landing page de BusTrack en vista desktop, que muestra el menú de navegación, el texto introductorio y el botón principal de inicio de sesión.**_ <br> _**Fuente:** elaboración propia._
+
 
 **Wireframe 2**
 
 <img src="/img/commons/Wireframe%202.png" alt="Wireframe 2" style="width: 700px; margin-right: 700px;"/>
 
 _Descripción:_ Este wireframe pertenece a la sección “Cómo usar”. El propósito es explicar de manera simple el funcionamiento de la plataforma. Cada paso incluye un espacio para una imagen representativa, un encabezado y una breve descripción.
+
+<br>
+
+_**Figura 28.** Wireframe de la sección “Cómo usar” en vista desktop, donde se presentan los pasos explicativos acompañados de iconografía y texto guía para comprender el funcionamiento de la plataforma._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 3**
@@ -1344,6 +1362,10 @@ _Descripción:_ Este wireframe pertenece a la sección “Cómo usar”. El prop
 
 _Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Presenta tres bloques que destacan las principales ventajas de la plataforma. Cada bloque incluye un espacio para un título, una breve descripción y una imagen.
 
+<br>
+
+_**Figura 29.** Wireframe de la sección “Beneficios” en vista desktop, estructurada en tres bloques que destacan las principales ventajas de BusTrack para los usuarios._ <br> _**Fuente:** elaboración propia._
+
 
 **Wireframe 4**
 
@@ -1351,27 +1373,50 @@ _Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Prese
 
 _Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de BusTrack, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
 
+<br>
+
+_**Figura 30.** Wireframe de la sección “Sobre Nosotros” en vista desktop, que muestra la misión, visión y los datos de contacto de BusTrack en la parte inferior de la página._ <br> _**Fuente:** elaboración propia._
+
 
 ### Mobile Web Browser
 
+Para la versión móvil, los wireframes muestran la adaptación responsiva de las mismas secciones, reorganizando los elementos en un formato vertical optimizado para pantallas pequeñas.
+
 **Wireframe 1**
 
-<img src="/img/commons/Wireframe%201-Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+Descripción: Este wireframe corresponde a la página principal de la landing page en vista móvil. En la parte superior se muestra el nombre de la marca junto con el botón “Iniciar Sesión”. En el área central se incluye un espacio para la imagen principal de presentación, seguido de tres bloques horizontales destinados a texto introductorio sobre BusTrack.
 
+<img src="/img/commons/Wireframe%201-Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<br>
+
+_**Figura 31.** Wireframe de la página principal de la landing page en vista móvil, con navegación compacta y contenido central reorganizado para lectura vertical._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 2**
 
-<img src="/img/commons/Wireframe%202-Mobile.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+Descripción: Este wireframe corresponde a la sección “Cómo usar” en vista móvil. La interfaz presenta tres pasos principales organizados verticalmente, cada uno con un espacio para imagen representativa, un título y líneas de texto descriptivo que explican el funcionamiento básico de la plataforma.
 
+<img src="/img/commons/Wireframe%202-Mobile.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<br>
+
+_**Figura 32.** Wireframe de la sección “Cómo usar” en vista móvil, donde los pasos se presentan de manera secuencial para facilitar la comprensión desde un dispositivo móvil._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 3**
 
-<img src="/img/commons/Wireframe%203-Mobile.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
+Descripción: Este wireframe corresponde a la sección “Beneficios de BusTrack” en vista móvil. Incluye dos bloques informativos, cada uno compuesto por un área para texto y un recuadro para imagen. Los elementos se encuentran dispuestos de forma vertical para mejorar la legibilidad en dispositivos pequeños.
 
+<img src="/img/commons/Wireframe%203-Mobile.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<br>
+
+_**Figura 33.** Wireframe de la sección “Beneficios” en vista móvil, con disposición vertical de los bloques que presentan las principales ventajas para el usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 4**
 
+Descripción: Este wireframe corresponde a la sección “Sobre Nosotros” en vista móvil. Presenta dos bloques principales dedicados a la misión y visión de BusTrack, cada uno acompañado de un recuadro para imagen ilustrativa. En la parte inferior se incluye un footer con datos de contacto y accesos a redes sociales.
+
 <img src="/img/commons/Wireframe%204-Mobile.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<br>
+
+_**Figura 34.** Wireframe de la sección “Sobre Nosotros” en vista móvil, mostrando la misión, visión y datos de contacto con un diseño adaptado al formato vertical._ <br> _**Fuente:** elaboración propia._
 
 ### 4.3.2. Landing Page Mock-up
 En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. 
