@@ -1037,48 +1037,18 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 ## 2.4. Big Picture Event Storming
 
-### Etapa 1: Planificación del viaje
+El Big Picture Event Storming permite visualizar de manera global todos los eventos clave del sistema BusTrack, mostrando cómo interactúan los distintos actores a lo largo del flujo completo del servicio.
 
-| **Actor**            | **Evento**                                 | **Resultado**                                           |
-| -------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| **Pasajero**         | Buscó una ruta ingresando origen y destino | El sistema registró la solicitud de búsqueda.           |
-| **Sistema BusTrack** | Procesó la búsqueda de rutas disponibles   | Mostró opciones de buses, horarios y tiempos estimados. |
-| **Pasajero**         | Seleccionó una ruta                        | El sistema guardó la ruta como favorita para futuros viajes. |
-| **Sistema BusTrack** | No encontró rutas disponibles *(flujo alternativo)* | Mostró mensaje de error y sugirió rutas cercanas o alternativas. |
+**Descripción:** El diagrama representa el flujo completo del sistema BusTrack dividido en cuatro fases: Planificación del viaje, Ejecución y monitoreo del viaje, Post viaje y seguimiento y Aprendizaje y mejora. Muestra los eventos generados por los actores principales (pasajero, sistema, chofer, supervisor y administrador) y cómo estos interactúan en cada etapa. La representación permite comprender la secuencia de eventos, los flujos alternativos y las dependencias entre funcionalidades, alineándose con las historias de usuario implementadas.
 
----
+![Big Picture Event Storming ](img/commons/big-picture-event-storming.png)
 
-### Etapa 2: Ejecución y monitoreo del viaje
+<br> _**Figura 19.** Big Picture Event Storming de BusTrack, que muestra los eventos clave del sistema y la interacción entre los actores a lo largo de las cuatro fases del servicio._ <br> _**Fuente:** elaboración propia._
 
-| **Actor**            | **Evento**                                 | **Resultado**                                           |
-| -------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| **Chofer**           | Reportó retraso o incidencia vía app o WhatsApp | El sistema actualizó el estado de la unidad. |
-| **Sistema BusTrack** | Detectó congestión o bloqueo en la ruta    | Generó alerta automática para pasajeros y supervisores. |
-| **Supervisor de rutas** | Recibió notificación de incidencia      | Coordinó cambios de ruta con choferes.                 |
-| **Sistema BusTrack** | Envió notificación al pasajero             | El pasajero recibió alertas de retrasos, desvíos o incidentes. |
-| **Supervisor de rutas** | No respondió a la notificación *(flujo alternativo)* | El sistema escaló la alerta al administrador de flota. |
 
----
+Link del miro: https://miro.com/app/board/uXjVJg4DnAQ=/?share_link_id=181609109423
 
-### Etapa 3: Post viaje y retroalimentación
-
-| **Actor**            | **Evento**                                 | **Resultado**                                           |
-| -------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| **Pasajero**         | Viajó en el bus consultando la app         | Visualizó ubicación y tiempo estimado en tiempo real.   |
-| **Pasajero**         | Envió calificación del viaje               | El sistema guardó comentarios y puntuaciones.           |
-| **Sistema BusTrack** | Generó reportes de uso y eficiencia        | La empresa de transporte recibió métricas detalladas.   |
-
----
-
-### Etapa 4: Aprendizaje y mejora continua
-
-| **Actor**               | **Evento**                                | **Resultado**                                           |
-| ----------------------- | ----------------------------------------- | ------------------------------------------------------- |
-| **Administrador de flota** | Revisó reportes de eficiencia           | Ajustó horarios, mantenimiento y distribución de buses. |
-| **Sistema BusTrack**    | Analizó calificaciones y demoras registradas | Generó recomendaciones automáticas para mejorar rutas.  |
-| **Empresa de transporte** | Implementó mejoras en base a los reportes | Optimizó la puntualidad y satisfacción de los pasajeros. |
-
----
+<br>
 
 ## 2.5. Ubiquitous Language
 
@@ -1111,7 +1081,7 @@ El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se obse
 
 <img src="img/commons/to-be-bustrack-pasajeros.png" width="850">
 
-<br> _**Figura 19.** To-Be Scenario Map del pasajero de BusTrack, que muestra la experiencia futura deseada desde la planificación del viaje hasta la calificación del servicio, reduciendo la ansiedad y aumentando la confianza gracias a la información en tiempo real._ <br>  _**Fuente:** elaboración propia._
+<br> _**Figura 20.** To-Be Scenario Map del pasajero de BusTrack, que muestra la experiencia futura deseada desde la planificación del viaje hasta la calificación del servicio, reduciendo la ansiedad y aumentando la confianza gracias a la información en tiempo real._ <br>  _**Fuente:** elaboración propia._
 
 
 ---
@@ -1123,7 +1093,7 @@ El mapa presenta la experiencia futura de una empresa de transporte utilizando e
 
 <img src="img/commons/to-be-bustrack-empresa.png" width="850">
 
-<br> _**Figura 20.** To-Be Scenario Map de la empresa de transporte, donde se representa el uso del panel web de BusTrack para monitorear buses, gestionar alertas y tomar decisiones basadas en datos._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 21.** To-Be Scenario Map de la empresa de transporte, donde se representa el uso del panel web de BusTrack para monitorear buses, gestionar alertas y tomar decisiones basadas en datos._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -1197,7 +1167,7 @@ El Impact Mapping permite conectar los objetivos del negocio con los actores pri
 
 ![Impact Map Pasajeros](img/commons/impact-map-pasajeros.png)
 
-<br> _**Figura 21.** Impact Map del segmento de pasajeros, que conecta los objetivos de negocio de BusTrack con los cambios de comportamiento esperados en estudiantes y trabajadores, y los deliverables asociados (buscador de rutas, rutas favoritas)._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 22.** Impact Map del segmento de pasajeros, que conecta los objetivos de negocio de BusTrack con los cambios de comportamiento esperados en estudiantes y trabajadores, y los deliverables asociados (buscador de rutas, rutas favoritas)._  <br> _**Fuente:** elaboración propia._
 
 
 ___
@@ -1208,7 +1178,7 @@ ___
 
 ![Impact Map Empresas](img/commons/impact-map-empresas.png)
 
-<br> _**Figura 22.** Impact Map del segmento de empresas de transporte, que relaciona los objetivos de adopción del sistema con los impactos deseados en administradores y supervisores de flota, así como los módulos de monitoreo y alertas internas._  _**Fuente:** elaboración propia._
+<br> _**Figura 23.** Impact Map del segmento de empresas de transporte, que relaciona los objetivos de adopción del sistema con los impactos deseados en administradores y supervisores de flota, así como los módulos de monitoreo y alertas internas._  _**Fuente:** elaboración propia._
 
 
 ## 3.4. Product Backlog
