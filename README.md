@@ -228,12 +228,12 @@ Descripción del producto: BusTrack es una plataforma web que ofrece informació
 
 | Perfil | Alumno |
 |--------|-------------|
-| ![Mathias Cardenas](img/developers/mathiasCardenas.png) <br><br>**Figura 1.** Fotografía del integrante Mathias Andree Cardenas Huaman. <br>Fuente: elaboración propia.
+| ![Mathias Cardenas](img/developers/mathiasCardenas.png) <br><br> _**Figura 1.** Fotografía del integrante Mathias Andree Cardenas Huaman_. <br> _**Fuente:** elaboración propia._
 |  **Nombre:** Mathias Andree Cardenas Huaman <br><br> **Código:** U202316353 <br><br> **Descripción:** Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, tengo habilidades para el trabajo en equipo y la resolución de problemas. También me gusta plantearme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarlo con la máxima nota posible. |
-| ![Elizabeth Apaza](img/developers/elizabethApaza.png) <br><br>**Figura 2.** Fotografía de la integrante Elizabeth Noelia Apaza Bocanegra. <br>Fuente: elaboración propia.| **Nombre:** Elizabeth Noelia Apaza Bocanegra <br><br> **Código:** U20231C197 <br><br> **Descripción:** Soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal. |
-| ![Fátima Florez](img/developers/fatimaFlorez.jpeg) <br><br>**Figura 3.** Fotografía de la integrante Fátima Belén Florez Shimabukuro.  <br>Fuente: elaboración propia.| **Nombre:** Fátima Belén Florez Shimabukuro <br><br>  **Código:** U202320610 <br><br> **Descripción:** Soy estudiante de la carrera de Ingeniería de Software y actualmente curso el quinto ciclo. Considero que mis habilidades de trabajo en equipo y mi puntualidad serán importantes para el desarrollo del trabajo. Asimismo, cuento con conocimientos en C++, Python, HTML y SQL.|
-| ![Joaquin Cuentas](img/developers/joaquinCuentas.png) <br><br>**Figura 4.** Fotografía del integrante Joaquín Alberto Cuentas Peña.  <br>Fuente: elaboración propia.| **Nombre:** Joaquin Alberto Cuentas Peña <br><br> **Código:** U20201f788 <br><br> **Descripción:** Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo. |
-| ![Diego Avalos](https://i.postimg.cc/s27MM80R/Foto-Diego-Avalos.jpg) <br><br>**Figura 5.** Fotografía del integrante Diego Andrés Ávalos Córdova.  <br>Fuente: elaboración propia.| **Nombre:** Diego Andres Ávalos Cordova <br><br> **Código:** U202313922 <br><br> **Descripción:** Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente curso el sexto ciclo. Me apasiona el campo de la ciberseguridad y mi objetivo es especializarme en esta área para convertirme en un profesional capaz de aportar soluciones innovadoras en la protección de la información. Tengo conocimientos en C++, JavaScript, HTML y Python, y me encuentro en constante aprendizaje de nuevos lenguajes y tecnologías que fortalezcan mis habilidades técnicas. Además, me interesa participar en proyectos que me permitan crecer tanto a nivel académico como profesional, desarrollando experiencia práctica y aportando valor en el ámbito tecnológico. |
+| ![Elizabeth Apaza](img/developers/elizabethApaza.png) <br><br> _**Figura 2.** Fotografía de la integrante Elizabeth Noelia Apaza Bocanegra._ <br> _**Fuente:** elaboración propia._ | **Nombre:** Elizabeth Noelia Apaza Bocanegra <br><br> **Código:** U20231C197 <br><br> **Descripción:** Soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal. |
+| ![Fátima Florez](img/developers/fatimaFlorez.jpeg) <br><br> _**Figura 3.** Fotografía de la integrante Fátima Belén Florez Shimabukuro._  <br> _**Fuente:** elaboración propia._| **Nombre:** Fátima Belén Florez Shimabukuro <br><br>  **Código:** U202320610 <br><br> **Descripción:** Soy estudiante de la carrera de Ingeniería de Software y actualmente curso el quinto ciclo. Considero que mis habilidades de trabajo en equipo y mi puntualidad serán importantes para el desarrollo del trabajo. Asimismo, cuento con conocimientos en C++, Python, HTML y SQL.|
+| ![Joaquin Cuentas](img/developers/joaquinCuentas.png) <br><br> _**Figura 4.** Fotografía del integrante Joaquín Alberto Cuentas Peña._  <br> _**Fuente:** elaboración propia._| **Nombre:** Joaquin Alberto Cuentas Peña <br><br> **Código:** U20201f788 <br><br> **Descripción:** Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo. |
+| ![Diego Avalos](https://i.postimg.cc/s27MM80R/Foto-Diego-Avalos.jpg) <br><br> _**Figura 5.** Fotografía del integrante Diego Andrés Ávalos Córdova._  <br> _**Fuente:** elaboración propia._| **Nombre:** Diego Andres Ávalos Cordova <br><br> **Código:** U202313922 <br><br> **Descripción:** Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente curso el sexto ciclo. Me apasiona el campo de la ciberseguridad y mi objetivo es especializarme en esta área para convertirme en un profesional capaz de aportar soluciones innovadoras en la protección de la información. Tengo conocimientos en C++, JavaScript, HTML y Python, y me encuentro en constante aprendizaje de nuevos lenguajes y tecnologías que fortalezcan mis habilidades técnicas. Además, me interesa participar en proyectos que me permitan crecer tanto a nivel académico como profesional, desarrollando experiencia práctica y aportando valor en el ámbito tecnológico. |
 
 
 ## 1.2. Solution Profile
@@ -596,9 +596,14 @@ El análisis competitivo permite comparar a **BusTrack** con los principales act
 </tbody>
 </table>
 
+_**Figura 6.** Logotipos de los principales competidores analizados: Moovit, Google Maps, TuRuta y RedBus._ <br> _**Fuente:** elaboración propia a partir de material público de cada marca._
+
+<br>
+
 
 BusTrack puede diferenciarse mediante información confiable en tiempo real, un enfoque exclusivamente local y la integración de APIs oficiales para ofrecer datos verificados sobre buses y rutas urbanas. Esto cubre vacíos que los competidores actuales aún no resuelven completamente.
 
+<br>
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
@@ -808,7 +813,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Usuario Pragmático |
-| **Image**        | <img src="img/commons/manuelSuarez.png" alt="Manuel Suarez" width="200"/> |
+| **Image**        | <img src="img/commons/manuelSuarez.png" alt="Manuel Suarez" width="200"/> <br><br> _**Figura 7.** Imagen representativa del User Persona “Manuel Suárez”, estudiante universitario usuario frecuente de transporte público._ <br> _**Fuente:** elaboración propia._ |
 | **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme en el paradero." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 80/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
 | **Goals**        | - Llegar puntual a clases sin depender de información incierta.<br>- Optimizar su tiempo para estudiar y evitar esperas innecesarias.<br>- Sentirse seguro en trayectos diarios, especialmente en paraderos con poca iluminación o vigilancia. |
@@ -831,7 +836,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Viajero Organizado |
-| **Image**        | <img src="img/commons/alejandroMedina.jpg" alt="Alejandro Medina" width="200"/> |
+| **Image**        | <img src="img/commons/alejandroMedina.jpg" alt="Alejandro Medina" width="200"/> <br><br> _**Figura 8.** Imagen representativa del User Persona “Alejandro Medina”, trabajador administrativo que usa transporte público a diario._  <br> _**Fuente:** elaboración propia._ |
 | **Quote**        | "Necesito que el transporte sea puntual porque llegar tarde al trabajo no es una opción." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 85/100<br>Growth: 65/100<br>Power: 50/100<br>Social: 70/100 |
 | **Goals**        | - Llegar puntual al trabajo evitando esperas innecesarias.<br>- Optimizar su tiempo de traslado para tener más tiempo libre al final del día.<br>- Usar una app confiable que proporcione información precisa sobre buses y tráfico en tiempo real.<br> - Reducir el estrés diario asociado al transporte público. |
@@ -856,7 +861,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Gestor Eficiente |
-| **Image**        | <img src="img/commons/luisPalacios.jpg" alt="Luis Palacios" width="200"/> |
+| **Image**        | <img src="img/commons/luisPalacios.jpg" alt="Luis Palacios" width="200"/> <br><br> _**Figura 9.** Imagen representativa del User Persona “Luis Palacios”, administrador de flota en una empresa de transporte urbano._  <br> _**Fuente:** elaboración propia._|
 | **Quote**        | "Si puedo monitorear mis buses en tiempo real, puedo ofrecer un mejor servicio y ganar más pasajeros." |
 | **Motivations**  | Incentive: 85/100<br>Fear: 65/100<br>Achievement: 90/100<br>Growth: 70/100<br>Power: 75/100<br>Social: 70/100 |
 | **Goals**        | - Monitorear en tiempo real la ubicación y estado de todas las unidades.<br>- Detectar y resolver incidencias operativas rápidamente.<br>- Mejorar la puntualidad general y reducir reclamos de usuarios.<br>- Digitalizar procesos manuales para optimizar tiempos y costos.<br>- Usar herramientas que faciliten decisiones estratégicas. |
@@ -879,7 +884,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Supervisor Operativo |
-| **Image**        | <img src="img/commons/joseRamirez.jpg" alt="José Ramírez" width="200"/> |
+| **Image**        | <img src="img/commons/joseRamirez.jpg" alt="José Ramírez" width="200"/> <br><br> _**Figura 10.** Imagen representativa del User Persona “José Ramírez”, supervisor de rutas en una empresa de transporte urbano._  <br> _**Fuente:** elaboración propia._ |
 | **Quote**        | "Lo más difícil es coordinar con los choferes en medio del tráfico y asegurar que los buses lleguen a tiempo." |
 | **Motivations**  | Incentive: 70/100<br>Fear: 60/100<br>Achievement: 80/100<br>Growth: 60/100<br>Power: 65/100<br>Social: 70/100 |
 | **Goals**        | - Coordinar eficientemente la operación diaria de múltiples rutas.<br>- Anticipar problemas de tráfico o desvíos antes de que afecten a los pasajeros.<br>- Reducir reclamos por incumplimiento de horarios.<br>- Estandarizar reportes e incidencias.<br>- Recibir alertas automáticas para actuar más rápido. |
@@ -940,6 +945,11 @@ A continuación se presentan los User Journey Maps desarrollados para los dos se
 
 ![Journey Map Estudiante](img/commons/journey-estudiante.png)
 
+<br>
+
+_**Figura 11.** User Journey Map de Manuel Suárez (estudiante universitario), que muestra su flujo de viaje diario y las oportunidades de mejora que aborda BusTrack._  <br> _**Fuente:** elaboración propia._
+
+
 ___
 
 #### User Persona 2 – Alejandro Medina (Trabajador)
@@ -947,6 +957,8 @@ ___
 **Descripción breve:** Este mapa visualiza cómo un trabajador depende de la aplicación para adaptarse a condiciones de tráfico variables y evitar retrasos, destacando su necesidad de alertas inmediatas y estimaciones precisas.
 
 ![Journey Map Trabajador](img/commons/journey-trabajador.png)
+
+<br> _**Figura 12.** User Journey Map de Alejandro Medina (trabajador administrativo), ilustrando sus interacciones con el transporte público y el uso de BusTrack para reducir retrasos._ <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -962,6 +974,8 @@ ___
 
 ![Journey Map Administrador](img/commons/journey-administrador.png)
 
+<br> _**Figura 13.** User Journey Map de Luis Palacios (administrador de flota), que detalla sus tareas operativas y cómo BusTrack mejora el monitoreo de buses._  <br> _**Fuente:** elaboración propia._
+
 ___
 
 #### User Persona 4 – José Ramírez (Supervisor de Rutas)
@@ -969,6 +983,8 @@ ___
 **Descripción breve:** Este Journey Map refleja la complejidad del monitoreo de múltiples unidades en tiempo real, la presión operativa y los errores causados por la comunicación manual, destacando la necesidad de alertas automáticas y paneles centralizados.
 
 ![Journey Map Supervisor](img/commons/journey-supervisor.png)
+
+<br> _**Figura 14.** User Journey Map de José Ramírez (supervisor de rutas), representando la coordinación de unidades y la necesidad de alertas en tiempo real._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -984,6 +1000,9 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 ![Empathy Map Segment 1](img/commons/empathyMapSegmet1ManuelSuarez.png)
 
+<br> _**Figura 15.** Mapa de empatía del estudiante universitario Manuel Suárez, donde se resumen lo que ve, piensa, siente y hace en relación con su experiencia usando el transporte público en Lima._  <br> _**Fuente:** elaboración propia._
+
+
 ---
 
 **Segmento 1: Empleado administrativo (Ejemplo: Alejandro Medina)**
@@ -991,6 +1010,8 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 **Descripción:** Mapa de empatía del trabajador administrativo Alejandro Medina, mostrando su comportamiento, frustraciones, expectativas y necesidades al movilizarse diariamente hacia su centro laboral.
 
 ![Empathy Map Segment 1](img/commons/empathyMapSegmet1AlejandroMedina.png)
+
+<br> _**Figura 16.** Mapa de empatía de Alejandro Medina, trabajador administrativo, que refleja sus frustraciones, expectativas y necesidades frente a los retrasos y la inseguridad en el transporte urbano._ <br> _**Fuente:** elaboración propia._
 
 ---
 
@@ -1000,6 +1021,8 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 ![Empathy Map Segment 2](img/commons/empathyMapSegmet2LuisPalacios.png)
 
+<br> _**Figura 17.** Mapa de empatía de Luis Palacios, administrador de flota, donde se analizan sus preocupaciones operativas, puntos de dolor y objetivos de gestión de buses._  <br> _**Fuente:** elaboración propia._
+
 ---
 
 **Segmento 2: Supervisor de rutas en empresa de transporte urbano (Ejemplo: José Ramírez)**
@@ -1007,6 +1030,10 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 **Descripción:** Mapa de empatía del supervisor de rutas José Ramírez, que refleja sus dificultades diarias, retos operativos, motivaciones y oportunidades de mejora en la coordinación del transporte urbano.
 
 ![Empathy Map Segment 2](img/commons/empathyMapSegmet2JoseRamirez.png)
+
+<br> _**Figura 18.** Mapa de empatía de José Ramírez, supervisor de rutas, que muestra sus retos diarios en la coordinación de unidades y su percepción sobre soluciones tecnológicas como BusTrack._  <br> _**Fuente:** elaboración propia._
+
+<br>
 
 ## 2.4. Big Picture Event Storming
 
@@ -1084,6 +1111,9 @@ El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se obse
 
 <img src="img/commons/to-be-bustrack-pasajeros.png" width="850">
 
+<br> _**Figura 19.** To-Be Scenario Map del pasajero de BusTrack, que muestra la experiencia futura deseada desde la planificación del viaje hasta la calificación del servicio, reduciendo la ansiedad y aumentando la confianza gracias a la información en tiempo real._ <br>  _**Fuente:** elaboración propia._
+
+
 ---
 
 ### To-Be Scenario Map – Empresa de Transporte
@@ -1092,6 +1122,10 @@ El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se obse
 El mapa presenta la experiencia futura de una empresa de transporte utilizando el panel web de BusTrack. A lo largo de las fases (ingreso al panel, revisión de buses, gestión de alertas, generación de reportes y ajuste de rutas), se observa un flujo operativo más eficiente, basado en datos en tiempo real y reportes automáticos. Emocionalmente, el usuario empresarial pasa de la incertidumbre operativa a una sensación de control, seguridad y optimización continua.
 
 <img src="img/commons/to-be-bustrack-empresa.png" width="850">
+
+<br> _**Figura 20.** To-Be Scenario Map de la empresa de transporte, donde se representa el uso del panel web de BusTrack para monitorear buses, gestionar alertas y tomar decisiones basadas en datos._  <br> _**Fuente:** elaboración propia._
+
+<br>
 
 Enlace de miro: https://miro.com/app/board/uXjVJhIqCHk=/?share_link_id=990352521858
 
@@ -1163,6 +1197,9 @@ El Impact Mapping permite conectar los objetivos del negocio con los actores pri
 
 ![Impact Map Pasajeros](img/commons/impact-map-pasajeros.png)
 
+<br> _**Figura 21.** Impact Map del segmento de pasajeros, que conecta los objetivos de negocio de BusTrack con los cambios de comportamiento esperados en estudiantes y trabajadores, y los deliverables asociados (buscador de rutas, rutas favoritas)._  <br> _**Fuente:** elaboración propia._
+
+
 ___
 
 ### Segmento Empresas de transporte
@@ -1170,6 +1207,8 @@ ___
 **Descripción:** Este mapa relaciona los objetivos de negocio orientados a la adopción del sistema por empresas de transporte y la reducción de quejas operativas. Los actores principales son el administrador de flota y el supervisor de rutas, cuyo impacto deseado es que monitoreen buses en tiempo real y ajusten rutas usando datos de operación. Los deliverables identificados incluyen el *módulo web de monitoreo de buses* y el *módulo de calificación y análisis interno*, que se traducen en User Stories asociadas al monitoreo operativo, recepción de alertas automatizadas y visualización de métricas.
 
 ![Impact Map Empresas](img/commons/impact-map-empresas.png)
+
+<br> _**Figura 22.** Impact Map del segmento de empresas de transporte, que relaciona los objetivos de adopción del sistema con los impactos deseados en administradores y supervisores de flota, así como los módulos de monitoreo y alertas internas._  _**Fuente:** elaboración propia._
 
 
 ## 3.4. Product Backlog
