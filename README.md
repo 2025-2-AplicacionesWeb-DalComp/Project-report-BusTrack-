@@ -1282,11 +1282,15 @@ Esta sección describe la arquitectura de información de BusTrack, detallando l
 ### 4.2.1. Organization Systems
 
 La información en BusTrack se organiza en una estructura jerárquica y modular que facilita la navegación del usuario, tanto en la landing page como en la aplicación web.
+
+El siguiente organigrama de contenidos representa visualmente la estructura jerárquica del sitio. El diagrama inicia con la sección principal **Hero Section**, que agrupa el mensaje introductorio y el botón de acceso. Luego se despliega en tres bloques informativos: **“Cómo usar BusTrack”**, **“Beneficios”** y **“Sobre Nosotros”**. Cada bloque se descompone en subapartados que detallan las funciones básicas del sistema, tales como buscar rutas, recibir alertas, consultar información en tiempo real, guardar rutas favoritas y acceder a la misión y visión de la startup.
+
+
 <p align="center">
   <img src="img/commons/Arbol.png" alt="Árbol de contenidos de BusTrack" width="700" height="600">
 </p>
 
-_**Figura 26.** Árbol de contenidos de BusTrack, que muestra la organización jerárquica de la información en la landing page y la aplicación web._  <br> _**Fuente:** elaboración propia._
+_**Figura 26.** Árbol de contenidos de BusTrack utilizado para representar la organización jerárquica de la información en la landing page._   <br> _**Fuente:** elaboración propia._
 
 ### 4.2.2. Labeling Systems
 
@@ -1336,9 +1340,10 @@ Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. 
 
 **Wireframe 1**
 
+_Descripción:_ Este wireframe representa la página principal de la landing page de BusTrack. Incluye un botón para iniciar sesión y un menú de navegación en la parte superior con accesos a las secciones “Cómo usar”, “Beneficios” y “Sobre Nosotros”. En el cuerpo central se ubica un espacio para una imagen acompañada de un texto introductorio que presenta la plataforma.
+
 <img src="/img/commons/Wireframe%201.png" alt="Wireframe 1" style="width: 700px; margin-right: 700px;"/>
 
-_Descripción:_ Este wireframe representa la página principal de la landing page de BusTrack. Incluye un botón para iniciar sesión y un menú de navegación en la parte superior con accesos a las secciones “Cómo usar”, “Beneficios” y “Sobre Nosotros”. En el cuerpo central se ubica un espacio para una imagen acompañada de un texto introductorio que presenta la plataforma.
 
 <br>
 
@@ -1347,9 +1352,9 @@ _**Figura 27.** Wireframe de la página principal de la landing page de BusTrack
 
 **Wireframe 2**
 
-<img src="/img/commons/Wireframe%202.png" alt="Wireframe 2" style="width: 700px; margin-right: 700px;"/>
-
 _Descripción:_ Este wireframe pertenece a la sección “Cómo usar”. El propósito es explicar de manera simple el funcionamiento de la plataforma. Cada paso incluye un espacio para una imagen representativa, un encabezado y una breve descripción.
+
+<img src="/img/commons/Wireframe%202.png" alt="Wireframe 2" style="width: 700px; margin-right: 700px;"/>
 
 <br>
 
@@ -1358,9 +1363,9 @@ _**Figura 28.** Wireframe de la sección “Cómo usar” en vista desktop, dond
 
 **Wireframe 3**
 
-<img src="/img/commons/Wireframe%203.png" alt="Wireframe 3" style="width: 700px; margin-right: 700px;"/>
-
 _Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Presenta tres bloques que destacan las principales ventajas de la plataforma. Cada bloque incluye un espacio para un título, una breve descripción y una imagen.
+
+<img src="/img/commons/Wireframe%203.png" alt="Wireframe 3" style="width: 700px; margin-right: 700px;"/>
 
 <br>
 
@@ -1369,9 +1374,9 @@ _**Figura 29.** Wireframe de la sección “Beneficios” en vista desktop, estr
 
 **Wireframe 4**
 
-<img src="/img/commons/Wireframe%204.png" alt="Wireframe 4" style="width: 700px; margin-right: 700px;"/>
-
 _Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de BusTrack, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
+
+<img src="/img/commons/Wireframe%204.png" alt="Wireframe 4" style="width: 700px; margin-right: 700px;"/>
 
 <br>
 
