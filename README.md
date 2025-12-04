@@ -371,24 +371,22 @@ Empresas de transporte que necesitan gestionar sus unidades.
 
 ---
 
-#### 7. Reportes automáticos de operación
-- **Hipótesis:** Creemos que generar informes automáticos sobre horarios, demoras y número de pasajeros mejorará la capacidad de toma de decisiones de los administradores.
-- **Validación:** Sabremos que esto es cierto cuando al menos el 60% de los administradores indiquen haber reducido el tiempo dedicado al registro manual en un 40% .
+#### 7. Información operativa básica
+- **Hipótesis:** Creemos que proporcionar información operativa básica (como la ubicación del bus en tiempo real) ayudará a mejorar la toma de decisiones de los administradores.
+- **Validación:** Sabremos que esto es cierto cuando al menos el 60% de supervisores y administradores utilicen de forma recurrente el módulo básico de monitoreo.
 
 ---
 
 #### 1.2.2.4. Lean UX Canvas
 
-#### BusTrack - Lean UX Canvas
-
 | **Sección** | **Contenido** |
 |-------------|---------------|
-| **Business Problem** | Los usuarios del transporte público en Lima Metropolitana enfrentan largos tiempos de espera, desinformación sobre los horarios y baja confianza en la puntualidad de las unidades. Esto genera frustración, pérdida de tiempo y afecta la percepción de seguridad en el servicio. Al mismo tiempo, las empresas de transporte carecen de herramientas digitales que les permitan organizar mejor sus unidades y comunicarse eficazmente con los pasajeros. |
+| **Business Problem** | Los usuarios del transporte público en Lima Metropolitana enfrentan largos tiempos de espera, desinformación sobre los horarios y baja confianza en la puntualidad de las unidades. Esto genera frustración, pérdida de tiempo y afecta la percepción de seguridad en el servicio. Al mismo tiempo, las empresas de transporte carecen de herramientas digitales básicas para visualizar la posición de sus unidades y coordinar incidencias de manera eficiente. |
 | **Business Outcomes** | - Conseguir **50 000 usuarios activos** en el primer año.<br>- Reducir en un **30% la percepción de incertidumbre** en los tiempos de espera.<br>- Lograr que el **70% de las rutas principales** estén integradas en la app.<br>- Aumentar en un **20% la satisfacción general** de los pasajeros en encuestas de movilidad urbana. |
 | **Users and Customers** | **Primarios:** Estudiantes y trabajadores que dependen del transporte público para asistir a clases o llegar puntualmente al trabajo.<br><br>**Secundarios:** Supervisores y administradores de flota que necesitan controlar y optimizar la operación en tiempo real. |
-| **User Benefits** | - **Estudiantes y trabajadores:** Obtienen certeza en los horarios, reducen tiempos de espera, planifican mejor sus viajes y se sienten más seguros gracias a notificaciones inteligentes en tiempo real.<br><br>- **Supervisores y administradores:** Monitorean la flota en tiempo real, reaccionan rápidamente ante incidencias y mejoran la puntualidad general. A diferencia de apps genéricas, BusTrack integra datos operativos directamente de las empresas, ofreciendo precisión adaptada al contexto limeño. |
-| **Solution Ideas** | - Geolocalización en tiempo real de buses.<br>- Estimaciones precisas de llegada.<br>- Mapas interactivos con rutas alternativas.<br>- Notificaciones sobre retrasos y cambios.<br>- Panel de control para empresas de transporte. |
-| **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza de los pasajeros.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción.<br>- Creemos que la integración de paneles de control en tiempo real mejorará la eficiencia operativa de supervisores y administradores en al menos un **30%**. |
+| **User Benefits** | - **Estudiantes y trabajadores:** Obtienen certeza en los horarios, reducen tiempos de espera, planifican mejor sus viajes y se sienten más seguros gracias a notificaciones inteligentes en tiempo real.<br><br>- **Supervisores y administradores:** Visualizan la ubicación de sus unidades y reciben alertas simples que permiten reaccionar con mayor rapidez ante incidencias habituales.|
+| **Solution Ideas** | - Geolocalización en tiempo real de buses.<br>- Estimaciones precisas de llegada.<br>- Mapas interactivos. <br>- Notificaciones sobre retrasos y cambios.<br>- Panel básico de monitoreo para empresas. |
+| **Hypotheses** | - Creemos que mostrar buses en tiempo real aumentará la confianza de los pasajeros.<br>- Creemos que enviar notificaciones sobre retrasos mejorará la satisfacción de los usuarios.<br>- Creemos que un panel básico de monitoreo permitirá a supervisores y administradores tomar decisiones operativas con mayor rapidez. |
 | **What's the most important thing we need to learn first?** | ¿Los pasajeros confían y usan de forma recurrente la información en tiempo real para planificar sus viajes? |
 | **What’s the least amount of work we need to do to learn the next most important thing?** | MVP: Una app funcional con mapa de rutas principales, localización en tiempo real en una zona piloto y sistema básico de notificaciones. Validar si los usuarios utilizan la app en sus trayectos diarios. |
 
@@ -1060,7 +1058,7 @@ Link del miro: https://miro.com/app/board/uXjVJg4DnAQ=/?share_link_id=1816091094
 | **Horario**                          | Horas establecidas para salidas y llegadas de buses en una ruta.                                     |
 | **Bus**                              | Vehículo de transporte público registrado en BusTrack con identificación y ubicación GPS.            |
 | **Notificación**                     | Alerta enviada al pasajero sobre retrasos, desvíos o llegada próxima del bus.                        |
-| **Reporte**                          | Documento generado automáticamente con datos de eficiencia, puntualidad y satisfacción del servicio. |
+| **Reporte**                          | Resumen básico de alertas o estados operativos visibles en el panel web, limitado a la información disponible en el monitoreo de buses y en la gestión simple de alertas. En la versión actual del proyecto, no incluye reportes automáticos ni análisis avanzados; dichos elementos corresponden a funcionalidades previstas como trabajo futuro. |
 | **Favoritos**                        | Rutas que el pasajero guarda para consultarlas rápidamente en futuros viajes.                        |
 | **Panel de control**                 | Interfaz usada por la empresa de transporte para monitorear la flota y generar reportes.             |
 | **Tiempo estimado de llegada (ETA)** | Predicción calculada por el sistema sobre el tiempo que falta para que un bus llegue a la parada.    |
@@ -1077,7 +1075,7 @@ A continuación, se presentan los To-Be Scenario Maps desarrollados para los dos
 ### To-Be Scenario Map – Pasajeros
 
 **Descripción:**  
-El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se observa cómo, en cada fase (abrir la app, buscar ruta, revisar ubicación, monitorear el viaje y calificar), el usuario realiza acciones guiadas por la información en tiempo real, reduciendo incertidumbre y mejorando su percepción de control. A nivel emocional, el usuario pasa de la ansiedad típica del transporte público a la tranquilidad, confianza y satisfacción gracias a las funcionalidades de la aplicación.
+El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se observa cómo, en cada fase (abrir la app, buscar ruta, revisar ubicación, monitorear el viaje), el usuario realiza acciones guiadas por la información en tiempo real, reduciendo incertidumbre y mejorando su percepción de control. A nivel emocional, el usuario pasa de la ansiedad típica del transporte público a la tranquilidad, confianza y satisfacción gracias a las funcionalidades de la aplicación.
 
 <img src="img/commons/to-be-bustrack-pasajeros.png" width="850">
 
@@ -1089,11 +1087,11 @@ El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se obse
 ### To-Be Scenario Map – Empresa de Transporte
 
 **Descripción:**  
-El mapa presenta la experiencia futura de una empresa de transporte utilizando el panel web de BusTrack. A lo largo de las fases (ingreso al panel, revisión de buses, gestión de alertas, generación de reportes y ajuste de rutas), se observa un flujo operativo más eficiente, basado en datos en tiempo real y reportes automáticos. Emocionalmente, el usuario empresarial pasa de la incertidumbre operativa a una sensación de control, seguridad y optimización continua.
+El mapa presenta la experiencia futura de una empresa de transporte utilizando el panel web de BusTrack. A lo largo de las fases (ingreso al panel, revisión de buses y gestión de alertas), se observa un flujo operativo más eficiente, basado en datos en tiempo real y reportes automáticos. Emocionalmente, el usuario empresarial pasa de la incertidumbre operativa a una sensación de control, seguridad y optimización continua.
 
 <img src="img/commons/to-be-bustrack-empresa.png" width="850">
 
-<br> _**Figura 21.** To-Be Scenario Map de la empresa de transporte, donde se representa el uso del panel web de BusTrack para monitorear buses, gestionar alertas y tomar decisiones basadas en datos._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 21.** To-Be Scenario Map de la empresa de transporte, donde se representa el uso del panel web de BusTrack._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -1174,11 +1172,11 @@ ___
 
 ### Segmento Empresas de transporte
 
-**Descripción:** Este mapa relaciona los objetivos de negocio orientados a la adopción del sistema por empresas de transporte y la reducción de quejas operativas. Los actores principales son el administrador de flota y el supervisor de rutas, cuyo impacto deseado es que monitoreen buses en tiempo real y ajusten rutas usando datos de operación. Los deliverables identificados incluyen el *módulo web de monitoreo de buses* y el *módulo de calificación y análisis interno*, que se traducen en User Stories asociadas al monitoreo operativo, recepción de alertas automatizadas y visualización de métricas.
+**Descripción:** Este mapa relaciona los objetivos de negocio orientados a la adopción del sistema por empresas de transporte y la reducción de quejas operativas. Los actores principales son el administrador de flota y el supervisor de rutas, cuyo impacto deseado es que monitoreen buses en tiempo real y ajusten rutas usando datos de operación. 
 
 ![Impact Map Empresas](img/commons/impact-map-empresas.png)
 
-<br> _**Figura 23.** Impact Map del segmento de empresas de transporte, que relaciona los objetivos de adopción del sistema con los impactos deseados en administradores y supervisores de flota, así como los módulos de monitoreo y alertas internas._  _**Fuente:** elaboración propia._
+<br> _**Figura 23.** Impact Map del segmento de empresas de transporte, que relaciona los objetivos de adopción del sistema con los impactos deseados en administradores y supervisores de flota._  _**Fuente:** elaboración propia._
 
 
 ## 3.4. Product Backlog
