@@ -1175,19 +1175,22 @@ ___
 
 | # Orden | User Story Id | Título                            | Descripción                                                                                                                | Story Points |
 | ------- | ------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1       | US-01         | Buscar rutas                      | Como pasajero, quiero buscar una ruta en el mapa para encontrar la mejor opción de transporte.                             | 3            |
-| 2       | US-02         | Visualizar horarios               | Como pasajero, quiero visualizar el horario del próximo bus para organizar mi tiempo.                                      | 2            |
-| 3       | US-03         | Guardar rutas frecuentes          | Como pasajero, quiero guardar mis rutas frecuentes para acceder más rápido a ellas.                                        | 3            |
-| 4       | US-04         | Ver ubicación del bus             | Como pasajero, quiero ver la ubicación del bus en el mapa para saber cuánto tardará en llegar.                             | 5            |
-| 5       | US-05         | Recibir notificaciones de retraso | Como pasajero, quiero recibir notificaciones si hay un retraso para ajustar mi plan de viaje.                              | 5            |
-| 6       | US-06         | Alertas de desvío                 | Como pasajero, quiero recibir alertas si un bus cambia de ruta para evitar confusiones.                                    | 5            |
-| 7       | US-07         | Monitorear buses en ruta          | Como administrador de flota, quiero monitorear en tiempo real la ubicación de mis buses para asegurar la puntualidad.      | 5            |
-| 8       | US-08         | Configurar alertas internas       | Como administrador de flota, quiero configurar alertas de tráfico para reaccionar rápidamente a incidentes.                | 5            |
-| 9      | US-09         | Registro de usuario               | Como nuevo pasajero, quiero registrarme en la aplicación para personalizar mis rutas.                                      | 3            |
-| 10      | US-10         | Editar perfil                     | Como pasajero, quiero editar mis datos personales para mantener mi información actualizada.                                | 3            |
-| 11      | US-11         | Información de la solución        | Como visitante de la web, quiero ver información concisa de la solución para convencerme de volverme un usuario frecuente. | 2            |
-| 12      | US-12         | Beneficios de la aplicación       | Como visitante de la web, quiero conocer los beneficios de la aplicación para entender su utilidad en mi vida.             | 2            |
-| 13      | US-13         | Misión y visión                   | Como visitante de la web, quiero conocer la misión y visión de la empresa para saber si se orienta a mis necesidades.      | 1            |
+| 1       | US01          | Buscar rutas                      | Como pasajero, quiero buscar una ruta en el mapa para encontrar la mejor opción de transporte.                             | 3            |
+| 2       | US02          | Visualizar horarios               | Como pasajero, quiero visualizar el horario del próximo bus para organizar mi tiempo.                                      | 2            |
+| 3       | US03          | Guardar rutas frecuentes          | Como pasajero, quiero guardar mis rutas frecuentes para acceder más rápido a ellas.                                        | 3            |
+| 4       | US04          | Ver ubicación del bus             | Como pasajero, quiero ver la ubicación del bus en el mapa para saber cuánto tardará en llegar.                             | 5            |
+| 5       | US05          | Recibir notificaciones de retraso | Como pasajero, quiero recibir notificaciones si hay atraso para ajustar mi plan de viaje.                                  | 5            |
+| 6       | US06          | Alertas de desvío                 | Como pasajero, quiero recibir alertas si un bus cambia de ruta para evitar confusiones.                                    | 5            |
+| 7       | US07          | Monitorear buses en ruta          | Como administrador de flota, quiero monitorear en tiempo real la ubicación de mis buses para asegurar la puntualidad.      | 5            |
+| 8       | US08          | Configurar alertas internas       | Como administrador, quiero configurar alertas para incidentes de tráfico y gestionar mejor las incidencias.                | 5            |
+| 9       | US09          | Registro de pasajero              | Como nuevo pasajero, quiero registrarme en la aplicación para personalizar mis rutas.                                      | 3            |
+| 10      | US10          | Editar perfil                     | Como pasajero, quiero editar mis datos personales para mantener mi información actualizada.                                | 3            |
+| 11      | US11          | Información de la solución        | Como visitante de la web, quiero ver información concisa de la solución para entender su utilidad.                         | 2            |
+| 12      | US12          | Beneficios de la aplicación       | Como visitante de la web, quiero conocer los beneficios de la aplicación para entender cómo puede ayudarme.                | 2            |
+| 13      | US13          | Misión y visión                   | Como visitante, quiero conocer la misión y visión de la empresa para entender su propósito y enfoque.                      | 1            |
+| 14      | US14          | Acceso diferenciado               | Como usuario, quiero elegir si ingreso como pasajero o empresa para ver solo las opciones que me corresponden.             | 3            |
+| 15      | US15          | Acceso para empresas              | Como empresa, quiero acceder a un módulo exclusivo con las funciones disponibles para la gestión de flota.                 | 5            |
+
 
 Enlace de Trello: https://trello.com/invite/b/692fe4bec2c3e91c1f113f3c/ATTI5db98658822488213d3156c13fab841f95FECEDF/bustrack-product-backlog 
 
