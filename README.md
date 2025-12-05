@@ -1502,32 +1502,156 @@ _Descripción:_ Este wireframe corresponde a la última sección de la landing p
 _**Figura 40.** Wireframe móvil de la sección “Conoce más sobre BusTrack”, con dos tarjetas para videos informativos._ <br> _**Fuente:** elaboración propia._
 
 ### 4.3.2. Landing Page Mock-up
-En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. 
+En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. Estos mockups reflejan el diseño visual completo, incluyendo paleta de colores, tipografías, distribución de contenido y elementos de interacción tanto para usuarios pasajeros como para empresas. 
 
 ### Desktop Web Browser
 
-<img src="/img/commons/Mock-up%201%20-%20Web.png" alt="Mock-up 1" style="width: 700px; margin-right: 700px;"/>
+**Mock-up 1**
 
-<img src="/img/commons/Mock-up%202%20-%20Web.png" alt="Mock-up 2" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ Este mock-up corresponde al Hero Section de la landing page. Presenta el título principal y un mensaje introductorio que explica que BusTrack permite encontrar buses en tiempo real y viajar sin esperas innecesarias. A la izquierda se ubica el texto explicativo sobre la plataforma y su propósito; a la derecha, una imagen representativa de un bus en ruta. También se observa la barra de navegación superior con las secciones principales y el selector de idioma.
 
-<img src="/img/commons/Mock-up%203%20-%20Web.png" alt="Mock-up 3" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/DesktopWebBrowser-MockUp1.png" alt="Mock-up 1" style="width: 700px; margin-right: 700px;"/>
 
-<img src="/img/commons/Mock-up%204%20-%20Web.png" alt="Mock-up 4" style="width: 700px; margin-right: 700px;"/>
+<br>
+
+_**Figura 41.** Hero Section del landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 2**
+
+_Descripción:_ Este mock-up muestra la sección “¿Qué ofrece BusTrack?”, donde se detallan las funcionalidades principales del MVP. Incluye módulos con iconos y descripciones breves: búsqueda de rutas, ubicación en tiempo real, tiempos estimados de llegada (ETA), paraderos cercanos, alertas, rutas favoritas y un panel básico de monitoreo para empresas. Esta sección resume claramente el valor de la plataforma.
+
+<img src="/img/commons/DesktopWebBrowser-MockUp2.png" alt="Mock-up 2" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 42.** Funcionalidades principales del MVP de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 3**
+
+_Descripción:_ En este mock-up se presenta la sección “¿Para quién es BusTrack?”, compuesta por tres bloques dirigidos a los distintos públicos objetivo: estudiantes, trabajadores y empresas de transporte. Cada tarjeta incluye un icono representativo y un texto explicando los beneficios específicos para cada tipo de usuario.
+
+<img src="/img/commons/DesktopWebBrowser-MockUp3.png" alt="Mock-up 3" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 43.** Públicos objetivo de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 4**
+
+_Descripción:_ Este mock-up desarrolla la sección “Cómo usar BusTrack”, explicada en tres pasos: buscar la ruta, ver buses en tiempo real y recibir alertas. Cada paso incluye una imagen ilustrativa, un título numerado y una descripción breve que orienta al usuario en el uso básico de la plataforma.
+
+<img src="/img/commons/DesktopWebBrowser-MockUp4.png" alt="Mock-up 4" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 44.** Pasos para utilizar BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 5**
+
+_Descripción:_ En este mock-up se muestra la sección “Beneficios de usar BusTrack”. Incluye tarjetas explicativas sobre cómo la plataforma mejora la experiencia del usuario: información en tiempo real, ahorro de tiempo, mayor seguridad al viajar y mejora operativa para empresas. Esta sección destaca el impacto positivo del servicio.
+
+<img src="/img/commons/DesktopWebBrowser-MockUp5.png" alt="Mock-up 5" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 45.** Beneficios principales para usuarios y empresas._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 6**
+
+_Descripción:_ Este mock-up corresponde a la sección “Sobre Nosotros”, donde se presenta la misión y visión de BusTrack. Cada elemento está organizado en tarjetas horizontales con títulos destacados y descripciones que explican el propósito y aspiración de la plataforma en el contexto del transporte público peruano.
+
+<img src="/img/commons/DesktopWebBrowser-MockUp6.png" alt="Mock-up 6" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 46.** Misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 7**
+
+_Descripción:_ El mock-up final muestra la sección “Conoce más sobre BusTrack”, la cual incorpora dos videos: uno sobre el funcionamiento del producto y otro presentando al equipo detrás del proyecto. Cada video cuenta con un título y un breve texto descriptivo que permiten comprender el contenido antes de reproducirlo. También se observa el footer corporativo de la página.
+
+<img src="/img/commons/DesktopWebBrowser-MockUp7.png" alt="Mock-up 7" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 47.** ección informativa con videos sobre el producto y el equipo._ <br> _**Fuente:** elaboración propia._
+
+___
+
+## Mobile Web Browser
+
+**Mock-up 1**
+
+_Descripción:_ Este mockup corresponde a la sección Hero en su versión móvil. Incluye el título principal de la landing page, un texto descriptivo breve sobre BusTrack y una imagen ilustrativa central. El diseño prioriza el contenido textual en la parte superior y coloca la imagen del bus más abajo, siguiendo la lógica de desplazamiento natural en dispositivos móviles.
+
+<img src="/img/commons/MobileWebBrowser-MockUp1.png" alt="Mock-up 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 48.** Mockup móvil de la sección Hero de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 2**
+
+_Descripción:_ Este mockup muestra la sección ¿Qué ofrece BusTrack?, adaptada al formato vertical. Cada funcionalidad se presenta como una tarjeta independiente apilada una debajo de otra, con su icono correspondiente, título y descripción. Este formato garantiza una lectura clara y fluida desde el móvil.
+
+<img src="/img/commons/MobileWebBrowser-MockUp2.png" alt="Mock-up 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 49.** Mockup móvil de la sección de funcionalidades de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 3**
+
+_Descripción:_ Este mockup presenta la sección ¿Para quién es BusTrack? en vista móvil. Cada perfil de usuario (estudiantes, trabajadores y empresas de transporte) se muestra en una tarjeta individual, en formato vertical, con su respectivo ícono y descripción detallada.
+
+<img src="/img/commons/MobileWebBrowser-MockUp3.png" alt="Mock-up 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 50.** Mockup móvil de los segmentos de usuarios de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 4**
+
+_Descripción:_ Este mockup muestra la sección Cómo usar BusTrack, que en versión móvil organiza los tres pasos del proceso en bloques verticales claramente diferenciados. Cada paso incluye una imagen, un título y un texto explicativo para guiar al usuario.
+
+<img src="/img/commons/MobileWebBrowser-MockUp4.png" alt="Mock-up 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 51.** Mockup móvil del apartado “Cómo usar BusTrack”._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 5**
+
+_Descripción:_ Este mockup corresponde a la sección Beneficios de usar BusTrack, diseñada para móviles. Las tarjetas de beneficios se apilan verticalmente, cada una con un título destacado y un texto explicativo detallado que mejora la comprensión de las ventajas ofrecidas.
+
+<img src="/img/commons/MobileWebBrowser-MockUp5.png" alt="Mock-up 5 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 52.** Mockup móvil de la sección de beneficios de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 6**
+
+_Descripción:_ Este mockup presenta la sección Sobre Nosotros en formato móvil. Incluye la misión y visión de BusTrack dentro de tarjetas amplias y centradas, priorizando la lectura cómoda y la jerarquía del contenido institucional.
+
+<img src="/img/commons/MobileWebBrowser-MockUp6.png" alt="Mock-up 6 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 53.** Mockup móvil de la sección institucional “Sobre Nosotros”._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 7**
+
+_Descripción:_ Este mockup corresponde a la sección final Conoce más sobre BusTrack, donde se presentan los videos informativos del producto y del equipo. En la versión móvil, cada video se organiza en tarjetas verticales independientes con su título y descripción, manteniendo una estructura clara y accesible.
+
+<img src="/img/commons/MobileWebBrowser-MockUp7.png" alt="Mock-up 7 - Mobile" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 54.** Mockup móvil de la sección con videos informativos de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
-### Mobile Web Browser
-
-<img src="/img/commons/Mock-up%201%20-%20Mobile.png" alt="Mock-up 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
-
-<img src="/img/commons/Mock-up%202-%20Mobile.png" alt="Mock-up 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
-
-<img src="/img/commons/Mock-up%203%20-%20Mobile.png" alt="Mock-up 3.1 - Mobile" style="width: 500px; margin-right: 700px;"/>
-
-<img src="/img/commons/Mock-up%203.2%20-%20Mobile.png" alt="Mock-up 3.2 - Mobile" style="width: 500px; margin-right: 700px;"/>
-
-<img src="/img/commons/Mock-up%204%20-%20Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
-
-Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
+Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/BusTrack-wireframes-y-mockups?node-id=0-1&t=vbZPvREtMGxi30PI-1
 
 ## 4.4. Web Applications UX/UI Design
 
