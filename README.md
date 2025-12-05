@@ -1237,6 +1237,24 @@ _**Figura 24.** Logo de BusTrack, que combina un ícono de bus y un marcador de 
   * **Gris oscuro / Negro** (#212121 aprox.): utilizado en textos secundarios y párrafos para la legibilidad.<br>
     ![Gris Oscuro](img/commons/GrisOscuro.png)
 
+  * **Rojo de alerta** `#D90000`: reservado para acciones destructivas o críticas, como botones de “Cerrar sesión” en la página de empresas y “Borrar historial” en la página de pasajeros.<br>
+  <img src="img/commons/RectanguloRojo.png" alt="Rojo de alerta" width="180">
+
+  * **Amarillo de advertencia** `#F9FAB6`: se usa en la página de empresa para resaltar buses en **mantenimiento**, buses con **retraso de X minutos**, alertas de **gravedad media** y problemas **pendientes** aún no resueltos.<br>
+  <img src="img/commons/RectanguloAmarillo.png" alt="Amarillo de advertencia" width="180">
+
+  * **Rojo suave de error** `#FFC9C9`: empleado para indicar estados críticos en la página de empresa, como buses **inactivos** o **fuera de servicio**, así como alertas de **gravedad alta**.<br>
+  <img src="img/commons/RectanguloRosa.png" alt="Rojo suave de error" width="180">
+
+  * **Verde de estado OK** `#EBFAB6`: se utiliza para señalar buses **activos** y **en horario**, así como alertas de **gravedad baja** en la página de empresa.<br>
+  <img src="img/commons/RectanguloLime.png" alt="Verde de estado OK" width="180">
+
+  * **Azul de acción para pasajeros** `#2479E8`: color principal de botones en las pantallas de pasajeros (por ejemplo, “Buscar ruta” o “Guardar ruta”), asociado a acciones de exploración y planificación del viaje.<br>
+  <img src="img/commons/RectanguloAzul.png" alt="Azul de acción para pasajeros" width="180">
+
+  * **Verde corporativo oscuro** `#255000`: aplicado a botones y elementos de acción en la página de empresas, otorgando un tono más serio y profesional para operaciones de gestión de flota.<br>
+  <img src="img/commons/RectanguloVerde.png" alt="Verde corporativo oscuro" width="180">
+
 - **Tipografía**  
   Se utiliza una tipografía sans-serif, principalmente **Montserrat** en sus variantes regular y bold. La combinación busca transmitir modernidad, claridad y confianza, manteniendo legibilidad en distintos tamaños y dispositivos.
 <p align="center">
