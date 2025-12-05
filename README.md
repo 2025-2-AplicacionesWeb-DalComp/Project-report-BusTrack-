@@ -1229,7 +1229,7 @@ ___
 
 La imagen muestra el tablero de Trello utilizado para la planificación y seguimiento del Sprint 4 del proyecto BusTrack. En este tablero se organizaron las User Stories (US) y Technical Stories (TS) según las buenas prácticas de Scrum, distribuyéndolas en listas de Backlog, Technical Stories, Sprint Backlog y Done. Durante el sprint, las tareas fueron monitoreadas y actualizadas continuamente, moviéndose a la columna Done una vez completadas según la Definición de Terminado. Este tablero permitió mantener una visión clara del progreso del equipo, facilitando la priorización, asignación y control del avance de cada historia.
 
-<img src="img/commons/Trello-sprint4.png"  width="200" height="200">
+<img src="img/commons/Trello-sprint4.png"  >
 
 _**Figura 24.** Product Backlog y Sprint Backlog gestionados en Trello_  <br> _**Fuente:** elaboración propia._
 
@@ -2197,22 +2197,39 @@ Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 - ATU / Flotas de Transporte: Fuente oficial de datos de rutas y buses
 - Servicio de Notificaciones: Permite el envío de alertas en tiempo real a los usuarios
 
+Descripción: El diagrama de contexto muestra los actores externos, sistemas vinculados y la relación de BusTrack con su entorno, incluyendo estudiantes, empresas de transporte, flotas oficiales, servicios de mapas y notificaciones.
+
 <img src="img/commons/4.6.2. Software Architecture Context Diagram.png" alt="Software Architecture Context Diagram" style="width: 700px; margin-right: 700px;"/>
+
+_**Figura 94.** Diagrama de Contexto de la Arquitectura de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
+Descripción: La leyenda detalla el significado de los colores y tipos de elementos utilizados en el diagrama de contexto para distinguir actores, sistemas y relaciones.
+
 <img src="img/commons/Leyenda-Software Architecture Context Diagram.png" alt="Leyenda Software Architecture Context Diagram" style="width: 700px; margin-right: 700px;"/>
+
+_**Figura 94.** Leyenda del Diagrama de Contexto de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 La arquitectura de BusTrack adopta un estilo modular orientado a servicios, combinando una PWA en el frontend con un Backend API centralizado y un servicio de tiempo real basado en eventos. También, se emplea un enfoque event-driven para las notificaciones y actualizaciones de posición, mientras que las operaciones CRUD se gestionan mediante REST. El componente de Fleet Data Ingestion aplica un patrón de data normalization pipeline para procesar datos de GPS en distintos formatos provenientes de las empresas de transporte.
 
+Descripción: El diagrama de contenedores representa la arquitectura de alto nivel de BusTrack, mostrando la PWA, el Servicio en Tiempo Real, el Backend API, el módulo de ingesta y los sistemas externos.
+
 <img src="img/commons/4.6.3. Software Architecture Container Diagrams.png" style="width: 700px; margin-right: 700px;"/>
+
+_**Figura 94.** Diagrama de Contenedores de la Arquitectura de BusTrack._ <br> _**Fuente:** elaboración propia._
+
 
 **Leyenda**
 
+Descripción: La leyenda especifica los colores y tipos de contenedores, indicando qué elementos corresponden a sistemas externos, backend, frontend o infraestructura.
+
 <img src="img/commons/Leyenda- Software Architecture Container Diagrams.png" style="width: 700px; margin-right: 700px;"/>
+
+_**Figura 94.** Leyenda del Diagrama de Contenedores de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.6.4. Software Architecture Components Diagrams
@@ -2232,12 +2249,19 @@ La PWA gestiona la interfaz del usuario final y las vistas operativas para pasaj
 - AjustesNotificaciones: permisos para recibir alertas push.
 - RouterSPA: navegación interna entre vistas.
 
+Descripción: El diagrama describe los componentes internos de la PWA, incluyendo vistas, manejo de sesión, cliente REST y cliente WebSocket.
+
 <img src="img/commons/WebAppComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Componentes de la Aplicación Web (PWA) de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
+Descripción: La leyenda explica los colores y formas utilizados para representar componentes, servicios y relaciones internas de la PWA.
+
 <img src="img/commons/Leyenda WebAppComponents.png" style="width: 900px; margin-right: 900px;"/>
 
+_**Figura 94.** Leyenda de Componentes de la PWA._ <br> _**Fuente:** elaboración propia._
 
 **Backend API**
 
@@ -2250,12 +2274,19 @@ La API central implementa la lógica de negocio siguiendo una arquitectura por c
 
 Los controladores reciben solicitudes HTTP, delegan en los servicios y retornan respuestas JSON. Los servicios pueden consultar APIs externas, cachear resultados o emitir eventos.
 
+Descripción: El diagrama muestra los componentes de la API Backend, organizados en controladores, servicios, repositorios e infraestructura.
+
 <img src="img/commons/BackendApiComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Componentes del Backend API de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
+Descripción: La leyenda detalla el significado de los colores y categorías para controladores, servicios, repositorios y adaptadores.
+
 <img src="img/commons/Leyenda BackendApiComponents.png" style="width: 900px; margin-right: 900px;"/>
 
+_**Figura 94.** Leyenda de los Componentes del Backend API._ <br> _**Fuente:** elaboración propia._
 
 **Real-time Service**
 
@@ -2268,11 +2299,20 @@ Este servicio maneja la comunicación asincrónica con los clientes mediante Web
 
 Se comunica de manera asincrónica (MQ) con la ingesta y bidireccional (WebSocket) con la PWA.
 
+Descripción: El diagrama presenta los componentes del Servicio en Tiempo Real, incluyendo el gateway WebSocket, middleware de autenticación y publicadores de eventos.
+
 <img src="img/commons/RealTimeComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Componentes del Servicio en Tiempo Real de BusTrack._ <br> _**Fuente:** elaboración propia._
+
 
 **Leyenda**
 
+Descripción: La leyenda describe los tipos de componentes relacionados con procesamiento de eventos, conectividad WebSocket y middleware.
+
 <img src="img/commons/LeyendaRealTimeComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Leyenda del Servicio en Tiempo Real._ <br> _**Fuente:** elaboración propia._
 
 
 **Fleet Data Ingestion**
@@ -2284,19 +2324,36 @@ Este módulo procesa y normaliza la telemetría proveniente de distintas empresa
 - ValidadorTelemetria: filtra datos inválidos.
 - PublicadorEventos: emite eventos PosicionActualizada hacia el sistema de tiempo real.
 
+Descripción: Componentes que procesan telemetría de proveedores, normalizan datos GPS y generan eventos para el sistema en tiempo real.
+
 <img src="img/commons/IngestionComponents.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Componentes del Contenedor Fleet Data Ingestion._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
+Descripción: La leyenda detalla los iconos y categorías utilizados para representar adaptadores de proveedores, normalizadores y publicadores de eventos.
+
 <img src="img/commons/LeyendaIngestionComponents.png" style="width: 900px; margin-right: 900px;"/>
 
+_**Figura 94.** Leyenda del Módulo de Ingesta de Datos de Flota._ <br> _**Fuente:** elaboración propia._
 
+<br>
 
 ## 4.7. Software Object-Oriented Design
 
+El diseño orientado a objetos de BusTrack define la estructura interna del sistema mediante clases, atributos, métodos y relaciones esenciales para representar usuarios, rutas, buses, viajes, notificaciones y entidades operativas del transporte público. Este diseño permite mantener un modelo extensible, modular y alineado con patrones como encapsulación, asociación, composición y herencia, facilitando la implementación en el código final.
+
 ### 4.7.1. Class Diagrams
 
+El siguiente diagrama de clases representa los principales objetos del dominio de BusTrack y sus interacciones. Incluye entidades como User, Passenger, Driver, Bus, Route, Stop, Travel y Notification, junto a sus atributos, métodos y relaciones (asociaciones, composiciones y herencia).
+Este modelo sirve como base para la implementación de los módulos funcionales del sistema.
+
+Descripción: El diagrama muestra la estructura del dominio de BusTrack, detallando las clases principales, sus atributos, métodos clave y la forma en que se relacionan entre sí mediante asociaciones y composiciones.
+
 <img src="/img/commons/classDiagram.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Diagrama de clases del sistema BusTrack._ <br> _**Fuente:** elaboración propia._
 
 ### 4.7.2. Class Dictionary
 
