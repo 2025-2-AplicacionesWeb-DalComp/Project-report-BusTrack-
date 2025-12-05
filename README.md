@@ -3682,6 +3682,95 @@ _**Fuente:** elaboración propia._
 
 ---
 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint se completó el despliegue del **Web Service de BusTrack** en un entorno productivo. El objetivo principal fue garantizar que los endpoints implementados funcionen correctamente desde un dominio público, permitiendo la comunicación entre el frontend y el backend sin depender de un entorno local.
+
+El proceso de despliegue incluyó la configuración del servidor, la publicación del API, la definición de variables de entorno y la validación del funcionamiento de los servicios en la nube. A continuación, se presentan las evidencias correspondientes al despliegue.
+
+---
+
+### Configuración del servicio en la plataforma cloud
+
+<img src="/img/commons/i1.png">
+
+_**Figura 160.** Panel del servicio en la plataforma de despliegue, mostrando el estado activo del Web Service de BusTrack._  
+_**Fuente:** elaboración propia._
+
+---
+
+### Registros de build y despliegue
+
+<img src="/img/commons/i2.png">
+
+_**Figura 161.** Registros del proceso de build y despliegue del Web Service, evidenciando la compilación exitosa del proyecto._  
+_**Fuente:** elaboración propia._
+
+---
+
+### API expuesta públicamente
+
+<img src="/img/commons/i3.png">
+
+_**Figura 162.** Vista del endpoint del API accedido desde el dominio público, confirmando su disponibilidad en el entorno de producción._  
+_**Fuente:** elaboración propia._
+
+---
+
+### Integración del frontend con la API pública
+
+<img src="/img/commons/i4.png">
+
+_**Figura 163.** Evidencia de la conexión del frontend con el backend desplegado, mostrando datos obtenidos desde el Web Service real._  
+_**Fuente:** elaboración propia._
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo DalComp trabajó de manera colaborativa siguiendo el flujo GitFlow definido previamente. Cada integrante desarrolló las funcionalidades asignadas desde ramas independientes (**feature-xxx**) y mantuvo coordinación continua para integrar los avances del frontend con el backend desplegado.
+
+Si bien la vista general de *Contributors* del repositorio muestra únicamente la actividad de un miembro, esto se debe a la forma en que se realizó la carga final de archivos en GitHub. Durante el sprint, cada integrante trabajó en repositorios locales o forks personales y posteriormente sus cambios fueron integrados en el repositorio principal mediante cargas de archivos (*upload*) y no mediante commits directos, razón por la cual GitHub Insights no registra la totalidad de contribuciones individuales. Este comportamiento es esperado cuando se utilizan flujos híbridos entre Git local y cargas manuales.
+
+Aun así, las evidencias del repositorio muestran la existencia de múltiples ramas activas, lo que confirma la participación del equipo en el desarrollo y la integración de las funcionalidades correspondientes.
+
+---
+
+### Actividad individual registrada por GitHub
+
+<img src="/img/commons/ev1.png">
+
+_**Figura 164.** Vista de contribuciones registradas por GitHub durante el periodo del Sprint 3._  
+_**Fuente:** elaboración propia._
+
+---
+
+### Evolución de commits en el repositorio
+
+<img src="/img/commons/ev2.png">
+
+_**Figura 165.** Gráfico de commits por semana según GitHub Insights, correspondiente al Sprint 3._  
+_**Fuente:** elaboración propia._
+
+---
+
+### Ramas del proyecto activas durante el sprint
+
+<img src="/img/commons/ev3.png">
+
+_**Figura 166.** Ramas activas del repositorio, evidenciando el uso de GitFlow mediante ramas `develop` y múltiples `feature/*` creadas por los integrantes._  
+_**Fuente:** elaboración propia._
+
+---
+
+En conjunto, estas evidencias demuestran:
+
+- El uso real de **ramas por funcionalidad** (`feature-notifications`, `feature-profile`, `feature-searchroute`, entre otras).  
+- La existencia de **integraciones frecuentes a la rama `develop`**.  
+- La participación del equipo en el desarrollo de componentes clave del frontend y backend.  
+- La colaboración mediante sincronización externa, incluso cuando los commits no quedaron registrados automáticamente en GitHub Insights.
+
+Por lo tanto, aunque la métrica de *Contributors* no refleja la totalidad de aportes, las ramas activas y los cambios integrados evidencian la colaboración efectiva del equipo DalComp durante el Sprint 3.
+
 
 
 ### 5.2.4. Sprint 4
