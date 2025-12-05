@@ -3452,16 +3452,18 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/img/commons/evidencia7.png" ></div> <br>
+    <td><div style="text-align: left;">
+    <img src="/img/commons/evidencia7.png" style="width: 350px; height: auto;" />
+  </div> <br>
   <em><strong>Figura X.</strong> Evidencia de validación de entrevista 1 - Segmento 1.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u20231c197_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c197%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Carla%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8f784cbf%2D5228%2D49a6%2Dae5b%2D48856aa737a8" title="Video Entrevista 1">Video 1</p></td>
+    <td>https://upcedupe-my.sharepoint.com/personal/u20231c197_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c197%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Carla%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8f784cbf%2D5228%2D49a6%2Dae5b%2D48856aa737a8</td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td> 4:38 min </td>
   </tr>
   <tr>
@@ -3506,16 +3508,18 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/img/commons/evidencia8.png" ></div> <br>
+    <td><div style="text-align: left;">
+    <img src="/img/commons/evidencia8.png" style="width: 350px; height: auto;" />
+  </div>  <br>
   <em><strong>Figura X.</strong> Evidencia de validación de entrevista 2 - Segmento 1.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQCjNKnAhNypSbqt894bbPwyAQYP6RomstVAooYRDJmPErk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BYVwZ0" title="Video Entrevista 2">Video 2</p></td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQCjNKnAhNypSbqt894bbPwyAQYP6RomstVAooYRDJmPErk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BYVwZ0</td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td> 2:23 min </td>
   </tr>
   <tr>
@@ -3561,17 +3565,19 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center">< ></div> <br>
+    <td><div style="text-align: left;">
+    <img src="/img/commons/evidencia9.png" style="width: 350px; height: auto;" />
+  </div> <br>
   <em><strong>Figura X.</strong> Evidencia de validación de entrevista 3 - Segmento 1.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQDjD6pJvYEEQqLwUomsUt3eAQa4ppQDKFYCW7ZiCzGb3iM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hRTY4f">Video 3</p></td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQDjD6pJvYEEQqLwUomsUt3eAQa4ppQDKFYCW7ZiCzGb3iM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hRTY4f</td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td> 10:00 min </td>
+    <td>Duración<br></td>
+    <td> 10:32 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3619,16 +3625,19 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/img/commons/administrador-de-flota-entrevista1.png" alt="Entrevista Condori"></div> <br>
+    <td>
+      <div style="text-align: left;">
+    <img src="/img/commons/administrador-de-flota-entrevista1.png" style="width: 350px; height: auto;" />
+  </div> <br>
   <em><strong>Figura X.</strong> Evidencia de validación de entrevista 4 - Segmento 2.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/15VTwUG2F1Gw29zwPIvR-8cGvkLp0O0Hr/view?usp=sharing" title="Title">Video</p></td>
+    <td>https://drive.google.com/file/d/15VTwUG2F1Gw29zwPIvR-8cGvkLp0O0Hr/view?usp=sharing</td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td> 10:35 min </td>
   </tr>
   <tr>
@@ -3676,16 +3685,19 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/img/commons/Supervisor de rutas de Transporte Urbano - Entrevista 2.png" alt="Entrevista Rodriguez"></div> <br>
+    <td>
+      <div style="text-align: left;">
+    <img src="/img/commons/Supervisor de rutas de Transporte Urbano - Entrevista 2.png" style="width: 350px; height: auto;" />
+  </div> <br>
   <em><strong>Figura X.</strong> Evidencia de validación de entrevista 5 - Segmento 2.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1qKKhOw2OZ8dCuMwnyJvNUXtmG2p_DWpJ/view?usp=sharing" title="Title">Video</p></td>
+    <td>https://drive.google.com/file/d/1qKKhOw2OZ8dCuMwnyJvNUXtmG2p_DWpJ/view?usp=sharing</td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td> 7:23 min </td>
   </tr>
   <tr>
@@ -3707,23 +3719,23 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Walter</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Fajardo</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> </td>
+    <td>30</td>
   </tr>
    <tr>
     <td>Ocupación</td>
-    <td> </td>
+    <td>Gerente de empresa de transportes</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>No especificado</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -3731,17 +3743,19 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" ></div> <br>
+    <td><div style="text-align: left;">
+    <img src="/img/commons/evidencia10.png" style="width: 350px; height: auto;" />
+  </div> <br>
   <em><strong>Figura X.</strong> Evidencia de validación de entrevista 6 - Segmento 2.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="">Video 6</p></td>
+    <td>https://upcedupe-my.sharepoint.com/personal/u20201f788_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201f788%5Fupc%5Fedu%5Fpe%2FDocuments%2FValidation%20interview%20%2D%20segmento%202%20%2D%20Walter%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9817f5fb%2Dab8b%2D4c02%2D8301%2D2d21f78026cc</td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>  min </td>
+    <td>Duración<br></td>
+    <td> 4:39 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
