@@ -3726,13 +3726,6 @@ _**Fuente:** elaboración propia._
 
 ---
 
-### Integración del frontend con la API pública
-
-<img src="/img/commons/i4.png">
-
-_**Figura 163.** Evidencia de la conexión del frontend con el backend desplegado, mostrando datos obtenidos desde el Web Service real._  
-_**Fuente:** elaboración propia._
-
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -3748,7 +3741,7 @@ Aun así, las evidencias del repositorio muestran la existencia de múltiples ra
 
 <img src="/img/commons/ev1.png">
 
-_**Figura 164.** Vista de contribuciones registradas por GitHub durante el periodo del Sprint 3._  
+_**Figura 163.** Vista de contribuciones registradas por GitHub durante el periodo del Sprint 3._  
 _**Fuente:** elaboración propia._
 
 ---
@@ -3757,7 +3750,7 @@ _**Fuente:** elaboración propia._
 
 <img src="/img/commons/ev2.png">
 
-_**Figura 165.** Gráfico de commits por semana según GitHub Insights, correspondiente al Sprint 3._  
+_**Figura 164.** Gráfico de commits por semana según GitHub Insights, correspondiente al Sprint 3._  
 _**Fuente:** elaboración propia._
 
 ---
@@ -3766,7 +3759,7 @@ _**Fuente:** elaboración propia._
 
 <img src="/img/commons/ev3.png">
 
-_**Figura 166.** Ramas activas del repositorio, evidenciando el uso de GitFlow mediante ramas `develop` y múltiples `feature/*` creadas por los integrantes._  
+_**Figura 165.** Ramas activas del repositorio, evidenciando el uso de GitFlow mediante ramas `develop` y múltiples `feature/*` creadas por los integrantes._  
 _**Fuente:** elaboración propia._
 
 ---
@@ -3940,47 +3933,41 @@ _**Fuente:** elaboración propia._
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 4 se actualizó y completó la documentación de los servicios web de BusTrack utilizando **OpenAPI/Swagger**, alineando los endpoints implementados con las User Stories y Technical Stories definidas (US01–US08, US14–US15, TS01–TS04). 
+Durante el Sprint 4 se actualizó y completó la documentación de los servicios web de BusTrack utilizando **OpenAPI/Swagger**, alineando los endpoints implementados con las User Stories y Technical Stories definidas (US01–US08, US14–US15, TS01–TS04).
 
-Se revisaron y documentaron los parámetros de entrada, tipos de respuesta, códigos de estado y ejemplos de uso para los servicios de búsqueda de rutas, gestión de rutas favoritas, monitoreo de flota y alertas internas. Asimismo, se verificó la consistencia entre la documentación y el comportamiento real de la API ejecutada en el entorno local de backend.
-
-A continuación, se muestran ejemplos de la documentación generada en Swagger.
+Se revisaron y documentaron los parámetros de entrada, tipos de respuesta, códigos de estado y ejemplos de uso para los servicios de autenticación, registro de empresas, búsqueda de rutas y gestión de información asociada. Las siguientes capturas muestran una parte representativa de la documentación generada.
 
 ---
 
-**Documentación del endpoint de búsqueda de rutas**
+### **Documentación del endpoint de autenticación (sign-up)**
 
-<img src="img/commons/s1.png" alt="Documentación Swagger del endpoint de búsqueda de rutas en BusTrack" width="700">
+<img src="img/commons/Backend 1.png" width="700">
 
-_**Figura 166.** Definición en Swagger del endpoint `GET /api/routes/search`, que permite obtener rutas disponibles según origen y destino._  
-_**Fuente:** elaboración propia._  
-
----
-
-**Documentación de rutas favoritas de pasajero**
-
-<img src="img/commons/s2.png" alt="Documentación Swagger de rutas favoritas en BusTrack" width="700">
-
-_**Figura 167.** Documentación de los endpoints `GET` y `POST` para gestionar rutas favoritas de un pasajero, utilizados por la funcionalidad de “Rutas frecuentes” en BusTrack._  
-_**Fuente:** elaboración propia._  
+_**Figura 166.** Definición en Swagger del endpoint `POST /api/v1/auth/sign-up`, que permite registrar nuevos usuarios en el sistema._  
+_**Fuente:** elaboración propia._
 
 ---
 
-**Documentación del monitoreo de flota**
+### **Documentación del endpoint de empresas (POST / GET)**
 
-<img src="img/commons/s3.png" alt="Documentación Swagger del monitoreo de buses en BusTrack" width="700">
+<img src="img/commons/Backend 3.png" width="700">
 
-_**Figura 168.** Ejemplo de la especificación del endpoint `GET /api/companies/{companyId}/buses`, que devuelve la lista de buses de una empresa con su estado básico._  
-_**Fuente:** elaboración propia._  
+_**Figura 167.** Documentación del endpoint `POST /api/v1/companies`, utilizado para registrar empresas de transporte público._  
+_**Fuente:** elaboración propia._
+
+<img src="img/commons/Backend 4.png" width="700">
+
+_**Figura 168.** Documentación del endpoint `GET /api/v1/companies`, que devuelve la lista de empresas registradas en el sistema._  
+_**Fuente:** elaboración propia._
 
 ---
 
-**Documentación de alertas internas de empresa**
+### **Documentación del endpoint de rutas (GET)**
 
-<img src="img/commons/s4.png" alt="Documentación Swagger de alertas internas en BusTrack" width="700">
+<img src="img/commons/Backend 8.png" width="700">
 
-_**Figura 169.** Vista de la documentación en Swagger de los endpoints `GET` y `POST` para gestionar alertas internas de una empresa de transporte._  
-_**Fuente:** elaboración propia._  
+_**Figura 169.** Vista en Swagger del endpoint `GET /api/v1/routes`, que devuelve las rutas disponibles junto con sus paraderos asociados._  
+_**Fuente:** elaboración propia._
 
 ---
 
