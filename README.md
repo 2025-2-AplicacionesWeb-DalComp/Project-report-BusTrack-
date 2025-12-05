@@ -2667,10 +2667,10 @@ A continuación, se describe el proceso mediante el cual organizamos, gestionamo
 
 | Plataforma | Descripción | Enlace |
 |------------|-------------|--------|
-| Trello | Plataforma de gestión de proyectos que permite realizar el seguimiento detallado del progreso (user stories) | [Inicio \| Trello](https://trello.com) |
-| Uxpressia | Herramienta en línea para la elaboración de artefactos de UX, como User Personas y Journey Maps. | [https://uxpressia.com](https://uxpressia.com) |
-| Canva | Aplicación web de diseño y comunicación visual utilizada para crear piezas gráficas del proyecto. | [https://www.canva.com](https://www.canva.com) |
-| Lucidchart | Herramienta visual para representar información estructurada, diagramas y procesos del sistema. | [https://www.lucidchart.com](https://www.lucidchart.com) |
+| Trello | Plataforma de gestión de proyectos que permite realizar el seguimiento detallado del progreso (user stories) | <https://trello.com> |
+| Uxpressia | Herramienta en línea para la elaboración de artefactos de UX, como User Personas y Journey Maps. | <https://uxpressia.com> |
+| Canva | Aplicación web de diseño y comunicación visual utilizada para crear piezas gráficas del proyecto. | <https://www.canva.com> |
+| Lucidchart | Herramienta visual para representar información estructurada, diagramas y procesos del sistema. | <https://www.lucidchart.com> |
 
 ___
 
@@ -2678,7 +2678,7 @@ ___
 
 | Plataforma | Descripción | Enlace |
 |------------|-------------|--------|
-| Figma | Herramienta para el diseño colaborativo de interfaces digitales, permitiendo prototipado y trabajo en equipo. | [https://www.figma.com](https://www.figma.com) |
+| Figma | Herramienta para el diseño colaborativo de interfaces digitales, permitiendo prototipado y trabajo en equipo. | <https://www.figma.com> |
 
 ___
 
@@ -2686,10 +2686,10 @@ ___
 
 | Plataforma           | Descripción                                                                                              | Link |
 |----------------------|----------------------------------------------------------------------------------------------------------|------|
-| HTML                 | Define la estructura y contenido de las páginas web.                                       | [HTML Tutorial](https://www.w3schools.com/html/) |
-| CSS                  | Se encarga del estilo y presentación visual de las interfaces.                                       | [CSS Tutorial](https://www.w3schools.com/css/) |
-| JS                   | Añade interactividad y dinamismo a la aplicación web.                                                        | [JavaScript Tutorial](https://www.w3schools.com/js/) |
-| Visual Studio Code   | Entorno de desarrollo para la edición, depuración y gestión de código. | [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) |
+| HTML                 | Define la estructura y contenido de las páginas web.                                       | <https://www.w3schools.com/html/> |
+| CSS                  | Se encarga del estilo y presentación visual de las interfaces.                                       | <https://www.w3schools.com/css/> |
+| JS                   | Añade interactividad y dinamismo a la aplicación web.                                                        | <https://www.w3schools.com/js/> |
+| Visual Studio Code   | Entorno de desarrollo para la edición, depuración y gestión de código. | <https://code.visualstudio.com/> |
 
 ____
 
@@ -2697,9 +2697,9 @@ ____
 
 | Plataforma | Descripción                                                                 | Link |
 |------------|-----------------------------------------------------------------------------|------|
-| GitHub     | Plataforma para la gestión de repositorios y control de versiones del código del proyecto.    | [https://github.com](https://github.com) |
-| Markdown   | Lenguaje de marcado utilizado para la documentación del informe.            | [Markdown - La guía definitiva en español](https://markdown.es/) |
-| Git        |Sistema de control de versiones para registrar, gestionar y colaborar en el desarrollo del software. | [https://git-scm.com/](https://git-scm.com/) |
+| GitHub     | Plataforma para la gestión de repositorios y control de versiones del código del proyecto.    | <https://github.com> |
+| Markdown   | Lenguaje de marcado utilizado para la documentación del informe.            | [<https://markdown.es/> |
+| Git        |Sistema de control de versiones para registrar, gestionar y colaborar en el desarrollo del software. | <https://git-scm.com/> |
 
 <br>
 
@@ -2714,15 +2714,15 @@ El proyecto sigue el flujo de trabajo GitFlow para el control de versiones, util
 
 ## Organización en GitHub
 Se creó una organización para el equipo de trabajo:  
-🔗 [Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-)
+🔗 <https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack->
 
 ---
 
 ## Repositorios
 - **Repositorio para el informe del trabajo**:  
-  🔗 [Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-)  
+  🔗 <https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack->  
 - **Repositorio para la landing page**:  
-  🔗 [Landing-page](https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page)
+  🔗 <https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page>
 
 ---
 
@@ -2844,55 +2844,52 @@ A continuación, se detalla el proceso realizado:
 ## Paso 4. Verificación del despliegue
 Se muestra a continuación la landing page desplegada en su primera versión:  
 
-🔗 [Landing Page desplegada](https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/)  
+🔗 <https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/>
 
 <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
+En esta sección se presenta la implementación práctica del proyecto BusTrack, abarcando la construcción de la landing page, los servicios principales y las funcionalidades desarrolladas durante los sprints. Se detalla cómo cada entrega evoluciona desde los prototipos hasta el código final ejecutable, evidenciando el cumplimiento de los requisitos y flujos definidos previamente.
+
 ### 5.2.1. Sprint 1
 
-
+Durante el Sprint 1 se desarrollaron los componentes fundamentales del proyecto, incluyendo la estructura inicial de la landing page, las primeras vistas navegables y la configuración básica del entorno frontend. Esta fase permitió establecer la base visual y técnica sobre la cual se implementaron las funcionalidades avanzadas en los siguientes sprints.
 
 #### 5.2.1.1. Sprint Planning 1
 
-
-
 #### Primer Sprint - Planificación
 
-El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tendrá una duración de **una semana**.  
+El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tuvo una duración de **una semana**.
 
-El enfoque principal será el **desarrollo y despliegue de la landing page** del proyecto en **GitHub Pages**. Para ello, se deberán crear los **diseños previos** como *wireframes* y *mockups*.  
+El enfoque principal fue el **desarrollo y despliegue de la landing page** del proyecto en **GitHub Pages**. Para ello, se crearon los **diseños previos**, incluyendo *wireframes* y *mockups*.
 
-De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
+De esta manera, se aseguró que el **producto inicial** estuviera operativo y sirviera como base sólida para las siguientes iteraciones. 
 
 #### Sprint 1 - Planning Background
 
-| **Elemento**                       | **Detalle**                                                                                                                                               |
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Date**                           | 2025/09/06                                                                                                                                                |
-| **Time**                           | 20:00 PM                                                                                                                                                   |
-| **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
-| **Prepared by**                    | Joaquin Alberto Cuentas Peña                                                                                                                               |
-| **Attendees (to planning meeting)**| Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
-| **Sprint n – 1 Review Summary**    | Se diseñarán **wireframes** y se desarrollará la **landing page** en **HTML y CSS** para esta primera versión.                                              |
-| **Sprint n – 1 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
-| **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
-| **Sprint 1 Goal**                  | Diseñar los **wireframes** del proyecto y desarrollar y desplegar la **landing page** funcional en **GitHub Pages**, garantizando que cumpla con los requisitos básicos de diseño. |
-| **Sprint 1 Velocity**              | 8                                                                                                                                                          |
-| **Sum of Story Points**            | 8                                                                                                                                                          |
-
+| **Elemento**                        | **Detalle**                                                                                                                                               |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                            | 2025/09/06                                                                                                                                                |
+| **Time**                            | 20:00 PM                                                                                                                                                  |
+| **Location**                        | Reunión virtual mediante Google Meet                                                                                                                      |
+| **Prepared by**                     | Joaquin Alberto Cuentas Peña                                                                                                                              |
+| **Attendees (to planning meeting)** | Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andrés Avalos Córdova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
+| **Sprint n – 1 Review Summary**     | Se diseñaron los **wireframes** y se desarrolló la **landing page** en **HTML y CSS** para esta primera versión.                                          |
+| **Sprint n – 1 Retrospective Summary** | Se cumplieron los objetivos propuestos.                                                                                                                  |
+| **Sprint Goal & User Stories**      | Generar una buena primera impresión a los usuarios.                                                                                                       |
+| **Sprint 1 Goal**                   | Diseñar los **wireframes** del proyecto y desarrollar y desplegar la **landing page** funcional en GitHub Pages, garantizando que cumpla con los requisitos básicos de diseño. |
+| **Sprint 1 Velocity**               | 8                                                                                                                                                         |
+| **Sum of Story Points**             | 8                                                                                                                                                         |
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-
-
 # Sprint - Desarrollo de la Landing Page de BusTrack
 
-Para el presente sprint, escogimos el desarrollo de la **Landing Page de BusTrack**, que representa un primer contacto entre el usuario y la plataforma.  
+Para este sprint se eligió el desarrollo de la **Landing Page de BusTrack**, que representa el primer contacto entre el usuario y la plataforma.
 
-Se han identificado los siguientes aspectos clave:
+Se identificaron los siguientes aspectos clave:
 
 - **Diseño visual de la landing page (wireframes)**
 - **Sección "Quiénes somos"**
@@ -2900,23 +2897,22 @@ Se han identificado los siguientes aspectos clave:
 - **Sección de beneficios**
 - **Despliegue de la landing page**
 
-Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que otros miembros del equipo cumplen roles de **colaboración (C)** para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a **calidad, funcionalidad y tiempo**.
+Cada aspecto fue asignado a un **líder (L)**, mientras que otros miembros asumieron roles de **colaboración (C)** para garantizar que el desarrollo cumpliera con los objetivos del sprint en cuanto a **calidad, funcionalidad y tiempos**.
+
+---
 
 # Asignación de Roles - Sprint Landing Page
 
 | **Team Member (Last Name, First Name)** | **GitHub Username**   | **Diseño visual de la landing page** | **Sección "Quiénes somos"** | **Sección "Cómo usar"** | **Sección de beneficios** | **Despliegue de la landing page** |
-|-----------------------------------------|-----------------------|--------------------------------------|-----------------------------|--------------------------|-----------------------------|------------------------------------|
-| Mathias Andree Cárdenas Huaman          | AndS56                | C                                    | L                           | C                        | C                           | C                                  |
-| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                    | C                           | L                        | C                           | C                                  |
-| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                    | C                           | C                        | L                           | C                                  |
-| Joaquin Alberto Cuentas Peña            | JoaCUPE               | C                                    | C                           | C                        | C                           | L                                  |
-| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | L                                    | C                           | C                        | C                           | C                                  |
-
+|-----------------------------------------|------------------------|----------------------------------------|-------------------------------|----------------------------|------------------------------|------------------------------------------|
+| Mathias Andree Cárdenas Huaman          | AndS56                 | C                                      | L                             | C                          | C                            | C                                        |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza        | C                                      | C                             | L                          | C                            | C                                        |
+| Diego Andrés Avalos Córdova             | DiegoAndresAvalos      | C                                      | C                             | C                          | L                            | C                                        |
+| Joaquin Alberto Cuentas Peña            | JoaCUPE                | C                                      | C                             | C                          | C                            | L                                        |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom         | L                                      | C                             | C                          | C                            | C                                        |
 
 
 #### 5.2.1.3. Sprint Backlog 1
-
-
 
 # Sprint Backlog 1
 
