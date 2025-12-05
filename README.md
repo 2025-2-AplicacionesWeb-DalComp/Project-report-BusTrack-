@@ -1200,6 +1200,12 @@ ___
 | 15      | US15          | Acceso para empresas              | Como empresa, quiero acceder a un módulo exclusivo con las funciones disponibles para la gestión de flota.                 | 5            |
 
 
+La imagen muestra el tablero de Trello utilizado para la planificación y seguimiento del Sprint 4 del proyecto BusTrack. En este tablero se organizaron las User Stories (US) y Technical Stories (TS) según las buenas prácticas de Scrum, distribuyéndolas en listas de Backlog, Technical Stories, Sprint Backlog y Done. Durante el sprint, las tareas fueron monitoreadas y actualizadas continuamente, moviéndose a la columna Done una vez completadas según la Definición de Terminado. Este tablero permitió mantener una visión clara del progreso del equipo, facilitando la priorización, asignación y control del avance de cada historia.
+
+<img src="img/commons/Trello-sprint4.png"  width="200" height="200">
+
+_**Figura 24.** Product Backlog y Sprint Backlog gestionados en Trello_  <br> _**Fuente:** elaboración propia._
+
 Enlace de Trello: <https://trello.com/b/MhxlfsAK>
 <br><br>
 
@@ -1218,7 +1224,7 @@ La presente sección define las pautas visuales y de identidad gráfica empleada
 </p>
 
 
-_**Figura 24.** Logo de BusTrack, que combina un ícono de bus y un marcador de ubicación para representar el transporte urbano geolocalizado._  <br> _**Fuente:** elaboración propia._
+_**Figura 25.** Logo de BusTrack, que combina un ícono de bus y un marcador de ubicación para representar el transporte urbano geolocalizado._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -1261,7 +1267,7 @@ _**Figura 24.** Logo de BusTrack, que combina un ícono de bus y un marcador de 
   <img src="img/commons/Montserrat.webp" alt="Tipografía Montserrat" width="400" height="700">
 </p>
 
-_**Figura 25.** Muestra de la tipografía Montserrat utilizada como base para los textos de BusTrack._  <br> _**Fuente:** elaboración propia._
+_**Figura 26.** Muestra de la tipografía Montserrat utilizada como base para los textos de BusTrack._  <br> _**Fuente:** elaboración propia._
 
 - **Spacing**  
   * Alrededor del logo: dejar un margen libre equivalente al alto de la letra **B** de “BusTrack”.  
@@ -1308,7 +1314,7 @@ El siguiente organigrama de contenidos representa visualmente la estructura jer�
   <img src="img/commons/Arbol.png" alt="Árbol de contenidos de BusTrack" width="700" height="600">
 </p>
 
-_**Figura 26.** Árbol de contenidos de BusTrack utilizado para representar la organización jerárquica de la información en la landing page._   <br> _**Fuente:** elaboración propia._
+_**Figura 27.** Árbol de contenidos de BusTrack utilizado para representar la organización jerárquica de la información en la landing page._   <br> _**Fuente:** elaboración propia._
 
 ### 4.2.2. Labeling Systems
 
@@ -1366,7 +1372,7 @@ _Descripción:_ Este wireframe corresponde a la sección inicial de la landing p
 
 <br>
 
-_**Figura 27.** Wireframe de la sección principal (Hero Section) de la landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 28.** Wireframe de la sección principal (Hero Section) de la landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 2**
@@ -1377,7 +1383,7 @@ _Descripción:_ Este wireframe muestra la sección donde se describen las funcio
 
 <br>
 
-_**Figura 28.** Wireframe de la sección “Qué ofrece BusTrack”, con tarjetas que organizan las funciones principales del sistema._ <br> _**Fuente:** elaboración propia._
+_**Figura 29.** Wireframe de la sección “Qué ofrece BusTrack”, con tarjetas que organizan las funciones principales del sistema._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 3**
@@ -1388,7 +1394,7 @@ _Descripción:_ Este wireframe presenta los segmentos objetivo de BusTrack. La s
 
 <br>
 
-_**Figura 29.** Wireframe de la sección “Para quién es BusTrack”, orientada a describir los segmentos de usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 30.** Wireframe de la sección “Para quién es BusTrack”, orientada a describir los segmentos de usuario._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 4**
@@ -1399,7 +1405,7 @@ _Descripción:_ Este wireframe muestra la guía visual de cómo funciona BusTrac
 
 <br>
 
-_**Figura 30.** Wireframe de la sección “Cómo usar BusTrack”, estructurada en tres pasos ilustrativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 31.** Wireframe de la sección “Cómo usar BusTrack”, estructurada en tres pasos ilustrativos._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 5**
@@ -1410,7 +1416,7 @@ _Descripción:_ Este wireframe representa el apartado donde se comunican los ben
 
 <br>
 
-_**Figura 31.** Wireframe de la sección “Beneficios de usar BusTrack”, que resume las ventajas principales para el usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 32.** Wireframe de la sección “Beneficios de usar BusTrack”, que resume las ventajas principales para el usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 6**
 
@@ -1420,7 +1426,7 @@ _Descripción:_ Este wireframe corresponde a la sección institucional que prese
 
 <br>
 
-_**Figura 32.** Wireframe de la sección “Sobre Nosotros”, con énfasis en misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 33.** Wireframe de la sección “Sobre Nosotros”, con énfasis en misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 7**
 
@@ -1430,7 +1436,7 @@ _Descripción:_ Este wireframe muestra la última sección de la landing page, d
 
 <br>
 
-_**Figura 33.** Wireframe de la sección “Conoce más sobre BusTrack”, compuesta por dos tarjetas para la presentación de videos informativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 34.** Wireframe de la sección “Conoce más sobre BusTrack”, compuesta por dos tarjetas para la presentación de videos informativos._ <br> _**Fuente:** elaboración propia._
 
 ___
 
@@ -1445,7 +1451,7 @@ _Descripción:_ Este wireframe muestra la versión móvil de la sección princip
 <img src="/img/commons/MobileWebBrowser-Wireframe1.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 34.** Wireframe móvil de la sección principal (Hero Section) de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 35.** Wireframe móvil de la sección principal (Hero Section) de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 2**
 
@@ -1454,7 +1460,7 @@ _Descripción:_ Este wireframe presenta la sección donde se describen las funci
 <img src="/img/commons/MobileWebBrowser-Wireframe2.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 35.** Wireframe móvil de la sección “Qué ofrece BusTrack”, con tarjetas organizadas en formato vertical._ <br> _**Fuente:** elaboración propia._
+_**Figura 36.** Wireframe móvil de la sección “Qué ofrece BusTrack”, con tarjetas organizadas en formato vertical._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 3**
 
@@ -1463,7 +1469,7 @@ _Descripción:_ Este wireframe se enfoca en los segmentos objetivo. En la versi�
 <img src="/img/commons/MobileWebBrowser-Wireframe3.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 36.** Wireframe móvil de la sección “Para quién es BusTrack”, con tarjetas segmentadas individualmente._ <br> _**Fuente:** elaboración propia._
+_**Figura 37.** Wireframe móvil de la sección “Para quién es BusTrack”, con tarjetas segmentadas individualmente._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 4**
 
@@ -1472,7 +1478,7 @@ _Descripción:_ Este wireframe describe el flujo de uso de BusTrack en tres paso
 <img src="/img/commons/MobileWebBrowser-Wireframe4.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 37.** Wireframe móvil de la sección “Cómo usar BusTrack”, estructurada en tres pasos explicativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 38.** Wireframe móvil de la sección “Cómo usar BusTrack”, estructurada en tres pasos explicativos._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 5**
 
@@ -1481,7 +1487,7 @@ _Descripción:_ Este wireframe muestra una serie de tarjetas que explican los pr
 <img src="/img/commons/MobileWebBrowser-Wireframe5.png" alt="Wireframe 5 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 38.** Wireframe móvil de la sección “Beneficios de usar BusTrack”, con tarjetas apiladas para facilitar la lectura._ <br> _**Fuente:** elaboración propia._
+_**Figura 39.** Wireframe móvil de la sección “Beneficios de usar BusTrack”, con tarjetas apiladas para facilitar la lectura._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 6**
 
@@ -1490,7 +1496,7 @@ _Descripción:_ Este wireframe representa la versión móvil de la sección inst
 <img src="/img/commons/MobileWebBrowser-Wireframe6.png" alt="Wireframe 6 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 39.** Wireframe móvil de la sección “Sobre Nosotros”, con presentación vertical de misión y visión._ <br> _**Fuente:** elaboración propia._
+_**Figura 40.** Wireframe móvil de la sección “Sobre Nosotros”, con presentación vertical de misión y visión._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 7**
 
@@ -1499,7 +1505,7 @@ _Descripción:_ Este wireframe corresponde a la última sección de la landing p
 <img src="/img/commons/MobileWebBrowser-Wireframe7.png" alt="Wireframe 7 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 40.** Wireframe móvil de la sección “Conoce más sobre BusTrack”, con dos tarjetas para videos informativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 41.** Wireframe móvil de la sección “Conoce más sobre BusTrack”, con dos tarjetas para videos informativos._ <br> _**Fuente:** elaboración propia._
 
 ### 4.3.2. Landing Page Mock-up
 En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. Estos mockups reflejan el diseño visual completo, incluyendo paleta de colores, tipografías, distribución de contenido y elementos de interacción tanto para usuarios pasajeros como para empresas. 
@@ -1514,7 +1520,7 @@ _Descripción:_ Este mock-up corresponde al Hero Section de la landing page. Pre
 
 <br>
 
-_**Figura 41.** Hero Section del landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 42.** Hero Section del landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 2**
 
@@ -1524,7 +1530,7 @@ _Descripción:_ Este mock-up muestra la sección “¿Qué ofrece BusTrack?”, 
 
 <br>
 
-_**Figura 42.** Funcionalidades principales del MVP de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 43.** Funcionalidades principales del MVP de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 3**
 
@@ -1534,7 +1540,7 @@ _Descripción:_ En este mock-up se presenta la sección “¿Para quién es BusT
 
 <br>
 
-_**Figura 43.** Públicos objetivo de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 44.** Públicos objetivo de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 4**
 
@@ -1544,7 +1550,7 @@ _Descripción:_ Este mock-up desarrolla la sección “Cómo usar BusTrack”, e
 
 <br>
 
-_**Figura 44.** Pasos para utilizar BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 45.** Pasos para utilizar BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 5**
 
@@ -1554,7 +1560,7 @@ _Descripción:_ En este mock-up se muestra la sección “Beneficios de usar Bus
 
 <br>
 
-_**Figura 45.** Beneficios principales para usuarios y empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 46.** Beneficios principales para usuarios y empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 6**
 
@@ -1564,7 +1570,7 @@ _Descripción:_ Este mock-up corresponde a la sección “Sobre Nosotros”, don
 
 <br>
 
-_**Figura 46.** Misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 47.** Misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 7**
 
@@ -1574,7 +1580,7 @@ _Descripción:_ El mock-up final muestra la sección “Conoce más sobre BusTra
 
 <br>
 
-_**Figura 47.** ección informativa con videos sobre el producto y el equipo._ <br> _**Fuente:** elaboración propia._
+_**Figura 48.** ección informativa con videos sobre el producto y el equipo._ <br> _**Fuente:** elaboración propia._
 
 ___
 
@@ -1588,7 +1594,7 @@ _Descripción:_ Este mockup corresponde a la sección Hero en su versión móvil
 
 <br>
 
-_**Figura 48.** Mockup móvil de la sección Hero de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 49.** Mockup móvil de la sección Hero de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 2**
 
@@ -1598,7 +1604,7 @@ _Descripción:_ Este mockup muestra la sección ¿Qué ofrece BusTrack?, adaptad
 
 <br>
 
-_**Figura 49.** Mockup móvil de la sección de funcionalidades de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 50.** Mockup móvil de la sección de funcionalidades de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 3**
 
@@ -1608,7 +1614,7 @@ _Descripción:_ Este mockup presenta la sección ¿Para quién es BusTrack? en v
 
 <br>
 
-_**Figura 50.** Mockup móvil de los segmentos de usuarios de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 51.** Mockup móvil de los segmentos de usuarios de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 4**
 
@@ -1618,7 +1624,7 @@ _Descripción:_ Este mockup muestra la sección Cómo usar BusTrack, que en vers
 
 <br>
 
-_**Figura 51.** Mockup móvil del apartado “Cómo usar BusTrack”._ <br> _**Fuente:** elaboración propia._
+_**Figura 52.** Mockup móvil del apartado “Cómo usar BusTrack”._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 5**
 
@@ -1628,7 +1634,7 @@ _Descripción:_ Este mockup corresponde a la sección Beneficios de usar BusTrac
 
 <br>
 
-_**Figura 52.** Mockup móvil de la sección de beneficios de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 53.** Mockup móvil de la sección de beneficios de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 6**
 
@@ -1638,7 +1644,7 @@ _Descripción:_ Este mockup presenta la sección Sobre Nosotros en formato móvi
 
 <br>
 
-_**Figura 53.** Mockup móvil de la sección institucional “Sobre Nosotros”._ <br> _**Fuente:** elaboración propia._
+_**Figura 54.** Mockup móvil de la sección institucional “Sobre Nosotros”._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 7**
 
@@ -1648,7 +1654,7 @@ _Descripción:_ Este mockup corresponde a la sección final Conoce más sobre Bu
 
 <br>
 
-_**Figura 54.** Mockup móvil de la sección con videos informativos de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 55.** Mockup móvil de la sección con videos informativos de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/BusTrack-wireframes-y-mockups?node-id=0-1&t=vbZPvREtMGxi30PI-1
@@ -1668,7 +1674,7 @@ _Descripción:_ Este wireframe corresponde a la pantalla inicial de selección d
 
 <br>
 
-_**Figura 55.** Wireframe de pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 56.** Wireframe de pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 2**
 
@@ -1678,7 +1684,7 @@ _Descripción:_ La segunda pantalla está orientada al inicio de sesión para pa
 
 <br>
 
-_**Figura 56.** Wireframe de pantalla de inicio de sesión para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 57.** Wireframe de pantalla de inicio de sesión para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 3**
 
@@ -1688,7 +1694,7 @@ _Descripción:_ Este wireframe representa la vista de creación de cuenta para p
 
 <br>
 
-_**Figura 57.** Wireframe de pantalla de creación de cuenta para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 58.** Wireframe de pantalla de creación de cuenta para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 4**
 
@@ -1698,7 +1704,7 @@ _Descripción:_ El cuarto wireframe presenta la vista principal de la web app pa
 
 <br>
 
-_**Figura 58.** Wireframe de pantalla principal del pasajero con barra de navegación._ <br> _**Fuente:** elaboración propia._
+_**Figura 59.** Wireframe de pantalla principal del pasajero con barra de navegación._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 5**
 
@@ -1708,7 +1714,7 @@ _Descripción:_ Este wireframe muestra los resultados de búsqueda de rutas. El 
 
 <br>
 
-_**Figura 59.** Wireframe de pantalla de resultados de búsqueda de rutas._ <br> _**Fuente:** elaboración propia._
+_**Figura 60.** Wireframe de pantalla de resultados de búsqueda de rutas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 6**
 
@@ -1718,7 +1724,7 @@ _Descripción:_ El wireframe de la sección de Notificaciones presenta una vista
 
 <br>
 
-_**Figura 60.** Wireframe de pantalla de notificaciones para el pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 61.** Wireframe de pantalla de notificaciones para el pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 7**
 
@@ -1728,7 +1734,7 @@ _Descripción:_ Este diseño corresponde a la sección de Paraderos Cercanos, do
 
 <br>
 
-_**Figura 61.** Wireframe de pantalla de paraderos cercanos con mapa y tarjetas informativas._ <br> _**Fuente:** elaboración propia._
+_**Figura 62.** Wireframe de pantalla de paraderos cercanos con mapa y tarjetas informativas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 8**
 
@@ -1738,7 +1744,7 @@ _Descripción:_ Este wireframe corresponde a la pantalla de Perfil del usuario p
 
 <br>
 
-_**Figura 62.** Wireframe de pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 63.** Wireframe de pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 9**
 
@@ -1748,7 +1754,7 @@ _Descripción:_ Aquí se presenta la vista de Rutas Favoritas, accesible desde e
 
 <br>
 
-_**Figura 63.** Wireframe de pantalla de rutas favoritas del usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 64.** Wireframe de pantalla de rutas favoritas del usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 10**
 
@@ -1758,7 +1764,7 @@ _Descripción:_ Este wireframe corresponde al Historial de viajes, donde el usua
 
 <br>
 
-_**Figura 64.** Wireframe de pantalla del historial de viajes del usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 65.** Wireframe de pantalla del historial de viajes del usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 11**
 
@@ -1768,7 +1774,7 @@ _Descripción:_ Este wireframe presenta la sección de Gestión de Notificacione
 
 <br>
 
-_**Figura 65.** Wireframe de la pantalla de configuración de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 66.** Wireframe de la pantalla de configuración de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 12**
 
@@ -1778,7 +1784,7 @@ _Descripción:_ Este wireframe corresponde a la vista de Configuración de la cu
 
 <br>
 
-_**Figura 66.** Wireframe de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 67.** Wireframe de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 13**
 
@@ -1788,7 +1794,7 @@ _Descripción:_ El wireframe 13 muestra la pantalla de inicio de sesión para em
 
 <br>
 
-_**Figura 67.** Wireframe de la pantalla de inicio de sesión para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 68.** Wireframe de la pantalla de inicio de sesión para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 14**
 
@@ -1798,7 +1804,7 @@ _Descripción:_ Este wireframe representa la pantalla de creación de cuenta par
 
 <br>
 
-_**Figura 68.** Wireframe de la pantalla de registro de cuenta empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 69.** Wireframe de la pantalla de registro de cuenta empresarial._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 15**
 
@@ -1808,7 +1814,7 @@ _Descripción:_ Este wireframe corresponde a la vista principal de Monitoreo en 
 
 <br>
 
-_**Figura 69.** Wireframe de la pantalla de monitoreo en tiempo real para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 70.** Wireframe de la pantalla de monitoreo en tiempo real para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 16**
 
@@ -1818,7 +1824,7 @@ _Descripción:_ Este wireframe corresponde a la sección de Alertas Internas den
 
 <br>
 
-_**Figura 70.** Wireframe de la pantalla de alertas internas del panel empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 71.** Wireframe de la pantalla de alertas internas del panel empresarial._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 17**
 
@@ -1828,7 +1834,7 @@ _Descripción:_ Este wireframe presenta la vista de Administración de Flota. En
 
 <br>
 
-_**Figura 71.** Wireframe de la pantalla de administración de flota._ <br> _**Fuente:** elaboración propia._
+_**Figura 72.** Wireframe de la pantalla de administración de flota._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 18**
 
@@ -1845,7 +1851,7 @@ Al final se incorpora un botón destacado de “Cerrar Sesión”. El diseño ma
 
 <br>
 
-_**Figura 72.** Wireframe de la pantalla de configuración empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 73.** Wireframe de la pantalla de configuración empresarial._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -1862,7 +1868,7 @@ Cada conjunto de flechas de navegación señala la interacción esperada del usu
 
 <img src="/img/commons/WebApplicationsWireflow Diagrams.png"  style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 73.** Wireflow general de las aplicaciones web de BusTrack, que integra los flujos de navegación de usuarios pasajeros y empresariales._ <br> _**Fuente:** elaboración propia._
+_**Figura 74.** Wireflow general de las aplicaciones web de BusTrack, que integra los flujos de navegación de usuarios pasajeros y empresariales._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.4.3. Web Applications Mock-ups
@@ -1877,7 +1883,7 @@ _Descripción:_ Este mock-up corresponde a la pantalla de bienvenida de BusTrack
 
 <br>
 
-_**Figura 74.** Mock-up de la pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 75.** Mock-up de la pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 2**
 
@@ -1887,7 +1893,7 @@ _Descripción:_ Este mock-up muestra la pantalla de inicio de sesión para usuar
 
 <br>
 
-_**Figura 75.** Mock-up de la pantalla de Log In para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 76.** Mock-up de la pantalla de Log In para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 3**
 
@@ -1897,7 +1903,7 @@ _Descripción:_ Este mock-up corresponde al formulario de creación de cuenta pa
 
 <br>
 
-_**Figura 76.** Mock-up de la pantalla de registro de nuevos pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 77.** Mock-up de la pantalla de registro de nuevos pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 4**
 
@@ -1907,7 +1913,7 @@ _Descripción:_ Este mock-up presenta la pantalla principal para el flujo de bú
 
 <br>
 
-_**Figura 77.** Mock-up de búsqueda de rutas para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 78.** Mock-up de búsqueda de rutas para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 5**
 
@@ -1917,7 +1923,7 @@ _Descripción:_ Este mock-up muestra la pantalla donde se visualiza la ruta sele
 
 <br>
 
-_**Figura 78.** Mock-up de la pantalla de visualización de ruta._ <br> _**Fuente:** elaboración propia._
+_**Figura 79.** Mock-up de la pantalla de visualización de ruta._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 6**
 
@@ -1927,7 +1933,7 @@ _Descripción:_ Este mock-up corresponde a la sección de Notificaciones del pas
 
 <br>
 
-_**Figura 79.** Mock-up de la pantalla de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 80.** Mock-up de la pantalla de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 7**
 
@@ -1937,7 +1943,7 @@ _Descripción:_ Este mock-up representa la pantalla de Paraderos Cercanos, donde
 
 <br>
 
-_**Figura 80.** Mock-up de la pantalla de paraderos cercanos._ <br> _**Fuente:** elaboración propia._
+_**Figura 81.** Mock-up de la pantalla de paraderos cercanos._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 8**
 
@@ -1947,7 +1953,7 @@ _Descripción:_ Este mock-up muestra la interfaz de Perfil del usuario pasajero.
 
 <br>
 
-_**Figura 81.** Mock-up de la pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 82.** Mock-up de la pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 9**
 
@@ -1957,7 +1963,7 @@ _Descripción:_ Este mock-up presenta la sección de Rutas favoritas del pasajer
 
 <br>
 
-_**Figura 82.** Mock-up de la pantalla de rutas favoritas (estado vacío)._ <br> _**Fuente:** elaboración propia._
+_**Figura 83.** Mock-up de la pantalla de rutas favoritas (estado vacío)._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 10**
 
@@ -1967,7 +1973,7 @@ _Descripción:_ Este mock-up corresponde a la sección de Historial de viajes, d
 
 <br>
 
-_**Figura 83.** Mock-up del historial de viajes del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 84.** Mock-up del historial de viajes del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 11**
 
@@ -1977,7 +1983,7 @@ _Descripción:_ Este mock-up representa la pantalla de configuración de notific
 
 <br>
 
-_**Figura 84.** Mock-up de configuración de notificaciones para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 85.** Mock-up de configuración de notificaciones para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 12**
 
@@ -1987,7 +1993,7 @@ _Descripción:_ Este mock-up muestra la sección de configuración de cuenta del
 
 <br>
 
-_**Figura 85.** Mock-up de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 86.** Mock-up de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 13**
 
@@ -1997,7 +2003,7 @@ _Descripción:_ Este mock-up corresponde a la pantalla de inicio de sesión para
 
 <br>
 
-_**Figura 86.** Mock-up de Log In para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 87.** Mock-up de Log In para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 14**
 
@@ -2007,7 +2013,7 @@ _Descripción:_ Este mock-up presenta la pantalla de creación de cuenta empresa
 
 <br>
 
-_**Figura 87.** Mock-up de registro de nuevas empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 88.** Mock-up de registro de nuevas empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 15**
 
@@ -2017,7 +2023,7 @@ _Descripción:_ Este mock-up corresponde a la interfaz de Monitoreo en Tiempo Re
 
 <br>
 
-_**Figura 88.** Mock-up de monitoreo en tiempo real de flota empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 89.** Mock-up de monitoreo en tiempo real de flota empresarial._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 16**
 
@@ -2027,7 +2033,7 @@ _Descripción:_ Este mock-up muestra la sección de Alertas Internas, donde la e
 
 <br>
 
-_**Figura 89.** Mock-up de gestión de alertas internas._ <br> _**Fuente:** elaboración propia._
+_**Figura 90.** Mock-up de gestión de alertas internas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 17**
 
@@ -2037,7 +2043,7 @@ _Descripción:_ Este mock-up representa la pantalla de Administración de Flota,
 
 <br>
 
-_**Figura 90.** Mock-up de administración de flota para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 91.** Mock-up de administración de flota para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 18**
 
@@ -2055,7 +2061,7 @@ Cada sección se presenta en tarjetas diferenciadas para favorecer la claridad v
 
 <br>
 
-_**Figura 91.** Mock-up de configuración empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 92.** Mock-up de configuración empresarial._ <br> _**Fuente:** elaboración propia._
 
 
 Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/BusTrack-wireframes-y-mockups?node-id=0-1&t=vbZPvREtMGxi30PI-1
@@ -2072,15 +2078,18 @@ El diagrama permite visualizar la complejidad lógica del sistema y valida que c
 
 <img src="/img/commons/WebApplicationsUserFlowDiagrams.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 92.** Diagrama general de User Flows para los usuarios Pasajero y Empresa en la aplicación web BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 93.** Diagrama general de User Flows para los usuarios Pasajero y Empresa en la aplicación web BusTrack._ <br> _**Fuente:** elaboración propia._
 
 ## 4.5. Web Applications Prototyping
-En esta sección se simula la navegación e interacción del usuario con la plataforma. Los diseños reflejan los flujos definidos en los User Flow Diagrams, priorizando la claridad, la usabilidad y la consistencia visual.
 
-<img src="/img/commons/Web%20Applications%20Prototyping.png" alt="Web Applications Prototyping" style="width: 700px; margin-right: 700px;"/>
+La imagen muestra una captura del prototipo navegable desarrollado para la plataforma web de BusTrack, correspondiente a la sección de Ubicación Actual dentro del flujo de búsqueda de rutas. Este prototipo permite simular la interacción real del usuario, incluyendo navegación por el menú principal, visualización de la ubicación en el mapa y respuesta del sistema según los flujos definidos previamente. La evidencia confirma la implementación funcional de los diseños de alta fidelidad elaborados en la etapa anterior.
+
+<img src="/img/commons/WebApplicationsPrototypingNew.png" alt="Web Applications Prototyping" style="width: 700px; margin-right: 700px;"/>
+
+_**Figura 94.** Vista del prototipo navegable de la aplicación web BusTrack_ <br> _**Fuente:** elaboración propia._
 
 
-Link del video: https://drive.google.com/file/d/1jQzmb0z41K3b1MGZBZUukn5p4k0_au6g/
+Link del video: 
 
 ## 4.6. Domain-Driven Software Architecture
 La arquitectura de software orientada al dominio nos permite estructurar el sistema en torno a los conceptos fundamentales del transporte urbano, asegurando que la lógica de negocio se ajuste con precisión a las necesidades de los usuarios. En esta sección aplicaremos Bounded Contexts para la gestión de usuarios, rutas, paraderos y notificaciones.
