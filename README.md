@@ -702,6 +702,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Edad:** 20 |
 | **Ocupación:** Estudiante universitario |
 | **Medio utilizado:** Zoom |
+| **Evidencia:**  <img src="img/commons/evidencia1.png" width="200"/>|
 | **Link de entrevista:** <https://youtu.be/fcO25GbbaRY> |
 | **Resumen de entrevista:** La entrevistada utiliza principalmente corredores de la ATU y el Metropolitano para ir a la universidad o salir con amigos. Sus principales preocupaciones son la inseguridad, los desvíos inesperados y los costos del transporte. Considera esencial contar con información en tiempo real y notificaciones confiables para optimizar su tiempo y aumentar la confianza en el transporte público. |
 
@@ -713,33 +714,59 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Edad:** 20 |
 | **Ocupación:** Estudiante universitario |
 | **Medio utilizado:** Zoom |
+| **Evidencia:**  <img src="img/commons/evidencia2.png" width="200"/>|
 | **Link de entrevista:** <https://www.youtube.com/watch?v=5rFwJUM-JS4> | 
 | **Resumen de entrevista:** El entrevistado viaja diariamente en buses y combis, tomando hasta tres por día desde San Martín de Porres. Sus principales preocupaciones son el tiempo de espera, la inseguridad y la falta de información confiable. Usa aplicaciones como Moovit, aunque señala que no siempre están actualizadas. Valora recibir notificaciones en tiempo real sobre ubicación, desvíos y precios para llegar a tiempo a clases y optimizar sus traslados. |
+
+| **Entrevista 3** |
+|-----------|
+| **Entrevistado:**  |
+| **Sexo:**  |
+| **Edad:**  |
+| **Ocupación:** Estudiante universitario |
+| **Medio utilizado:** Zoom |
+| **Evidencia:**  <img src="img/commons/evidencia3.png" width="200"/>|
+| **Link de entrevista:** <> | 
+| **Resumen de entrevista:**  |
  
 <br>
 
 ### Segmento 2: Empresas de Transporte Urbano
 
-| **Entrevista 3** |
+| **Entrevista 4** |
 |-----------|
 | **Entrevistado:** Octavio |
 | **Sexo:** Masculino |
 | **Edad:** 35 |
 | **Ocupación:** Supervisor de rutas |
 | **Medio utilizado:** Zoom |
+| **Evidencia:**  <img src="img/commons/evidencia4.png" width="200"/>|
 | **Link de entrevista:** <https://youtu.be/MOjHcLv6YDY> |
 | **Resumen de entrevista:** El entrevistado gestiona la flota mediante llamadas a los choferes y el uso de Excel y hojas de ruta, recibiendo solo información básica sobre tráfico y fallas mecánicas. Considera valiosos los reportes automáticos y la ubicación exacta de buses para mejorar la operación. Reconoce que una plataforma como BusTrack podría incrementar la confianza de los pasajeros, aunque identifica barreras como el costo y la resistencia de algunos conductores a adoptar tecnología. |
 
 
-| **Entrevista 4** |
+| **Entrevista 5** |
 |-----------|
 | **Entrevistado:** Jean Paul Condori |
 | **Sexo:** Masculino |
 | **Edad:** 40 |
 | **Ocupación:** Administrador de flota |
 | **Medio utilizado:** Zoom |
+| **Evidencia:**  <img src="img/commons/evidencia5.png" width="200"/>|
 | **Link de entrevista:** <https://youtu.be/JAEwGB9mBGk> |
 | **Resumen de entrevista:** El entrevistado gestiona las unidades mediante grupos de WhatsApp y cuadernos físicos, recibiendo información de los conductores sobre retrasos, cambios de ruta y controles policiales. Identifica retos como tráfico, bloqueos y falta de procesos modernos. Considera útil contar con reportes sobre rutas, horarios y cantidad de pasajeros. Percibe a BusTrack como una oportunidad para implementar monitoreo en tiempo real, aunque también identifica barreras relacionadas con la confianza y la adaptación tecnológica de los conductores. |
+
+
+| **Entrevista 6** |
+|-----------|
+| **Entrevistado:** Walter Fajardo |
+| **Sexo:** Masculino |
+| **Edad:** 30 |
+| **Ocupación:** Gerente de empresa de transportes |
+| **Medio utilizado:** Zoom |
+| **Evidencia:**  <img src="img/commons/evidencia6.png" width="200"/>|
+| **Link de entrevista:** <https://upcedupe-my.sharepoint.com/personal/u20201f788_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201f788%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegemento%20objetivo%202%20%2D%20Walter%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E271d57e2%2D0088%2D4def%2Da3c3%2D2723d93114b8> | 
+| **Resumen de entrevista:**  |
 
 <br>
 
