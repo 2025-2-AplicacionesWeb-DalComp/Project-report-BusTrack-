@@ -4651,7 +4651,7 @@ Para esta auditoría revisamos la experiencia del usuario en tareas clave alinea
    _**Fuente:** elaboración propia._
 
 
-   Link: youtube.com/watch?v=6w7bTPVrwXI&feature=youtu.be
+   Link: <https://www.youtube.com/watch?v=qAJioSg9jns>
 
 # Conclusiones
 
