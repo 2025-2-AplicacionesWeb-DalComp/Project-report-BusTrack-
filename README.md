@@ -3284,105 +3284,187 @@ En esta sección, se presentan los commits realizados en el repositorio report-B
 | PengwinKingdom/BusTrack-Frontend | develop    | Create TopNav.vue  | 10/10/2025   |
 | PengwinKingdom/BusTrack-Frontend | develop    | Update router.js  | 10/10/2025   |
 
-
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-Durante este Sprint, nos enfocamos en el desarrollo del frontend del sistema web **BusTrack** utilizando **WebStorm** y siguiendo los principios de **Domain-Driven Design (DDD)** para organizar la estructura y responsabilidades del sistema. El objetivo principal de este Sprint fue implementar vistas funcionales que brinden a los usuarios una experiencia clara y amigable.  
+Durante este Sprint, nos enfocamos en el desarrollo del frontend del sistema web **BusTrack** utilizando **WebStorm** y siguiendo los principios de **Domain-Driven Design (DDD)** para organizar la estructura y responsabilidades del sistema. El objetivo principal fue implementar vistas funcionales que brinden a los usuarios una experiencia clara y amigable.
 
-- **Crear Cuenta:**
-<img src="img/commons/CreateAccount.jpeg" alt="Buscar ruta BusTrack" width="600">
+---
 
-- **Log In:**
-<img src="img/commons/LogIn.jpeg" alt="Buscar ruta BusTrack" width="600">
+**Crear Cuenta**
 
-- **Buscar Ruta:**
-<img src="https://i.postimg.cc/DzNCGp8x/buscar-ruta-bustrack.jpg" alt="Buscar ruta BusTrack" width="600">
-  
-- **Notificaciones:**
-<img src="https://i.postimg.cc/0QmTZKMf/notificaciones-bustrack.jpg" alt="Notificaciones1 BusTrack" width="600">
-<img src="https://i.postimg.cc/gJRC4LXV/notificaciones2-bustrack.jpg" alt="Notificaciones2 BusTrack" width="600">
+<img src="img/commons/CreateAccount.jpeg" alt="Pantalla de creación de cuenta en BusTrack" width="600">
 
-- **Paraderos Cercanos:**
-<img src="https://i.postimg.cc/Pq76DVPF/paraderos-cercanos-bustrack.png" alt="Paraderos cercanos BusTrack" width="600">
-  
-- **Perfil de Usuario:**
-<img src="https://i.postimg.cc/KYW9TpR7/perfil2-bustrack.jpg" alt="Perfil 1 BusTrack" width="600">
-<img src="https://i.postimg.cc/Pq76DVP2/perfil1-bustrack.jpg" alt="Perfil 2 BusTrack" width="600">
-<img src="https://i.postimg.cc/GpfMDgHz/peefil3-bustrack.jpg" alt="Perfil 3 BusTrack" width="600">
+_**Figura 132.** Pantalla de creación de cuenta en BusTrack, donde el usuario registra sus datos para acceder al sistema._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Log In**
+
+<img src="img/commons/LogIn.jpeg" alt="Pantalla de inicio de sesión en BusTrack" width="600">
+
+_**Figura 133.** Pantalla de inicio de sesión de BusTrack, que permite a los usuarios autenticarse con sus credenciales._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Buscar Ruta**
+
+<img src="https://i.postimg.cc/DzNCGp8x/buscar-ruta-bustrack.jpg" alt="Vista de búsqueda de ruta en BusTrack" width="600">
+
+_**Figura 134.** Vista de búsqueda de ruta en BusTrack, con campos de origen y destino y resultados simulados de rutas disponibles._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Notificaciones**
+
+<img src="https://i.postimg.cc/0QmTZKMf/notificaciones-bustrack.jpg" alt="Listado de notificaciones en BusTrack" width="600">
+
+_**Figura 135.** Pantalla de notificaciones de BusTrack, donde se muestran mensajes de alerta y estados relevantes para el pasajero._  
+_**Fuente:** elaboración propia._  
+
+<img src="https://i.postimg.cc/gJRC4LXV/notificaciones2-bustrack.jpg" alt="Detalle de notificaciones en BusTrack" width="600">
+
+_**Figura 136.** Segunda vista de notificaciones en BusTrack, que muestra diferentes tipos de mensajes y su organización en la interfaz._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Paraderos Cercanos**
+
+<img src="https://i.postimg.cc/Pq76DVPF/paraderos-cercanos-bustrack.png" alt="Pantalla de paraderos cercanos en BusTrack" width="600">
+
+_**Figura 137.** Pantalla de paraderos cercanos en BusTrack, donde se listan paraderos con nombre, dirección, distancia y rutas asociadas._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Perfil de Usuario**
+
+<img src="https://i.postimg.cc/KYW9TpR7/perfil2-bustrack.jpg" alt="Vista de perfil de usuario en BusTrack" width="600">
+
+_**Figura 138.** Vista del perfil de usuario en BusTrack, donde se muestran los datos principales del pasajero._  
+_**Fuente:** elaboración propia._  
+
+<img src="https://i.postimg.cc/Pq76DVP2/perfil1-bustrack.jpg" alt="Edición de perfil de usuario en BusTrack" width="600">
+
+_**Figura 139.** Pantalla de edición de perfil de BusTrack, que permite actualizar la información personal del usuario._  
+_**Fuente:** elaboración propia._  
+
+<img src="https://i.postimg.cc/GpfMDgHz/peefil3-bustrack.jpg" alt="Vista adicional del perfil de usuario en BusTrack" width="600">
+
+_**Figura 140.** Vista adicional de la sección de perfil en BusTrack, donde se gestionan datos y preferencias del usuario._  
+_**Fuente:** elaboración propia._  
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) desarrollados para **BusTrack** utilizando **OpenAPI**. El objetivo fue asegurar que todos los endpoints relacionados con el alcance del Sprint estén correctamente descritos, incluyendo las acciones soportadas, parámetros, sintaxis de las solicitudes y ejemplos de respuestas. Esta documentación facilita la integración con el frontend y sirve como referencia para el mantenimiento futuro.  
+Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñados para **BusTrack** utilizando **OpenAPI**. El objetivo fue asegurar que los endpoints relacionados con el alcance del Sprint estén correctamente descritos, incluyendo acciones soportadas, parámetros, sintaxis de las solicitudes y ejemplos de respuestas. Esta documentación facilita la futura integración con el frontend y servirá como referencia para mantenimiento.
 
 ### Logros alcanzados en este Sprint
-- Documentación de los principales endpoints implementados: búsqueda de rutas, notificaciones, paraderos cercanos y gestión de perfil de usuario.  
-- Inclusión de métodos HTTP, ejemplos de request y response, y especificación de parámetros para cada endpoint.  
-- Generación de la documentación OpenAPI accesible localmente (o desplegada, si aplica).  
-- Capturas de interacción con la API utilizando datos de muestra para demostrar respuestas correctas y funcionalidad.  
+
+- Definición de los principales endpoints: búsqueda de rutas, notificaciones, paraderos cercanos y gestión de perfil de usuario.  
+- Especificación de métodos HTTP, ejemplos de request y response, y parámetros de entrada.  
+- Generación de la definición OpenAPI (a nivel de diseño) para los endpoints identificados.  
+- Preparación de ejemplos de uso de la API con datos de muestra para demostrar el comportamiento esperado.
 
 ### Distribución de responsabilidades del equipo
 
-| Área / Funcionalidad | Integrante(s) | Acciones Realizadas |
-|---------------------|----------------|------------------|
-| Inicio de sesión | 1 Integrante (Fátima Belén) | Implementación de login, registro y validaciones básicas. |
-| Primera interfaz luego del inicio | 1 Integrante (Joaquín Cuentas) | Desarrollo de la interfaz principal tras el login y navegación inicial. |
-| Perfil de usuario | 2 Integrantes (Elizabeth Apaza y Andree Cardenas) | Implementación de la vista de perfil, edición de información y gestión de preferencias. |
-| Paraderos cercanos | 1 Integrante (Diego Avalos) | Desarrollo de la interfaz para mostrar paraderos cercanos y su interacción con la búsqueda de rutas. |
+| Área / Funcionalidad      | Integrante(s)                                 | Acciones realizadas                                                                 |
+|---------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------|
+| Inicio de sesión          | 1 integrante (Fátima Belén)                  | Definición de endpoints de login, registro y validaciones básicas.                 |
+| Primera interfaz luego del inicio | 1 integrante (Joaquín Cuentas)   | Definición del flujo inicial de navegación post-login y endpoints asociados.       |
+| Perfil de usuario         | 2 integrantes (Elizabeth Apaza y Andree Cárdenas) | Definición de endpoints de obtención y actualización de perfil.                |
+| Paraderos cercanos        | 1 integrante (Diego Avalos)                  | Definición de endpoints para listar paraderos cercanos y su relación con rutas.    |
 
-**Nota:** No se generaron commits relacionados con endpoints o documentación de servicios web en este Sprint, ya que estas tareas están planificadas para sprints futuros.  
+**Nota:** La implementación real de los endpoints y los commits asociados a servicios web se realizará en sprints posteriores; en este sprint se trabajó principalmente en el diseño y documentación inicial.
 
 ### Tabla de Documentación de Endpoints
 
-| Endpoint | Acciones | Método HTTP | Sintaxis / URL | Parámetros | Ejemplo de Respuesta | Enlace a Documentación |
-|----------|---------|------------|----------------|------------|-------------------|----------------------|
-| `/routes` | Listar todas las rutas | GET | `/routes` | Ninguno | `{ "routes": [ { "id": 1, "name": "Ruta A" } ] }` | [Doc OpenAPI](#) |
-| `/routes/{id}` | Obtener detalles de una ruta | GET | `/routes/1` | `id` (ID de la ruta) | `{ "id": 1, "name": "Ruta A", "stops": [...] }` | [Doc OpenAPI](#) |
-| `/notifications` | Listar notificaciones de usuario | GET | `/notifications?userId=1` | `userId` (obligatorio) | `[ { "id": 1, "message": "Retraso en Ruta A" } ]` | [Doc OpenAPI](#) |
-| `/notifications` | Crear notificación | POST | `/notifications` | `userId`, `message` | `{ "id": 2, "message": "Nueva alerta" }` | [Doc OpenAPI](#) |
-| `/stops/nearby` | Obtener paraderos cercanos | GET | `/stops/nearby?lat=-12.0464&lng=-77.0428` | `lat`, `lng` | `[ { "id": 1, "name": "Paradero A", "distance": 120 } ]` | [Doc OpenAPI](#) |
-| `/users/{id}` | Obtener perfil de usuario | GET | `/users/1` | `id` (ID del usuario) | `{ "id": 1, "name": "Juan Pérez", "preferences": {...} }` | [Doc OpenAPI](#) |
-| `/users/{id}` | Actualizar perfil de usuario | PUT | `/users/1` | `id` (ID del usuario), body con campos a actualizar | `{ "id": 1, "name": "Juan Pérez Actualizado" }` | [Doc OpenAPI](#) |
+> Nota: Los enlaces a documentación OpenAPI se describen conceptualmente y no se incluyen como hipervínculos en este documento.
 
-> Nota: Reemplazar `#` en el enlace de documentación con la URL real o ruta local de tus documentos OpenAPI.  
+| Endpoint           | Acciones                        | Método HTTP | Sintaxis / URL                                   | Parámetros                               | Ejemplo de respuesta                                               | Documentación OpenAPI          |
+|--------------------|---------------------------------|------------|--------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------|--------------------------------|
+| `/routes`          | Listar todas las rutas          | GET        | `/routes`                                        | Ninguno                                   | `{ "routes": [ { "id": 1, "name": "Ruta A" } ] }`                  | Sección de rutas en OpenAPI    |
+| `/routes/{id}`     | Obtener detalles de una ruta    | GET        | `/routes/{id}`                                   | `id` (ID de la ruta)                      | `{ "id": 1, "name": "Ruta A", "stops": [ ... ] }`                  | Sección de rutas en OpenAPI    |
+| `/notifications`   | Listar notificaciones de usuario| GET        | `/notifications?userId=1`                        | `userId` (obligatorio)                    | `[ { "id": 1, "message": "Retraso en Ruta A" } ]`                  | Sección de notificaciones      |
+| `/notifications`   | Crear notificación              | POST       | `/notifications`                                 | `userId`, `message`                       | `{ "id": 2, "message": "Nueva alerta" }`                           | Sección de notificaciones      |
+| `/stops/nearby`    | Obtener paraderos cercanos      | GET        | `/stops/nearby?lat=-12.0464&lng=-77.0428`        | `lat`, `lng`                              | `[ { "id": 1, "name": "Paradero A", "distance": 120 } ]`           | Sección de paraderos cercanos  |
+| `/users/{id}`      | Obtener perfil de usuario       | GET        | `/users/{id}`                                    | `id` (ID del usuario)                     | `{ "id": 1, "name": "Juan Pérez", "preferences": { ... } }`        | Sección de usuarios            |
+| `/users/{id}`      | Actualizar perfil de usuario    | PUT        | `/users/{id}`                                    | `id` (ID del usuario), body con campos    | `{ "id": 1, "name": "Juan Pérez Actualizado" }`                    | Sección de usuarios            |
 
-### Evidencia Visual
-<img src="https://i.postimg.cc/3N7FjX1d/api-notificaciones-bustrack.png" alt="Notificaciones BusTrack" width="600">
+### Evidencia visual
 
-<img src="https://i.postimg.cc/mkRy3YjM/api-rutas-bustrack.png" alt="Rutas BusTrack" width="600">
+<img src="https://i.postimg.cc/3N7FjX1d/api-notificaciones-bustrack.png" alt="Evidencia de API de notificaciones en BusTrack" width="600">
 
-<img src="https://i.postimg.cc/br890xgk/api-users-bustrack.png" alt="Usuarios BusTrack" width="600">
+_**Figura 141.** Ejemplo de interacción con la API de notificaciones de BusTrack, mostrando datos de prueba y estructura de respuesta._  
+_**Fuente:** elaboración propia._  
+
+<img src="https://i.postimg.cc/mkRy3YjM/api-rutas-bustrack.png" alt="Evidencia de API de rutas en BusTrack" width="600">
+
+_**Figura 142.** Ejemplo de consulta al endpoint de rutas en BusTrack, donde se visualiza la lista de rutas disponibles._  
+_**Fuente:** elaboración propia._  
+
+<img src="https://i.postimg.cc/br890xgk/api-users-bustrack.png" alt="Evidencia de API de usuarios en BusTrack" width="600">
+
+_**Figura 143.** Ejemplo de respuesta del endpoint de usuarios en BusTrack, mostrando los datos principales de un usuario._  
+_**Fuente:** elaboración propia._  
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-## 1. Paso
-Primero, nos aseguramos de que el código de la aplicación estuviera en GitHub y le cambiamos la dirección de la API, para que en lugar de buscar los datos en nuestra propia computadora (localhost), los buscara en la dirección pública del servidor que ya habíamos desplegado en Render.
+Durante este sprint se preparó el despliegue del frontend de BusTrack en un entorno público, configurando la integración continua entre el repositorio de código y la plataforma de hosting.
 
-## 2. Paso
-Luego, creamos una cuenta en Vercel y conectamos nuestro repositorio de GitHub. Vercel fue lo suficientemente inteligente como para reconocer que era una aplicación de Vue/Vite y preparó casi todo automáticamente.
+1. **Actualización de la URL de la API**  
+   Se actualizó la configuración del frontend para que dejara de consumir datos desde `localhost` y utilizara la URL pública del servidor backend desplegado en Render.
 
-## 3. Paso
-Para que la URL de la API no estuviera escrita directamente en el código, la guardamos como un "secreto" (una variable de entorno) en Vercel. Luego, le dijimos a nuestro código que leyera ese secreto. Así, si la URL cambia en el futuro, solo la actualizamos en Vercel sin tocar el código.
+2. **Configuración en la plataforma de despliegue**  
+   Se creó una cuenta en Vercel y se conectó el repositorio de GitHub del frontend. La plataforma detectó automáticamente que se trataba de una aplicación Vue/Vite y definió la configuración base de construcción.
 
-## 4. Paso
-Finalmente, con todo configurado, volvimos a desplegar. Vercel nos dio un enlace público a nuestra aplicación y activó el "despliegue continuo". Esto significa que ahora, cada vez que actualicemos el código y lo subamos a GitHub, Vercel reconstruirá y actualizará el sitio web automáticamente.
+3. **Variables de entorno para la API**  
+   La URL de la API se configuró como una variable de entorno (secreto) en Vercel, evitando exponerla directamente en el código fuente. De esta forma, los cambios futuros en la URL pueden gestionarse desde la plataforma sin modificar el código.
 
-link de la landing page: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
+4. **Despliegue continuo**  
+   Con la configuración lista, se generó un despliegue público de la aplicación. Vercel habilitó el mecanismo de despliegue continuo, por lo que cada vez que se actualiza el código en GitHub, la aplicación se reconstruye y se publica automáticamente.
 
-link de la web: https://bustrackfront.vercel.app/
+- URL de la landing page (GitHub Pages): `https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/`  
+- URL de la aplicación web (frontend): `https://bustrackfront.vercel.app/`  
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Para este sprint, las tareas de diseño, implementación y documentación del frounted se distribuyeron entre todos los integrantes del equipo.
+Para este sprint, las tareas de diseño, implementación y documentación del **frontend** se distribuyeron entre todos los integrantes del equipo, fomentando la colaboración mediante ramas, commits frecuentes y revisiones en GitHub.
 
-- #Evidencias del repositorio del fronted:#<br>
-  [![Evidencia.png](https://i.postimg.cc/G3ZTzBNM/Evidencia.png)](https://postimg.cc/V5WNkNzM)<br>
-- #Network Graph#<br>
-  [![Evidencia-1.png](https://i.postimg.cc/904XZpVL/Evidencia-1.png)](https://postimg.cc/5QVMM8Xz)<br>
-- #Code Frequency#<br>
-  [![Captura-de-pantalla-2025-10-10-122844.png](https://i.postimg.cc/gcwvhGZD/Captura-de-pantalla-2025-10-10-122844.png)](https://postimg.cc/5jVYddpY)<br>
-- #Contribuitors#<br>
-  [![imagen-2025-10-10-123119424.png](https://i.postimg.cc/9FntSrj2/imagen-2025-10-10-123119424.png)](https://postimg.cc/KRtM3czp)<br>
-<br><br>
+A continuación, se presentan evidencias gráficas de la colaboración del equipo en el repositorio del frontend.
+
+**Evidencias del repositorio del frontend**
+
+<img src="https://i.postimg.cc/G3ZTzBNM/Evidencia.png" alt="Actividad del repositorio del frontend de BusTrack" width="600">
+
+_**Figura 144.** Panel de actividad del repositorio del frontend de BusTrack, donde se observan los commits realizados durante el sprint._  
+_**Fuente:** elaboración propia._  
+
+**Network Graph**
+
+<img src="https://i.postimg.cc/904XZpVL/Evidencia-1.png" alt="Network graph del repositorio de BusTrack" width="600">
+
+_**Figura 145.** Network graph del repositorio, que muestra las ramas, fusiones y flujo de trabajo colaborativo del equipo._  
+_**Fuente:** elaboración propia._  
+
+**Code Frequency**
+
+<img src="https://i.postimg.cc/gcwvhGZD/Captura-de-pantalla-2025-10-10-122844.png" alt="Frecuencia de código en el repositorio de BusTrack" width="600">
+
+_**Figura 146.** Gráfico de frecuencia de código, donde se visualizan las adiciones y eliminaciones a lo largo del tiempo durante el sprint._  
+_**Fuente:** elaboración propia._  
+
+**Contributors**
+
+<img src="https://i.postimg.cc/9FntSrj2/imagen-2025-10-10-123119424.png" alt="Contribuidores del repositorio de BusTrack" width="600">
+
+_**Figura 147.** Vista de contribuidores del repositorio de BusTrack, con el detalle de las aportaciones de cada integrante del equipo._  
+_**Fuente:** elaboración propia._  
 
 
 ### 5.2.3. Sprint 3
