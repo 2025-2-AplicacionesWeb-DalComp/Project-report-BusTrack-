@@ -2657,52 +2657,58 @@ Registra los viajes realizados por los pasajeros.
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
-
 ## 5.1. Software Configuration Management
 
-A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambios de desarrollo de BusTrack.
+A continuación, se describe el proceso mediante el cual organizamos, gestionamos y controlamos los cambios realizados en el desarrollo de BusTrack.
 
 ### 5.1.1. Software Development Environment Configuration
 
-Gestión de las necesidades
+#### Gestión de las necesidades
+
 | Plataforma | Descripción | Enlace |
 |------------|-------------|--------|
-| Trello | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso (user stories). | [Inicio \| Trello](https://trello.com) |
-| Uxpressia | Herramienta en línea que ayuda en el proceso de mapeo (user personas). | [https://uxpressia.com](https://uxpressia.com) |
-| Canva | Es una aplicación web de diseño y comunicación visual donde los usuarios pueden diseñar lo que deseen y publicarlo. | [https://www.canva.com](https://www.canva.com) |
-| Lucidchart | Sirve como un lienzo visual versátil para representar cualquier tipo de información estructurada o proceso, facilitando la comprensión. | [https://www.lucidchart.com](https://www.lucidchart.com) |
+| Trello | Plataforma de gestión de proyectos que permite realizar el seguimiento detallado del progreso (user stories) | [Inicio \| Trello](https://trello.com) |
+| Uxpressia | Herramienta en línea para la elaboración de artefactos de UX, como User Personas y Journey Maps. | [https://uxpressia.com](https://uxpressia.com) |
+| Canva | Aplicación web de diseño y comunicación visual utilizada para crear piezas gráficas del proyecto. | [https://www.canva.com](https://www.canva.com) |
+| Lucidchart | Herramienta visual para representar información estructurada, diagramas y procesos del sistema. | [https://www.lucidchart.com](https://www.lucidchart.com) |
 
+___
 
-Diseño UX/UI
+#### Diseño UX/UI
+
 | Plataforma | Descripción | Enlace |
 |------------|-------------|--------|
-| Figma | Herramienta para el diseño de productos digitales que fomenta la colaboración y agiliza el flujo de trabajo. | [https://www.figma.com](https://www.figma.com) |
+| Figma | Herramienta para el diseño colaborativo de interfaces digitales, permitiendo prototipado y trabajo en equipo. | [https://www.figma.com](https://www.figma.com) |
 
+___
 
-Desarrollo de software
+#### Desarrollo de software
+
 | Plataforma           | Descripción                                                                                              | Link |
 |----------------------|----------------------------------------------------------------------------------------------------------|------|
-| HTML                 | Sirve para definir la estructura y el contenido de una página web.                                       | [HTML Tutorial](https://www.w3schools.com/html/) |
-| CSS                  | Se encarga de la presentación visual y el estilo de la página web.                                       | [CSS Tutorial](https://www.w3schools.com/css/) |
-| JS                   | Añade interactividad y dinamismo a la página web.                                                        | [JavaScript Tutorial](https://www.w3schools.com/js/) |
-| Visual Studio Code   | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos. | [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) |
+| HTML                 | Define la estructura y contenido de las páginas web.                                       | [HTML Tutorial](https://www.w3schools.com/html/) |
+| CSS                  | Se encarga del estilo y presentación visual de las interfaces.                                       | [CSS Tutorial](https://www.w3schools.com/css/) |
+| JS                   | Añade interactividad y dinamismo a la aplicación web.                                                        | [JavaScript Tutorial](https://www.w3schools.com/js/) |
+| Visual Studio Code   | Entorno de desarrollo para la edición, depuración y gestión de código. | [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) |
 
+____
 
-Implementación de software
+#### Implementación de software
+
 | Plataforma | Descripción                                                                 | Link |
 |------------|-----------------------------------------------------------------------------|------|
-| GitHub     | Gestión de la documentación en función a repositorios y organizaciones.     | [https://github.com](https://github.com) |
-| Markdown   | Formato base para la presentación y documentación del proyecto.             | [Markdown - La guía definitiva en español](https://markdown.es/) |
-| Git        | Herramienta de control de versiones que facilita el registro y la gestión de las versiones distintas del programa. | [https://git-scm.com/](https://git-scm.com/) |
+| GitHub     | Plataforma para la gestión de repositorios y control de versiones del código del proyecto.    | [https://github.com](https://github.com) |
+| Markdown   | Lenguaje de marcado utilizado para la documentación del informe.            | [Markdown - La guía definitiva en español](https://markdown.es/) |
+| Git        |Sistema de control de versiones para registrar, gestionar y colaborar en el desarrollo del software. | [https://git-scm.com/](https://git-scm.com/) |
 
+<br>
 
 
 ### 5.1.2. Source Code Management
 
+#### Flujo de trabajo y control de versiones
 
-# Flujo de trabajo y control de versiones
-
-El proyecto sigue el flujo de trabajo **GitFlow** para el control de versiones, utilizando **GitHub** como plataforma de alojamiento y gestión del código. A continuación, se detalla la implementación de este modelo.
+El proyecto sigue el flujo de trabajo GitFlow para el control de versiones, utilizando GitHub como plataforma de alojamiento y gestión del código. A continuación, se detalla la implementación de este modelo.
 
 ---
 
@@ -2723,46 +2729,47 @@ Se creó una organización para el equipo de trabajo:
 ## Ramas principales
 
 - **main (principal):**  
-  Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de **BusTrack**.  
-  Cada release se marca con etiquetas semánticas (ej. `v1.0.0`) o con etiquetas referentes a cada entregable (ej. `TB1`, `TP`, `TB2`, `TF`) para facilitar el rastreo y la aplicación de las actualizaciones.
+
+Contiene el código estable y listo para producción, correspondiente a las versiones oficiales de BusTrack. Cada release se marca con etiquetas semánticas (p. ej., v1.0.0) o con etiquetas referentes a cada entregable (p. ej., TB1, TP, TB2, TF), facilitando el rastreo y control de versiones.
 
 - **develop (rama de desarrollo):**  
-  Alberga la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas.  
-  También funciona como base para pruebas internas y ajustes previos a su fusión con la rama `main`.  
+
+Contiene la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas. Funciona además como base para pruebas internas antes de fusionarse con la rama main.
 
 ---
 
 ## Ramas de soporte
 
-- **feature/** → ramas para trabajar nuevas funcionalidades.  
-- **release/** → ramas temporales para preparar una nueva versión estable.  
-- **hotfix/** → ramas para corregir errores en producción.  
+- **feature/** → ramas para el desarrollo de nuevas funcionalidades.
+- **release/** → ramas temporales para preparar una nueva versión estable.
+- **hotfix/** → ramas destinadas a la corrección rápida de errores en producción.
 
 ---
 
 ## Convención de mensajes de commits
 
-El equipo seguirá la convención de mensajes de commits definida en **“Conventional Commits”**.  
+El equipo utiliza la convención Conventional Commits, para mantener claridad y trazabilidad.
 
 ### Ejemplos:
 - `feat: agregar nuevo sistema de login`  
 - `fix: corregir validación en formulario de registro`  
 - `docs: actualizar README con instrucciones de despliegue`
 
+Descripción: La imagen muestra el flujo de trabajo GitFlow, utilizado para organizar el proceso de desarrollo de BusTrack. En el diagrama se observan las ramas principales (main y develop), así como las ramas de soporte (feature, release, hotfix) y la forma en que interactúan entre sí para gestionar versiones y actualizaciones del proyecto.
+
 <img src="img/commons/gitflow.jpg" style="width: 700px; margin-right: 700px;"/>
 
+_**Figura XX.** Flujo de trabajo GitFlow utilizado para la gestión del código fuente._ <br> _**Fuente:** elaboración propia._
 
+<br>
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+#### Guía de Estilo de Desarrollo
 
-# Guía de Estilo de Desarrollo
+El equipo adoptará nomenclatura en inglés para variables, funciones, clases y archivos del proyecto, con el fin de mantener coherencia, escalabilidad y buenas prácticas.
 
-El equipo adoptará nomenclatura en inglés para todas las variables, funciones, clases y archivos del proyecto, con el objetivo de mantener flexibilidad, escalabilidad y coherencia en el desarrollo.  
-
-**HTML / CSS** se sigue el **Google HTML/CSS Style Guide**.  
-
-Se utilizarán etiquetas semánticas, identificadores claros y descriptivos para accesibilidad y mantenimiento.  
+Para HTML y CSS, se sigue la guía Google HTML/CSS Style Guide. Se emplean etiquetas semánticas y nombres descriptivos para mejorar accesibilidad y mantenibilidad.
 
 ---
 
@@ -2800,7 +2807,7 @@ Se utilizarán etiquetas semánticas, identificadores claros y descriptivos para
 - **Nombres de componentes**: `PascalCase` (Ejemplo: `UserProfile.vue`).  
 - **Props**: Definir tipos y valores por defecto.  
 
-
+<br>
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -2839,7 +2846,7 @@ Se muestra a continuación la landing page desplegada en su primera versión:
 
 🔗 [Landing Page desplegada](https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/)  
 
-
+<br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
