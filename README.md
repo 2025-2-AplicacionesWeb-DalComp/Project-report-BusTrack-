@@ -3469,68 +3469,65 @@ _**Fuente:** elaboración propia._
 
 ### 5.2.3. Sprint 3
 
-En esta parte, se registran y explican los avances del Sprint 3 en cuanto al desarrollo de la página y la colaboración del equipo. 
+En esta parte se registran y explican los avances del Sprint 3 en cuanto al desarrollo de la aplicación y la colaboración del equipo.  
 
-El objetivo de este sprint fue lograr la integración total entre el frontend, el backend y la base de datos.
+El objetivo de este sprint fue lograr la integración total entre el frontend, el backend y la base de datos, permitiendo trabajar con datos persistentes y flujos completos en la plataforma BusTrack.
 
 #### 5.2.3.1. Sprint Planning 3
 
-#### Primer Sprint - Planificación
+En esta sección se presenta la planificación del Sprint 3, detallando el contexto de la reunión, los acuerdos alcanzados y el objetivo principal de integrar de forma estable el frontend con el backend y la base de datos de BusTrack.
 
-A continuación, se muestra la planificación del equipo para llevar a cabo de manera exitosa el Sprint 3.
+#### Sprint 3 – Planning Background
 
-#### Sprint 3 - Planning Background
-
-| **Elemento**                       | **Detalle**                                                                                                                                               |
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Date**                           | 2025/11/03                                                                                                                                                |
-| **Time**                           | 20:00 PM                                                                                                                                                   |
-| **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
-| **Prepared by**                    | Todos los integrantes de DalComp                                                                                                                               |
-| **Attendees (to planning meeting)**| Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
-| **Sprint 2 Review Summary** | En el Sprint 2 se implementó el frontend de la aplicación web, incluyendo login, registro, perfil, notificaciones, paraderos cercanos y búsqueda de rutas. Además, se realizó el despliegue del frontend y la conexión con la API mediante variables de entorno                                                                                                                 |
-| **Sprint 2 Retrospective Summary**     | Se identificó que la distribución de aspectos por pantallas y el uso de GitFlow facilitaron el trabajo en paralelo. Como oportunidades de mejora, el equipo detectó la necesidad de dedicar más tiempo a pruebas integrales y a la gestión de errores entre frontend y backend                                                                                                         |
-| **Sprint 3 Goal**                  | Desplegar una versión integrada y estable de BusTrack, conectando completamente el frontend con el backend y la base de datos de BusTrack permitiendo la persistencia real de usuarios, rutas favoritas, historial de viajes y notificaciones |
-| **Sprint 3 Velocity**              | 12                                                                                                                                                          |
-| **Sum of Story Points**            | 16                                                                                                                                                          |
-
+| **Elemento**                        | **Detalle**                                                                                                                                                                                                                      |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                            | 2025/11/03                                                                                                                                                                                                                       |
+| **Time**                            | 20:00                                                                                                                                                                                                                            |
+| **Location**                        | Reunión virtual mediante la plataforma Google Meet                                                                                                                                                                              |
+| **Prepared by**                     | Todos los integrantes de DalComp                                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Mathias Andree Cárdenas Huamán, Elizabeth Noelia Apaza Bocanegra, Diego Andrés Avalos Córdova, Joaquín Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro                                                                   |
+| **Sprint 2 Review Summary**         | En el Sprint 2 se implementó el frontend de la aplicación web, incluyendo login, registro, perfil, notificaciones, paraderos cercanos y búsqueda de rutas. Además, se realizó el despliegue del frontend y la conexión con la API mediante variables de entorno. |
+| **Sprint 2 Retrospective Summary**  | Se identificó que la distribución de aspectos por pantallas y el uso de GitFlow facilitaron el trabajo en paralelo. Como oportunidades de mejora, el equipo detectó la necesidad de dedicar más tiempo a pruebas integrales y a la gestión de errores entre frontend y backend. |
+| **Sprint 3 Goal**                   | Desplegar una versión integrada y estable de BusTrack, conectando completamente el frontend con el backend y la base de datos, permitiendo la persistencia real de usuarios, rutas favoritas, historial de viajes y notificaciones. |
+| **Sprint 3 Velocity**               | 12                                                                                                                                                                                                                               |
+| **Sum of Story Points**             | 16                                                                                                                                                                                                                               |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
-Para este sprint, se definieron aspectos clave centrados en la **integración funcional** y la **persistencia de datos.** Cada aspecto cuenta con un líder (L) y uno o más colaboradores (C).
+Para este sprint se definieron aspectos clave centrados en la **integración funcional** y la **persistencia de datos**. Cada aspecto cuenta con un líder (L) y uno o más colaboradores (C), con el fin de asegurar la cobertura de las principales pantallas y flujos del sistema.
 
-| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Login, Sign In y Home** | **Sección "Notificaciones"** | **Sección "Perfil"** | **Sección "Paraderos Cercanos"** | **Sección "Buscar Ruta"** |
-|-----------------------------------------|-----------------------|--------------------------------------|-----------------------------|--------------------------|-----------------------------|------------------------------------|
-| Mathias Andree Cárdenas Huaman          | AndS56                | C                                    | C                           | C                        | L                           | C                                  |
-| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                    | L                           | L                        | C                           | C                                  |
-| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                    | C                           | L                        | L                           | C                                  |
-| Joaquin Alberto Cuentas Peña            | JoaCUPE               | C                                    | C                           | C                        | C                           | L                                  |
-| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | L                                    | C                           | C                        | C                           | C                                  |
+| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Login, Sign In y Home** | **Sección “Notificaciones”** | **Sección “Perfil”** | **Sección “Paraderos Cercanos”** | **Sección “Buscar Ruta”** |
+|-----------------------------------------|------------------------|----------------------------|------------------------------|-----------------------|-----------------------------------|---------------------------|
+| Mathias Andree Cárdenas Huamán          | AndS56                 | C                          | C                            | C                     | L                                 | C                         |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza        | C                          | L                            | L                     | C                                 | C                         |
+| Diego Andrés Avalos Córdova             | DiegoAndresAvalos      | C                          | C                            | L                     | L                                 | C                         |
+| Joaquín Alberto Cuentas Peña            | JoaCUPE                | C                          | C                            | C                     | C                                 | L                         |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom         | L                          | C                            | C                     | C                                 | C                         |
+
 
 
 #### 5.2.3.3. Sprint Backlog 3
 
-El objetivo principal del Sprint 3 es consolidar la conexión del frontend con el backend y habilitando la persistencia en la base de datos. Se priorizaron historias de usuario relacionadas con:
+El objetivo principal del Sprint 3 es consolidar la conexión del frontend con el backend y habilitar la persistencia de datos en la base de datos. Para ello, se priorizaron historias de usuario relacionadas con:
 
-- Gestión de cuenta (login, registro, edición de perfil)
-- Historial de viajes
-- Rutas favoritas
-- Notificaciones relacionadas a la operación del bus
-- Estabilidad y manejo de errores de la aplicación
+- Gestión de cuenta (login, registro y edición de perfil).  
+- Rutas favoritas.  
+- Notificaciones relacionadas con la operación del bus.  
+- Estabilidad y manejo de errores de la aplicación.  
 
-## Sprint Backlog 3
+##### Sprint Backlog 3 – User Stories y tareas
 
-| **User Story** | **Title**                        | **Task ID** | **Task Title**                                         | **Description**                                                                                 | **Estimation (hours)** | **Assigned to**    | **Status** |
-|----------------|------------------------------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------|--------------------|------------|
-| US03         | Guardar rutas frecuentes                    | T22         | Conectar botón “Guardar ruta” con backend| Enviar la ruta seleccionada al endpoint `/favorites` y mostrar mensajes de éxito / error | 2                       | Diego Avalos    | Done     |
-| US03         | Guardar rutas frecuentes                    | T23         | Listar rutas favoritas del usuario| Consumir el endpoint `/favorites` y mostrar las rutas favoritas dentro de la sección de perfil | 2                       | Diego Avalos    | Done     |
-| US05           | Recibir notificaciones de retraso                    | T24         | Conectar notificaciones de retraso | Integrar el backend para mostrar alertas cuando el bus supera el retraso >10 min | 3                       | Fátima Florez    | Done     |
-| US10           | Registro de usuario                   | T25        | Conectar formulario de registro con backend | Integrar el formulario de registro con el endpoint `/users` para crear cuentas reales en la base de datos | 3                       | Elizabeth Apaza    | Done     |
-| US11           | Calificar servicio                    | T26      | Integrar calificación de viaje | Conectar la vista de calificación con el endpoint `/ratings` y registrar calificaciones 1–5 estrellas | 2                       | Mathias Cárdenas   | Done     |
-| US11           | Calificar servicio                    | T27      | Mostrar calificaciones previas | Consumir el endpoint `/ratings?userId={id}` y mostrar calificaciones del usuario | 2                       | Mathias Cárdenas   | Done     |
-| US12           | Editar perfil                    | T28      | Actualización de datos del perfil | Integrar la vista “Editar perfil” con el endpoint `PUT /users/{id}` para actualizar correo, nombre y foto | 3                       | Elizabeth Apaza   | Done     |
-| US12           | Editar perfil                    | T29      | Manejo global de errores | Implementar mensajes de error, estados vacíos y loaders en perfil, rutas, favoritos y notificaciones | 2                       | Joaquin Cuentas   | Done     |
-| US12           | Editar perfil                    | T30      | Ajustar textos y validaciones | Revisar y estandarizar mensajes de validación para el usuario (éxito/error) | 2                       | Joaquin Cuentas   | Done     |
+| **User Story** | **Title**                 | **Task ID** | **Task Title**                                           | **Description**                                                                                                                                                                       | **Estimation (hours)** | **Assigned to**        | **Status** |
+|----------------|---------------------------|-------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------------------|-----------|
+| US03           | Guardar rutas frecuentes  | T22         | Conectar botón “Guardar como favorita” con backend       | Enviar la ruta seleccionada al endpoint `POST /api/users/{userId}/favorites` y mostrar mensajes de éxito o error según la respuesta del servidor.                                   | 2                       | Diego Andrés Avalos    | Done      |
+| US03           | Guardar rutas frecuentes  | T23         | Listar rutas favoritas del usuario                       | Consumir el endpoint `GET /api/users/{userId}/favorites` y mostrar las rutas favoritas dentro de la sección correspondiente del perfil del pasajero.                                | 2                       | Diego Andrés Avalos    | Done      |
+| US05           | Notificaciones de retraso | T24         | Conectar notificaciones de retraso                       | Integrar el backend para mostrar notificaciones de retraso cuando el bus supera un umbral de demora (por ejemplo, mayor a 10 minutos), actualizando la lista y el toast emergente. | 3                       | Fátima Belén Florez    | Done      |
+| US06           | Alertas de desvío         | T25         | Integrar alertas de desvío con backend                   | Consumir el endpoint de alertas para mostrar notificaciones de desvío en la lista, permitiendo además eliminar alertas desde la interfaz manteniendo la sincronización visual.     | 3                       | Joaquín Alberto Cuentas| Done      |
+| US09           | Registro de pasajero      | T26         | Conectar formulario de registro con backend              | Integrar el formulario de registro con el endpoint `POST /api/users` para crear cuentas reales en la base de datos y manejar respuestas de éxito o error.                          | 3                       | Elizabeth Noelia Apaza | Done      |
+| US10           | Editar perfil             | T27         | Actualización de datos del perfil                        | Integrar la vista “Editar perfil” con el endpoint `PUT /api/users/{id}` para actualizar correo, nombre y foto de perfil del pasajero.                                               | 3                       | Elizabeth Noelia Apaza | Done      |
+| US10           | Editar perfil             | T28         | Manejo global de errores en vistas clave                 | Implementar mensajes de error, estados vacíos y loaders en las pantallas de perfil, rutas, favoritos y notificaciones, utilizando respuestas del backend.                          | 2                       | Joaquín Alberto Cuentas| Done      |
+| US10           | Editar perfil             | T29         | Ajuste de textos y mensajes de validación                | Revisar y estandarizar mensajes de validación y feedback (éxito/error) para formularios de login, registro y edición de perfil, asegurando coherencia de lenguaje y tono.          | 2                       | Joaquín Alberto Cuentas| Done      |
+| US10           | Editar perfil             | T30         | Revisión final de flujos de usuario integrados           | Probar de extremo a extremo los flujos de registro, login, edición de perfil, rutas favoritas y notificaciones, documentando errores y corrigiendo ajustes menores de interfaz.    | 2                       | Todo el equipo DalComp | Done      |
 
 
 #### 5.2.3.4. Development Evidence for Sprint Review
@@ -3549,13 +3546,142 @@ El objetivo principal del Sprint 3 es consolidar la conexión del frontend con e
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+En esta sección se presentan las evidencias de ejecución del Sprint 3, específicamente relacionadas con la integración del frontend con los servicios del backend. Las capturas corresponden a la verificación de los endpoints del módulo de **Notificaciones**, evaluando su correcto funcionamiento mediante la consola interactiva generada por la documentación del API. Cada imagen muestra cómo el sistema procesa solicitudes reales, envía parámetros, persiste datos y retorna respuestas según lo definido en las Technical Stories.
+
 ##### Notifications Endpoint
-<img src="/img/commons/cap1.png" >
-<img src="/img/commons/cap2.png" >
-<img src="/img/commons/cap3.png" >
-<img src="/img/commons/cap5.png" >
-<img src="/img/commons/cap6.png" >
-<img src="/img/commons/cap7.png" >
+
+###### GET `/api/v1/notifications`
+Esta captura muestra la interfaz del endpoint encargado de listar las notificaciones de un usuario, permitiendo ingresar el parámetro `userId` y visualizar la estructura de la respuesta.
+
+<img src="/img/commons/cap1.png">
+
+_**Figura 148.** Vista del endpoint GET `/api/v1/notifications`, mostrando los parámetros requeridos y el ejemplo de respuesta estructurada._  
+_**Fuente:** elaboración propia._
+
+---
+
+###### POST `/api/v1/notifications/delays`
+La imagen evidencia el formulario del endpoint para registrar notificaciones de retraso, donde se ingresan los valores `userId`, `routeId`, `delayMinutes` y `message` antes de ejecutar la solicitud.
+
+<img src="/img/commons/cap2.png">
+
+_**Figura 149.** Endpoint POST `/api/v1/notifications/delays`, mostrando el esquema del cuerpo de la solicitud para registrar una notificación de retraso._  
+_**Fuente:** elaboración propia._
+
+---
+
+###### PUT `/api/v1/notifications/{id}/read`
+Esta captura muestra la sección del endpoint que permite marcar una notificación como leída mediante el envío del parámetro `id` en la ruta.
+
+<img src="/img/commons/cap3.png">
+
+_**Figura 150.** Endpoint PUT `/api/v1/notifications/{id}/read`, que permite actualizar el estado de lectura de una notificación específica._  
+_**Fuente:** elaboración propia._
+
+---
+
+###### POST `/api/v1/notifications/delays` (ejecución)
+La imagen presenta la ejecución real del registro de una notificación, mostrando el cuerpo enviado y la respuesta procesada correctamente por el servidor.
+
+<img src="/img/commons/cap5.png">
+
+_**Figura 151.** Ejecución del endpoint POST `/api/v1/notifications/delays`, evidenciando el registro exitoso de una notificación de retraso._  
+_**Fuente:** elaboración propia._
+
+---
+
+###### GET `/api/v1/notifications` (ejecución)
+La captura refleja la ejecución del listado de notificaciones filtradas por usuario, mostrando el cuerpo JSON retornado por el servidor con datos persistidos.
+
+<img src="/img/commons/cap6.png">
+
+_**Figura 152.** Ejecución del endpoint GET `/api/v1/notifications`, mostrando la respuesta con notificaciones almacenadas en el sistema._  
+_**Fuente:** elaboración propia._
+
+---
+
+###### PUT `/api/v1/notifications/{id}/read` (ejecución)
+Finalmente, esta captura muestra la ejecución del proceso para marcar una notificación como leída, con el código de respuesta del servidor que confirma la actualización.
+
+<img src="/img/commons/cap7.png">
+
+_**Figura 153.** Ejecución del endpoint PUT `/api/v1/notifications/{id}/read`, confirmando la actualización del estado de lectura._  
+_**Fuente:** elaboración propia._
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En este sprint se desarrolló y documentó el módulo de **Notificaciones** del Web Service de BusTrack, utilizando **Swagger / OpenAPI** para estandarizar la descripción de los endpoints implementados. Esta documentación permitió validar el correcto funcionamiento de las operaciones de lectura, creación y actualización de notificaciones, así como verificar que las respuestas del servidor cumplan con los criterios definidos en las Technical Stories del sprint.
+
+A continuación, se presentan las evidencias correspondientes a la ejecución real de los endpoints, incluyendo sus parámetros, cuerpos de solicitud, respuestas y códigos HTTP retornados.
+
+---
+
+### **GET `/api/v1/notifications` – Listar notificaciones**
+
+La siguiente captura muestra la estructura del endpoint encargado de obtener todas las notificaciones asociadas a un usuario, permitiendo ingresar el parámetro `userId` mediante query string.
+
+<img src="/img/commons/cap1.png">
+
+_**Figura 154.** Documentación del endpoint GET `/api/v1/notifications`, mostrando los parámetros requeridos y un ejemplo de respuesta JSON._  
+_**Fuente:** elaboración propia._
+
+---
+
+### **POST `/api/v1/notifications/delays` – Registrar notificación de retraso**
+
+En esta evidencia se observa el formulario del cuerpo de la solicitud, donde se envían los campos necesarios para registrar una nueva notificación de retraso: `userId`, `routeId`, `delayMinutes` y `message`.
+
+<img src="/img/commons/cap2.png">
+
+_**Figura 155.** Documentación del endpoint POST `/api/v1/notifications/delays`, mostrando el esquema del request body requerido._  
+_**Fuente:** elaboración propia._
+
+---
+
+### **Ejecución real de POST `/api/v1/notifications/delays`**
+
+La siguiente captura muestra la ejecución del endpoint, incluyendo el JSON enviado y la respuesta generada por el servidor, que retorna la notificación registrada correctamente.
+
+<img src="/img/commons/cap5.png">
+
+_**Figura 156.** Ejecución del endpoint POST `/api/v1/notifications/delays`, registrando exitosamente una nueva notificación de retraso._  
+_**Fuente:** elaboración propia._
+
+---
+
+### **Ejecución real de GET `/api/v1/notifications`**
+
+Esta evidencia muestra la consulta real al endpoint, retornando una lista de notificaciones efectivamente almacenadas para el usuario especificado.
+
+<img src="/img/commons/cap6.png">
+
+_**Figura 157.** Ejecución del endpoint GET `/api/v1/notifications`, mostrando la respuesta con las notificaciones persistidas para el usuario._  
+_**Fuente:** elaboración propia._
+
+---
+
+### **PUT `/api/v1/notifications/{id}/read` – Marcar notificación como leída**
+
+El siguiente endpoint permite actualizar el estado de lectura de una notificación específica enviando su identificador mediante la ruta.
+
+<img src="/img/commons/cap3.png">
+
+_**Figura 158.** Documentación del endpoint PUT `/api/v1/notifications/{id}/read`, mostrando el parámetro de ruta y el código de respuesta esperado._  
+_**Fuente:** elaboración propia._
+
+---
+
+### **Ejecución real de PUT `/api/v1/notifications/{id}/read`**
+
+Finalmente, se presenta la ejecución real del endpoint, donde el servidor confirma la actualización del estado de la notificación mediante el código HTTP **204 – No Content**.
+
+<img src="/img/commons/cap7.png">
+
+_**Figura 159.** Ejecución del endpoint PUT `/api/v1/notifications/{id}/read`, confirmando el cambio de estado de la notificación._  
+_**Fuente:** elaboración propia._
+
+---
+
 
 
 ### 5.2.4. Sprint 4
