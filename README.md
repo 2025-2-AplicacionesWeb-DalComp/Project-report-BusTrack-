@@ -2357,8 +2357,11 @@ _**Figura 94.** Diagrama de clases del sistema BusTrack._ <br> _**Fuente:** elab
 
 ### 4.7.2. Class Dictionary
 
+A continuación se presenta el diccionario de clases correspondiente al modelo orientado a objetos de BusTrack. Se detallan atributos, descripciones, tipos de datos y métodos principales para cada entidad definida en el diagrama de clases.
+
+
 ## Clase: **User** *(Abstracta)*  
-**Descripción:** Usuario base del sistema  
+**Descripción:** Representa al usuario base del sistema.
 
 | Nombre de Atributo | Descripción                  | Tipo de Dato     |
 |--------------------|------------------------------|------------------|
@@ -2394,13 +2397,13 @@ _**Figura 94.** Diagrama de clases del sistema BusTrack._ <br> _**Fuente:** elab
 ---
 
 ## Clase: **Driver** *(Hereda de User)*  
-**Descripción:** Conductor de un bus  
+**Descripción:** Conductor asignado a un bus dentro del sistema.
 
 | Nombre de Atributo | Descripción                  | Tipo de Dato       |
 |--------------------|------------------------------|--------------------|
 | licenseNumber      | Número de licencia de conducir | String            |
 | assignedBus        | Bus asignado                 | Bus                |
-| shiftStatus        | Estado del turno             | enum (ShiftStatus) |
+| shiftStatus        | Estado del turno laboral     | enum (ShiftStatus) |
 
 **Métodos**  
 - `startShift()` — Inicia turno de trabajo  
@@ -2411,7 +2414,7 @@ _**Figura 94.** Diagrama de clases del sistema BusTrack._ <br> _**Fuente:** elab
 ---
 
 ## Clase: **Bus**  
-**Descripción:** Vehículo de transporte público  
+**Descripción:** Vehículo de transporte público registrado en el sistema.
 
 | Nombre de Atributo | Descripción                  | Tipo de Dato      |
 |--------------------|------------------------------|-------------------|
@@ -2496,124 +2499,159 @@ _**Figura 94.** Diagrama de clases del sistema BusTrack._ <br> _**Fuente:** elab
 
 **Métodos**  
 - `send()` — Envía la notificación  
-- `markAsRead()` — Marca como leída  
+- `markAsRead()` — Marca como leída
+
+<br>
+
 ## 4.8. Database Design
 
-En esta sección se diseñará e implementará la base de datos BusTrack con la información requerida de los usuarios y demás entidades para el duncionamiento correcto de la aplicación.
+En esta sección se presenta el diseño e implementación de la base de datos de BusTrack, la cual gestiona la información esencial de los usuarios, rutas, buses, paraderos y notificaciones. Este diseño garantiza el correcto funcionamiento de los módulos de la aplicación y su integración con las funcionalidades ya definidas en el modelo orientado a objetos.
+
 
 ### 4.8.1. Database Diagram
 
-En primer lugar, diseñanmos la base de datos en un diagrama Entidad-Relación (ER) usando el sitio web LucidChart. Este fue elegido debido a su practicidad e implementación de plantillas ER dentro de ella.
-link: https://lucid.app/lucidchart/7b7fbca6-a61b-4653-8ea2-b8b1985b5e9f/edit?viewport_loc=-393%2C-62%2C3568%2C1532%2C0_0&invitationId=inv_7298d486-3846-4284-ac1c-f5b20085366e 
+En primer lugar, se diseñó la base de datos mediante un diagrama Entidad–Relación (ER) utilizando la herramienta Lucidchart, seleccionada por su facilidad de uso y la disponibilidad de plantillas especializadas para modelado de bases de datos.
+
+Descripción: El diagrama ER representa las entidades principales del sistema BusTrack, sus atributos y las relaciones entre usuarios, pasajeros, rutas, buses, paraderos, notificaciones y viajes.
+
 
 <img src="img/commons/DiagramaERBusTrack.jpeg" style="width: 900px; margin-right: 900px;"/>
 
-Luego de diseñar nuestro diagrama, implementamos nuestro script para crear la base de datos BusTrack, la cual una vez implementada nos muestra el mapa físico de la base de datos. Para este entregable trabajamos con MySQL Workbench.
+_**Figura XX.** Diagrama Entidad–Relación del sistema BusTrack._  <br>_**Fuente:** elaboración propia._
+
+
+link: https://lucid.app/lucidchart/7b7fbca6-a61b-4653-8ea2-b8b1985b5e9f/edit?viewport_loc=-393%2C-62%2C3568%2C1532%2C0_0&invitationId=inv_7298d486-3846-4284-ac1c-f5b20085366e 
+
+Después de realizar el diseño conceptual, se implementó la base de datos en **MySQL Workbench**, lo que permitió visualizar el modelo físico generado a partir del script de creación. Esta herramienta facilitó la validación de las claves primarias, foráneas y relaciones N:M entre entidades.
+
+Descripción: El diagrama físico generado en MySQL Workbench muestra la estructura final de las tablas, incluyendo claves primarias, claves externas y relaciones derivadas del modelo ER inicial.
 
 <img src="img/commons/DiagramaERBusTrack-Workbench.jpg" style="width: 900px; margin-right: 900px;"/>
 
+_**Figura XX.** Diagrama físico de la base de datos BusTrack en MySQL Workbench._  <br> _**Fuente:** elaboración propia._
+
+___
+
 # Base de Datos: BusTrack1
 
+A continuación, se describen las tablas implementadas en la base de datos, incluyendo sus relaciones.
+
 ## 1. Tabla: `Users`
-- Contiene la información principal de los usuarios del sistema.  
-- **Campos:**  
-  - `userId` (PK)  
-  - `name`  
-  - `email` (único)  
-  - `password`  
-  - `role` (PASSENGER, DRIVER, ADMIN)  
-  - `profilePhoto`  
+
+Contiene la información principal de los usuarios del sistema.
+
+**Campos:**  
+- `userId` (PK)  
+- `name`  
+- `email` (único)  
+- `password`  
+- `role` (PASSENGER, DRIVER, ADMIN)  
+- `profilePhoto`  
 
 ---
 
 ## 2. Tabla: `Passenger`
-- Almacena información adicional de los pasajeros.  
-- Relación **1:1** con `Users` (cada pasajero es un usuario).  
-- **Campos:**  
-  - `userId` (PK, FK → `Users.userId`)  
-  - `dni`  
+
+Almacena la información asociada a los pasajeros.
+
+- Relación **1:1** con `Users` (cada pasajero es un usuario).
+
+**Campos:**  
+- `userId` (PK, FK → `Users.userId`)  
+- `dni`  
 
 ---
 
 ## 3. Tabla: `Notification`
-- Registra las notificaciones enviadas a los usuarios.  
-- Relación **N:1** con `Users` (cada notificación pertenece a un usuario).  
-- **Campos:**  
-  - `notificationId` (PK)  
-  - `message`  
-  - `sentAt`  
-  - `type` (ARRIVAL_ALERT, DELAY_ALERT, SECURITY_ALERT)  
-  - `status` (SENT, DELIVERED, READ)  
-  - `userId` (FK → `Users.userId`)  
+Registra las notificaciones enviadas a los usuarios.
+
+- Relación **N:1** con `Users` (un usuario puede tener muchas notificaciones).
+
+**Campos:**  
+- `notificationId` (PK)  
+- `message`  
+- `sentAt`  
+- `type` (ARRIVAL_ALERT, DELAY_ALERT, SECURITY_ALERT)  
+- `status` (SENT, DELIVERED, READ)  
+- `userId` (FK → `Users.userId`)  
 
 ---
 
 ## 4. Tabla: `Route`
-- Representa las rutas que realizan los buses.  
-- **Campos:**  
-  - `routeId` (PK)  
-  - `name`  
-  - `estimatedTime`  
-  - `frequency`  
+Representa las rutas disponibles en el sistema.
+
+**Campos:**  
+- `routeId` (PK)  
+- `name`  
+- `estimatedTime`  
+- `frequency`  
 
 ---
 
 ## 5. Tabla: `Stop`
-- Define los paraderos de las rutas.  
-- **Campos:**  
-  - `stopId` (PK)  
-  - `attribute1`  
-  - `attribute2`  
-  - `attribute3`  
+Define los paraderos asociados a las rutas.
+
+**Campos:**  
+- `stopId` (PK)  
+- `name`  
+- `location`  
+- `attribute1`  
+- `attribute2`  
+- `attribute3`  
 
 ---
 
 ## 6. Tabla: `Route_Stop`
-- Representa la relación **N:M** entre `Route` y `Stop`.  
-- **Campos:**  
-  - `routeId` (PK, FK → `Route.routeId`)  
-  - `stopId` (PK, FK → `Stop.stopId`)  
+Representa la relación **N:M** entre las entidades `Route` y `Stop`.
+
+**Campos:**  
+- `routeId` (PK, FK → `Route.routeId`)  
+- `stopId` (PK, FK → `Stop.stopId`)  
 
 ---
 
 ## 7. Tabla: `Bus`
-- Almacena la información de los buses.  
-- Relación **N:1** con `Route` (un bus pertenece a una ruta).  
-- **Campos:**  
-  - `busId` (PK)  
-  - `licensePlate` (único)  
-  - `capacity`  
-  - `currentLocation`  
-  - `status` (ACTIVE, INACTIVE, MAINTENANCE)  
-  - `routeId` (FK → `Route.routeId`)  
+Almacena los datos de los buses registrados.
+
+- Relación **N:1** con `Route` (un bus pertenece a una ruta).
+
+**Campos:**  
+- `busId` (PK)  
+- `licensePlate` (único)  
+- `capacity`  
+- `currentLocation`  
+- `status` (ACTIVE, INACTIVE, MAINTENANCE)  
+- `routeId` (FK → `Route.routeId`)  
 
 ---
 
 ## 8. Tabla: `Driver`
-- Contiene los datos de los conductores.  
-- Relación **1:1** con `Users` (cada conductor es un usuario).  
-- Relación **N:1** con `Bus` (un conductor puede estar asignado a un bus).  
-- **Campos:**  
-  - `userId` (PK, FK → `Users.userId`)  
-  - `licenseNumber`  
-  - `shiftStatus` (ACTIVE, INACTIVE, BREAK)  
-  - `busId` (FK → `Bus.busId`)  
+Contiene los datos de los conductores asignados.
+
+- Relación **1:1** con `Users`  
+- Relación **N:1** con `Bus`
+
+**Campos:**  
+- `userId` (PK, FK → `Users.userId`)  
+- `licenseNumber`  
+- `shiftStatus` (ACTIVE, INACTIVE, BREAK)  
+- `busId` (FK → `Bus.busId`)  
 
 ---
 
 ## 9. Tabla: `Travel`
-- Registra los viajes realizados.  
-- Relación **N:1** con `Route` (un viaje corresponde a una ruta).  
-- Relación **N:1** con `Passenger` (un viaje corresponde a un pasajero).  
-- **Campos:**  
-  - `travelId` (PK)  
-  - `startTime`  
-  - `endTime`  
-  - `duration`  
-  - `routeId` (FK → `Route.routeId`)  
-  - `userId` (FK → `Passenger.userId`)  
+Registra los viajes realizados por los pasajeros.
 
+- Relación **N:1** con `Route`  
+- Relación **N:1** con `Passenger`
 
+**Campos:**  
+- `travelId` (PK)  
+- `startTime`  
+- `endTime`  
+- `duration`  
+- `routeId` (FK → `Route.routeId`)  
+- `userId` (FK → `Passenger.userId`)  
 
 <br><br>
 
