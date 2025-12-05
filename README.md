@@ -766,7 +766,7 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 | **Medio utilizado:** Zoom |
 | **Evidencia:**  <img src="img/commons/evidencia6.png" width="200"/> <br> _**Figura 12.** Evidencia de entrevista 6 - Segmento 2._ <br> _**Fuente:** elaboración propia._|
 | **Link de entrevista:** <https://upcedupe-my.sharepoint.com/personal/u20201f788_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201f788%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegemento%20objetivo%202%20%2D%20Walter%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E271d57e2%2D0088%2D4def%2Da3c3%2D2723d93114b8> | 
-| **Resumen de entrevista:**  |
+| **Resumen de entrevista:**  El entrevistado muestra atracción por una aplicación que ayude a mejorar la supervisición sobre los conductores de la empresa, ya que por el momento, solo tienen un control al incio y final de iniciada una ruta. Considera que una supervisión en tiempo real podría mejorar la confianza generada en los pasajeros y muestra su interes porque BusTrack sea una aplicación sencialla de uso para agilizar tiempos. |
 
 <br>
 
