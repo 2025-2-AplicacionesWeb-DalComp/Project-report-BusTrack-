@@ -61,23 +61,36 @@
 
 | URL de la organización del proyecto |
 | ----------------------------------- |
-| [https://github.com/2025-2-AplicacionesWeb-DalComp](https://github.com/2025-2-AplicacionesWeb-DalComp) |
+| <https://github.com/2025-2-AplicacionesWeb-DalComp> |
 
 | URL del repositorio del reporte |
 | ------------------------------- |
-| [https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-) |
+| <https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-> |
 
 | URL del repositorio de la landing page |
 | -------------------------------------- |
-| [https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page](https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page) |
+| <https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page> |
 
 | URL del repositorio del Frontend |
 | -------------------------------------- |
-| [https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Frontend](https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Frontend) |
+| <https://github.com/JoaCUPE/UltimoFront.git> |
 
 | URL del repositorio del Backend |
 | -------------------------------------- |
-| [https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend](https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend) |
+| <https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend> |
+
+| URL del figma wireframes |
+| -------------------------------------- |
+| <https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/Untitled?node-id=0-1&t=drwWMkwR0WqztaeY-1>|
+
+
+| URL del despliegue de la landing page |
+| -------------------------------------- |
+| <https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/> |
+
+| URL del despliegue de la página web |
+| -------------------------------------- |
+| <https://ultimo-front.vercel.app/>   |
 
 
 <br><br>
@@ -4164,7 +4177,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
     <td><div style="text-align: left;">
     <img src="/img/commons/evidencia7.png" style="width: 350px; height: auto;" />
   </div> <br>
-  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 1 - Segmento 1.</em><br>
+  <em><strong>Figura 174.</strong> Evidencia de validación de entrevista 1 - Segmento 1.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
@@ -4220,7 +4233,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
     <td><div style="text-align: left;">
     <img src="/img/commons/evidencia8.png" style="width: 350px; height: auto;" />
   </div>  <br>
-  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 2 - Segmento 1.</em><br>
+  <em><strong>Figura 175.</strong> Evidencia de validación de entrevista 2 - Segmento 1.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
@@ -4277,7 +4290,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
     <td><div style="text-align: left;">
     <img src="/img/commons/evidencia9.png" style="width: 350px; height: auto;" />
   </div> <br>
-  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 3 - Segmento 1.</em><br>
+  <em><strong>Figura 176.</strong> Evidencia de validación de entrevista 3 - Segmento 1.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
@@ -4338,7 +4351,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
       <div style="text-align: left;">
     <img src="/img/commons/administrador-de-flota-entrevista1.png" style="width: 350px; height: auto;" />
   </div> <br>
-  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 4 - Segmento 2.</em><br>
+  <em><strong>Figura 177.</strong> Evidencia de validación de entrevista 4 - Segmento 2.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
@@ -4398,7 +4411,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
       <div style="text-align: left;">
     <img src="/img/commons/Supervisor de rutas de Transporte Urbano - Entrevista 2.png" style="width: 350px; height: auto;" />
   </div> <br>
-  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 5 - Segmento 2.</em><br>
+  <em><strong>Figura 178.</strong> Evidencia de validación de entrevista 5 - Segmento 2.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
@@ -4455,7 +4468,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
     <td><div style="text-align: left;">
     <img src="/img/commons/evidencia10.png" style="width: 350px; height: auto;" />
   </div> <br>
-  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 6 - Segmento 2.</em><br>
+  <em><strong>Figura 179.</strong> Evidencia de validación de entrevista 6 - Segmento 2.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
@@ -4622,19 +4635,23 @@ Para esta auditoría revisamos la experiencia del usuario en tareas clave alinea
 
 ## 5.4. Video About-the-Product
 
+<img src="img/commons/about.png"  width="700">
+
+   _**Figura 180.** Evidencia del video About-the-Product._  
+   _**Fuente:** elaboración propia._
+
+
+   Link: youtube.com/watch?v=6w7bTPVrwXI&feature=youtu.be
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones
-Durante el desarrollo de la plataforma, se logró entender en profundidad a los dos públicos principales: **estudiantes o trabajadores**, y **operadores y administradores de flota**. Esto permitió diseñar una solución centrada en sus necesidades reales, como la búsqueda eficiente de rutas, la validación de información, la comunicación directa y la gestión segura de datos.
 
-A diferencia de otras alternativas, la aplicación destaca por su **enfoque local** y su **propuesta integral**, que va más allá de la simple consulta de rutas al integrar funciones que generan confianza, seguridad y facilidad de uso.
+El desarrollo de BusTrack permitió aplicar de manera práctica los conceptos de frontend, backend y diseño de interfaces, logrando construir una plataforma funcional que integra una landing page informativa y un sistema web interactivo. A lo largo del proyecto, se reforzó la importancia de comprender las necesidades del usuario y traducirlas en interfaces claras, accesibles y orientadas a la experiencia real de navegación.
 
-Las **entrevistas con usuarios** y las **pruebas de usabilidad** fueron fundamentales para identificar mejoras en la interfaz y los flujos. Gracias a ello, se están realizando ajustes para optimizar la navegación, mejorar el contraste visual y asegurar una **experiencia intuitiva**.
+El trabajo con APIs, base de datos y servicios documentados con Swagger permitió entender cómo se conectan y comunican los distintos componentes del sistema. La integración entre frontend y backend, junto con el uso de variables de entorno, GitFlow y metodologías ágiles, brindó una experiencia completa sobre cómo se desarrolla y estructura un proyecto web profesional desde cero hasta su versión final.
 
-El uso de **metodologías ágiles** y de **Domain-Driven Design (DDD)** ha facilitado la evolución del producto, organizándolo en módulos clave como **rutas, gestión de paradas y seguimiento en vivo**, lo que mejora su escalabilidad y mantenimiento.
-
-En conjunto, la plataforma no solo busca **facilitar el traslado seguro y eficiente de estudiantes o trabajadores**, sino también **optimizar la gestión operativa de los operadores y administradores de flota** mediante herramientas digitales prácticas y confiables.
+Finalmente, el proceso de despliegue en GitHub Pages, Vercel y Render permitió aprender a publicar aplicaciones, gestionar entornos y validar funcionalidades en producción. Este proyecto no solo fortaleció conocimientos técnicos, sino también habilidades de trabajo colaborativo, organización del código y resolución de problemas, consolidando una base sólida para futuros desarrollos web.
 
 
 <br><br>
@@ -4653,16 +4670,25 @@ TomTom. (2024). _TomTom traffic index 2024._ https://www.tomtom.com/traffic-inde
 ## Anexos  
 
 - **URL de la organización del proyecto**  
-  [https://github.com/2025-2-AplicacionesWeb-DalComp](https://github.com/2025-2-AplicacionesWeb-DalComp)  
+  <https://github.com/2025-2-AplicacionesWeb-DalComp>
 
 - **URL del repositorio del reporte**  
-  [https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-](https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack-)  
+  <https://github.com/2025-2-AplicacionesWeb-DalComp/Project-report-BusTrack->
 
 - **URL del repositorio de la landing page**  
-  [https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page](https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page)  
+  <https://github.com/2025-2-AplicacionesWeb-DalComp/Landing-page>
+
+- **URL del repositorio del frontend**
+<https://github.com/JoaCUPE/UltimoFront.git>
+
+- **URL del repositorio del backend**
+<https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend.git>
 
 - **URL del figma wireframes**  
-  [https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/Untitled?node-id=0-1&t=drwWMkwR0WqztaeY-1](https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/Untitled?node-id=0-1&t=drwWMkwR0WqztaeY-1)  
+  <https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/Untitled?node-id=0-1&t=drwWMkwR0WqztaeY-1>
 
-- **URL del despliegue**  
-  [https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/](https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/)  
+- **URL del despliegue de la landing page**  
+<https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/>
+
+- **URL del despliegue de la página web**
+<https://ultimo-front.vercel.app/>  
