@@ -3393,6 +3393,15 @@ El objetivo principal de este sprint es **finalizar y consolidar la versión com
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+| Repository                        | Branch                  | Commit Message                                                         | Commited on  |
+|-----------------------------------|-------------------------|------------------------------------------------------------------------|--------------|
+| Project-report-BusTrack- | release/TF  | Update README.md | 2025-12-4   |
+| Project-report-BusTrack- | release/TF  | Fix image alignment in evidence section of README | 2025-12-5   |
+| BusTrack-Frontend | pagina-empresa  | fix: monitoring | 2025-12-3   |
+|  BusTrack-Frontend | pagina-empresa  | feat: add alerts | 2025-12-1   |
+| BusTrack-Frontend | new-frontend  | Add BusTrack API URL to environment variables | 2025-12-4   |
+| /BusTrack-Backend | new-frontend  | feat: flota y configuracion | 2025-12-2   |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
