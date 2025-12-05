@@ -103,6 +103,10 @@
 | -------------------------------------- |
 | <https://ultimo-front.vercel.app/>   |
 
+| URL del despliegue del backend |
+| -------------------------------------- |
+| <https://ultimo-back-c3lo.onrender.com/>   |
+
 
 <br><br>
 
@@ -4701,4 +4705,8 @@ TomTom. (2024). _TomTom traffic index 2024._ https://www.tomtom.com/traffic-inde
 <https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/>
 
 - **URL del despliegue de la página web**
-<https://ultimo-front.vercel.app/>  
+<https://ultimo-front.vercel.app/>
+
+- **URL del despliegue del backend**
+<https://ultimo-back-c3lo.onrender.com/>
+
