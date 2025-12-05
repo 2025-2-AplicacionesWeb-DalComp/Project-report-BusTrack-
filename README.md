@@ -3929,7 +3929,7 @@ _**Fuente:** elaboración propia._
 
 **Vista 2: Módulo web de pasajeros (versión final)**
 
-<img src="iimg/commons/WebApplicationsMock-ups4.png" alt="Módulo web de pasajeros en BusTrack" width="700">
+<img src="img/commons/WebApplicationsMock-ups4.png" alt="Módulo web de pasajeros en BusTrack" width="700">
 
 _**Figura 163.** Vista principal del módulo de pasajeros de BusTrack, que integra búsqueda de rutas, paraderos cercanos, rutas favoritas y notificaciones._  
 _**Fuente:** elaboración propia._  
