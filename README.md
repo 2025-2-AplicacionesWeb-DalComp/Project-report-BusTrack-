@@ -1866,42 +1866,219 @@ _**Figura 73.** Wireflow general de las aplicaciones web de BusTrack, que integr
 
 
 ### 4.4.3. Web Applications Mock-ups
-<img src="/img/commons/Web%20Applications%20Mock-ups%201.png" alt="Web Applications Mock-ups 1" style="width: 700px; margin-right: 700px;"/>
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%202.png" alt="Web Applications Mock-ups 2" style="width: 700px; margin-right: 700px;"/>
+En esta sección se presentan los primeros mock-ups desarrollados para el flujo del usuario pasajero, mostrando pantallas clave como el acceso, creación de cuenta, búsqueda de rutas, paraderos cercanos y visualización del perfil.
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%203.png" alt="Web Applications Mock-ups 3" style="width: 700px; margin-right: 700px;"/>
+**Mock-up 1**
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%204.png" alt="Web Applications Mock-ups 4" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ Este mock-up corresponde a la pantalla de bienvenida de BusTrack en su versión web. Presenta el logotipo oficial al centro como elemento principal de identidad visual, acompañado de dos botones que permiten seleccionar el tipo de usuario: Pasajero o Empresa. El diseño utiliza un fondo verde suave que comunica frescura y movilidad, manteniendo una propuesta visual amigable y accesible. La composición se centra en la simplicidad y claridad para reducir fricción en la primera interacción del usuario.
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%205.png" alt="Web Applications Mock-ups 5" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/WebApplicationsMock-ups1.png" style="width: 500px; margin-right: 700px;"/>
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%206.png" alt="Web Applications Mock-ups 6" style="width: 700px; margin-right: 700px;"/>
+<br>
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%207.png" alt="Web Applications Mock-ups 7" style="width: 700px; margin-right: 700px;"/>
+_**Figura 74.** Mock-up de la pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%208.png" alt="Web Applications Mock-ups 8" style="width: 700px; margin-right: 700px;"/>
+**Mock-up 2**
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%209.png" alt="Web Applications Mock-ups 9" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ Este mock-up muestra la pantalla de inicio de sesión para usuarios pasajeros. El diseño integra una ilustración juvenil y dinámica, reforzando la orientación del servicio a estudiantes y usuarios urbanos. Al lado derecho se presenta el formulario de acceso con campos para correo y contraseña, junto con accesos a recuperación de credenciales y registro. La composición visual asegura equilibrio entre ilustración y funcionalidad, resaltando el formulario con un fondo blanco y sombra suave.
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%2010.png" alt="Web Applications Mock-ups 10" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/WebApplicationsMock-ups2.png" style="width: 500px; margin-right: 700px;"/>
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%2011.png" alt="Web Applications Mock-ups 11" style="width: 700px; margin-right: 700px;"/>
+<br>
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%2012.png" alt="Web Applications Mock-ups 12" style="width: 700px; margin-right: 700px;"/>
+_**Figura 75.** Mock-up de la pantalla de Log In para pasajeros._ <br> _**Fuente:** elaboración propia._
 
-<img src="/img/commons/Web%20Applications%20Mock-ups%2013.png" alt="Web Applications Mock-ups 13" style="width: 700px; margin-right: 700px;"/>
+**Mock-up 3**
 
-Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/
+_Descripción:_ Este mock-up corresponde al formulario de creación de cuenta para pasajeros. El diseño mantiene coherencia visual con la interfaz de Log In, incorporando elementos como el fondo verde pastel y sombras suaves. El formulario incluye opción de registro rápido mediante Google y campos tradicionales (correo, usuario y contraseña). A la izquierda, un ícono genérico de perfil funciona como elemento ilustrativo y refuerza la idea de creación de identidad digital dentro del sistema.
+
+<img src="/img/commons/WebApplicationsMock-ups3.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 76.** Mock-up de la pantalla de registro de nuevos pasajeros._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 4**
+
+_Descripción:_ Este mock-up presenta la pantalla principal para el flujo de búsqueda de rutas del pasajero. La sección superior incorpora el header institucional con el nombre BusTrack y la barra de navegación. En el centro se muestra un mapa incrustado de Google Maps, destacando la ubicación actual del usuario. A la derecha se incluye un módulo de búsqueda con campos para origen y destino, así como un botón de acción claramente identificado. La composición busca favorecer la rapidez de interacción y la claridad en el flujo de búsqueda.
+
+<img src="/img/commons/WebApplicationsMock-ups4.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 77.** Mock-up de búsqueda de rutas para pasajeros._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 5**
+
+_Descripción:_ Este mock-up muestra la pantalla donde se visualiza la ruta seleccionada, integrando un panel lateral con información del viaje. Dicho panel destaca los puntos de origen y destino mediante etiquetas de colores (A y B) que refuerzan la comprensión espacial del usuario. Además, incluye opciones adicionales como guardar la ruta o visualizarla directamente en Google Maps. En la parte inferior se incorpora un botón de “Nueva búsqueda”, permitiendo al usuario reiniciar el proceso con facilidad.
+
+<img src="/img/commons/WebApplicationsMock-ups5.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 78.** Mock-up de la pantalla de visualización de ruta._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 6**
+
+_Descripción:_ Este mock-up corresponde a la sección de Notificaciones del pasajero. La pantalla utiliza un diseño minimalista con fondo verde muy claro para transmitir tranquilidad. El centro de la pantalla presenta una tarjeta que informa que no existen notificaciones disponibles, reforzando claridad y transparencia hacia el usuario. El diseño prioriza lectura rápida, accesibilidad y consistencia visual con la paleta oficial.
+
+<img src="/img/commons/WebApplicationsMock-ups6.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 79.** Mock-up de la pantalla de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 7**
+
+_Descripción:_ Este mock-up representa la pantalla de Paraderos Cercanos, donde el usuario visualiza información relevante de los paraderos próximos a su ubicación. Cada tarjeta incluye nombre del paradero, dirección, buses que pasan y distancia estimada. A la derecha, un mapa detallado apoya la localización espacial. Botones de acción como “Cómo llegar” y “Notificar llegada” permiten ampliar la interacción. El diseño combina información textual, visual y geográfica para una experiencia sólida y contextual.
+
+<img src="/img/commons/WebApplicationsMock-ups7.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 80.** Mock-up de la pantalla de paraderos cercanos._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 8**
+
+_Descripción:_ Este mock-up muestra la interfaz de Perfil del usuario pasajero. A la izquierda se ubica la tarjeta de información personal editable, incluyendo nombre, correo y contraseña, con íconos de visibilidad. A la derecha se despliegan las distintas secciones del perfil: rutas favoritas, historial de viajes, notificaciones y configuración. Cada sección incluye el botón “Detalles”, facilitando el acceso a funciones específicas. La pantalla mantiene una estructura equilibrada entre edición y navegación interna.
+
+<img src="/img/commons/WebApplicationsMock-ups8.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 81.** Mock-up de la pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 9**
+
+_Descripción:_ Este mock-up presenta la sección de Rutas favoritas del pasajero. En caso de no existir rutas guardadas, la pantalla muestra un mensaje informativo acompañado de un ícono de pin, reforzando la metáfora visual del mapa. Un botón central “Buscar rutas” dirige nuevamente al usuario al flujo principal. El diseño busca mantener coherencia con otras pantallas de estado vacío del sistema.
+
+<img src="/img/commons/WebApplicationsMock-ups9.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 82.** Mock-up de la pantalla de rutas favoritas (estado vacío)._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 10**
+
+_Descripción:_ Este mock-up corresponde a la sección de Historial de viajes, donde se muestran registros de rutas pasadas con información detallada: fecha, duración, distancia total y paraderos intermedios. Cada tarjeta usa un diseño oscuro para resaltar la jerarquía y diferenciarla del resto de la interfaz. En la parte superior derecha se incluye la opción “Borrar historial de usuario”, brindando control total al pasajero sobre sus datos.
+
+<img src="/img/commons/WebApplicationsMock-ups10.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 83.** Mock-up del historial de viajes del pasajero._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 11**
+
+_Descripción:_ Este mock-up representa la pantalla de configuración de notificaciones para pasajeros. En esta vista, el usuario puede activar o desactivar distintos tipos de alertas relacionadas con su experiencia de viaje, como llegada del bus, retrasos, paraderos cercanos o inicio del recorrido. Cada opción se presenta con un interruptor visual (toggle) que indica claramente su estado. La interfaz utiliza un contenedor central en tono verde pastel que distingue la sección interactiva del resto del contenido, manteniendo una jerarquía clara y una experiencia accesible.
+
+<img src="/img/commons/WebApplicationsMock-ups11.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 84.** Mock-up de configuración de notificaciones para pasajeros._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 12**
+
+_Descripción:_ Este mock-up muestra la sección de configuración de cuenta del pasajero, donde el usuario puede editar información personal como nombre, correo electrónico y contraseña. La tarjeta central presenta un diseño ordenado y jerárquico, con un ícono de perfil que permite gestionar la foto de usuario. El enfoque visual prioriza la claridad del formulario y la facilidad para realizar cambios. El botón “Guardar cambios” se ubica al final del módulo, siguiendo principios de diseño centrados en la acción principal.
+
+<img src="/img/commons/WebApplicationsMock-ups12.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 85.** Mock-up de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 13**
+
+_Descripción:_ Este mock-up corresponde a la pantalla de inicio de sesión para empresas. El diseño incorpora una fotografía de un bus en operación, reforzando la identidad visual corporativa y diferenciando este flujo del del pasajero. Al lado derecho, se ubica el formulario de Log In con campos para correo y contraseña, así como opciones complementarias como recuperación de contraseña y acceso a registro. La composición busca transmitir profesionalismo y generar confianza en usuarios empresariales.
+
+<img src="/img/commons/WebApplicationsMock-ups13.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 86.** Mock-up de Log In para empresas._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 14**
+
+_Descripción:_ Este mock-up presenta la pantalla de creación de cuenta empresarial, diseñada específicamente para organizaciones de transporte. El formulario incluye campos propios del modelo de negocio: nombre de la empresa, RUC, correo corporativo, dirección física, contraseña y tamaño de flota. El diseño mantiene coherencia con el flujo de registro del pasajero, pero incorpora un enfoque más institucional que responde a las necesidades de la gestión empresarial.
+
+<img src="/img/commons/WebApplicationsMock-ups14.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 87.** Mock-up de registro de nuevas empresas._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 15**
+
+_Descripción:_ Este mock-up corresponde a la interfaz de Monitoreo en Tiempo Real para empresas. En esta pantalla, los administradores visualizan un mapa interactivo junto a un panel de estado de buses, donde se indican detalles como ruta, conductor, última actualización y estado actual (en horario, retraso, fuera de servicio, etc.). Los estados están codificados por colores siguiendo la paleta de eventos del sistema (verde, amarillo y rojo). Esta vista se convierte en el núcleo operacional para la supervisión de flota.
+
+<img src="/img/commons/WebApplicationsMock-ups15.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 88.** Mock-up de monitoreo en tiempo real de flota empresarial._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 16**
+
+_Descripción:_ Este mock-up muestra la sección de Alertas Internas, donde la empresa puede revisar incidentes y notificaciones críticas ocurridas durante las operaciones. La interfaz incluye herramientas de filtrado por tipo, gravedad y estado, permitiendo priorizar la resolución de eventos. Cada alerta se presenta como una tarjeta con indicadores de gravedad mediante etiquetas codificadas por color. Además, se incorpora un botón “Marcar Resuelta” para gestionar estados operativos.
+
+<img src="/img/commons/WebApplicationsMock-ups16.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 89.** Mock-up de gestión de alertas internas._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 17**
+
+_Descripción:_ Este mock-up representa la pantalla de Administración de Flota, donde la empresa puede visualizar y gestionar todos los buses registrados. El módulo superior resume las estadísticas clave: total de buses, activos, en mantenimiento e inactivos. Debajo, una tabla estructurada muestra los datos principales de cada unidad (ID, placa, ruta asignada, estado y conductor). Acciones rápidas como “Editar” y “Detalles” permiten una administración eficiente y accesible.
+
+<img src="/img/commons/WebApplicationsMock-ups17.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 90.** Mock-up de administración de flota para empresas._ <br> _**Fuente:** elaboración propia._
+
+**Mock-up 18**
+
+_Descripción:_ Este mock-up corresponde a la sección de Configuración Empresarial, que centraliza la edición de información institucional, preferencias de alertas y parámetros de seguridad. La pantalla está organizada en tres bloques principales:
+
+- Información de la Empresa (datos generales como nombre, RUC y dirección).
+
+- Preferencias de Alertas (tipo de alertas y tiempos de tolerancia).
+
+- Seguridad (cambio de contraseña).
+
+Cada sección se presenta en tarjetas diferenciadas para favorecer la claridad visual y la navegación interna. Al final se incluye un botón destacado de “Cerrar Sesión”.
+
+<img src="/img/commons/WebApplicationsMock-ups18.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 91.** Mock-up de configuración empresarial._ <br> _**Fuente:** elaboración propia._
+
+
+Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/BusTrack-wireframes-y-mockups?node-id=0-1&t=vbZPvREtMGxi30PI-1
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="/img/commons/Web Applications User Flow Diagrams.png" alt="Web Applications User Flow Diagrams" style="width: 900px; margin-right: 900px;"/>
+Para el caso de BusTrack se desarrollaron dos flujos principales:
+
+- Flujo del usuario pasajero, que incluye etapas como selección de tipo de usuario, autenticación, registro, búsqueda de rutas, visualización de paraderos cercanos, uso del perfil, acceso a rutas favoritas, historial de viajes y configuración de notificaciones.
+
+- Flujo del usuario empresa, que considera procesos como autenticación empresarial, registro corporativo, monitoreo en tiempo real, gestión de alertas internas, administración de flota y edición de configuración institucional.
+
+El diagrama permite visualizar la complejidad lógica del sistema y valida que cada pantalla cuente con una ruta clara, evitando callejones sin salida y asegurando una navegación eficiente y coherente. Asimismo, facilita la comunicación entre equipos de diseño, desarrollo y stakeholders, garantizando que la experiencia de usuario cumpla con los objetivos funcionales definidos en el proyecto.
+
+<img src="/img/commons/WebApplicationsUserFlowDiagrams.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 92.** Diagrama general de User Flows para los usuarios Pasajero y Empresa en la aplicación web BusTrack._ <br> _**Fuente:** elaboración propia._
 
 ## 4.5. Web Applications Prototyping
 En esta sección se simula la navegación e interacción del usuario con la plataforma. Los diseños reflejan los flujos definidos en los User Flow Diagrams, priorizando la claridad, la usabilidad y la consistencia visual.
 
 <img src="/img/commons/Web%20Applications%20Prototyping.png" alt="Web Applications Prototyping" style="width: 700px; margin-right: 700px;"/>
+
 
 Link del video: https://drive.google.com/file/d/1jQzmb0z41K3b1MGZBZUukn5p4k0_au6g/
 
