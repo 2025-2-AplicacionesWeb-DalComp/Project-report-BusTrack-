@@ -2116,7 +2116,7 @@ La imagen muestra una captura del prototipo navegable desarrollado para la plata
 _**Figura 94.** Vista del prototipo navegable de la aplicación web BusTrack_ <br> _**Fuente:** elaboración propia._
 
 
-Link del video: 
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320610_upc_edu_pe/IQC7dRPCc0B4RLVpPp85x9blAWwlxJ49K6pJozzxoxrtHiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bxbHzL
 
 ## 4.6. Domain-Driven Software Architecture
 La arquitectura de software orientada al dominio (Domain-Driven Design, DDD) permite estructurar el sistema en función de los conceptos principales asociados al transporte urbano y a los distintos tipos de usuarios de la plataforma. Esta aproximación facilita que la lógica de negocio represente con precisión las necesidades reales de cada segmento y asegura que las funcionalidades clave se organicen dentro de bounded contexts bien definidos.
