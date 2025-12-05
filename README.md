@@ -2119,13 +2119,70 @@ _**Figura 94.** Vista del prototipo navegable de la aplicación web BusTrack_ <b
 Link del video: 
 
 ## 4.6. Domain-Driven Software Architecture
-La arquitectura de software orientada al dominio nos permite estructurar el sistema en torno a los conceptos fundamentales del transporte urbano, asegurando que la lógica de negocio se ajuste con precisión a las necesidades de los usuarios. En esta sección aplicaremos Bounded Contexts para la gestión de usuarios, rutas, paraderos y notificaciones.
+La arquitectura de software orientada al dominio (Domain-Driven Design, DDD) permite estructurar el sistema en función de los conceptos principales asociados al transporte urbano y a los distintos tipos de usuarios de la plataforma. Esta aproximación facilita que la lógica de negocio represente con precisión las necesidades reales de cada segmento y asegura que las funcionalidades clave se organicen dentro de bounded contexts bien definidos.
+En BusTrack se identifican dos contextos principales según los segmentos objetivo:
+
+- Pasajeros, orientado a movilidad y búsqueda de rutas.
+
+- Empresas de transporte, orientado a la gestión operativa de flotillas y alertas.
 
 
 ### 4.6.1. Design-Level Event Storming
-En esta sección se detallan los procesos clave del dominio, identificando los segmentos objetivos junto con los sucesos, comandos y errores relevantes. Además, las funcionalidades se organizaron en bounded contexts, lo que permite reflejar la lógica del sistema de manera estructurada.
 
-<img src="/img/commons/Design-Level%20Event%20Storming.png" alt="Design-Level Event Storming" style="width: 900px; margin-right: 900px;"/>
+El Design-Level Event Storming permitió desglosar los procesos fundamentales del dominio mediante la identificación de:
+
+- Comandos (acciones iniciadas por los usuarios).
+
+- Eventos de dominio (resultados generados por el sistema).
+
+- Actores (tipos de usuario que intervienen en cada flujo).
+
+- Errores o eventos alternativos.
+
+- Bounded contexts (grupos lógicos coherentes de funcionalidades).
+
+<img src="/img/commons/Design-LevelEvent Storming-LEYENDA.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Leyenda del Design-Level Event Storming._ <br> _**Fuente:** elaboración propia._
+
+Se desarrollaron dos diagramas de Event Storming, uno por cada segmento objetivo, debido a que los procesos, decisiones y responsabilidades son diferentes para pasajeros y empresas.
+
+___
+
+**Segmento 1**
+
+Este flujo inicia con el objetivo de negocio: “Facilitar la movilidad urbana con información en tiempo real de buses y paraderos”.
+
+El diagrama incluye los procesos principales del usuario pasajero:
+
+- Identity and Access Management: Registro, inicio de sesión, autenticación.
+
+- Route & Stop Management: Búsqueda de rutas, consulta de paraderos, selección de ruta, inicio y fin de un viaje.
+
+- Notification & Monitoring: Activación de notificaciones y recepción de alertas relevantes.
+
+
+<img src="/img/commons/Design-LevelEvent Storming-Segmento1.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Design-Level Event Storming del segmento 1._ <br> _**Fuente:** elaboración propia._
+
+___
+
+**Segmento 2**
+
+El flujo empresarial inicia con un objetivo diferente: “Optimizar la gestión operativa de la flota mediante monitoreo en tiempo real y administración eficiente de alertas y recursos”.
+
+En este caso, los bounded contexts y procesos incluyen:
+
+- Fleet & Operations Management: Registro de buses, actualización de estado, actualización de ubicación en tiempo real.
+
+- Alert Management: Creación y resolución de alertas operativas.
+
+- Company Settings: Configuración de parámetros operativos y preferencias internas.
+
+<img src="/img/commons/Design-LevelEvent Storming-Segmento2.png" style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 94.** Design-Level Event Storming del segmento 2._ <br> _**Fuente:** elaboración propia._
 
 Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 
