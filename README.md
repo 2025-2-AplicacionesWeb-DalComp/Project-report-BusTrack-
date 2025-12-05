@@ -2856,9 +2856,9 @@ En esta sección se presenta la implementación práctica del proyecto BusTrack,
 
 Durante el Sprint 1 se desarrollaron los componentes fundamentales del proyecto, incluyendo la estructura inicial de la landing page, las primeras vistas navegables y la configuración básica del entorno frontend. Esta fase permitió establecer la base visual y técnica sobre la cual se implementaron las funcionalidades avanzadas en los siguientes sprints.
 
-#### 5.2.1.1. Sprint Planning 1
+### 5.2.1.1. Sprint Planning 1
 
-#### Primer Sprint - Planificación
+### Primer Sprint - Planificación
 
 El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tuvo una duración de **una semana**.
 
@@ -2883,9 +2883,9 @@ De esta manera, se aseguró que el **producto inicial** estuviera operativo y si
 | **Sum of Story Points**             | 8                                                                                                                                                         |
 
 
-#### 5.2.1.2. Aspect Leaders and Collaborators
+### 5.2.1.2. Aspect Leaders and Collaborators
 
-# Sprint - Desarrollo de la Landing Page de BusTrack
+### Sprint - Desarrollo de la Landing Page de BusTrack
 
 Para este sprint se eligió el desarrollo de la **Landing Page de BusTrack**, que representa el primer contacto entre el usuario y la plataforma.
 
@@ -2912,9 +2912,9 @@ Cada aspecto fue asignado a un **líder (L)**, mientras que otros miembros asumi
 | Fátima Belén Florez Shimabukuro         | PengwinKingdom         | L                                      | C                             | C                          | C                            | C                                        |
 
 
-#### 5.2.1.3. Sprint Backlog 1
+### 5.2.1.3. Sprint Backlog 1
 
-# Sprint Backlog 1
+### Sprint Backlog 1
 
 En esta sección se presenta el **Sprint Backlog 1**, que corresponde al primer ciclo de desarrollo del proyecto.  
 
@@ -2927,66 +2927,65 @@ El objetivo principal de este sprint es el **diseño y desarrollo de la landing 
 - Explicar el funcionamiento del servicio.  
 - Motivar a los usuarios a registrarse o explorar la plataforma.  
 
-# Sprint Backlog 1 - User Stories y Tareas
+### Sprint Backlog 1 - User Stories y Tareas
 
-| **User Story** | **Title**                    | **Task ID** | **Task Title**                                | **Description**                                            | **Estimation (hours)** | **Assigned to**    | **Status** |
-|----------------|-------------------------------|-------------|-----------------------------------------------|------------------------------------------------------------|-------------------------|--------------------|------------|
-| US13           | Cómo se usa la solución       | T01         | Desarrollar el contenido de buscar ruta        | Se detalla cómo el usuario encontrará una ruta              | 1                       | Fátima Florez      | done       |
-| US13           | Cómo se usa la solución       | T02         | Desarrollar el contenido de recibir alertas    | Se detalla cómo se recibirán alertas                       | 1                       | Diego Avalos       | done       |
-| US13           | Cómo se usa la solución       | T03         | Desarrollar el contenido de viajar más seguro  | Se detalla por qué se viaja más seguro usando la solución   | 1                       | Elizabeth Apaza    | done       |
-| US14           | Beneficios de la aplicación   | T04         | Desarrollar el contenido de información en tiempo real | Se detalla cómo se obtiene el contenido en tiempo real | 1                       | Mathia Cardenas    | done       |
-| US14           | Beneficios de la aplicación   | T05         | Desarrollar el contenido de guardar rutas favoritas | Se detalla cómo se guardan las rutas favoritas         | 1                       | Joaquin Cuentas    | done       |
-| US14           | Beneficios de la aplicación   | T06         | Desarrollar el contenido de alertas y notificaciones | Se detalla cómo funcionan las notificaciones en la aplicación | 1                  | Fátima Florez      | done       |
-| US15           | Misión y visión               | T07         | Desarrollar la misión de la empresa            | Se detalla la misión de la empresa                          | 1                       | Joaquin Cuentas    | done       |
-| US15           | Misión y visión               | T08         | Desarrollar la visión de la empresa            | Se detalla la visión de la empresa                          | 1                       | Diego Avalos       | done       |
-
-
+| **User Story** | **Title**                    | **Task ID** | **Task Title**                                       | **Description**                                                         | **Estimation (hours)** | **Assigned to**     | **Status** |
+|----------------|------------------------------|-------------|------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|---------------------|-----------|
+| US11           | Información de la solución   | T01         | Desarrollar el contenido de buscar ruta             | Se detalla cómo el usuario encontrará una ruta                         | 1                       | Fátima Florez       | done      |
+| US11           | Información de la solución   | T02         | Desarrollar el contenido de recibir alertas         | Se detalla cómo se recibirán alertas                                   | 1                       | Diego Ávalos        | done      |
+| US11           | Información de la solución   | T03         | Desarrollar el contenido de viajar más seguro       | Se detalla por qué se viaja más seguro usando la solución              | 1                       | Elizabeth Apaza     | done      |
+| US12           | Beneficios de la aplicación  | T04         | Desarrollar el contenido de información en tiempo real | Se detalla cómo se obtiene la información en tiempo real            | 1                       | Mathias Cárdenas    | done      |
+| US12           | Beneficios de la aplicación  | T05         | Desarrollar el contenido de guardar rutas favoritas | Se detalla cómo se guardan las rutas favoritas                         | 1                       | Joaquín Cuentas     | done      |
+| US12           | Beneficios de la aplicación  | T06         | Desarrollar el contenido de alertas y notificaciones | Se detalla cómo funcionan las notificaciones en la aplicación        | 1                       | Fátima Florez       | done      |
+| US13           | Misión y visión              | T07         | Desarrollar la misión de la empresa                 | Se detalla la misión de la empresa                                     | 1                       | Joaquín Cuentas     | done      |
+| US13           | Misión y visión              | T08         | Desarrollar la visión de la empresa                 | Se detalla la visión de la empresa                                     | 1                       | Diego Ávalos        | done      |
 
 
-#### 5.2.1.4. Development Evidence for Sprint Review
+---
 
+### 5.2.1.4. Development Evidence for Sprint Review
 
-En esta sección, se presentan los commits realizados en el repositorio report-BusTrack, correspondiente al entregable de la TB1.
+En esta sección se presentan los commits realizados en el repositorio **report-BusTrack**, correspondientes al entregable de la **TB1**.
 
-| Repository      | Branch        | Commit Id                              | Commit Message                                                                 | Commit Message Body                                        | Committed on |
-|-----------------|--------------|----------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|--------------|
-| report-BusTrack | release/TB1  | 9be8d1246065a1df0bf31a8a6770ba6675eb18e3 | docs: Evidence insights                                                        | Agregadas evidencias de resultados del sprint              | 12/09        |
-| report-BusTrack | release/TB1  | e4a0086192cec0ffc386ff31c4c1f32d50e8f0fb | docs: Evidence for deploy updated                                              | Actualizadas evidencias del despliegue                     | 15/09        |
-| report-BusTrack | release/TB1  | 1749bd218bd45853bc535dbbd6f7e31559e84fa7 | docs: Product backlog updated                                                  | Backlog actualizado con nuevas historias                   | 16/09        |
-| report-BusTrack | release/TB1  | 0e2b97949cdf82c5627b4d1d0cfc79c069daadf9 | docs: Chapter 5.2 updated until sprint 1                                       | Capítulo 5.2 documentado hasta el sprint 1                 | 18/09        |
-| report-BusTrack | release/TB1  | 0736d75e03942ad4a5718524b782f3c247bf68d4 | docs: databases updated v.2                                                    | Actualización de la base de datos versión 2                | 20/09        |
-| report-BusTrack | release/TB1  | e196437c3add54b353673b18f9537c478124cb43 | Add files via upload                                                           | Archivos agregados mediante carga directa                  | 12/09        |
-| report-BusTrack | release/TB1  | 75c8e13e662df4302b2dac02e3a00e2c61500c06 | Rename Diagrama de Clases.png to classDiagram.png                              | Imagen de diagrama renombrada                              | 15/09        |
-| report-BusTrack | release/TB1  | 0b34d4f3d6acb8bd4df75e2c32734443889e77a6 | docs: database chapter updated. 20/09                                          | Documento del capítulo de base de datos actualizado         | 20/09        |
-| report-BusTrack | release/TB1  | e716344016ce1b0d198c41bb209151e309eee633 | docs: databases image added. 20-09                                             | Imagen de base de datos añadida                            | 20/09        |
-| report-BusTrack | release/TB1  | d855ca194a4421ec94dfdfaafb1e77fedaf4b78b | docs: execution evidence for sprint updated                                    | Evidencia de ejecución del sprint actualizada              | 16/09        |
-| report-BusTrack | release/TB1  | 52955accf8bb9f903e9ff9d44322b8c2330751f3 | docs: Outcome updated                                                          | Resultados del sprint actualizados                         | 18/09        |
-| report-BusTrack | release/TB1  | b65edeaa23abe060b0ceb85ed865f61748186333 | Finalización del 2.4. Y 2.5.                                                   | Conclusión de las secciones 2.4 y 2.5                      | 20/09        |
-| report-BusTrack | release/TB1  | 0d78a35a109f10da341ca847643fc2d9b7ded03e | Rename Organigrama Árbol de Jerarquías Sencillo Colorido Azul.png to Árbol.png | Organigrama renombrado                                     | 12/09        |
-| report-BusTrack | release/TB1  | c58bcb660fb8d69bc77cfbbed85154be6e5cdd74 | Finalización del 4.2.1.                                                         | Se completó la sección 4.2.1                               | 15/09        |
-| report-BusTrack | release/TB1  | c9fa7ba4b39ef3d7832e7fd769aebf1e389fa378 | Finalización del 4.2.                                                          | Se completó la sección 4.2                                 | 16/09        |
-| report-BusTrack | release/TB1  | c58bcb660fb8d69bc77cfbbed85154be6e5cdd74 | Finalización del 4.2.1.                                                         | Documento de la sección 4.2.1 finalizado                   | 18/09        |
-| report-BusTrack | release/TB1  | 0d78a35a109f10da341ca847643fc2d9b7ded03e | Rename Organigrama Árbol de Jerarquías Sencillo Colorido Azul.png to Árbol.png | Imagen de organigrama renombrada                          | 20/09        |
-| report-BusTrack | release/TB1  | 9431c9904b497b877814f475956c5a4c83e43d59 | Fin de la 4.1.1.                                                               | Documento de la sección 4.1.1 finalizado                   | 12/09        |
-| report-BusTrack | release/TB1  | ad60d03c7f831075ed9779c98df86c84176dd420 | Rename Blanco to Blanco.png                                                     | Archivo renombrado a Blanco.png                            | 15/09        |
-| report-BusTrack | release/TB1  | 2894c859105f88930f604649c90b71d12578276e | Rename GrisOscuro to GrisOscuro.png                                            | Archivo renombrado a GrisOscuro.png                        | 16/09        |
-| report-BusTrack | release/TB1  | 1fa4fd6609178b198e5a297e9d35bbd7e34682b5 | Rename VerdeClaro to VerdeClaro.png                                            | Archivo renombrado a VerdeClaro.png                        | 18/09        |
-| report-BusTrack | release/TB1  | 1fa6ba3edacafdb20c69f54adb2268b8ac235566 | Rename VerdePrincipial to VerdePrincipial.png                                  | Archivo renombrado a VerdePrincipial.png                   | 20/09        |
-| report-BusTrack | release/TB1  | 2c15f56e30e449d408e0dfc8f2711cbe2fed2b69 | Rename Captura de pantalla 2025-09-17 152551.png to GrisOscuro                 | Imagen renombrada a GrisOscuro                             | 12/09        |
-| report-BusTrack | release/TB1  | 1e153713c4774680fa04bccb1b99d9d667be58d3 | Rename Captura de pantalla 2025-09-17 152520.png to VerdeClaro                 | Imagen renombrada a VerdeClaro                             | 15/09        |
-| report-BusTrack | release/TB1  | 2c6554d29a1c1797c8273ed522c92b5a9d01abe7 | Rename Captura de pantalla 2025-09-17 152642.png to Blanco                     | Imagen renombrada a Blanco                                 | 16/09        |
-| report-BusTrack | release/TB1  | c2878754db9b3968e619c3bc591c15b9e2dc9273 | Rename Captura de pantalla 2025-09-17 152415.png to VerdePrincipial            | Imagen renombrada a VerdePrincipial                        | 18/09        |
-| report-BusTrack | release/TB1  | 74f5528ee851aba6848cca335ad41db1e764d44b | Actualización del 4.1. Style Guidelines                                        | Estilo actualizado en la sección 4.1                       | 20/09        |
-| report-BusTrack | release/TB1  | a560e07bb811286a693a6a981f3ca521f0c2282f | Terminado el 3.2. User Stories                                                 | Historias de usuario de la sección 3.2 finalizadas         | 12/09        |
-| report-BusTrack | release/TB1  | 3b2ad5bedc27358a10dcb7596f523efa896ebbae | Edición de User Stories                                                        | Modificación de historias de usuario                       | 15/09        |
-| report-BusTrack | release/TB1  | 6f5ad8b546e69836c87c59d90698d855aec7c76a | Avance del To-Be Scenario Mapping                                              | Progreso en el mapeo del escenario To-Be                   | 16/09        |
+| Repository      | Branch       | Commit ID                               | Commit Message                                                                 | Commit Message Body                                           | Committed on |
+|-----------------|--------------|------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------|--------------|
+| report-BusTrack | release/TB1  | 9be8d1246065a1df0bf31a8a6770ba6675eb18e3 | docs: Evidence insights                                                        | Agregadas evidencias de resultados del sprint                 | 12/09        |
+| report-BusTrack | release/TB1  | e4a0086192cec0ffc386ff31c4c1f32d50e8f0fb | docs: Evidence for deploy updated                                              | Actualizadas evidencias del despliegue                        | 15/09        |
+| report-BusTrack | release/TB1  | 1749bd218bd45853bc535dbbd6f7e31559e84fa7 | docs: Product backlog updated                                                  | Backlog actualizado con nuevas historias                      | 16/09        |
+| report-BusTrack | release/TB1  | 0e2b97949cdf82c5627b4d1d0cfc79c069daadf9 | docs: Chapter 5.2 updated until sprint 1                                       | Capítulo 5.2 documentado hasta el sprint 1                    | 18/09        |
+| report-BusTrack | release/TB1  | 0736d75e03942ad4a5718524b782f3c247bf68d4 | docs: databases updated v.2                                                    | Actualización de la base de datos, versión 2                  | 20/09        |
+| report-BusTrack | release/TB1  | e196437c3add54b353673b18f9537c478124cb43 | Add files via upload                                                           | Archivos agregados mediante carga directa                     | 12/09        |
+| report-BusTrack | release/TB1  | 75c8e13e662df4302b2dac02e3a00e2c61500c06 | Rename Diagrama de Clases.png to classDiagram.png                              | Imagen de diagrama renombrada                                 | 15/09        |
+| report-BusTrack | release/TB1  | 0b34d4f3d6acb8bd4df75e2c32734443889e77a6 | docs: database chapter updated. 20/09                                          | Documento del capítulo de base de datos actualizado           | 20/09        |
+| report-BusTrack | release/TB1  | e716344016ce1b0d198c41bb209151e309eee633 | docs: databases image added. 20-09                                             | Imagen de base de datos añadida                               | 20/09        |
+| report-BusTrack | release/TB1  | d855ca194a4421ec94dfdfaafb1e77fedaf4b78b | docs: execution evidence for sprint updated                                    | Evidencia de ejecución del sprint actualizada                 | 16/09        |
+| report-BusTrack | release/TB1  | 52955accf8bb9f903e9ff9d44322b8c2330751f3 | docs: Outcome updated                                                          | Resultados del sprint actualizados                            | 18/09        |
+| report-BusTrack | release/TB1  | b65edeaa23abe060b0ceb85ed865f61748186333 | Finalización del 2.4 y 2.5                                                     | Conclusión de las secciones 2.4 y 2.5                         | 20/09        |
+| report-BusTrack | release/TB1  | 0d78a35a109f10da341ca847643fc2d9b7ded03e | Rename Organigrama Árbol de Jerarquías Sencillo Colorido Azul.png to Árbol.png | Organigrama renombrado                                        | 12/09        |
+| report-BusTrack | release/TB1  | c58bcb660fb8d69bc77cfbbed85154be6e5cdd74 | Finalización del 4.2.1.                                                        | Se completó la sección 4.2.1                                  | 15/09        |
+| report-BusTrack | release/TB1  | c9fa7ba4b39ef3d7832e7fd769aebf1e389fa378 | Finalización del 4.2.                                                          | Se completó la sección 4.2                                    | 16/09        |
+| report-BusTrack | release/TB1  | c58bcb660fb8d69bc77cfbbed85154be6e5cdd74 | Finalización del 4.2.1.                                                        | Documento de la sección 4.2.1 finalizado                      | 18/09        |
+| report-BusTrack | release/TB1  | 0d78a35a109f10da341ca847643fc2d9b7ded03e | Rename Organigrama Árbol de Jerarquías Sencillo Colorido Azul.png to Árbol.png | Imagen de organigrama renombrada                              | 20/09        |
+| report-BusTrack | release/TB1  | 9431c9904b497b877814f475956c5a4c83e43d59 | Fin de la 4.1.1.                                                               | Documento de la sección 4.1.1 finalizado                      | 12/09        |
+| report-BusTrack | release/TB1  | ad60d03c7f831075ed9779c98df86c84176dd420 | Rename Blanco to Blanco.png                                                    | Archivo renombrado a Blanco.png                               | 15/09        |
+| report-BusTrack | release/TB1  | 2894c859105f88930f604649c90b71d12578276e | Rename GrisOscuro to GrisOscuro.png                                            | Archivo renombrado a GrisOscuro.png                           | 16/09        |
+| report-BusTrack | release/TB1  | 1fa4fd6609178b198e5a297e9d35bbd7e34682b5 | Rename VerdeClaro to VerdeClaro.png                                            | Archivo renombrado a VerdeClaro.png                           | 18/09        |
+| report-BusTrack | release/TB1  | 1fa6ba3edacafdb20c69f54adb2268b8ac235566 | Rename VerdePrincipial to VerdePrincipial.png                                  | Archivo renombrado a VerdePrincipial.png                      | 20/09        |
+| report-BusTrack | release/TB1  | 2c15f56e30e449d408e0dfc8f2711cbe2fed2b69 | Rename Captura de pantalla 2025-09-17 152551.png to GrisOscuro                 | Imagen renombrada a GrisOscuro                                | 12/09        |
+| report-BusTrack | release/TB1  | 1e153713c4774680fa04bccb1b99d9d667be58d3 | Rename Captura de pantalla 2025-09-17 152520.png to VerdeClaro                 | Imagen renombrada a VerdeClaro                                | 15/09        |
+| report-BusTrack | release/TB1  | 2c6554d29a1c1797c8273ed522c92b5a9d01abe7 | Rename Captura de pantalla 2025-09-17 152642.png to Blanco                     | Imagen renombrada a Blanco                                    | 16/09        |
+| report-BusTrack | release/TB1  | c2878754db9b3968e619c3bc591c15b9e2dc9273 | Rename Captura de pantalla 2025-09-17 152415.png to VerdePrincipial            | Imagen renombrada a VerdePrincipial                           | 18/09        |
+| report-BusTrack | release/TB1  | 74f5528ee851aba6848cca335ad41db1e764d44b | Actualización del 4.1. Style Guidelines                                        | Estilo actualizado en la sección 4.1                          | 20/09        |
+| report-BusTrack | release/TB1  | a560e07bb811286a693a6a981f3ca521f0c2282f | Terminado el 3.2. User Stories                                                 | Historias de usuario de la sección 3.2 finalizadas            | 12/09        |
+| report-BusTrack | release/TB1  | 3b2ad5bedc27358a10dcb7596f523efa896ebbae | Edición de User Stories                                                        | Modificación de historias de usuario                          | 15/09        |
+| report-BusTrack | release/TB1  | 6f5ad8b546e69836c87c59d90698d855aec7c76a | Avance del To-Be Scenario Mapping                                              | Progreso en el mapeo del escenario To-Be                      | 16/09        |
 
+### 5.2.1.5. Execution Evidence for Sprint Review
 
+En esta sección se presenta la evidencia de ejecución del Sprint 1 mediante capturas de la **landing page** de BusTrack desplegada.  
+Las imágenes muestran el estado real del producto al cierre del sprint y permiten validar que las historias de usuario priorizadas se reflejan en la interfaz implementada.
 
-
-#### 5.2.1.5. Execution Evidence for Sprint Review
-
-# Avances en los Productos Desarrollados  
+### Avances en los Productos Desarrollados  
 
 **Producto desarrollado:** Landing Page (versión estática)  
 
@@ -2996,98 +2995,175 @@ En esta sección, se presentan los commits realizados en el repositorio report-B
 - Se desarrolló una sección de **“Cómo usar”**, estructurada por pasos visuales.  
 - Se diseñó la **sección introductoria**, donde se explica brevemente la finalidad de la plataforma.  
 - Se creó una sección **“Beneficios de BusTrack”**, que presenta los beneficios diferenciales mediante listas e íconos decorativos.  
-- Se añadió una **sección sobre nosotros**, en la que se expone la misión y visión de nuestra empresa y solución.  
+- Se añadió una **sección “Sobre nosotros”**, en la que se expone la misión y visión de nuestra empresa y solución.  
 - Se construyó un **footer simple**, que cumple con los créditos del autor.  
 - Se aplicaron **estilos CSS** para lograr un diseño limpio, responsivo en pantallas móviles y legible.  
 
 La landing page **no incluye funcionalidades dinámicas**, ni conexión con base de datos o servicios web, ya que se trata de un desarrollo inicial con **HTML y CSS puro**, orientado a validar la estructura visual y de contenido.  
 
+---
+
+### Vista 1: Hero y mensaje principal  
+Esta imagen muestra la sección inicial de la landing page, donde se presenta la propuesta de valor y el mensaje introductorio para el usuario.
+
 ![landing1](img/landing1.png)
+
+_**Figura 95.** Sección principal (hero) de la landing page de BusTrack._  
+_**Fuente:** elaboración propia._
+
+---
+
+### Vista 2: Sección “Cómo usar”  
+Aquí se visualizan los pasos que guía a los usuarios sobre cómo utilizar la plataforma BusTrack.
+
 ![landing2](img/landing2.png)
+
+_**Figura 96.** Sección “Cómo usar” con los pasos explicativos del funcionamiento de la aplicación._  
+_**Fuente:** elaboración propia._
+
+---
+
+### Vista 3: Sección de beneficios  
+Esta captura presenta los beneficios clave ofrecidos por BusTrack, acompañados de texto descriptivo e íconos.
+
 ![landing3](img/landing3.png)
+
+_**Figura 97.** Sección de beneficios que describe las ventajas principales de BusTrack._  
+_**Fuente:** elaboración propia._
+
+---
+
+### Vista 4: Sobre nosotros y footer  
+La imagen muestra la sección “About Us”, donde se comunica la misión y visión, junto con el pie de página del sitio.
+
 ![landing4](img/landing4.png)
 
+_**Figura 98.** Sección “Sobre nosotros” y footer de la landing page de BusTrack._  
+_**Fuente:** elaboración propia._
 
+<br>
 
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, el equipo se enfocó exclusivamente en el desarrollo de la **Landing Page de BusTrack**, por lo tanto, **no se ha implementado ni documentado ningún Web Service** hasta el momento.
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-
-# Desarrollo durante el Sprint  
-
-Durante este Sprint, el equipo se enfocó exclusivamente en el desarrollo de la **Landing Page de BusTrack**, por lo tanto, **no se ha implementado ni documentado ningún Web Service** hasta el momento.  
-
-La **documentación e implementación de endpoints REST** está planificada para los siguientes sprints, en los cuales se abordará la creación de los servicios **frontend y backend** necesarios para funcionalidades como:  
+La **documentación e implementación de endpoints REST** está planificada para los siguientes sprints, en los cuales se abordará la creación de los servicios **frontend y backend** necesarios para funcionalidades como:
 
 - Login  
-- Registro  
+- Registro de pasajeros y empresas  
 - Gestión de usuarios  
-- Pruebas vocacionales  
-- Reservas de sesiones con psicólogos  
+- Gestión de rutas y buses  
+- Notificaciones y monitoreo en tiempo real  
 
-
+---
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+### Sprint 1 - Desarrollo y Despliegue
 
-# Sprint 1 - Desarrollo y Despliegue  
+Durante el primer sprint, el equipo desarrolló y desplegó la **landing page** del proyecto BusTrack utilizando GitHub Pages.
 
-Durante el primer sprint, desarrollamos y desplegamos la **landing page** del proyecto.  
+A continuación, se describen los pasos seguidos para el despliegue, junto con la evidencia correspondiente.
 
-## Pasos para el despliegue  
+---
 
-1. **Creación de la Organización BusTrack**  
-   Iniciamos creando una organización que albergará los repositorios del proyecto, entre ellos el de la landing page.
-   [![deploy1](https://i.postimg.cc/VvDKXqs6/imagen-2025-10-10-084539146.png)](https://postimg.cc/WqqmvJkL)
+#### Paso 1: Creación de la organización BusTrack
 
+En primer lugar, se creó una organización en GitHub para centralizar los repositorios relacionados con el proyecto BusTrack.
 
-2. **Creación del Repositorio en GitHub**  
-   Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
-   [![deploy2](https://i.postimg.cc/Kv0WT24t/imagen-2025-10-10-084506760.png)](https://postimg.cc/TpWQ8BVP)
+![deploy1](img/deploy1.png)  
 
+_**Figura 99.** Creación de la organización del proyecto BusTrack en GitHub._  
+_**Fuente:** elaboración propia._  
 
-3. **Despliegue Automático**  
-   Accedemos a la opción de settings y posteriormente de pages. Configuramos el nombre de la web y le damos siguiente. GitHubdesplegó la landing page en la URL proporcionada por GitHub Pages.
-   Link: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
-   [![deploy3](https://i.postimg.cc/R0629DSd/imagen-2025-10-10-084441748.png)](https://postimg.cc/TyxtJQW5)
+---
 
+#### Paso 2: Creación del repositorio para la landing page
 
+Luego, se creó un repositorio dedicado para el código de la landing page, donde se cargaron los archivos HTML y CSS del proyecto.
 
+![deploy2](img/deploy2.png)  
 
+_**Figura 100.** Repositorio de GitHub creado para alojar la landing page de BusTrack._  
+_**Fuente:** elaboración propia._  
+
+---
+
+#### Paso 3: Configuración del despliegue con GitHub Pages
+
+Finalmente, se configuró GitHub Pages desde la sección **Settings → Pages** del repositorio, seleccionando la rama correspondiente para publicar el sitio y generando la URL pública de la landing page.
+
+![deploy3](img/deploy3.png)  
+
+_**Figura 101.** Configuración de GitHub Pages para el despliegue de la landing page de BusTrack._  
+_**Fuente:** elaboración propia._  
+
+---
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-# Distribución de Tareas - Sprint 1  
+### Distribución de Tareas - Sprint 1
 
-Para este sprint, las tareas de **diseño, implementación y documentación** de la landing page se distribuyeron entre todos los integrantes del equipo.  
+Para este sprint, las tareas de **diseño, implementación y documentación** de la landing page se distribuyeron entre todos los integrantes del equipo.
 
-La **implementación y despliegue** de la landing page fue llevada a cabo por **Joaquin Cuentas**.  
+La **implementación y despliegue** de la landing page fue realizada por **Joaquin Cuentas**, mientras que el resto del equipo colaboró en la definición de contenido, estructura y lineamientos de diseño.
 
-* Evidencias del repositorio de la landing page<br>
-   [![insights1](https://i.postimg.cc/52nfjTMc/imagen-2025-10-10-084323600.png)](https://postimg.cc/VJrxV764)
+A continuación, se presentan las evidencias de colaboración obtenidas desde GitHub.
 
+---
 
+#### Evidencias del repositorio de la landing page
 
-* Evidencias del repositorio del informe<br>
-   [![insights2](https://i.postimg.cc/G2BLWQNF/imagen-2025-10-10-084302968.png)](https://postimg.cc/DJT3sq70)
+La siguiente imagen muestra la actividad de commits en el repositorio de la landing page, reflejando los aportes realizados durante el sprint.
 
+![insights1](img/insights1.png)  
 
+_**Figura 102.** Actividad de commits en el repositorio de la landing page de BusTrack._  
+_**Fuente:** elaboración propia._  
 
-* Network Graph<br>
-   [![insights3](https://i.postimg.cc/NF9cnjK4/imagen-2025-10-10-084158362.png)](https://postimg.cc/CngXBYHB)
+---
 
+#### Evidencias del repositorio del informe
 
+Aquí se observa la actividad registrada en el repositorio del informe, donde se documentó el avance del proyecto.
 
-* Code Frequency<br>
-   [![insights4](https://i.postimg.cc/9QGWV0Lm/imagen-2025-10-10-084143723.png)](https://postimg.cc/nXh8GF8g)<br>
+![insights2](img/insights2.png)  
 
+_**Figura 103.** Actividad de commits en el repositorio del informe del proyecto BusTrack._  
+_**Fuente:** elaboración propia._  
 
+---
 
-* Contribuitors<br>
-   [![insights5](https://i.postimg.cc/jj0LQBkB/imagen-2025-10-10-084016026.png)](https://postimg.cc/w12q94zk)<br>
+#### Network Graph
 
-<br><br>
+El gráfico de red (network graph) ilustra cómo se han ido generando ramas y fusiones en el repositorio, evidenciando el uso de un flujo de trabajo basado en Git.
+
+![insights3](img/insights3.png)  
+
+_**Figura 104.** Gráfico de red del repositorio, mostrando ramas y fusiones durante el sprint._  
+_**Fuente:** elaboración propia._  
+
+---
+
+#### Code Frequency
+
+Este gráfico muestra la frecuencia de cambios en el código (líneas añadidas y eliminadas) a lo largo del tiempo.
+
+![insights4](img/insights4.png)  
+
+_**Figura 105.** Frecuencia de cambios de código en el repositorio del proyecto BusTrack._  
+_**Fuente:** elaboración propia._  
+
+---
+
+#### Contributors
+
+Finalmente, se listan los colaboradores del repositorio y su nivel de participación durante el sprint, evidenciando el trabajo en equipo.
+
+![insights5](img/insights5.png)  
+
+_**Figura 106.** Colaboradores del repositorio y contribuciones realizadas durante el sprint._  
+_**Fuente:** elaboración propia._  
 
 ### 5.2.2. Sprint 2
 
