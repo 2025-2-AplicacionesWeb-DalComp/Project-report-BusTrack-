@@ -1655,78 +1655,214 @@ Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/BusTrack-wir
 
 ## 4.4. Web Applications UX/UI Design
 
+Los wireframes y mockups aquí presentados muestran la estructura inicial de las vistas principales, priorizando la jerarquía visual, la simplicidad de navegación, la accesibilidad, la escalabilidad futura y la claridad en la presentación de información crítica como rutas, paraderos, notificaciones y configuraciones del usuario.
+
 ### 4.4.1. Web Applications Wireframes
 En esta sección se presentan los wireframes de la aplicación web.
 
-<img src="/img/commons/Web%20Applications%20Wireframes%201.png" alt="Web Applications Wireframes 1" style="width: 700px; margin-right: 700px;"/>
+**Wireframe 1**
 
-_Descripción:_ Este wireframe corresponde a la pantalla de inicio de sesión. Presenta campos para ingresar correo electrónico y contraseña, un enlace para recuperar la contraseña, y un botón para continuar con el inicio de sesión. Además incluye un botón de registro si el usuario aún no tiene una cuenta.
+_Descripción:_ Este wireframe corresponde a la pantalla inicial de selección de tipo de usuario. La interfaz presenta dos rutas principales: Pasajero y Empresa, cada una representada mediante botones con alto contraste para facilitar su identificación. En la parte superior derecha se incorpora el selector de idioma, alineado con la estrategia de internacionalización (i18n). El diseño mantiene una estructura centrada, con una tarjeta principal que agrupa el contenido, asegurando un primer contacto claro y simple.
 
+<img src="/img/commons/WebApplications Wireframes1.png" style="width: 500px; margin-right: 700px;"/>
 
-<img src="/img/commons/Web%20Applications%20Wireframes%202.png" alt="Web Applications Wireframes 2" style="width: 700px; margin-right: 700px;"/>
+<br>
 
-_Descripción:_ Este wireframe corresponde a la pantalla de registro. Incluye la opción de continuar con Google, así como campos para ingresar correo, usuario y contraseña. Cuenta con un botón para crear la cuenta de usuario y un enlace para que los usuarios que ya tienen cuenta puedan iniciar sesión.
+_**Figura 55.** Wireframe de pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
 
+**Wireframe 2**
 
-<img src="/img/commons/Web%20Applications%20Wireframes%203.png" alt="Web Applications Wireframes 3" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ La segunda pantalla está orientada al inicio de sesión para pasajeros. El diseño divide el espacio en dos secciones: una ilustración a la izquierda que sirve como componente visual de apoyo y un módulo de autenticación a la derecha. El formulario de Log In incorpora campos básicos junto con un botón de acción primaria. Se mantiene el selector de idioma visible, reforzando la accesibilidad lingüística. La jerarquía tipográfica resalta la sección PASAJEROS como título principal.
 
-_Descripción:_ Este wireframe corresponde a la página de inicio que aparece al iniciar sesión. Incluye un menú superior con accesos directos a las funciones "Buscar Ruta", "Notificaciones", "Paraderos cercanos" y "Perfil". En el centro hay un campo de búsqueda y un mapa interactivo que permite al usuario visualizar rutas, ubicaciones y paraderos en tiempo real.
+<img src="/img/commons/WebApplications Wireframes2.png" style="width: 500px; margin-right: 700px;"/>
 
+<br>
 
-<img src="/img/commons/Web%20Applications%20Wireframes%204.png" alt="Web Applications Wireframes 4" style="width: 700px; margin-right: 700px;"/>
+_**Figura 56.** Wireframe de pantalla de inicio de sesión para pasajeros._ <br> _**Fuente:** elaboración propia._
 
-_Descripción:_ Este wireframe corresponde a la sección “Buscar Ruta”. Contiene dos campos de entrada para que el usuario ingrese el punto de origen y el destino, junto con un botón de búsqueda. 
+**Wireframe 3**
 
+_Descripción:_ Este wireframe representa la vista de creación de cuenta para pasajeros. Similar al wireframe previo, se emplea una estructura de dos columnas: imagen ilustrativa y formulario de registro. El diseño incluye opción de inicio con Google, campo destacado por su accesibilidad y rapidez. Debajo, se organizan los campos requeridos para el registro tradicional. El botón principal “Crear cuenta” se sitúa al final para reforzar el flujo natural de arriba hacia abajo.
 
-<img src="/img/commons/Web%20Applications%20Wireframes%205.png" alt="Web Applications Wireframes 5" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/WebApplications Wireframes3.png" style="width: 500px; margin-right: 700px;"/>
 
-_Descripción:_ Este wireframe representa la vista de resultados en la sección “Buscar Ruta”. Después de ingresar origen y destino, el sistema muestra una lista de opciones con la información básica de cada ruta y un botón de “Detalles”.
+<br>
 
+_**Figura 57.** Wireframe de pantalla de creación de cuenta para pasajeros._ <br> _**Fuente:** elaboración propia._
 
-<img src="/img/commons/Web%20Applications%20Wireframes%206.png" alt="Web Applications Wireframes 6" style="width: 700px; margin-right: 700px;"/>
+**Wireframe 4**
 
-_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Buscar Ruta”. Al seleccionar una opción de ruta, se muestra un mapa interactivo acompañado de un panel lateral que presenta información más detallada sobre la ruta elegida.
+_Descripción:_ El cuarto wireframe presenta la vista principal de la web app para pasajeros, donde se accede a funciones clave como buscar rutas, revisar notificaciones o ver paraderos. La navegación superior agrupa las opciones principales mediante una barra horizontal mantenida fija. En el área central se destaca una sección de búsqueda rápida y un panel con el mapa principal, permitiendo al usuario comenzar la interacción de manera directa e intuitiva.
 
+<img src="/img/commons/WebApplications Wireframes4.png" style="width: 500px; margin-right: 700px;"/>
 
-<img src="/img/commons/Web%20Applications%20Wireframes%207.png" alt="Web Applications Wireframes 7" style="width: 700px; margin-right: 700px;"/>
+<br>
 
-_Descripción:_ Este wireframe corresponde a la sección “Notificaciones”. Muestra una lista de notificaciones en tiempo real organizadas de la más reciente a la más antigua.
+_**Figura 58.** Wireframe de pantalla principal del pasajero con barra de navegación._ <br> _**Fuente:** elaboración propia._
 
+**Wireframe 5**
 
-<img src="/img/commons/Web%20Applications%20Wireframes%208.png" alt="Web Applications Wireframes 8" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ Este wireframe muestra los resultados de búsqueda de rutas. El mapa central continúa siendo el elemento visual predominante, mientras que al lado derecho se presenta un panel con información detallada del viaje: ruta encontrada, tiempos estimados y opciones de acción como “Guardar ruta” o “Ver rutas en Google Maps”. En la parte inferior se agrega el botón “Nueva búsqueda” facilitando la repetición del proceso.
 
-_Descripción:_ Este wireframe corresponde a la sección “Paraderos Cercanos”. Muestra un mapa interactivo donde el usuario puede visualizar la ubicación de los paraderos más cercanos, acompañado de una lista lateral que detalla el nombre de cada paradero y los buses que pasan por ellos.
+<img src="/img/commons/WebApplications Wireframes5.png" style="width: 500px; margin-right: 700px;"/>
 
+<br>
 
-<img src="/img/commons/Web%20Applications%20Wireframes%209.png" style="width: 700px; margin-right: 700px;"/>
+_**Figura 59.** Wireframe de pantalla de resultados de búsqueda de rutas._ <br> _**Fuente:** elaboración propia._
 
-_Descripción:_ Este wireframe corresponde a la sección “Perfil”. Permite al usuario visualizar y gestionar su información personal. Además, cuenta con un botón para cerrar sesión.
+**Wireframe 6**
 
+_Descripción:_ El wireframe de la sección de Notificaciones presenta una vista simplificada donde las alertas del sistema o de rutas favoritas se muestran en tarjetas organizadas verticalmente. La jerarquía visual prioriza el título y luego la lista de alertas. Esta vista fue diseñada bajo principios de legibilidad, permitiendo identificar rápidamente actualizaciones relevantes sin elementos distractores.
 
-<img src="/img/commons/Web%20Applications%20Wireframes%2010.png" alt="Web Applications Wireframes 10" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/WebApplications Wireframes6.png" style="width: 500px; margin-right: 700px;"/>
 
-_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Rutas favoritas”. Permite al usuario visualizar y gestionar las rutas que ha guardado previamente como favoritas. Además, cuenta con un botón de retorno para volver al perfil principal.
+<br>
 
+_**Figura 60.** Wireframe de pantalla de notificaciones para el pasajero._ <br> _**Fuente:** elaboración propia._
 
-<img src="/img/commons/Web%20Applications%20Wireframes%2011.png" alt="Web Applications Wireframes 11" style="width: 700px; margin-right: 700px;"/>
+**Wireframe 7**
 
-_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Historial de viajes”. Presenta un registro visual de los viajes realizados por el usuario. Además, cuenta con un botón de retorno para volver al perfil principal.
+_Descripción:_ Este diseño corresponde a la sección de Paraderos Cercanos, donde los usuarios pueden visualizar su ubicación y los paraderos más próximos. A la izquierda se muestran tarjetas con información de cada paradero, incluyendo distancia aproximada y botones de interacción (como “Cómo llegar” o “Notificar llegada”). A la derecha se presenta un mapa ampliado que funciona como referencia espacial principal.
 
+<img src="/img/commons/WebApplications Wireframes7.png" style="width: 500px; margin-right: 700px;"/>
 
-<img src="/img/commons/Web%20Applications%20Wireframes%2012.png" alt="Web Applications Wireframes 12" style="width: 700px; margin-right: 700px;"/>
+<br>
 
-_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Notificaciones”. Permite al usuario personalizar los tipos de notificaciones que desea recibir, como alertas de llegada de buses, retrasos en las rutas, paraderos cercanos e inicio de viaje. Además, cuenta con un botón de retorno para volver al perfil principal.
+_**Figura 61.** Wireframe de pantalla de paraderos cercanos con mapa y tarjetas informativas._ <br> _**Fuente:** elaboración propia._
 
+**Wireframe 8**
 
-<img src="/img/commons/Web%20Applications%20Wireframes%2013.png" alt="Web Applications Wireframes 13" style="width: 700px; margin-right: 700px;"/>
+_Descripción:_ Este wireframe corresponde a la pantalla de Perfil del usuario pasajero. A la izquierda se ubica la tarjeta del perfil, que incluye imagen del usuario, información básica y accesos a configuraciones personalizadas. A la derecha, se presenta una lista de rutas guardadas o funciones adicionales, cada una con un botón “Detalles” que permite acceder a información ampliada. El diseño refuerza la separación lógica entre identidad y actividades.
 
-_Descripción:_ Este wireframe corresponde a la vista de “Detalles” dentro de la sección “Configuración de cuenta”. Permite al usuario actualizar su información personal, incluyendo nombre, correo y contraseña, así como cambiar su foto de perfil. Además, cuenta con un botón para guardar los cambios y otro para de retorno para volver al perfil principal.
+<img src="/img/commons/WebApplications Wireframes8.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 62.** Wireframe de pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 9**
+
+_Descripción:_ Aquí se presenta la vista de Rutas Favoritas, accesible desde el perfil del usuario. En la parte superior izquierda se incluye un botón “Volver” para facilitar la navegación. En el área central se ubica el panel principal con los campos de búsqueda de rutas guardadas y el botón “Buscar rutas”. Esta vista mantiene un diseño minimalista, destacando únicamente los elementos necesarios para la acción correspondiente.
+
+<img src="/img/commons/WebApplications Wireframes9.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 63.** Wireframe de pantalla de rutas favoritas del usuario._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 10**
+
+_Descripción:_ Este wireframe corresponde al Historial de viajes, donde el usuario puede visualizar viajes pasados en un formato de tarjetas grandes. A la izquierda se incorpora un botón “Volver” y a la derecha un botón para borrar el historial, permitiendo gestionar los registros de forma clara. La disposición en dos columnas mejora el aprovechamiento del espacio y contribuye a un escaneo visual rápido.
+
+<img src="/img/commons/WebApplications Wireframes10.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 64.** Wireframe de pantalla del historial de viajes del usuario._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 11**
+
+_Descripción:_ Este wireframe presenta la sección de Gestión de Notificaciones del usuario pasajero. En la parte superior izquierda se incorpora el botón “Volver”, facilitando la navegación hacia la vista previa. El módulo central contiene un bloque amplio destinado a la visualización y edición de las preferencias de notificaciones, como alertas de llegada, cambios de ruta o interrupciones del servicio. En la esquina inferior derecha se ubica el botón de acción primaria “Guardar cambios”, asegurando que las modificaciones realizadas se confirmen de forma explícita. El diseño mantiene la coherencia visual con la línea minimalista de la Web App.
+
+<img src="/img/commons/WebApplications Wireframes11.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 65.** Wireframe de la pantalla de configuración de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 12**
+
+_Descripción:_ Este wireframe corresponde a la vista de Configuración de la cuenta del pasajero. El diseño organiza los elementos dentro de una tarjeta principal que contiene: una foto de perfil, el botón “Cambiar foto”, y tres campos para modificar información personal (como correo, nombre o número de contacto). En la parte inferior se ubica el botón “Guardar cambios”, reforzando el flujo lógico de edición. El diseño prioriza la simplicidad y la accesibilidad para que el usuario gestione su información sin fricción.
+
+<img src="/img/commons/WebApplications Wireframes12.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 66.** Wireframe de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 13**
+
+_Descripción:_ El wireframe 13 muestra la pantalla de inicio de sesión para empresas. Al igual que en la versión para pasajeros, se utiliza un diseño en dos columnas: una imagen descriptiva a la izquierda y un formulario de Log In a la derecha. La sección está titulada como EMPRESAS, resaltando la diferenciación del flujo empresarial. El formulario incluye campos de correo y contraseña, además de un botón “Continuar”. El selector de idioma se mantiene en la esquina superior derecha.
+
+<img src="/img/commons/WebApplications Wireframes13.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 67.** Wireframe de la pantalla de inicio de sesión para empresas._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 14**
+
+_Descripción:_ Este wireframe representa la pantalla de creación de cuenta para empresas. Incluye una estructura detallada con múltiples campos necesarios para el registro empresarial, como razón social, RUC, representante, correo corporativo, entre otros. También se incorpora la opción “Continúa con Google” en la parte superior, alineada con prácticas modernas de autenticación rápida. El formulario se extiende verticalmente para incluir toda la información necesaria, culminando en el botón de acción “Crear Cuenta”.
+
+<img src="/img/commons/WebApplications Wireframes14.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 68.** Wireframe de la pantalla de registro de cuenta empresarial._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 15**
+
+_Descripción:_ Este wireframe corresponde a la vista principal de Monitoreo en Tiempo Real para empresas. A la izquierda se presenta un mapa de gran tamaño donde los administradores pueden visualizar la ubicación de toda la flota en tiempo real. A la derecha se muestran tarjetas con información resumida de cada bus, incluyendo estado y ruta. En la parte superior se incorporan dos botones clave: “+ Agregar bus” y “Actualizar datos”, permitiendo gestionar la flota de manera rápida y eficiente. Esta pantalla constituye uno de los módulos críticos del panel empresarial.
+
+<img src="/img/commons/WebApplications Wireframes15.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 69.** Wireframe de la pantalla de monitoreo en tiempo real para empresas._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 16**
+
+_Descripción:_ Este wireframe corresponde a la sección de Alertas Internas dentro del panel empresarial. En la parte superior se muestra un menú horizontal para filtrar las alertas según categorías (ej. mantenimiento, incidencias, retrasos). A la derecha se incorpora el botón “+ Nueva alerta”, permitiendo a la empresa registrar incidencias operativas. En el área inferior se despliega un contenedor amplio para la visualización o edición de detalles de cada alerta. El diseño prioriza la claridad y la gestión centralizada de información crítica.
+
+<img src="/img/commons/WebApplications Wireframes16.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 70.** Wireframe de la pantalla de alertas internas del panel empresarial._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 17**
+
+_Descripción:_ Este wireframe presenta la vista de Administración de Flota. En la parte superior se muestra una barra de búsqueda para localizar buses específicos. A la derecha se encuentra el botón “+ Agregar Bus”, que permite registrar nuevas unidades en la plataforma. Debajo, se organiza una tabla amplia donde cada fila representa un bus e incluye información como placa, ruta asignada, estado y opciones de gestión. Esta vista optimiza las tareas administrativas mediante una estructura clara y ordenable.
+
+<img src="/img/commons/WebApplications Wireframes17.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 71.** Wireframe de la pantalla de administración de flota._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 18**
+
+_Descripción:_ Este wireframe corresponde a la pantalla de Configuración Empresarial, donde la empresa puede modificar información administrativa, activar o desactivar permisos internos y gestionar configuraciones de seguridad. La pantalla se organiza en tres bloques principales:
+
+- Información general de la empresa con botón “Guardar Cambios”.
+
+- Gestión de permisos internos, representada en una tabla con interruptores para habilitar funciones específicas.
+
+- Cambiar contraseña, para reforzar la seguridad de la cuenta corporativa.
+Al final se incorpora un botón destacado de “Cerrar Sesión”. El diseño mantiene simetría y modularidad para facilitar la edición independiente por secciones.
+
+<img src="/img/commons/WebApplications Wireframes18.png" style="width: 500px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 72.** Wireframe de la pantalla de configuración empresarial._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-En esta sección se presentan los Wireflow Diagrams de BusTrack. Cada diagrama combina wireframes y flujos de navegación para representar de manera visual cómo los usuarios interactúan con la aplicación web.
+Los Wireflow Diagrams integran la estructura de los wireframes con los flujos de navegación del usuario, permitiendo visualizar de forma clara y secuencial cómo se desarrollan las diferentes interacciones dentro de la aplicación web de BusTrack.
+A diferencia de los wireframes aislados, los wireflows muestran no solo la arquitectura visual de cada pantalla, sino también las transiciones que conectan los distintos estados de la interfaz, facilitando la comprensión del comportamiento del sistema desde una perspectiva holística.
 
-<img src="/img/commons/Web%20Applications%20Wireflow%20Diagram.png" alt="Web Applications Wireflow Diagrams" style="width: 900px; margin-right: 900px;"/>
+Para este proyecto, los wireflows se organizaron en dos grandes recorridos principales:
+
+- Flujo de Pasajero, donde se representan acciones como iniciar sesión, buscar rutas, acceder a notificaciones, visualizar paraderos cercanos, gestionar el perfil y consultar rutas favoritas o historial de viajes.
+
+- Flujo de Empresa, que incluye procesos de autenticación empresarial, monitoreo en tiempo real, gestión de alertas internas, administración de flota y edición de configuraciones corporativas.
+
+Cada conjunto de flechas de navegación señala la interacción esperada del usuario, mientras que los bloques visuales representan pantallas clave previamente desarrolladas en los wireframes.
+
+<img src="/img/commons/WebApplicationsWireflow Diagrams.png"  style="width: 900px; margin-right: 900px;"/>
+
+_**Figura 73.** Wireflow general de las aplicaciones web de BusTrack, que integra los flujos de navegación de usuarios pasajeros y empresariales._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.4.3. Web Applications Mock-ups
