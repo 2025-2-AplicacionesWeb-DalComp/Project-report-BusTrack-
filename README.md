@@ -48,8 +48,21 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 |  |  |  |  |
-
+| TB2 | 14/11 | Andree Cardenas | Sprint 3 | 
+| TB2 | 15/11 | Andree Cardenas | Desarrollo del apartado de perfil del backend |
+| TB2 | 13/11 | Fátima Florez | Desarrollo del apartado de notificaciones del backend |
+| TB2 | 14/11 | Fátima Florez | Sprint 3 | 
+| TB2 | 16/11 | Fátima Florez | Desarrollo del apartado de notificaciones del backend | 
+| TB2 | 13/11 | Joaquin Cuentas | Desarrollo del apartado de publicaciones del backend |
+| TB2 | 14/11 | Joaquin Cuentas | Sprint 3 | 
+| TB2 | 14/11 | Diego Andres | Desarrollo del apartado de paraderos cercanos del backend |
+| TB2 | 16/11 | Diego Andres | Sprint 3 | 
+| TB2 | 14/11 | Elizabeth Apaza | Desarrollo del apartado de perfil del backend |
+| TB2 | 15/11 | Elizabeth Apaza | Sprint 3 | 
+| TB2 | 15/11 | Diego Andres | Sprint 3 | 
+| TB2 | 15/11 | Diego Andres | Desarrollo del backen apatarado de paradas | 
 </div>
+
 
 <br><br>
 
