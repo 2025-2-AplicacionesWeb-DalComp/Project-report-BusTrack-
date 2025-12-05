@@ -2962,6 +2962,56 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 </table>
 
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Melissa</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Sulca</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23 (Contexto: Estudiante)</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Magdalena</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Grabación de pantalla</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" alt="Entrevista Pasajero 1"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQDjD6pJvYEEQqLwUomsUt3eAQa4ppQDKFYCW7ZiCzGb3iM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hRTY4f">Video 3</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td> 10:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> La entrevistada, que es <b>estudiante universitaria</b>, valoró el diseño como "colores atractivos y acordes". Considera que la aplicación aporta confianza y utilidad por la facilidad de la información que hay en ella <b>información en tiempo real de los buses</b> esto se evidencia en que a veces cuando ella no ha sabido qué bus tomar, no ha tenido con quién consultar; sin embargo, en la aplicación lo puede observar en tiempo real. Sugirió añadir una <b>opción de internacionalización con estilo similiar en la landing y la web</b> y una vista previa del mapa integrada. Confirmó que la interfaz es intuitiva, genera confianza por el contenido que hay en ella y la coherencia de las funcionalidades.
+  </tr>
+</tbody>
+</table>
+
+
+
 ### Segmento Objetivo 2: Empresas de Transporte Urbano
 
 <table>
