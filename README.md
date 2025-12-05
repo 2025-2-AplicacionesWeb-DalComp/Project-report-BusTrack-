@@ -3724,7 +3724,7 @@ El proceso de despliegue incluyó la configuración del servidor, la publicació
 
 ### Configuración del servicio en la plataforma cloud
 
-<img src="/img/commons/i1.png">
+<img src="/img/commons/i1.jpeg">
 
 _**Figura 160.** Panel del servicio en la plataforma de despliegue, mostrando el estado activo del Web Service de BusTrack._  
 _**Fuente:** elaboración propia._
