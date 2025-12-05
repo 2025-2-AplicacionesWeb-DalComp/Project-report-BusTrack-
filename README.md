@@ -2944,12 +2944,12 @@ Durante el primer sprint, desarrollamos y desplegamos la **landing page** del pr
    [![deploy1](https://i.postimg.cc/VvDKXqs6/imagen-2025-10-10-084539146.png)](https://postimg.cc/WqqmvJkL)
 
 
-3. **Creación del Repositorio en GitHub**  
+2. **Creación del Repositorio en GitHub**  
    Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
    [![deploy2](https://i.postimg.cc/Kv0WT24t/imagen-2025-10-10-084506760.png)](https://postimg.cc/TpWQ8BVP)
 
 
-5. **Despliegue Automático**  
+3. **Despliegue Automático**  
    Accedemos a la opción de settings y posteriormente de pages. Configuramos el nombre de la web y le damos siguiente. GitHubdesplegó la landing page en la URL proporcionada por GitHub Pages.
    Link: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
    [![deploy3](https://i.postimg.cc/R0629DSd/imagen-2025-10-10-084441748.png)](https://postimg.cc/TyxtJQW5)
@@ -3408,7 +3408,25 @@ El objetivo principal de este sprint es **finalizar y consolidar la versión com
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-## Frontend deployment
+## Landing page Deployment
+
+1. **Creación de la Organización BusTrack**  
+   Iniciamos creando una organización que albergará los repositorios del proyecto, entre ellos el de la landing page.
+   [![deploy1](https://i.postimg.cc/VvDKXqs6/imagen-2025-10-10-084539146.png)](https://postimg.cc/WqqmvJkL)
+
+
+2. **Creación del Repositorio en GitHub**  
+   Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
+   [![deploy2](https://i.postimg.cc/Kv0WT24t/imagen-2025-10-10-084506760.png)](https://postimg.cc/TpWQ8BVP)
+
+
+3. **Despliegue Automático**  
+   Accedemos a la opción de settings y posteriormente de pages. Configuramos el nombre de la web y le damos siguiente. GitHubdesplegó la landing page en la URL proporcionada por GitHub Pages.
+   Link: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
+   [![deploy3](https://i.postimg.cc/R0629DSd/imagen-2025-10-10-084441748.png)](https://postimg.cc/TyxtJQW5)
+
+
+## Frontend Deployment
 
 ## 1. Paso
 Primero, nos aseguramos de que el código de la aplicación estuviera en GitHub y le cambiamos la dirección de la API, para que en lugar de buscar los datos en nuestra propia computadora (localhost), los buscara en la dirección pública del servidor que ya habíamos desplegado en Render.
