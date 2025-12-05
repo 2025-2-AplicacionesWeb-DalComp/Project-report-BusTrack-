@@ -3891,47 +3891,180 @@ El objetivo principal de este sprint es **finalizar y consolidar la versión com
 | BusTrack-Frontend | new-frontend  | Add BusTrack API URL to environment variables | 2025-12-4   |
 | /BusTrack-Backend | new-frontend  | feat: flota y configuracion | 2025-12-2   |
 
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 4 se consolidó la versión final de BusTrack a nivel de interfaces y flujos de navegación. Se completó el acceso diferenciado para pasajeros y empresas, se ajustaron los módulos web de cada segmento, se refinaron validaciones de formularios, se mejoró la experiencia de uso en dispositivos móviles y se corrigieron errores identificados en las entrevistas de validación. 
+
+Si bien el backend aún se encuentra en proceso de despliegue en un entorno público, durante este sprint se trabajó con la API ejecutándose en un servidor local, conectada al frontend mediante variables de entorno. Esto permitió realizar pruebas de extremo a extremo para las User Stories priorizadas (US01–US15) antes de la entrega final.
+
+A continuación, se presentan algunas vistas representativas del estado final de la aplicación web.
+
+---
+
+**Vista 1: Acceso diferenciado**
+
+<img src="img/commons/WebApplicationsMock-ups1.png" alt="Pantalla de selección de tipo de usuario en BusTrack" width="700">
+
+_**Figura 162.** Pantalla de acceso diferenciado de BusTrack, donde el usuario puede elegir si desea ingresar como pasajero o como empresa de transporte._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Vista 2: Módulo web de pasajeros (versión final)**
+
+<img src="iimg/commons/WebApplicationsMock-ups4.png" alt="Módulo web de pasajeros en BusTrack" width="700">
+
+_**Figura 163.** Vista principal del módulo de pasajeros de BusTrack, que integra búsqueda de rutas, paraderos cercanos, rutas favoritas y notificaciones._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Vista 3: Módulo web de empresas de transporte**
+
+<img src="img/commons/WebApplicationsMock-ups15.png" alt="Módulo web para empresas en BusTrack" width="700">
+
+_**Figura 164.** Panel web para empresas de transporte en BusTrack, que permite visualizar el estado de los buses y acceder a las principales funcionalidades de monitoreo._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Vista 4: Landing page final**
+
+<img src="img/commons/DesktopWebBrowser-MockUp1.png" alt="Landing page final de BusTrack" width="700">
+
+_**Figura 165.** Versión final de la landing page de BusTrack, actualizada con el acceso diferenciado, secciones de beneficios y explicación de la solución._  
+_**Fuente:** elaboración propia._  
+
+---
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 4 se actualizó y completó la documentación de los servicios web de BusTrack utilizando **OpenAPI/Swagger**, alineando los endpoints implementados con las User Stories y Technical Stories definidas (US01–US08, US14–US15, TS01–TS04). 
+
+Se revisaron y documentaron los parámetros de entrada, tipos de respuesta, códigos de estado y ejemplos de uso para los servicios de búsqueda de rutas, gestión de rutas favoritas, monitoreo de flota y alertas internas. Asimismo, se verificó la consistencia entre la documentación y el comportamiento real de la API ejecutada en el entorno local de backend.
+
+A continuación, se muestran ejemplos de la documentación generada en Swagger.
+
+---
+
+**Documentación del endpoint de búsqueda de rutas**
+
+<img src="img/commons/s1.png" alt="Documentación Swagger del endpoint de búsqueda de rutas en BusTrack" width="700">
+
+_**Figura 166.** Definición en Swagger del endpoint `GET /api/routes/search`, que permite obtener rutas disponibles según origen y destino._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Documentación de rutas favoritas de pasajero**
+
+<img src="img/commons/s2.png" alt="Documentación Swagger de rutas favoritas en BusTrack" width="700">
+
+_**Figura 167.** Documentación de los endpoints `GET` y `POST` para gestionar rutas favoritas de un pasajero, utilizados por la funcionalidad de “Rutas frecuentes” en BusTrack._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Documentación del monitoreo de flota**
+
+<img src="img/commons/s3.png" alt="Documentación Swagger del monitoreo de buses en BusTrack" width="700">
+
+_**Figura 168.** Ejemplo de la especificación del endpoint `GET /api/companies/{companyId}/buses`, que devuelve la lista de buses de una empresa con su estado básico._  
+_**Fuente:** elaboración propia._  
+
+---
+
+**Documentación de alertas internas de empresa**
+
+<img src="img/commons/s4.png" alt="Documentación Swagger de alertas internas en BusTrack" width="700">
+
+_**Figura 169.** Vista de la documentación en Swagger de los endpoints `GET` y `POST` para gestionar alertas internas de una empresa de transporte._  
+_**Fuente:** elaboración propia._  
+
+---
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-## Landing page Deployment
+En este sprint se consolidó el despliegue del frontend de BusTrack y se preparó la base para el despliegue futuro del backend.
 
-1. **Creación de la Organización BusTrack**  
-   Iniciamos creando una organización que albergará los repositorios del proyecto, entre ellos el de la landing page.
-   [![deploy1](https://i.postimg.cc/VvDKXqs6/imagen-2025-10-10-084539146.png)](https://postimg.cc/WqqmvJkL)
+1. **Actualización de la landing page y del frontend**  
+   Se generó una nueva versión de la landing page en GitHub Pages y se actualizó la aplicación frontend desplegada en Vercel, incorporando el acceso diferenciado para pasajeros y empresas, así como los ajustes finales de UI/UX.
 
+2. **Configuración de variables de entorno**  
+   La URL del backend se mantuvo configurada como variable de entorno en el frontend, apuntando a la instancia local de la API mientras el despliegue público del backend continúa en proceso. Esto permite desacoplar el frontend de la infraestructura específica del servidor.
 
-2. **Creación del Repositorio en GitHub**  
-   Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
-   [![deploy2](https://i.postimg.cc/Kv0WT24t/imagen-2025-10-10-084506760.png)](https://postimg.cc/TpWQ8BVP)
+3. **Despliegue continuo del frontend**  
+   Vercel se mantiene como plataforma de despliegue continuo: cada cambio aprobado en el repositorio del frontend genera automáticamente un nuevo build y una nueva versión publicada de BusTrack.
 
+- URL de la landing page: `https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/`  
+- URL de la aplicación web (frontend): `https://ultimo-front.vercel.app/`  
 
-3. **Despliegue Automático**  
-   Accedemos a la opción de settings y posteriormente de pages. Configuramos el nombre de la web y le damos siguiente. GitHubdesplegó la landing page en la URL proporcionada por GitHub Pages.
-   Link: https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/
-   [![deploy3](https://i.postimg.cc/R0629DSd/imagen-2025-10-10-084441748.png)](https://postimg.cc/TyxtJQW5)
+A continuación, se presentan capturas del despliegue del frontend.
 
+---
 
-## Frontend Deployment
+**Panel de despliegue en Render**
 
-## 1. Paso
-Primero, nos aseguramos de que el código de la aplicación estuviera en GitHub y le cambiamos la dirección de la API, para que en lugar de buscar los datos en nuestra propia computadora (localhost), los buscara en la dirección pública del servidor que ya habíamos desplegado en Render.
+<img src="img/commons/r1.png" alt="Panel de despliegue de BusTrack en Vercel" width="700">
 
-## 2. Paso
-Luego, creamos una cuenta en Vercel y conectamos nuestro repositorio de GitHub. Vercel fue lo suficientemente inteligente como para reconocer que era una aplicación de Vue/Vite y preparó casi todo automáticamente.
+_**Figura 170.** Panel de Render mostrando el proyecto de frontend de BusTrack._  
+_**Fuente:** elaboración propia._  
 
-## 3. Paso
-Para que la URL de la API no estuviera escrita directamente en el código, la guardamos como un "secreto" (una variable de entorno) en Vercel. Luego, le dijimos a nuestro código que leyera ese secreto. Así, si la URL cambia en el futuro, solo la actualizamos en Vercel sin tocar el código.
-
-## 4. Paso
-Finalmente, con todo configurado, volvimos a desplegar. Vercel nos dio un enlace público a nuestra aplicación y activó el "despliegue continuo". Esto significa que ahora, cada vez que actualicemos el código y lo subamos a GitHub, Vercel reconstruirá y actualizará el sitio web automáticamente.
-
-link del Frontend: https://ultimo-front.vercel.app/
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, la colaboración del equipo se centró en coordinar los esfuerzos de despliegue y cierre del proyecto, asegurando que tanto la *landing page* como la aplicación web estuvieran integradas y listas para su validación final. Para ello, se utilizaron de manera intensiva los repositorios compartidos en GitHub, ramas específicas por funcionalidad y herramientas de despliegue como GitHub Pages, Vercel y Render.
+
+A continuación, se presentan evidencias del trabajo colaborativo realizado durante este sprint.
+
+---
+
+##### Colaboración en el despliegue de la Landing Page
+
+1. **Creación de la organización del proyecto**
+
+   Para centralizar el trabajo del equipo, se creó una organización en GitHub destinada a agrupar los repositorios de BusTrack, incluyendo el de la *landing page*, el frontend y el backend. Esto permitió que todos los integrantes pudieran colaborar de forma coordinada sobre una misma estructura de trabajo.
+
+   <img src="https://i.postimg.cc/VvDKXqs6/imagen-2025-10-10-084539146.png" alt="Organización de BusTrack en GitHub" width="700">
+
+   _**Figura 171.** Organización de BusTrack en GitHub, utilizada para agrupar los repositorios del proyecto y facilitar la colaboración del equipo._  
+   _**Fuente:** elaboración propia._
+
+2. **Creación y uso compartido del repositorio de Landing Page**
+
+   El equipo creó un repositorio específico para la *landing page*, sobre el cual se realizaron commits, ajustes de contenido, pruebas de diseño y configuración de GitHub Pages. Todos los integrantes pudieron clonar el repositorio, proponer cambios y realizar mejoras en el marco del flujo de trabajo establecido.
+
+   <img src="https://i.postimg.cc/Kv0WT24t/imagen-2025-10-10-084506760.png" alt="Repositorio de Landing Page en GitHub" width="700">
+
+   _**Figura 172.** Repositorio de la landing page de BusTrack en GitHub, donde se registran los cambios y aportes realizados por el equipo._  
+   _**Fuente:** elaboración propia._
+
+3. **Configuración colaborativa del despliegue con GitHub Pages**
+
+   A través de la configuración compartida en la sección **Settings → Pages**, el equipo definió la rama fuente y la carpeta desde la cual se publica la *landing page*. Una vez configurado, GitHub generó la URL pública que se utilizó como versión oficial para las validaciones y presentaciones del proyecto.
+
+   URL de la landing page: `https://2025-2-aplicacionesweb-dalcomp.github.io/Landing-page/`
+
+   <img src="https://i.postimg.cc/R0629DSd/imagen-2025-10-10-084441748.png" alt="Configuración de GitHub Pages para la landing page" width="700">
+
+   _**Figura 173.** Configuración de GitHub Pages para el despliegue colaborativo de la landing page de BusTrack._  
+   _**Fuente:** elaboración propia._
+
+---
+
+##### Colaboración en el despliegue del Frontend
+
+Para el despliegue del frontend, el equipo siguió un flujo colaborativo que integró GitHub, Vercel y Render:
+
+- Se aseguró que el código del frontend estuviera actualizado en el repositorio compartido de GitHub, incorporando los cambios realizados por todos los integrantes en ramas específicas.
+- Se actualizó la dirección de la API en las variables de entorno del frontend, de modo que, en lugar de consumir datos desde `localhost`, apuntara al backend en Render (en proceso de despliegue).
+- Se configuró el proyecto en Vercel vinculándolo al repositorio de GitHub. La plataforma detectó la aplicación desarrollada con Vue/Vite y permitió automatizar el proceso de *build* y despliegue.
+- La URL del backend se gestionó como variable de entorno en Vercel, evitando exponerla directamente en el código y permitiendo que futuros cambios se realicen sin modificar el repositorio.
+- Finalmente, se habilitó el **despliegue continuo**, de manera que cada *commit* aprobado en la rama principal genera una nueva versión publicada del frontend.
+
+URL de la aplicación web (frontend): https://ultimo-front.vercel.app/
+
 
 ## 5.3. Validation Interviews
 
