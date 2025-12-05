@@ -838,7 +838,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Usuario Pragmático |
-| **Image**        | <img src="img/commons/manuelSuarez.png" alt="Manuel Suarez" width="200"/> <br><br> _**Figura 7.** Imagen representativa del User Persona “Manuel Suárez”, estudiante universitario usuario frecuente de transporte público._ <br> _**Fuente:** elaboración propia._ |
+| **Image**        | <img src="img/commons/manuelSuarez.png" alt="Manuel Suarez" width="200"/> <br><br> _**Figura 13.** Imagen representativa del User Persona “Manuel Suárez”, estudiante universitario usuario frecuente de transporte público._ <br> _**Fuente:** elaboración propia._ |
 | **Quote**        | "Lo que más necesito es saber con certeza cuándo llegará el bus para no perder tiempo ni arriesgarme en el paradero." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 80/100<br>Growth: 65/100<br>Power: 40/100<br>Social: 85/100 |
 | **Goals**        | - Llegar puntual a clases sin depender de información incierta.<br>- Optimizar su tiempo para estudiar y evitar esperas innecesarias.<br>- Sentirse seguro en trayectos diarios, especialmente en paraderos con poca iluminación o vigilancia. |
@@ -861,7 +861,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Pasajero frecuente |
 | **Archetype**    | Viajero Organizado |
-| **Image**        | <img src="img/commons/alejandroMedina.jpg" alt="Alejandro Medina" width="200"/> <br><br> _**Figura 8.** Imagen representativa del User Persona “Alejandro Medina”, trabajador administrativo que usa transporte público a diario._  <br> _**Fuente:** elaboración propia._ |
+| **Image**        | <img src="img/commons/alejandroMedina.jpg" alt="Alejandro Medina" width="200"/> <br><br> _**Figura 14.** Imagen representativa del User Persona “Alejandro Medina”, trabajador administrativo que usa transporte público a diario._  <br> _**Fuente:** elaboración propia._ |
 | **Quote**        | "Necesito que el transporte sea puntual porque llegar tarde al trabajo no es una opción." |
 | **Motivations**  | Incentive: 80/100<br>Fear: 75/100<br>Achievement: 85/100<br>Growth: 65/100<br>Power: 50/100<br>Social: 70/100 |
 | **Goals**        | - Llegar puntual al trabajo evitando esperas innecesarias.<br>- Optimizar su tiempo de traslado para tener más tiempo libre al final del día.<br>- Usar una app confiable que proporcione información precisa sobre buses y tráfico en tiempo real.<br> - Reducir el estrés diario asociado al transporte público. |
@@ -886,7 +886,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Gestor Eficiente |
-| **Image**        | <img src="img/commons/luisPalacios.jpg" alt="Luis Palacios" width="200"/> <br><br> _**Figura 9.** Imagen representativa del User Persona “Luis Palacios”, administrador de flota en una empresa de transporte urbano._  <br> _**Fuente:** elaboración propia._|
+| **Image**        | <img src="img/commons/luisPalacios.jpg" alt="Luis Palacios" width="200"/> <br><br> _**Figura 15.** Imagen representativa del User Persona “Luis Palacios”, administrador de flota en una empresa de transporte urbano._  <br> _**Fuente:** elaboración propia._|
 | **Quote**        | "Si puedo monitorear mis buses en tiempo real, puedo ofrecer un mejor servicio y ganar más pasajeros." |
 | **Motivations**  | Incentive: 85/100<br>Fear: 65/100<br>Achievement: 90/100<br>Growth: 70/100<br>Power: 75/100<br>Social: 70/100 |
 | **Goals**        | - Monitorear en tiempo real la ubicación y estado de todas las unidades.<br>- Detectar y resolver incidencias operativas rápidamente.<br>- Mejorar la puntualidad general y reducir reclamos de usuarios.<br>- Digitalizar procesos manuales para optimizar tiempos y costos.<br>- Usar herramientas que faciliten decisiones estratégicas. |
@@ -909,7 +909,7 @@ En esta etapa se identifican y analizan las necesidades reales de los usuarios p
 | **Location**     | Lima, Perú |
 | **Tier**         | Empresa de transporte urbano |
 | **Archetype**    | Supervisor Operativo |
-| **Image**        | <img src="img/commons/joseRamirez.jpg" alt="José Ramírez" width="200"/> <br><br> _**Figura 10.** Imagen representativa del User Persona “José Ramírez”, supervisor de rutas en una empresa de transporte urbano._  <br> _**Fuente:** elaboración propia._ |
+| **Image**        | <img src="img/commons/joseRamirez.jpg" alt="José Ramírez" width="200"/> <br><br> _**Figura 16.** Imagen representativa del User Persona “José Ramírez”, supervisor de rutas en una empresa de transporte urbano._  <br> _**Fuente:** elaboración propia._ |
 | **Quote**        | "Lo más difícil es coordinar con los choferes en medio del tráfico y asegurar que los buses lleguen a tiempo." |
 | **Motivations**  | Incentive: 70/100<br>Fear: 60/100<br>Achievement: 80/100<br>Growth: 60/100<br>Power: 65/100<br>Social: 70/100 |
 | **Goals**        | - Coordinar eficientemente la operación diaria de múltiples rutas.<br>- Anticipar problemas de tráfico o desvíos antes de que afecten a los pasajeros.<br>- Reducir reclamos por incumplimiento de horarios.<br>- Estandarizar reportes e incidencias.<br>- Recibir alertas automáticas para actuar más rápido. |
@@ -972,7 +972,7 @@ A continuación se presentan los User Journey Maps desarrollados para los dos se
 
 <br>
 
-_**Figura 11.** User Journey Map de Manuel Suárez (estudiante universitario), que muestra su flujo de viaje diario y las oportunidades de mejora que aborda BusTrack._  <br> _**Fuente:** elaboración propia._
+_**Figura 17.** User Journey Map de Manuel Suárez (estudiante universitario), que muestra su flujo de viaje diario y las oportunidades de mejora que aborda BusTrack._  <br> _**Fuente:** elaboración propia._
 
 
 ___
@@ -983,7 +983,7 @@ ___
 
 ![Journey Map Trabajador](img/commons/journey-trabajador.png)
 
-<br> _**Figura 12.** User Journey Map de Alejandro Medina (trabajador administrativo), ilustrando sus interacciones con el transporte público y el uso de BusTrack para reducir retrasos._ <br> _**Fuente:** elaboración propia._
+<br> _**Figura 18.** User Journey Map de Alejandro Medina (trabajador administrativo), ilustrando sus interacciones con el transporte público y el uso de BusTrack para reducir retrasos._ <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -999,7 +999,7 @@ ___
 
 ![Journey Map Administrador](img/commons/journey-administrador.png)
 
-<br> _**Figura 13.** User Journey Map de Luis Palacios (administrador de flota), que detalla sus tareas operativas y cómo BusTrack mejora el monitoreo de buses._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 19.** User Journey Map de Luis Palacios (administrador de flota), que detalla sus tareas operativas y cómo BusTrack mejora el monitoreo de buses._  <br> _**Fuente:** elaboración propia._
 
 ___
 
@@ -1009,7 +1009,7 @@ ___
 
 ![Journey Map Supervisor](img/commons/journey-supervisor.png)
 
-<br> _**Figura 14.** User Journey Map de José Ramírez (supervisor de rutas), representando la coordinación de unidades y la necesidad de alertas en tiempo real._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 20.** User Journey Map de José Ramírez (supervisor de rutas), representando la coordinación de unidades y la necesidad de alertas en tiempo real._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -1025,7 +1025,7 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 ![Empathy Map Segment 1](img/commons/empathyMapSegmet1ManuelSuarez.png)
 
-<br> _**Figura 15.** Mapa de empatía del estudiante universitario Manuel Suárez, donde se resumen lo que ve, piensa, siente y hace en relación con su experiencia usando el transporte público en Lima._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 21.** Mapa de empatía del estudiante universitario Manuel Suárez, donde se resumen lo que ve, piensa, siente y hace en relación con su experiencia usando el transporte público en Lima._  <br> _**Fuente:** elaboración propia._
 
 
 ---
@@ -1036,7 +1036,7 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 ![Empathy Map Segment 1](img/commons/empathyMapSegmet1AlejandroMedina.png)
 
-<br> _**Figura 16.** Mapa de empatía de Alejandro Medina, trabajador administrativo, que refleja sus frustraciones, expectativas y necesidades frente a los retrasos y la inseguridad en el transporte urbano._ <br> _**Fuente:** elaboración propia._
+<br> _**Figura 22.** Mapa de empatía de Alejandro Medina, trabajador administrativo, que refleja sus frustraciones, expectativas y necesidades frente a los retrasos y la inseguridad en el transporte urbano._ <br> _**Fuente:** elaboración propia._
 
 ---
 
@@ -1046,7 +1046,7 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 ![Empathy Map Segment 2](img/commons/empathyMapSegmet2LuisPalacios.png)
 
-<br> _**Figura 17.** Mapa de empatía de Luis Palacios, administrador de flota, donde se analizan sus preocupaciones operativas, puntos de dolor y objetivos de gestión de buses._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 23.** Mapa de empatía de Luis Palacios, administrador de flota, donde se analizan sus preocupaciones operativas, puntos de dolor y objetivos de gestión de buses._  <br> _**Fuente:** elaboración propia._
 
 ---
 
@@ -1056,7 +1056,7 @@ A continuación se presentan los mapas de empatía elaborados para cada uno de l
 
 ![Empathy Map Segment 2](img/commons/empathyMapSegmet2JoseRamirez.png)
 
-<br> _**Figura 18.** Mapa de empatía de José Ramírez, supervisor de rutas, que muestra sus retos diarios en la coordinación de unidades y su percepción sobre soluciones tecnológicas como BusTrack._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 24.** Mapa de empatía de José Ramírez, supervisor de rutas, que muestra sus retos diarios en la coordinación de unidades y su percepción sobre soluciones tecnológicas como BusTrack._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -1068,7 +1068,7 @@ El Big Picture Event Storming permite visualizar de manera global todos los even
 
 ![Big Picture Event Storming ](img/commons/big-picture-event-storming.png)
 
-<br> _**Figura 19.** Big Picture Event Storming de BusTrack, que muestra los eventos clave del sistema y la interacción entre los actores a lo largo de las cuatro fases del servicio._ <br> _**Fuente:** elaboración propia._
+<br> _**Figura 25.** Big Picture Event Storming de BusTrack, que muestra los eventos clave del sistema y la interacción entre los actores a lo largo de las cuatro fases del servicio._ <br> _**Fuente:** elaboración propia._
 
 
 Link del miro: https://miro.com/app/board/uXjVJg4DnAQ=/?share_link_id=181609109423
@@ -1106,7 +1106,7 @@ El mapa muestra la experiencia futura del pasajero al utilizar BusTrack. Se obse
 
 <img src="img/commons/to-be-bustrack-pasajeros.png" width="850">
 
-<br> _**Figura 20.** To-Be Scenario Map del pasajero de BusTrack, que muestra la experiencia futura deseada desde la planificación del viaje hasta la calificación del servicio, reduciendo la ansiedad y aumentando la confianza gracias a la información en tiempo real._ <br>  _**Fuente:** elaboración propia._
+<br> _**Figura 26.** To-Be Scenario Map del pasajero de BusTrack, que muestra la experiencia futura deseada desde la planificación del viaje hasta la calificación del servicio, reduciendo la ansiedad y aumentando la confianza gracias a la información en tiempo real._ <br>  _**Fuente:** elaboración propia._
 
 
 ---
@@ -1118,7 +1118,7 @@ El mapa presenta la experiencia futura de una empresa de transporte utilizando e
 
 <img src="img/commons/to-be-bustrack-empresa.png" width="850">
 
-<br> _**Figura 21.** To-Be Scenario Map de la empresa de transporte, donde se representa el uso del panel web de BusTrack._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 27.** To-Be Scenario Map de la empresa de transporte, donde se representa el uso del panel web de BusTrack._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -1192,7 +1192,7 @@ El Impact Mapping permite conectar los objetivos del negocio con los actores pri
 
 ![Impact Map Pasajeros](img/commons/impact-map-pasajeros.png)
 
-<br> _**Figura 22.** Impact Map del segmento de pasajeros, que conecta los objetivos de negocio de BusTrack con los cambios de comportamiento esperados en estudiantes y trabajadores, y los deliverables asociados (buscador de rutas, rutas favoritas)._  <br> _**Fuente:** elaboración propia._
+<br> _**Figura 28.** Impact Map del segmento de pasajeros, que conecta los objetivos de negocio de BusTrack con los cambios de comportamiento esperados en estudiantes y trabajadores, y los deliverables asociados (buscador de rutas, rutas favoritas)._  <br> _**Fuente:** elaboración propia._
 
 
 ___
@@ -1203,7 +1203,7 @@ ___
 
 ![Impact Map Empresas](img/commons/impact-map-empresas.png)
 
-<br> _**Figura 23.** Impact Map del segmento de empresas de transporte, que relaciona los objetivos de adopción del sistema con los impactos deseados en administradores y supervisores de flota._  _**Fuente:** elaboración propia._
+<br> _**Figura 29.** Impact Map del segmento de empresas de transporte, que relaciona los objetivos de adopción del sistema con los impactos deseados en administradores y supervisores de flota._  _**Fuente:** elaboración propia._
 
 
 ## 3.4. Product Backlog
@@ -1231,7 +1231,7 @@ La imagen muestra el tablero de Trello utilizado para la planificación y seguim
 
 <img src="img/commons/Trello-sprint4.png"  >
 
-_**Figura 24.** Product Backlog y Sprint Backlog gestionados en Trello_  <br> _**Fuente:** elaboración propia._
+_**Figura 30.** Product Backlog y Sprint Backlog gestionados en Trello_  <br> _**Fuente:** elaboración propia._
 
 Enlace de Trello: <https://trello.com/b/MhxlfsAK>
 <br><br>
@@ -1251,7 +1251,7 @@ La presente sección define las pautas visuales y de identidad gráfica empleada
 </p>
 
 
-_**Figura 25.** Logo de BusTrack, que combina un ícono de bus y un marcador de ubicación para representar el transporte urbano geolocalizado._  <br> _**Fuente:** elaboración propia._
+_**Figura 31.** Logo de BusTrack, que combina un ícono de bus y un marcador de ubicación para representar el transporte urbano geolocalizado._  <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -1294,7 +1294,7 @@ _**Figura 25.** Logo de BusTrack, que combina un ícono de bus y un marcador de 
   <img src="img/commons/Montserrat.webp" alt="Tipografía Montserrat" width="400" height="700">
 </p>
 
-_**Figura 26.** Muestra de la tipografía Montserrat utilizada como base para los textos de BusTrack._  <br> _**Fuente:** elaboración propia._
+_**Figura 32.** Muestra de la tipografía Montserrat utilizada como base para los textos de BusTrack._  <br> _**Fuente:** elaboración propia._
 
 - **Spacing**  
   * Alrededor del logo: dejar un margen libre equivalente al alto de la letra **B** de “BusTrack”.  
@@ -1341,7 +1341,7 @@ El siguiente organigrama de contenidos representa visualmente la estructura jer�
   <img src="img/commons/Arbol.png" alt="Árbol de contenidos de BusTrack" width="700" height="600">
 </p>
 
-_**Figura 27.** Árbol de contenidos de BusTrack utilizado para representar la organización jerárquica de la información en la landing page._   <br> _**Fuente:** elaboración propia._
+_**Figura 33.** Árbol de contenidos de BusTrack utilizado para representar la organización jerárquica de la información en la landing page._   <br> _**Fuente:** elaboración propia._
 
 ### 4.2.2. Labeling Systems
 
@@ -1399,7 +1399,7 @@ _Descripción:_ Este wireframe corresponde a la sección inicial de la landing p
 
 <br>
 
-_**Figura 28.** Wireframe de la sección principal (Hero Section) de la landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 34.** Wireframe de la sección principal (Hero Section) de la landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 2**
@@ -1410,7 +1410,7 @@ _Descripción:_ Este wireframe muestra la sección donde se describen las funcio
 
 <br>
 
-_**Figura 29.** Wireframe de la sección “Qué ofrece BusTrack”, con tarjetas que organizan las funciones principales del sistema._ <br> _**Fuente:** elaboración propia._
+_**Figura 35.** Wireframe de la sección “Qué ofrece BusTrack”, con tarjetas que organizan las funciones principales del sistema._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 3**
@@ -1421,7 +1421,7 @@ _Descripción:_ Este wireframe presenta los segmentos objetivo de BusTrack. La s
 
 <br>
 
-_**Figura 30.** Wireframe de la sección “Para quién es BusTrack”, orientada a describir los segmentos de usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 36.** Wireframe de la sección “Para quién es BusTrack”, orientada a describir los segmentos de usuario._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 4**
@@ -1432,7 +1432,7 @@ _Descripción:_ Este wireframe muestra la guía visual de cómo funciona BusTrac
 
 <br>
 
-_**Figura 31.** Wireframe de la sección “Cómo usar BusTrack”, estructurada en tres pasos ilustrativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 37.** Wireframe de la sección “Cómo usar BusTrack”, estructurada en tres pasos ilustrativos._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 5**
@@ -1443,7 +1443,7 @@ _Descripción:_ Este wireframe representa el apartado donde se comunican los ben
 
 <br>
 
-_**Figura 32.** Wireframe de la sección “Beneficios de usar BusTrack”, que resume las ventajas principales para el usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 38.** Wireframe de la sección “Beneficios de usar BusTrack”, que resume las ventajas principales para el usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 6**
 
@@ -1453,7 +1453,7 @@ _Descripción:_ Este wireframe corresponde a la sección institucional que prese
 
 <br>
 
-_**Figura 33.** Wireframe de la sección “Sobre Nosotros”, con énfasis en misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 39.** Wireframe de la sección “Sobre Nosotros”, con énfasis en misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 7**
 
@@ -1463,7 +1463,7 @@ _Descripción:_ Este wireframe muestra la última sección de la landing page, d
 
 <br>
 
-_**Figura 34.** Wireframe de la sección “Conoce más sobre BusTrack”, compuesta por dos tarjetas para la presentación de videos informativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 40.** Wireframe de la sección “Conoce más sobre BusTrack”, compuesta por dos tarjetas para la presentación de videos informativos._ <br> _**Fuente:** elaboración propia._
 
 ___
 
@@ -1478,7 +1478,7 @@ _Descripción:_ Este wireframe muestra la versión móvil de la sección princip
 <img src="/img/commons/MobileWebBrowser-Wireframe1.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 35.** Wireframe móvil de la sección principal (Hero Section) de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 41.** Wireframe móvil de la sección principal (Hero Section) de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 2**
 
@@ -1487,7 +1487,7 @@ _Descripción:_ Este wireframe presenta la sección donde se describen las funci
 <img src="/img/commons/MobileWebBrowser-Wireframe2.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 36.** Wireframe móvil de la sección “Qué ofrece BusTrack”, con tarjetas organizadas en formato vertical._ <br> _**Fuente:** elaboración propia._
+_**Figura 42.** Wireframe móvil de la sección “Qué ofrece BusTrack”, con tarjetas organizadas en formato vertical._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 3**
 
@@ -1496,7 +1496,7 @@ _Descripción:_ Este wireframe se enfoca en los segmentos objetivo. En la versi�
 <img src="/img/commons/MobileWebBrowser-Wireframe3.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 37.** Wireframe móvil de la sección “Para quién es BusTrack”, con tarjetas segmentadas individualmente._ <br> _**Fuente:** elaboración propia._
+_**Figura 43.** Wireframe móvil de la sección “Para quién es BusTrack”, con tarjetas segmentadas individualmente._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 4**
 
@@ -1505,7 +1505,7 @@ _Descripción:_ Este wireframe describe el flujo de uso de BusTrack en tres paso
 <img src="/img/commons/MobileWebBrowser-Wireframe4.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 38.** Wireframe móvil de la sección “Cómo usar BusTrack”, estructurada en tres pasos explicativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 44.** Wireframe móvil de la sección “Cómo usar BusTrack”, estructurada en tres pasos explicativos._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 5**
 
@@ -1514,7 +1514,7 @@ _Descripción:_ Este wireframe muestra una serie de tarjetas que explican los pr
 <img src="/img/commons/MobileWebBrowser-Wireframe5.png" alt="Wireframe 5 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 39.** Wireframe móvil de la sección “Beneficios de usar BusTrack”, con tarjetas apiladas para facilitar la lectura._ <br> _**Fuente:** elaboración propia._
+_**Figura 45.** Wireframe móvil de la sección “Beneficios de usar BusTrack”, con tarjetas apiladas para facilitar la lectura._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 6**
 
@@ -1523,7 +1523,7 @@ _Descripción:_ Este wireframe representa la versión móvil de la sección inst
 <img src="/img/commons/MobileWebBrowser-Wireframe6.png" alt="Wireframe 6 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 40.** Wireframe móvil de la sección “Sobre Nosotros”, con presentación vertical de misión y visión._ <br> _**Fuente:** elaboración propia._
+_**Figura 46.** Wireframe móvil de la sección “Sobre Nosotros”, con presentación vertical de misión y visión._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 7**
 
@@ -1532,7 +1532,7 @@ _Descripción:_ Este wireframe corresponde a la última sección de la landing p
 <img src="/img/commons/MobileWebBrowser-Wireframe7.png" alt="Wireframe 7 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 41.** Wireframe móvil de la sección “Conoce más sobre BusTrack”, con dos tarjetas para videos informativos._ <br> _**Fuente:** elaboración propia._
+_**Figura 47.** Wireframe móvil de la sección “Conoce más sobre BusTrack”, con dos tarjetas para videos informativos._ <br> _**Fuente:** elaboración propia._
 
 ### 4.3.2. Landing Page Mock-up
 En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. Estos mockups reflejan el diseño visual completo, incluyendo paleta de colores, tipografías, distribución de contenido y elementos de interacción tanto para usuarios pasajeros como para empresas. 
@@ -1547,7 +1547,7 @@ _Descripción:_ Este mock-up corresponde al Hero Section de la landing page. Pre
 
 <br>
 
-_**Figura 42.** Hero Section del landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 48.** Hero Section del landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 2**
 
@@ -1557,7 +1557,7 @@ _Descripción:_ Este mock-up muestra la sección “¿Qué ofrece BusTrack?”, 
 
 <br>
 
-_**Figura 43.** Funcionalidades principales del MVP de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 49.** Funcionalidades principales del MVP de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 3**
 
@@ -1567,7 +1567,7 @@ _Descripción:_ En este mock-up se presenta la sección “¿Para quién es BusT
 
 <br>
 
-_**Figura 44.** Públicos objetivo de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 50.** Públicos objetivo de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 4**
 
@@ -1577,7 +1577,7 @@ _Descripción:_ Este mock-up desarrolla la sección “Cómo usar BusTrack”, e
 
 <br>
 
-_**Figura 45.** Pasos para utilizar BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 51.** Pasos para utilizar BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 5**
 
@@ -1587,7 +1587,7 @@ _Descripción:_ En este mock-up se muestra la sección “Beneficios de usar Bus
 
 <br>
 
-_**Figura 46.** Beneficios principales para usuarios y empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 52.** Beneficios principales para usuarios y empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 6**
 
@@ -1597,7 +1597,7 @@ _Descripción:_ Este mock-up corresponde a la sección “Sobre Nosotros”, don
 
 <br>
 
-_**Figura 47.** Misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 53.** Misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 7**
 
@@ -1607,7 +1607,7 @@ _Descripción:_ El mock-up final muestra la sección “Conoce más sobre BusTra
 
 <br>
 
-_**Figura 48.** ección informativa con videos sobre el producto y el equipo._ <br> _**Fuente:** elaboración propia._
+_**Figura 54.** ección informativa con videos sobre el producto y el equipo._ <br> _**Fuente:** elaboración propia._
 
 ___
 
@@ -1621,7 +1621,7 @@ _Descripción:_ Este mockup corresponde a la sección Hero en su versión móvil
 
 <br>
 
-_**Figura 49.** Mockup móvil de la sección Hero de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 55.** Mockup móvil de la sección Hero de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 2**
 
@@ -1631,7 +1631,7 @@ _Descripción:_ Este mockup muestra la sección ¿Qué ofrece BusTrack?, adaptad
 
 <br>
 
-_**Figura 50.** Mockup móvil de la sección de funcionalidades de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 56.** Mockup móvil de la sección de funcionalidades de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 3**
 
@@ -1641,7 +1641,7 @@ _Descripción:_ Este mockup presenta la sección ¿Para quién es BusTrack? en v
 
 <br>
 
-_**Figura 51.** Mockup móvil de los segmentos de usuarios de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 57.** Mockup móvil de los segmentos de usuarios de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 4**
 
@@ -1651,7 +1651,7 @@ _Descripción:_ Este mockup muestra la sección Cómo usar BusTrack, que en vers
 
 <br>
 
-_**Figura 52.** Mockup móvil del apartado “Cómo usar BusTrack”._ <br> _**Fuente:** elaboración propia._
+_**Figura 58.** Mockup móvil del apartado “Cómo usar BusTrack”._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 5**
 
@@ -1661,7 +1661,7 @@ _Descripción:_ Este mockup corresponde a la sección Beneficios de usar BusTrac
 
 <br>
 
-_**Figura 53.** Mockup móvil de la sección de beneficios de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 59.** Mockup móvil de la sección de beneficios de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 6**
 
@@ -1671,7 +1671,7 @@ _Descripción:_ Este mockup presenta la sección Sobre Nosotros en formato móvi
 
 <br>
 
-_**Figura 54.** Mockup móvil de la sección institucional “Sobre Nosotros”._ <br> _**Fuente:** elaboración propia._
+_**Figura 60.** Mockup móvil de la sección institucional “Sobre Nosotros”._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 7**
 
@@ -1681,7 +1681,7 @@ _Descripción:_ Este mockup corresponde a la sección final Conoce más sobre Bu
 
 <br>
 
-_**Figura 55.** Mockup móvil de la sección con videos informativos de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 61.** Mockup móvil de la sección con videos informativos de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/BusTrack-wireframes-y-mockups?node-id=0-1&t=vbZPvREtMGxi30PI-1
@@ -1701,7 +1701,7 @@ _Descripción:_ Este wireframe corresponde a la pantalla inicial de selección d
 
 <br>
 
-_**Figura 56.** Wireframe de pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 62.** Wireframe de pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 2**
 
@@ -1711,7 +1711,7 @@ _Descripción:_ La segunda pantalla está orientada al inicio de sesión para pa
 
 <br>
 
-_**Figura 57.** Wireframe de pantalla de inicio de sesión para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 63.** Wireframe de pantalla de inicio de sesión para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 3**
 
@@ -1721,7 +1721,7 @@ _Descripción:_ Este wireframe representa la vista de creación de cuenta para p
 
 <br>
 
-_**Figura 58.** Wireframe de pantalla de creación de cuenta para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 64.** Wireframe de pantalla de creación de cuenta para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 4**
 
@@ -1731,7 +1731,7 @@ _Descripción:_ El cuarto wireframe presenta la vista principal de la web app pa
 
 <br>
 
-_**Figura 59.** Wireframe de pantalla principal del pasajero con barra de navegación._ <br> _**Fuente:** elaboración propia._
+_**Figura 65.** Wireframe de pantalla principal del pasajero con barra de navegación._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 5**
 
@@ -1741,7 +1741,7 @@ _Descripción:_ Este wireframe muestra los resultados de búsqueda de rutas. El 
 
 <br>
 
-_**Figura 60.** Wireframe de pantalla de resultados de búsqueda de rutas._ <br> _**Fuente:** elaboración propia._
+_**Figura 66.** Wireframe de pantalla de resultados de búsqueda de rutas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 6**
 
@@ -1751,7 +1751,7 @@ _Descripción:_ El wireframe de la sección de Notificaciones presenta una vista
 
 <br>
 
-_**Figura 61.** Wireframe de pantalla de notificaciones para el pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 67.** Wireframe de pantalla de notificaciones para el pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 7**
 
@@ -1761,7 +1761,7 @@ _Descripción:_ Este diseño corresponde a la sección de Paraderos Cercanos, do
 
 <br>
 
-_**Figura 62.** Wireframe de pantalla de paraderos cercanos con mapa y tarjetas informativas._ <br> _**Fuente:** elaboración propia._
+_**Figura 68.** Wireframe de pantalla de paraderos cercanos con mapa y tarjetas informativas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 8**
 
@@ -1771,7 +1771,7 @@ _Descripción:_ Este wireframe corresponde a la pantalla de Perfil del usuario p
 
 <br>
 
-_**Figura 63.** Wireframe de pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 69.** Wireframe de pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 9**
 
@@ -1781,7 +1781,7 @@ _Descripción:_ Aquí se presenta la vista de Rutas Favoritas, accesible desde e
 
 <br>
 
-_**Figura 64.** Wireframe de pantalla de rutas favoritas del usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 70.** Wireframe de pantalla de rutas favoritas del usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 10**
 
@@ -1791,7 +1791,7 @@ _Descripción:_ Este wireframe corresponde al Historial de viajes, donde el usua
 
 <br>
 
-_**Figura 65.** Wireframe de pantalla del historial de viajes del usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 71.** Wireframe de pantalla del historial de viajes del usuario._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 11**
 
@@ -1801,7 +1801,7 @@ _Descripción:_ Este wireframe presenta la sección de Gestión de Notificacione
 
 <br>
 
-_**Figura 66.** Wireframe de la pantalla de configuración de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 72.** Wireframe de la pantalla de configuración de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 12**
 
@@ -1811,7 +1811,7 @@ _Descripción:_ Este wireframe corresponde a la vista de Configuración de la cu
 
 <br>
 
-_**Figura 67.** Wireframe de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 73.** Wireframe de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 13**
 
@@ -1821,7 +1821,7 @@ _Descripción:_ El wireframe 13 muestra la pantalla de inicio de sesión para em
 
 <br>
 
-_**Figura 68.** Wireframe de la pantalla de inicio de sesión para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 74.** Wireframe de la pantalla de inicio de sesión para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 14**
 
@@ -1831,7 +1831,7 @@ _Descripción:_ Este wireframe representa la pantalla de creación de cuenta par
 
 <br>
 
-_**Figura 69.** Wireframe de la pantalla de registro de cuenta empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 75.** Wireframe de la pantalla de registro de cuenta empresarial._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 15**
 
@@ -1841,7 +1841,7 @@ _Descripción:_ Este wireframe corresponde a la vista principal de Monitoreo en 
 
 <br>
 
-_**Figura 70.** Wireframe de la pantalla de monitoreo en tiempo real para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 76.** Wireframe de la pantalla de monitoreo en tiempo real para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 16**
 
@@ -1851,7 +1851,7 @@ _Descripción:_ Este wireframe corresponde a la sección de Alertas Internas den
 
 <br>
 
-_**Figura 71.** Wireframe de la pantalla de alertas internas del panel empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 77.** Wireframe de la pantalla de alertas internas del panel empresarial._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 17**
 
@@ -1861,7 +1861,7 @@ _Descripción:_ Este wireframe presenta la vista de Administración de Flota. En
 
 <br>
 
-_**Figura 72.** Wireframe de la pantalla de administración de flota._ <br> _**Fuente:** elaboración propia._
+_**Figura 78.** Wireframe de la pantalla de administración de flota._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 18**
 
@@ -1878,7 +1878,7 @@ Al final se incorpora un botón destacado de “Cerrar Sesión”. El diseño ma
 
 <br>
 
-_**Figura 73.** Wireframe de la pantalla de configuración empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 79.** Wireframe de la pantalla de configuración empresarial._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -1895,7 +1895,7 @@ Cada conjunto de flechas de navegación señala la interacción esperada del usu
 
 <img src="/img/commons/WebApplicationsWireflow Diagrams.png"  style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 74.** Wireflow general de las aplicaciones web de BusTrack, que integra los flujos de navegación de usuarios pasajeros y empresariales._ <br> _**Fuente:** elaboración propia._
+_**Figura 80.** Wireflow general de las aplicaciones web de BusTrack, que integra los flujos de navegación de usuarios pasajeros y empresariales._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.4.3. Web Applications Mock-ups
@@ -1910,7 +1910,7 @@ _Descripción:_ Este mock-up corresponde a la pantalla de bienvenida de BusTrack
 
 <br>
 
-_**Figura 75.** Mock-up de la pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 81.** Mock-up de la pantalla inicial de selección de tipo de usuario._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 2**
 
@@ -1920,7 +1920,7 @@ _Descripción:_ Este mock-up muestra la pantalla de inicio de sesión para usuar
 
 <br>
 
-_**Figura 76.** Mock-up de la pantalla de Log In para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 82.** Mock-up de la pantalla de Log In para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 3**
 
@@ -1930,7 +1930,7 @@ _Descripción:_ Este mock-up corresponde al formulario de creación de cuenta pa
 
 <br>
 
-_**Figura 77.** Mock-up de la pantalla de registro de nuevos pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 83.** Mock-up de la pantalla de registro de nuevos pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 4**
 
@@ -1940,7 +1940,7 @@ _Descripción:_ Este mock-up presenta la pantalla principal para el flujo de bú
 
 <br>
 
-_**Figura 78.** Mock-up de búsqueda de rutas para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 84.** Mock-up de búsqueda de rutas para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 5**
 
@@ -1950,7 +1950,7 @@ _Descripción:_ Este mock-up muestra la pantalla donde se visualiza la ruta sele
 
 <br>
 
-_**Figura 79.** Mock-up de la pantalla de visualización de ruta._ <br> _**Fuente:** elaboración propia._
+_**Figura 85.** Mock-up de la pantalla de visualización de ruta._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 6**
 
@@ -1960,7 +1960,7 @@ _Descripción:_ Este mock-up corresponde a la sección de Notificaciones del pas
 
 <br>
 
-_**Figura 80.** Mock-up de la pantalla de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 86.** Mock-up de la pantalla de notificaciones del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 7**
 
@@ -1970,7 +1970,7 @@ _Descripción:_ Este mock-up representa la pantalla de Paraderos Cercanos, donde
 
 <br>
 
-_**Figura 81.** Mock-up de la pantalla de paraderos cercanos._ <br> _**Fuente:** elaboración propia._
+_**Figura 87.** Mock-up de la pantalla de paraderos cercanos._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 8**
 
@@ -1980,7 +1980,7 @@ _Descripción:_ Este mock-up muestra la interfaz de Perfil del usuario pasajero.
 
 <br>
 
-_**Figura 82.** Mock-up de la pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 88.** Mock-up de la pantalla de perfil del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 9**
 
@@ -1990,7 +1990,7 @@ _Descripción:_ Este mock-up presenta la sección de Rutas favoritas del pasajer
 
 <br>
 
-_**Figura 83.** Mock-up de la pantalla de rutas favoritas (estado vacío)._ <br> _**Fuente:** elaboración propia._
+_**Figura 89.** Mock-up de la pantalla de rutas favoritas (estado vacío)._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 10**
 
@@ -2000,7 +2000,7 @@ _Descripción:_ Este mock-up corresponde a la sección de Historial de viajes, d
 
 <br>
 
-_**Figura 84.** Mock-up del historial de viajes del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 90.** Mock-up del historial de viajes del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 11**
 
@@ -2010,7 +2010,7 @@ _Descripción:_ Este mock-up representa la pantalla de configuración de notific
 
 <br>
 
-_**Figura 85.** Mock-up de configuración de notificaciones para pasajeros._ <br> _**Fuente:** elaboración propia._
+_**Figura 91.** Mock-up de configuración de notificaciones para pasajeros._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 12**
 
@@ -2020,7 +2020,7 @@ _Descripción:_ Este mock-up muestra la sección de configuración de cuenta del
 
 <br>
 
-_**Figura 86.** Mock-up de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
+_**Figura 92.** Mock-up de configuración de cuenta del pasajero._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 13**
 
@@ -2030,7 +2030,7 @@ _Descripción:_ Este mock-up corresponde a la pantalla de inicio de sesión para
 
 <br>
 
-_**Figura 87.** Mock-up de Log In para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 93.** Mock-up de Log In para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 14**
 
@@ -2040,7 +2040,7 @@ _Descripción:_ Este mock-up presenta la pantalla de creación de cuenta empresa
 
 <br>
 
-_**Figura 88.** Mock-up de registro de nuevas empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 94.** Mock-up de registro de nuevas empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 15**
 
@@ -2050,7 +2050,7 @@ _Descripción:_ Este mock-up corresponde a la interfaz de Monitoreo en Tiempo Re
 
 <br>
 
-_**Figura 89.** Mock-up de monitoreo en tiempo real de flota empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 95.** Mock-up de monitoreo en tiempo real de flota empresarial._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 16**
 
@@ -2060,7 +2060,7 @@ _Descripción:_ Este mock-up muestra la sección de Alertas Internas, donde la e
 
 <br>
 
-_**Figura 90.** Mock-up de gestión de alertas internas._ <br> _**Fuente:** elaboración propia._
+_**Figura 96.** Mock-up de gestión de alertas internas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 17**
 
@@ -2070,7 +2070,7 @@ _Descripción:_ Este mock-up representa la pantalla de Administración de Flota,
 
 <br>
 
-_**Figura 91.** Mock-up de administración de flota para empresas._ <br> _**Fuente:** elaboración propia._
+_**Figura 97.** Mock-up de administración de flota para empresas._ <br> _**Fuente:** elaboración propia._
 
 **Mock-up 18**
 
@@ -2088,7 +2088,7 @@ Cada sección se presenta en tarjetas diferenciadas para favorecer la claridad v
 
 <br>
 
-_**Figura 92.** Mock-up de configuración empresarial._ <br> _**Fuente:** elaboración propia._
+_**Figura 98.** Mock-up de configuración empresarial._ <br> _**Fuente:** elaboración propia._
 
 
 Link del figma: https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/BusTrack-wireframes-y-mockups?node-id=0-1&t=vbZPvREtMGxi30PI-1
@@ -2105,7 +2105,7 @@ El diagrama permite visualizar la complejidad lógica del sistema y valida que c
 
 <img src="/img/commons/WebApplicationsUserFlowDiagrams.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 93.** Diagrama general de User Flows para los usuarios Pasajero y Empresa en la aplicación web BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 99.** Diagrama general de User Flows para los usuarios Pasajero y Empresa en la aplicación web BusTrack._ <br> _**Fuente:** elaboración propia._
 
 ## 4.5. Web Applications Prototyping
 
@@ -2113,7 +2113,7 @@ La imagen muestra una captura del prototipo navegable desarrollado para la plata
 
 <img src="/img/commons/WebApplicationsPrototypingNew.png" alt="Web Applications Prototyping" style="width: 700px; margin-right: 700px;"/>
 
-_**Figura 94.** Vista del prototipo navegable de la aplicación web BusTrack_ <br> _**Fuente:** elaboración propia._
+_**Figura 100.** Vista del prototipo navegable de la aplicación web BusTrack_ <br> _**Fuente:** elaboración propia._
 
 
 Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320610_upc_edu_pe/IQC7dRPCc0B4RLVpPp85x9blAWwlxJ49K6pJozzxoxrtHiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bxbHzL
@@ -2143,7 +2143,7 @@ El Design-Level Event Storming permitió desglosar los procesos fundamentales de
 
 <img src="/img/commons/Design-LevelEvent Storming-LEYENDA.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Leyenda del Design-Level Event Storming._ <br> _**Fuente:** elaboración propia._
+_**Figura 101.** Leyenda del Design-Level Event Storming._ <br> _**Fuente:** elaboración propia._
 
 Se desarrollaron dos diagramas de Event Storming, uno por cada segmento objetivo, debido a que los procesos, decisiones y responsabilidades son diferentes para pasajeros y empresas.
 
@@ -2164,7 +2164,7 @@ El diagrama incluye los procesos principales del usuario pasajero:
 
 <img src="/img/commons/Design-LevelEvent Storming-Segmento1.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Design-Level Event Storming del segmento 1._ <br> _**Fuente:** elaboración propia._
+_**Figura 102.** Design-Level Event Storming del segmento 1._ <br> _**Fuente:** elaboración propia._
 
 ___
 
@@ -2182,7 +2182,7 @@ En este caso, los bounded contexts y procesos incluyen:
 
 <img src="/img/commons/Design-LevelEvent Storming-Segmento2.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Design-Level Event Storming del segmento 2._ <br> _**Fuente:** elaboración propia._
+_**Figura 103.** Design-Level Event Storming del segmento 2._ <br> _**Fuente:** elaboración propia._
 
 Link del miro: https://miro.com/app/board/uXjVJFjoDJw=/
 
@@ -2201,7 +2201,7 @@ Descripción: El diagrama de contexto muestra los actores externos, sistemas vin
 
 <img src="img/commons/4.6.2. Software Architecture Context Diagram.png" alt="Software Architecture Context Diagram" style="width: 700px; margin-right: 700px;"/>
 
-_**Figura 94.** Diagrama de Contexto de la Arquitectura de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 104.** Diagrama de Contexto de la Arquitectura de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
@@ -2209,7 +2209,7 @@ Descripción: La leyenda detalla el significado de los colores y tipos de elemen
 
 <img src="img/commons/Leyenda-Software Architecture Context Diagram.png" alt="Leyenda Software Architecture Context Diagram" style="width: 700px; margin-right: 700px;"/>
 
-_**Figura 94.** Leyenda del Diagrama de Contexto de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 105.** Leyenda del Diagrama de Contexto de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.6.3. Software Architecture Container Diagrams
@@ -2220,7 +2220,7 @@ Descripción: El diagrama de contenedores representa la arquitectura de alto niv
 
 <img src="img/commons/4.6.3. Software Architecture Container Diagrams.png" style="width: 700px; margin-right: 700px;"/>
 
-_**Figura 94.** Diagrama de Contenedores de la Arquitectura de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 106.** Diagrama de Contenedores de la Arquitectura de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 **Leyenda**
@@ -2229,7 +2229,7 @@ Descripción: La leyenda especifica los colores y tipos de contenedores, indican
 
 <img src="img/commons/Leyenda- Software Architecture Container Diagrams.png" style="width: 700px; margin-right: 700px;"/>
 
-_**Figura 94.** Leyenda del Diagrama de Contenedores de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 107.** Leyenda del Diagrama de Contenedores de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 ### 4.6.4. Software Architecture Components Diagrams
@@ -2253,7 +2253,7 @@ Descripción: El diagrama describe los componentes internos de la PWA, incluyend
 
 <img src="img/commons/WebAppComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Componentes de la Aplicación Web (PWA) de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 108.** Componentes de la Aplicación Web (PWA) de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
@@ -2261,7 +2261,7 @@ Descripción: La leyenda explica los colores y formas utilizados para representa
 
 <img src="img/commons/Leyenda WebAppComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Leyenda de Componentes de la PWA._ <br> _**Fuente:** elaboración propia._
+_**Figura 109.** Leyenda de Componentes de la PWA._ <br> _**Fuente:** elaboración propia._
 
 **Backend API**
 
@@ -2278,7 +2278,7 @@ Descripción: El diagrama muestra los componentes de la API Backend, organizados
 
 <img src="img/commons/BackendApiComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Componentes del Backend API de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 110.** Componentes del Backend API de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
@@ -2286,7 +2286,7 @@ Descripción: La leyenda detalla el significado de los colores y categorías par
 
 <img src="img/commons/Leyenda BackendApiComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Leyenda de los Componentes del Backend API._ <br> _**Fuente:** elaboración propia._
+_**Figura 111.** Leyenda de los Componentes del Backend API._ <br> _**Fuente:** elaboración propia._
 
 **Real-time Service**
 
@@ -2303,7 +2303,7 @@ Descripción: El diagrama presenta los componentes del Servicio en Tiempo Real, 
 
 <img src="img/commons/RealTimeComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Componentes del Servicio en Tiempo Real de BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 112.** Componentes del Servicio en Tiempo Real de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 **Leyenda**
@@ -2312,7 +2312,7 @@ Descripción: La leyenda describe los tipos de componentes relacionados con proc
 
 <img src="img/commons/LeyendaRealTimeComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Leyenda del Servicio en Tiempo Real._ <br> _**Fuente:** elaboración propia._
+_**Figura 113.** Leyenda del Servicio en Tiempo Real._ <br> _**Fuente:** elaboración propia._
 
 
 **Fleet Data Ingestion**
@@ -2328,7 +2328,7 @@ Descripción: Componentes que procesan telemetría de proveedores, normalizan da
 
 <img src="img/commons/IngestionComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Componentes del Contenedor Fleet Data Ingestion._ <br> _**Fuente:** elaboración propia._
+_**Figura 114.** Componentes del Contenedor Fleet Data Ingestion._ <br> _**Fuente:** elaboración propia._
 
 **Leyenda**
 
@@ -2336,7 +2336,7 @@ Descripción: La leyenda detalla los iconos y categorías utilizados para repres
 
 <img src="img/commons/LeyendaIngestionComponents.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Leyenda del Módulo de Ingesta de Datos de Flota._ <br> _**Fuente:** elaboración propia._
+_**Figura 115.** Leyenda del Módulo de Ingesta de Datos de Flota._ <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -2353,7 +2353,7 @@ Descripción: El diagrama muestra la estructura del dominio de BusTrack, detalla
 
 <img src="/img/commons/classDiagram.png" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura 94.** Diagrama de clases del sistema BusTrack._ <br> _**Fuente:** elaboración propia._
+_**Figura 116.** Diagrama de clases del sistema BusTrack._ <br> _**Fuente:** elaboración propia._
 
 ### 4.7.2. Class Dictionary
 
@@ -2517,7 +2517,7 @@ Descripción: El diagrama ER representa las entidades principales del sistema Bu
 
 <img src="img/commons/DiagramaERBusTrack.jpeg" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura XX.** Diagrama Entidad–Relación del sistema BusTrack._  <br>_**Fuente:** elaboración propia._
+_**Figura 117.** Diagrama Entidad–Relación del sistema BusTrack._  <br>_**Fuente:** elaboración propia._
 
 
 link: https://lucid.app/lucidchart/7b7fbca6-a61b-4653-8ea2-b8b1985b5e9f/edit?viewport_loc=-393%2C-62%2C3568%2C1532%2C0_0&invitationId=inv_7298d486-3846-4284-ac1c-f5b20085366e 
@@ -2528,7 +2528,7 @@ Descripción: El diagrama físico generado en MySQL Workbench muestra la estruct
 
 <img src="img/commons/DiagramaERBusTrack-Workbench.jpg" style="width: 900px; margin-right: 900px;"/>
 
-_**Figura XX.** Diagrama físico de la base de datos BusTrack en MySQL Workbench._  <br> _**Fuente:** elaboración propia._
+_**Figura 118.** Diagrama físico de la base de datos BusTrack en MySQL Workbench._  <br> _**Fuente:** elaboración propia._
 
 ___
 
@@ -2759,7 +2759,7 @@ Descripción: La imagen muestra el flujo de trabajo GitFlow, utilizado para orga
 
 <img src="img/commons/gitflow.jpg" style="width: 700px; margin-right: 700px;"/>
 
-_**Figura XX.** Flujo de trabajo GitFlow utilizado para la gestión del código fuente._ <br> _**Fuente:** elaboración propia._
+_**Figura 119.** Flujo de trabajo GitFlow utilizado para la gestión del código fuente._ <br> _**Fuente:** elaboración propia._
 
 <br>
 
@@ -3008,7 +3008,7 @@ Esta imagen muestra la sección inicial de la landing page, donde se presenta la
 
 ![landing1](img/landing1.png)
 
-_**Figura 95.** Sección principal (hero) de la landing page de BusTrack._  
+_**Figura 120.** Sección principal (hero) de la landing page de BusTrack._  
 _**Fuente:** elaboración propia._
 
 ---
@@ -3018,7 +3018,7 @@ Aquí se visualizan los pasos que guía a los usuarios sobre cómo utilizar la p
 
 ![landing2](img/landing2.png)
 
-_**Figura 96.** Sección “Cómo usar” con los pasos explicativos del funcionamiento de la aplicación._  
+_**Figura 121.** Sección “Cómo usar” con los pasos explicativos del funcionamiento de la aplicación._  
 _**Fuente:** elaboración propia._
 
 ---
@@ -3028,7 +3028,7 @@ Esta captura presenta los beneficios clave ofrecidos por BusTrack, acompañados 
 
 ![landing3](img/landing3.png)
 
-_**Figura 97.** Sección de beneficios que describe las ventajas principales de BusTrack._  
+_**Figura 122.** Sección de beneficios que describe las ventajas principales de BusTrack._  
 _**Fuente:** elaboración propia._
 
 ---
@@ -3038,7 +3038,7 @@ La imagen muestra la sección “About Us”, donde se comunica la misión y vis
 
 ![landing4](img/landing4.png)
 
-_**Figura 98.** Sección “Sobre nosotros” y footer de la landing page de BusTrack._  
+_**Figura 123.** Sección “Sobre nosotros” y footer de la landing page de BusTrack._  
 _**Fuente:** elaboración propia._
 
 <br>
@@ -3073,7 +3073,7 @@ En primer lugar, se creó una organización en GitHub para centralizar los repos
 
 ![deploy1](img/deploy1.png)  
 
-_**Figura 99.** Creación de la organización del proyecto BusTrack en GitHub._  
+_**Figura 124.** Creación de la organización del proyecto BusTrack en GitHub._  
 _**Fuente:** elaboración propia._  
 
 ---
@@ -3084,7 +3084,7 @@ Luego, se creó un repositorio dedicado para el código de la landing page, dond
 
 ![deploy2](img/deploy2.png)  
 
-_**Figura 100.** Repositorio de GitHub creado para alojar la landing page de BusTrack._  
+_**Figura 125.** Repositorio de GitHub creado para alojar la landing page de BusTrack._  
 _**Fuente:** elaboración propia._  
 
 ---
@@ -3095,7 +3095,7 @@ Finalmente, se configuró GitHub Pages desde la sección **Settings → Pages** 
 
 ![deploy3](img/deploy3.png)  
 
-_**Figura 101.** Configuración de GitHub Pages para el despliegue de la landing page de BusTrack._  
+_**Figura 126.** Configuración de GitHub Pages para el despliegue de la landing page de BusTrack._  
 _**Fuente:** elaboración propia._  
 
 ---
@@ -3118,7 +3118,7 @@ La siguiente imagen muestra la actividad de commits en el repositorio de la land
 
 ![insights1](img/insights1.png)  
 
-_**Figura 102.** Actividad de commits en el repositorio de la landing page de BusTrack._  
+_**Figura 127.** Actividad de commits en el repositorio de la landing page de BusTrack._  
 _**Fuente:** elaboración propia._  
 
 ---
@@ -3129,7 +3129,7 @@ Aquí se observa la actividad registrada en el repositorio del informe, donde se
 
 ![insights2](img/insights2.png)  
 
-_**Figura 103.** Actividad de commits en el repositorio del informe del proyecto BusTrack._  
+_**Figura 128.** Actividad de commits en el repositorio del informe del proyecto BusTrack._  
 _**Fuente:** elaboración propia._  
 
 ---
@@ -3140,7 +3140,7 @@ El gráfico de red (network graph) ilustra cómo se han ido generando ramas y fu
 
 ![insights3](img/insights3.png)  
 
-_**Figura 104.** Gráfico de red del repositorio, mostrando ramas y fusiones durante el sprint._  
+_**Figura 129.** Gráfico de red del repositorio, mostrando ramas y fusiones durante el sprint._  
 _**Fuente:** elaboración propia._  
 
 ---
@@ -3151,7 +3151,7 @@ Este gráfico muestra la frecuencia de cambios en el código (líneas añadidas 
 
 ![insights4](img/insights4.png)  
 
-_**Figura 105.** Frecuencia de cambios de código en el repositorio del proyecto BusTrack._  
+_**Figura 130.** Frecuencia de cambios de código en el repositorio del proyecto BusTrack._  
 _**Fuente:** elaboración propia._  
 
 ---
@@ -3162,49 +3162,58 @@ Finalmente, se listan los colaboradores del repositorio y su nivel de participac
 
 ![insights5](img/insights5.png)  
 
-_**Figura 106.** Colaboradores del repositorio y contribuciones realizadas durante el sprint._  
+_**Figura 131.** Colaboradores del repositorio y contribuciones realizadas durante el sprint._  
 _**Fuente:** elaboración propia._  
+
+<br>
 
 ### 5.2.2. Sprint 2
 
+En este segundo sprint, el equipo se enfocó en el **desarrollo del frontend de la aplicación web BusTrack**, implementando las principales pantallas funcionales (login, home, notificaciones, perfil, paraderos cercanos y búsqueda de ruta) a partir de los mockups definidos previamente. Este sprint continúa el trabajo iniciado con la landing page y se orienta a construir una primera versión navegable de la aplicación.
+
+---
+
 #### 5.2.2.1. Sprint Planning 2
 
-#### Primer Sprint - Planificación
+En esta sección se detalla la **planificación del Sprint 2**, incluyendo el objetivo del sprint, el resumen del sprint anterior y los acuerdos tomados por el equipo durante la reunión de planificación.
 
-El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del primer sprint, el cual tendrá una duración de **una semana**.  
+#### Segundo Sprint - Planificación
 
-El enfoque principal será el **desarrollo y despliegue del fontend de la aplicación** del proyecto en **GitHub Pages**. Para ello, se deberán crear los **diseños previos** como *wireframes* y *mockups*.  
+El equipo de desarrollo se reunió virtualmente para definir los **objetivos, tareas y entregables** del segundo sprint, el cual tendrá una duración de **una semana**.  
 
-De esta manera, se asegura que el **producto inicial** esté operativo y sirva como base sólida para las siguientes iteraciones.  
+El enfoque principal será el **desarrollo y despliegue del frontend de la aplicación web**, implementando las funcionalidades principales de la interfaz de usuario con **HTML, CSS y JavaScript** a partir de los *wireframes* y *mockups* ya elaborados.  
+
+De esta manera, se asegura que la aplicación cuente con una **versión navegable** que permita validar flujos, estructura de pantallas y experiencia de usuario.
 
 #### Sprint 2 - Planning Background
 
-| **Elemento**                       | **Detalle**                                                                                                                                               |
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Date**                           | 2025/10/06                                                                                                                                                |
-| **Time**                           | 20:00 PM                                                                                                                                                   |
-| **Location**                       | Se realizó virtualmente por la plataforma **Google Meet**                                                                                                  |
-| **Prepared by**                    | Todos los integrantes de DalComp                                                                                                                               |
-| **Attendees (to planning meeting)**| Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
-| **Sprint n – 2 Review Summary**    | Se implementará el frontend de la aplicación web, desarrollando la interfaz de usuario con HTML, CSS y JavaScript para la segunda entrega                   |
-| **Sprint n – 2 Retrospective Summary** | Se cumplió con los objetivos propuestos                                                                                                                 |
-| **Sprint Goal & User Stories**     | Mostrar una buena primera impresión a los usuarios                                                                                                         |
-| **Sprint 2 Goal**                  | Desarrollar y desplegar el frontend de la aplicación web en GitHub Pages, implementando los diseños de los mock-ups previamente creados y garantizando que cumpla con los requisitos de interactividad, diseño responsive y experiencia de usuario. |
-| **Sprint 2 Velocity**              | 10                                                                                                                                                          |
-| **Sum of Story Points**            | 21                                                                                                                                                          |
+| **Elemento**                            | **Detalle**                                                                                                                                                    |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                                | 2025/10/06                                                                                                                                                     |
+| **Time**                                | 20:00                                                                                                                                                          |
+| **Location**                            | Se realizó virtualmente por la plataforma Google Meet                                                                                                          |
+| **Prepared by**                         | Todos los integrantes de DalComp                                                                                                                               |
+| **Attendees (to planning meeting)**     | Mathias Andree Cárdenas Huaman, Elizabeth Noelia Apaza Bocanegra, Diego Andres Avalos Cordova, Joaquin Alberto Cuentas Peña, Fátima Belén Florez Shimabukuro |
+| **Sprint n – 1 Review Summary**         | En el sprint anterior se diseñó, desarrolló y desplegó la landing page estática de BusTrack, cumpliendo con los objetivos planteados.                         |
+| **Sprint n – 1 Retrospective Summary**  | Se cumplió con los objetivos propuestos y se identificó la necesidad de aumentar la modularidad del código y la organización de tareas para el siguiente sprint. |
+| **Sprint Goal & User Stories**          | Implementar las funcionalidades principales del frontend de la aplicación para mejorar la experiencia de los usuarios al interactuar con BusTrack.           |
+| **Sprint 2 Goal**                       | Desarrollar y desplegar el frontend de la aplicación web en GitHub Pages, implementando los diseños de los mockups previamente creados y garantizando que cumpla con los requisitos de interactividad, diseño responsive y experiencia de usuario. |
+| **Sprint 2 Velocity**                   | 10                                                                                                                                                             |
+| **Sum of Story Points**                 | 21                                                                                                                                                             |
 
+---
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que otros miembros del equipo cumplen roles de **colaboración (C)** para asegurar que el desarrollo cumpla con los objetivos del sprint 2.
+Para este sprint se definieron aspectos clave del frontend (login, notificaciones, perfil, paraderos cercanos y búsqueda de ruta), asignando un **líder (L)** responsable de cada uno y **colaboradores (C)** que apoyan en su implementación y validación. Esto permitió organizar mejor el trabajo y asegurar la cobertura de todas las secciones priorizadas.
 
 | **Team Member (Last Name, First Name)** | **GitHub Username**   | **Login, Sign In y Home** | **Sección "Notificaciones"** | **Sección "Perfil"** | **Sección "Paraderos Cercanos"** | **Sección "Buscar Ruta"** |
-|-----------------------------------------|-----------------------|--------------------------------------|-----------------------------|--------------------------|-----------------------------|------------------------------------|
-| Mathias Andree Cárdenas Huaman          | AndS56                | C                                    | L                           | C                        | C                           | C                                  |
-| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                    | C                           | L                        | C                           | C                                  |
-| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                    | C                           | C                        | L                           | C                                  |
-| Joaquin Alberto Cuentas Peña            | JoaCUPE               | C                                    | C                           | C                        | C                           | L                                  |
-| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | L                                    | C                           | C                        | C                           | C                                  |
+|-----------------------------------------|------------------------|----------------------------|------------------------------|----------------------|-----------------------------------|---------------------------|
+| Mathias Andree Cárdenas Huaman          | AndS56                 | C                          | L                            | C                    | C                                 | C                         |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza        | C                          | C                            | L                    | C                                 | C                         |
+| Diego Andres Avalos Cordova             | DiegoAndresAvalos      | C                          | C                            | C                    | L                                 | C                         |
+| Joaquin Alberto Cuentas Peña            | JoaCUPE                | C                          | C                            | C                    | C                                 | L                         |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom         | L                          | C                            | C                    | C                                 | C                         |
 
 
 #### 5.2.2.3. Sprint Backlog 2
@@ -3213,27 +3222,29 @@ Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que ot
 
 En esta sección se presenta el **Sprint Backlog 2**, correspondiente al segundo ciclo de desarrollo del proyecto.  
 
-El objetivo principal de este sprint es **diseñar y maquetar las pantallas principales relacionadas con la búsqueda de rutas, visualización de horarios y alertas**, simulando los flujos principales que luego serán conectados al backend en sprints futuros.
+El objetivo principal de este sprint es **implementar las pantallas principales del frontend** (búsqueda de rutas, paraderos cercanos, rutas frecuentes, Google Maps, notificaciones de retraso y alertas de desvío), simulando los flujos definidos en las **User Stories US01–US06**, que luego se conectarán al backend en sprints futuros.
 
 ---
 
 ### Sprint Backlog 2 - User Stories y Tareas
 
-| **User Story** | **Title**                        | **Task ID** | **Task Title**                                         | **Description**                                                                                 | **Estimation (hours)** | **Assigned to**    | **Status** |
-|----------------|------------------------------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------|--------------------|------------|
-| US01           | Buscar rutas                       | T09         | Diseñar interfaz de búsqueda de rutas                   | Crear pantalla con campos de “origen” y “destino” y botón de búsqueda.                          | 3                       | Mathia Cárdenas    | done     |
-| US01           | Buscar rutas                       | T10         | Implementar estado de resultado de búsqueda             | Simular resultado de rutas disponibles en lista o tarjetas.                                     | 3                       | Diego Avalos       | done     |
-| US01           | Buscar rutas                       | T11         | Mostrar mensaje de “Ruta no encontrada”                 | Mostrar mensaje de error si no hay resultado simulado.                                          | 1                       | Fátima Florez      | done     |
-| US02           | Visualizar horarios                 | T12         | Crear componente de horarios                            | Diseñar vista con horarios simulados para una ruta seleccionada.                                | 3                       | Joaquin Cuentas    | done     |
-| US02           | Visualizar horarios                 | T13         | Simular mensajes de horarios no disponibles             | Mostrar mensaje “Horarios no disponibles” cuando no haya datos simulados.                       | 1                       | Diego Avalos       | done     |
-| US03           | Guardar rutas frecuentes            | T14         | Añadir botón “Guardar ruta”                             | Crear botón de acción visual para guardar ruta (sin conexión real).                             | 2                       | Elizabeth Apaza    | done     |
-| US03           | Guardar rutas frecuentes            | T15         | Mostrar mensaje de validación                           | Simular validación de ruta duplicada mediante mensajes en pantalla.                             | 1                       | Mathia Cárdenas    | done     |
-| US04           | Ver ubicación del bus               | T16         | Integrar mapa embebido (mock)                            | Incluir un mapa estático o marcador simulado de ubicación.                                      | 3                       | Diego Avalos       | done     |
-| US04           | Ver ubicación del bus               | T17         | Mostrar mensaje de “Ubicación no disponible”            | Mensaje visible cuando no hay información (sin lógica real).                                   | 1                       | Fátima Florez      | done     |
-| US05           | Recibir notificaciones de retraso   | T18         | Crear UI para alertas de retraso                         | Maquetar componente visual de notificación o modal.                                            | 2                       | Joaquin Cuentas    | done    |
-| US05           | Recibir notificaciones de retraso   | T19         | Simular alerta desactivada                              | Mostrar estado visual cuando las notificaciones están “desactivadas”.                           | 1                       | Mathia Cárdenas    | done     |
-| US06           | Alertas de desvío                   | T20         | Maquetar UI para alertas de desvío                       | Crear interfaz visual que muestre alerta de cambio de ruta.                                     | 2                       | Elizabeth Apaza    | done     |
-| US06           | Alertas de desvío                   | T21         | Mostrar mensaje de falta de conexión                     | Agregar mensaje cuando no se pueda mostrar alerta (simulado).                                  | 1                       | Diego Avalos       | done     |
+| **User Story** | **Title**                      | **Task ID** | **Task Title**                                           | **Description**                                                                                                                                                   | **Estimation (hours)** | **Assigned to**       | **Status** |
+|----------------|--------------------------------|-------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----------------------|-----------|
+| US01           | Buscar rutas                   | T09         | Diseñar interfaz de búsqueda de rutas                    | Crear la pantalla con los campos “Origen” y “Destino”, botón “Buscar ruta” y mensajes de ayuda para el usuario.                                                   | 3                       | Mathias Cárdenas      | done      |
+| US01           | Buscar rutas                   | T10         | Implementar resultado de búsqueda                        | Simular la lista de rutas disponibles (mock) cuando se ingresan origen y destino válidos, mostrando nombre de ruta y tiempo estimado.                            | 3                       | Diego Ávalos          | done      |
+| US01           | Buscar rutas                   | T11         | Validar campos vacíos y deshabilitar botón               | Implementar la lógica para que, si origen y/o destino están vacíos, el botón “Buscar ruta” permanezca deshabilitado y no se ejecute la búsqueda.                 | 1                       | Fátima Florez         | done      |
+| US02           | Ver paraderos cercanos         | T12         | Diseñar pantalla de paraderos cercanos                   | Crear la vista con lista de paraderos cercanos (mock), mostrando nombre, dirección, distancia y rutas que pasan por cada uno.                                    | 3                       | Joaquín Cuentas       | done      |
+| US02           | Ver paraderos cercanos         | T13         | Simular ubicación por defecto                            | Implementar el uso de una ubicación por defecto cuando no se pueda obtener la ubicación actual, manteniendo visible la lista de paraderos simulados.             | 1                       | Diego Ávalos          | done      |
+| US03           | Guardar rutas frecuentes       | T14         | Añadir botón “Guardar como favorita”                     | Agregar el botón “Guardar como favorita” en el detalle de una ruta y simular el guardado (por ejemplo, en memoria o localStorage).                               | 2                       | Elizabeth Apaza       | done      |
+| US03           | Guardar rutas frecuentes       | T15         | Simular validación de ruta duplicada                     | Mostrar el mensaje “Esta ruta ya está guardada” cuando se intente guardar nuevamente una ruta que ya fue marcada como favorita.                                   | 1                       | Mathias Cárdenas      | done      |
+| US04           | Ver ruta en Google Maps        | T16         | Agregar botón “Ver en Google Maps”                       | Incorporar el botón “Ver en Google Maps” en los resultados de búsqueda de rutas.                                                                                  | 2                       | Diego Ávalos          | done      |
+| US04           | Ver ruta en Google Maps        | T17         | Construir URL y apertura en nueva pestaña                | Construir la URL hacia Google Maps usando origen y destino simulados y abrirla en una nueva pestaña, incluso si los datos no corresponden a direcciones reales.  | 1                       | Fátima Florez         | done      |
+| US05           | Notificaciones de retraso      | T18         | Diseñar pantalla de “Notificaciones”                     | Crear la vista de notificaciones con una lista de tarjetas que muestren mensaje, icono y hora de la notificación.                                                | 2                       | Joaquín Cuentas       | done      |
+| US05           | Notificaciones de retraso      | T19         | Implementar toast emergente y estado vacío               | Implementar un toast emergente para nuevas notificaciones y un mensaje de estado vacío (“No tienes notificaciones”) cuando la lista esté vacía.                  | 1                       | Mathias Cárdenas      | done      |
+| US06           | Alertas de desvío              | T20         | Maquetar UI para alertas de desvío                       | Reutilizar la pantalla de notificaciones para mostrar alertas de desvío con icono diferenciado y texto explicando el cambio de ruta.                             | 2                       | Elizabeth Apaza       | done      |
+| US06           | Alertas de desvío              | T21         | Eliminar alertas desde la lista                          | Implementar el botón “×” en cada alerta de desvío para eliminarla de la lista y dejar de mostrarla en pantalla.                                                  | 1                       | Diego Ávalos          | done      |
+
+
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 En esta sección, se presentan los commits realizados en el repositorio report-BusTrack, correspondiente al entregable de la TP.
