@@ -3561,7 +3561,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista Pasajero 1"></div> <br>
+    <td><div align="center">< ></div> <br>
   <em><strong>Figura X.</strong> Evidencia de validación de entrevista 3 - Segmento 1.</em><br>
   <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
