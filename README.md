@@ -3416,6 +3416,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 
 ### Segmento Objetivo 1: Pasajeros de Transporte Público
 
+
 <table>
 <colgroup>
 </colgroup>
@@ -3435,7 +3436,11 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Edad</td>
-    <td>No especificado (Contexto: Trabajadora y Estudiante)</td>
+    <td>No especificado </td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario y trabajadora </td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -3447,11 +3452,13 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista Pasajero 1"></div></td>
+    <td><div align="center"><img src="/img/commons/evidencia7.png" ></div> <br>
+  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 1 - Segmento 1.</em><br>
+  <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQCjNKnAhNypSbqt894bbPwyAQYP6RomstVAooYRDJmPErk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BYVwZ0" title="Video Entrevista 1">Video 1</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u20231c197_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c197%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Carla%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8f784cbf%2D5228%2D49a6%2Dae5b%2D48856aa737a8" title="Video Entrevista 1">Video 1</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -3485,6 +3492,10 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
     <td>Edad</td>
     <td>No especificado</td>
   </tr>
+   <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario</td>
+  </tr>
   <tr>
     <td>Distrito</td>
     <td>San Martin</td>
@@ -3495,11 +3506,13 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista Pasajero 2"></div></td>
+    <td><div align="center"><img src="/img/commons/evidencia8.png" ></div> <br>
+  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 2 - Segmento 1.</em><br>
+  <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQDqj0410PX9TJyB4htEfpmwAf9LXqgAaMSsiGT_qBo6idA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yVbeg5" title="Video Entrevista 2">Video 2</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQCjNKnAhNypSbqt894bbPwyAQYP6RomstVAooYRDJmPErk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BYVwZ0" title="Video Entrevista 2">Video 2</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -3532,7 +3545,11 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Edad</td>
-    <td>23 (Contexto: Estudiante)</td>
+    <td>23 </td>
+  </tr>
+   <tr>
+    <td>Ocupación</td>
+    <td>Estudiante </td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -3544,7 +3561,9 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/" alt="Entrevista Pasajero 1"></div></td>
+    <td><div align="center"><img src="/" alt="Entrevista Pasajero 1"></div> <br>
+  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 3 - Segmento 1.</em><br>
+  <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3570,7 +3589,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #4<br></th>
   </tr>
 </thead>
 <tbody>
@@ -3586,6 +3605,10 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
     <td>Edad</td>
     <td>40 años</td>
   </tr>
+   <tr>
+    <td>Ocupación</td>
+    <td> Administrador de flota </td>
+  </tr>
   <tr>
     <td>Distrito</td>
     <td>Villa María del Triunfo</td>
@@ -3596,7 +3619,9 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/img/commons/administrador-de-flota-entrevista1.png" alt="Entrevista Condori"></div></td>
+    <td><div align="center"><img src="/img/commons/administrador-de-flota-entrevista1.png" alt="Entrevista Condori"></div> <br>
+  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 4 - Segmento 2.</em><br>
+  <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3621,7 +3646,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #4<br></th>
+    <th colspan="2">Entrevista #5<br></th>
   </tr>
 </thead>
 <tbody>
@@ -3638,6 +3663,10 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
     <td>35 años</td>
   </tr>
   <tr>
+    <td>Ocupación</td>
+    <td> Supervisor de rutas</td>
+  </tr>
+  <tr>
     <td>Distrito</td>
     <td>Lima</td>
   </tr>
@@ -3647,7 +3676,9 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/img/commons/Supervisor de rutas de Transporte Urbano - Entrevista 2.png" alt="Entrevista Rodriguez"></div></td>
+    <td><div align="center"><img src="/img/commons/Supervisor de rutas de Transporte Urbano - Entrevista 2.png" alt="Entrevista Rodriguez"></div> <br>
+  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 5 - Segmento 2.</em><br>
+  <em><strong>Fuente:</strong> elaboración propia.</em></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3663,6 +3694,62 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
 </tbody>
 </table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #6<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> </td>
+  </tr>
+   <tr>
+    <td>Ocupación</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Grabación de pantalla</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/" ></div> <br>
+  <em><strong>Figura X.</strong> Evidencia de validación de entrevista 6 - Segmento 2.</em><br>
+  <em><strong>Fuente:</strong> elaboración propia.</em></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="">Video 6</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>  min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> 
+  </tr>
+</tbody>
+</table>
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas
