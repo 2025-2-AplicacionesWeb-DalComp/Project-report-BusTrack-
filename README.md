@@ -48,19 +48,17 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 |  |  |  |  |
-| TB2 | 14/11 | Andree Cardenas | Sprint 3 | 
-| TB2 | 15/11 | Andree Cardenas | Desarrollo del apartado de perfil del backend |
-| TB2 | 13/11 | Fátima Florez | Desarrollo del apartado de notificaciones del backend |
-| TB2 | 14/11 | Fátima Florez | Sprint 3 | 
-| TB2 | 16/11 | Fátima Florez | Desarrollo del apartado de notificaciones del backend | 
-| TB2 | 13/11 | Joaquin Cuentas | Desarrollo del apartado de publicaciones del backend |
-| TB2 | 14/11 | Joaquin Cuentas | Sprint 3 | 
-| TB2 | 14/11 | Diego Andres | Desarrollo del apartado de paraderos cercanos del backend |
-| TB2 | 16/11 | Diego Andres | Sprint 3 | 
-| TB2 | 14/11 | Elizabeth Apaza | Desarrollo del apartado de perfil del backend |
-| TB2 | 15/11 | Elizabeth Apaza | Sprint 3 | 
-| TB2 | 15/11 | Diego Andres | Sprint 3 | 
-| TB2 | 15/11 | Diego Andres | Desarrollo del backen apatarado de paradas | 
+| TF | 28/11 | Andree Cardenas | Sprint 4 | 
+| TF | 28/11 | Andree Cardenas | Revision de los anterioires sprint |
+| TF | 01/12 | Fátima Florez | Sprint 4 |
+| TF | 01/12 | Fátima Florez | Mejorar en el front-end | 
+| TF | 02/12 | Fátima Florez | Correción de sprint anterioires | 
+| TF | 02/12 | Joaquin Cuentas | Mejorar del front-end |
+| TF | 02/12 | Joaquin Cuentas | Mejorar del back-end | 
+| TF | 02/12 | Diego Andres | Sprint 4 |
+| TF | 04/12 | Diego Andres | Mejorar del front-end | 
+| TF | 05/12 | Elizabeth Apaza | Sprint 4 |
+| TF | 05/12 | Elizabeth Apaza | Mejorar de sprint anteriores | 
 </div>
 
 
