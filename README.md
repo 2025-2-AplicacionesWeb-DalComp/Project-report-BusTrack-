@@ -3780,11 +3780,9 @@ En conjunto, estas evidencias demuestran:
 
 Por lo tanto, aunque la métrica de *Contributors* no refleja la totalidad de aportes, las ramas activas y los cambios integrados evidencian la colaboración efectiva del equipo DalComp durante el Sprint 3.
 
-
-
 ### 5.2.4. Sprint 4
 
-En esta parte, se registran y explican los avances del Sprint 4 en cuanto al desarrollo de la página y la colaboración del equipo. El objetivo de este sprint fue consolidar la versión final de BusTrack, incorporando el acceso diferenciado para pasajeros y empresas de transporte, corrigiendo errores pendientes y preparando el despliegue, la documentación y la validación final del producto.
+En esta parte se registran y explican los avances del Sprint 4 en cuanto al desarrollo de la aplicación y la colaboración del equipo. El objetivo de este sprint fue consolidar la versión final de BusTrack, incorporando el acceso diferenciado para pasajeros y empresas de transporte, corrigiendo errores pendientes y preparando el despliegue, la documentación y la validación final del producto.
 
 #### 5.2.4.1. Sprint Planning 4
 
@@ -3812,15 +3810,15 @@ En esta parte, se registran y explican los avances del Sprint 4 en cuanto al des
   </tr>
   <tr> 
     <td>Attendees</td>
-    <td> Mathias Andree Cárdenas Huaman / Elizabeth Noelia Apaza Bocanegra / Diego Andrés Avalos Córdova / Joaquín Alberto Cuentas Peña / Fátima Belén Florez Shimabukuro </td>
+    <td>Mathias Andree Cárdenas Huamán / Elizabeth Noelia Apaza Bocanegra / Diego Andrés Ávalos Córdova / Joaquín Alberto Cuentas Peña / Fátima Belén Florez Shimabukuro</td>
   </tr>
   <tr> 
     <td>Sprint 3 Review Summary</td> 
-    <td> Durante el Sprint 3 se logró una integración completa entre frontend, backend y base de datos, habilitando la persistencia real de usuarios, rutas favoritas, historial y notificaciones. La aplicación alcanzó un estado estable y funcional en sus flujos principales. Sin embargo, durante las entrevistas de validación surgió la necesidad de habilitar una experiencia también para empresas de buses, lo cual se incorpora como nueva prioridad para este último sprint. </td>
+    <td>Durante el Sprint 3 se logró una integración completa entre frontend, backend y base de datos, habilitando la persistencia real de usuarios, rutas favoritas, historial y notificaciones. La aplicación alcanzó un estado estable y funcional en sus flujos principales. Sin embargo, durante las entrevistas de validación surgió la necesidad de habilitar una experiencia también para empresas de transporte, lo cual se incorporó como nueva prioridad para este último sprint.</td>
   </tr> 
   <tr> 
     <td>Sprint 3 Retrospective Summary</td>
-    <td> El equipo resaltó como fortaleza su buena coordinación mediante GitFlow y la división del trabajo por pantallas. Las oportunidades de mejora identificadas fueron: aumentar las pruebas integrales, optimizar la gestión del tiempo para evitar acumulación de tareas, y asegurar la correcta integración de nuevas funcionalidades. Para el Sprint 4 se acordó priorizar correcciones, despliegue final e implementación de la nueva ruta de acceso para empresas. </td>
+    <td>El equipo resaltó como fortaleza su buena coordinación mediante GitFlow y la división del trabajo por pantallas. Las oportunidades de mejora identificadas fueron: aumentar las pruebas integrales, optimizar la gestión del tiempo para evitar acumulación de tareas, y asegurar la correcta integración de nuevas funcionalidades. Para el Sprint 4 se acordó priorizar correcciones, despliegue final e implementación de la nueva ruta de acceso para empresas.</td>
   </tr> 
   <tr>
     <td colspan="2">
@@ -3829,13 +3827,12 @@ En esta parte, se registran y explican los avances del Sprint 4 en cuanto al des
   </tr> 
   <tr> 
     <td>Sprint 4 Goal</td>
-    <td> Nuestro objetivo es entregar la versión final, completamente integrada, accesible y lista para validación de BusTrack, incorporando además dos rutas diferenciadas para nuestros segmentos principales: pasajeros y empresas de transporte público. Asimismo, creemos que nuestra página brindara una experiencia sólida, profesional y lista para operación real, permitiendo que tanto ciudadanos como compañías de buses accedan a funcionalidades relevantes para su uso.
-    </td> 
+    <td>Nuestro objetivo es entregar la versión final completamente integrada, accesible y lista para validación de BusTrack, incorporando además dos rutas diferenciadas para nuestros segmentos principales: pasajeros y empresas de transporte público. Asimismo, se busca que nuestra plataforma brinde una experiencia sólida, profesional y lista para operación real, permitiendo que tanto ciudadanos como compañías de buses accedan a funcionalidades relevantes para su uso.</td> 
   </tr> 
   <tr> 
     <td>Sprint 4 Velocity</td>
-        <td>14 </td>
-      </tr>
+    <td>14</td>
+  </tr>
   <tr>
     <td>Sum of Story Points</td>
     <td>14</td>
@@ -3844,41 +3841,42 @@ En esta parte, se registran y explican los avances del Sprint 4 en cuanto al des
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que otros miembros del equipo cumplen roles de **colaboración (C)** para asegurar que el desarrollo cumpla con los objetivos del sprint 4.
+Cada uno de estos aspectos ha sido asignado a un **líder (L)**, mientras que otros miembros del equipo cumplen roles de **colaboración (C)** para asegurar que el desarrollo cumpla con los objetivos del Sprint 4.
 
-| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Acceso diferenciado (Pasajeros / Empresas)** | **Módulo Web para Pasajeros (ajustes finales)** | **Módulo Web para Empresas de Transporte** | **Internacionalización (i18n) y accesibilidad** | **Documentación, despliegue y validación final** |
-|-----------------------------------------|-----------------------|-----------------------------------------------|-------------------------------------------------|--------------------------------------------|---------------------------------------------------------|-------------------------------------------------|
-| Mathias Andree Cárdenas Huaman          | AndS56                | C                                             | C                                               | **L**                                      | C                                                       | C                                               |
-| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza       | C                                             | C                                               | C                                          | **L**                                                   | C                                               |
-| Diego Andres Avalos Cordova             | DiegoAndresAvalos     | C                                             | C                                               | C                                          | C                                                       | **L**                                           |
-| Joaquin Alberto Cuentas Peña            | JoaCUPE               | **L**                                         | C                                               | C                                          | C                                                       | C                                               |
-| Fátima Belén Florez Shimabukuro         | PengwinKingdom        | C                                             | **L**                                           | C                                          | C                                                       | C                                               |
+| **Team Member (Last Name, First Name)** | **GitHub Username**   | **Acceso diferenciado (Pasajeros / Empresas)** | **Módulo web para pasajeros (ajustes finales)** | **Módulo web para empresas de transporte** | **Internacionalización (i18n) y accesibilidad** | **Documentación, despliegue y validación final** |
+|-----------------------------------------|------------------------|-----------------------------------------------|-------------------------------------------------|--------------------------------------------|--------------------------------------------------|-------------------------------------------------|
+| Mathias Andree Cárdenas Huamán          | AndS56                 | C                                             | C                                               | **L**                                      | C                                                | C                                               |
+| Elizabeth Noelia Apaza Bocanegra        | Elizabeth-Apaza        | C                                             | C                                               | C                                          | **L**                                            | C                                               |
+| Diego Andrés Ávalos Córdova             | DiegoAndresAvalos      | C                                             | C                                               | C                                          | C                                                | **L**                                           |
+| Joaquín Alberto Cuentas Peña            | JoaCUPE                | **L**                                         | C                                               | C                                          | C                                                | C                                               |
+| Fátima Belén Florez Shimabukuro         | PengwinKingdom         | C                                             | **L**                                           | C                                          | C                                                | C                                               |
+
 
 #### 5.2.4.3. Sprint Backlog 4
 
 En esta sección se presenta el **Sprint Backlog 4**, correspondiente al cuarto ciclo de desarrollo del proyecto BusTrack.
 
-El objetivo principal de este sprint es **finalizar y consolidar la versión completa del sistema**, incorporando acceso diferenciado para pasajeros y empresas de transporte, corrigiendo errores identificados en las validaciones previas, aplicando internacionalización, accesibilidad, documentación técnica final y realizando el despliegue completo del producto.
+El objetivo principal de este sprint es **finalizar y consolidar la versión completa del sistema**, incorporando el acceso diferenciado para pasajeros y empresas de transporte, corrigiendo errores identificados en las validaciones previas, aplicando internacionalización y accesibilidad, completando la documentación técnica y realizando el despliegue final del producto.
 
+---
 
 ### **Sprint Backlog 4**
 
-| User Story | Title | Task ID | Task Title | Description | Estimation (hours) | Assigned to | Status |
-|-----------|--------|----------|-------------|--------------|---------------------|--------------|--------|
-| US16 | Acceso diferenciado (Pasajero/Empresa) | T31 | Crear vista de selección de tipo de usuario | Pantalla inicial para elegir entre tipo de usuario. | 3 | Joaquin Cuentas | Done |
-| US16 | Acceso diferenciado | T32 | Configurar rutas independientes | Crear `/passenger` y `/company` en frontend. | 2 | Mathia Cardenas | Done |
-| US17 | Módulo Web para Empresas | T33 | Diseñar pantalla empresa | Vista de beneficios, CTA y presentación del módulo empresarial. | 3 | Fátima Florez | Done |
-| US17 | Módulo Empresa | T34 | Implementación funcional | Construcción del flujo accesible desde `/company`. | 4 | Elizabeth Apaza | Done |
-| US07 | Panel de Monitoreo (empresa) | T35 | Ajustes finales panel de flota | Corrección de errores + mejoras de UI. | 3 | Diego Avalos | Done|
-| US04 | Ubicación de buses (pasajero) | T36 | Optimización del mapa | Mejorar carga, marcadores y fallback visual. | 2 | Diego Avalos | Done |
-| US04 | Ubicación | T37 | Mensaje “Ubicación no disponible” | Refinar mensaje y estilo visual. | 1 | Fátima Florez | Done |
-| US05 | Notificaciones de retraso | T38 | Validar activación/desactivación | Ajustar lógica visual y estados. | 2 | Joaquin Cuentas | Done |
-| US06 | Alertas de desvío | T39 | Manejo de error sin conexión | Mostrar mensaje correspondiente. | 1 | Mathia Cardenas | Done |
-| US12 | Editar perfil | T40 | Mejorar validaciones | Ajustar reglas (email, campos vacíos). | 2 | Elizabeth Apaza | Done|
-| US13 | Información de la solución | T41 | Ajustes finales landing | Corrección de textos e imágenes. | 2 | Fátima Florez | Done |
-| US14 | Beneficios | T42 | Revisión visual y textual | Mejorar secciones y responsividad. | 1 | Mathia Cardenas | Done |
-| US15 | Misión y visión | T43 | Ajustes UI/UX | Pulido estético final. | 1 | Elizabeth Apaza | Done |
-
+| **User Story** | **Title** | **Task ID** | **Task Title** | **Description** | **Estimation (hours)** | **Assigned to** | **Status** |
+|----------------|----------|-------------|----------------|-----------------|-------------------------|------------------|-----------|
+| US14 | Acceso diferenciado | T31 | Crear vista de selección de tipo de usuario | Implementar la pantalla inicial que permite elegir entre ingresar como pasajero o empresa. | 3 | Joaquín Cuentas | Done |
+| US14 | Acceso diferenciado | T32 | Configurar rutas independientes | Crear rutas `/passenger` y `/company` en el frontend, conectadas con sus respectivos módulos. | 2 | Mathias Cárdenas | Done |
+| US15 | Acceso para empresas | T33 | Implementar pantalla de inicio para empresas | Diseñar la vista inicial del módulo empresarial, incluyendo beneficios, CTA y menú principal. | 3 | Fátima Florez | Done |
+| US15 | Acceso para empresas | T34 | Implementación funcional del módulo | Construir el flujo funcional del módulo empresarial accesible desde `/company`. | 4 | Elizabeth Apaza | Done |
+| US07 | Monitorear buses | T35 | Ajustes finales del panel de flota | Corrección de errores, mejora del estado visual de buses y optimización del consumo del endpoint. | 3 | Diego Ávalos | Done |
+| US04 | Ver ruta en Google Maps | T36 | Optimización de integración con Google Maps | Mejorar carga del mapa, marcadores, fallback visual y mensajes de error. | 2 | Diego Ávalos | Done |
+| US04 | Ver ruta en Google Maps | T37 | Mensaje “Ubicación no disponible” | Refinar estilo visual y coherencia del mensaje cuando no se obtiene la ubicación del usuario. | 1 | Fátima Florez | Done |
+| US05 | Notificaciones de retraso | T38 | Validar activación y desactivación de notificaciones | Ajustar la lógica visual y de estados para notificaciones nuevas o ya vistas. | 2 | Joaquín Cuentas | Done |
+| US06 | Alertas de desvío | T39 | Manejo de error por falta de conexión | Mostrar mensaje adecuado cuando no se pueden cargar las alertas en tiempo real. | 1 | Mathias Cárdenas | Done |
+| US10 | Editar perfil | T40 | Mejora de validaciones del perfil | Refinar reglas de validación, formato de correo y manejo de campos vacíos. | 2 | Elizabeth Apaza | Done |
+| US11 | Información de la solución | T41 | Ajustes finales de la landing | Corrección de textos, imágenes y estructura visual de la sección principal. | 2 | Fátima Florez | Done |
+| US12 | Beneficios | T42 | Revisión visual, responsividad y textos | Homogeneizar tipografías, márgenes y estructura responsiva en la sección de beneficios. | 1 | Mathias Cárdenas | Done |
+| US13 | Misión y visión | T43 | Ajustes UI/UX finales | Pulido estético y coherencia visual de la sección “About Us”. | 1 | Elizabeth Apaza | Done |
 
 
 
