@@ -3759,7 +3759,7 @@ Para lograrlo, se realizarán entrevistas en las que los participantes de ambos 
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> 
+    <td> Walter destacó la utilidad de las funcionalidades de BusTrack. Le dio especial importancia al valor extra en cuanto organización que podría agregar el uso de una aplicación como BusTrack. Considera los colores y características visualizas como bien elegidas y de fácil uso para usuarios. Además, afirma que la funcionalidad de monitoreo en tiempo real es la funcionalidad más importante que tiene la apliación, al igual que la posibilidad de actualizar sucesos que ocurran durante un viaje. Por estos motivos, estaría dispuesto a contratar BusTrack.
   </tr>
 </tbody>
 </table>
