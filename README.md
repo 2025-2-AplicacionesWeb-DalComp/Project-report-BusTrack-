@@ -720,14 +720,14 @@ Como parte del proceso de validación del modelo de negocio de BusTrack, se plan
 
 | **Entrevista 3** |
 |-----------|
-| **Entrevistado:**  |
-| **Sexo:**  |
-| **Edad:**  |
+| **Entrevistado:**  Melisa Sulca  |
+| **Sexo:** Femenino |
+| **Edad:** 23 |
 | **Ocupación:** Estudiante universitario |
 | **Medio utilizado:** Zoom |
 | **Evidencia:**  <img src="img/commons/evidencia3.png" width="200"/> <br> _**Figura 9.** Evidencia de entrevista 3 - Segmento 1._ <br> _**Fuente:** elaboración propia._|
-| **Link de entrevista:** <> | 
-| **Resumen de entrevista:**  |
+| **Link de entrevista:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAizEwhwgVIRoDGZdlA-3UtAZTDcAPxf_lPHyIuvhfMD2w?e=b4WJu9> | 
+| **Resumen de entrevista:** La entrevistada suele tomar buses de transporte público rutinariamente para movilizarse a la universidad o a algún otro punto de la ciudad. Ella explica que no tiene mucho conocimiento acerca de rutas de transporte, por lo que siempre suele consultar con su mamá que está más informada del tema. Este es motivo por el cual una aplicación como BusTrack sería de gran ayuda para ella, por la información en tiempo real de los buses que toma que podrían estar al alcance de su mano.  |
  
 <br>
 
