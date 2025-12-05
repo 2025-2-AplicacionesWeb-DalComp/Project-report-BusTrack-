@@ -1352,94 +1352,154 @@ El sistema de navegación busca ser intuitivo y accesible:
 En esta sección se presentan los wireframes y mockups de la landing page de BusTrack. El diseño visual propuesto busca comunicar de forma clara el valor de la solución, facilitando que los visitantes comprendan sus beneficios y accedan a las principales funcionalidades del sistema.
 
 ### 4.3.1. Landing Page Wireframe
-Las imágenes muestran los wireframes iniciales de la landing page de BusTrack. El prototipo incluye secciones básicas y representativas. Además, se presentan accesos rápidos que permiten al usuario conocer cómo utilizar BusTrack, revisar sus principales ventajas y obtener información esencial de la startup.
+
+Las siguientes imágenes presentan los wireframes de alta fidelidad de la landing page de BusTrack en su versión para navegador web. Cada wireframe ilustra la organización preliminar de los elementos visuales y de contenido para comunicar de forma clara qué ofrece la plataforma, a quién está dirigida y cómo se utiliza.
 
 ### Desktop Web Browser
 
 **Wireframe 1**
 
-_Descripción:_ Este wireframe representa la página principal de la landing page de BusTrack. Incluye un botón para iniciar sesión y un menú de navegación en la parte superior con accesos a las secciones “Cómo usar”, “Beneficios” y “Sobre Nosotros”. En el cuerpo central se ubica un espacio para una imagen acompañada de un texto introductorio que presenta la plataforma.
+_Descripción:_ Este wireframe corresponde a la sección inicial de la landing page. Presenta el menú de navegación superior con enlaces a “Qué ofrece”, “Para quién es”, “Cómo usar” y “Beneficios”, además del selector de idioma y el botón de “Iniciar Sesión”. En el cuerpo principal se incluye un encabezado destacado acompañado de texto introductorio y una imagen representativa del uso de la plataforma, buscando captar la atención del usuario desde el primer momento.
 
-<img src="/img/commons/Wireframe%201.png" alt="Wireframe 1" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/DesktopWebBrowser-wireframe1.png" alt="Wireframe 1" style="width: 700px; margin-right: 700px;"/>
 
 
 <br>
 
-_**Figura 27.** Wireframe de la página principal de la landing page de BusTrack en vista desktop, que muestra el menú de navegación, el texto introductorio y el botón principal de inicio de sesión.**_ <br> _**Fuente:** elaboración propia._
+_**Figura 27.** Wireframe de la sección principal (Hero Section) de la landing page de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 2**
 
-_Descripción:_ Este wireframe pertenece a la sección “Cómo usar”. El propósito es explicar de manera simple el funcionamiento de la plataforma. Cada paso incluye un espacio para una imagen representativa, un encabezado y una breve descripción.
+_Descripción:_ Este wireframe muestra la sección donde se describen las funcionalidades clave de BusTrack. Incluye un título central y un conjunto de tarjetas con texto descriptivo que representan los principales servicios del sistema, tales como búsqueda de rutas, visualización de buses en tiempo real y alertas. Cada tarjeta se presenta como un bloque compacto para facilitar la lectura y la comparación entre características.
 
-<img src="/img/commons/Wireframe%202.png" alt="Wireframe 2" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/DesktopWebBrowser-wireframe2.png" alt="Wireframe 2" style="width: 700px; margin-right: 700px;"/>
 
 <br>
 
-_**Figura 28.** Wireframe de la sección “Cómo usar” en vista desktop, donde se presentan los pasos explicativos acompañados de iconografía y texto guía para comprender el funcionamiento de la plataforma._ <br> _**Fuente:** elaboración propia._
+_**Figura 28.** Wireframe de la sección “Qué ofrece BusTrack”, con tarjetas que organizan las funciones principales del sistema._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 3**
 
-_Descripción:_ Este wireframe corresponde a la sección “Beneficios”. Presenta tres bloques que destacan las principales ventajas de la plataforma. Cada bloque incluye un espacio para un título, una breve descripción y una imagen.
+_Descripción:_ Este wireframe presenta los segmentos objetivo de BusTrack. La sección destaca con un título claro y tarjetas individuales que representan a los públicos principales: estudiantes, trabajadores y empresas de transporte. Cada tarjeta está diseñada para incluir íconos o imágenes representativas y un breve resumen del problema que cada grupo enfrenta y cómo BusTrack puede ayudarle.
 
-<img src="/img/commons/Wireframe%203.png" alt="Wireframe 3" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/DesktopWebBrowser-wireframe3.png" alt="Wireframe 3" style="width: 700px; margin-right: 700px;"/>
 
 <br>
 
-_**Figura 29.** Wireframe de la sección “Beneficios” en vista desktop, estructurada en tres bloques que destacan las principales ventajas de BusTrack para los usuarios._ <br> _**Fuente:** elaboración propia._
+_**Figura 29.** Wireframe de la sección “Para quién es BusTrack”, orientada a describir los segmentos de usuario._ <br> _**Fuente:** elaboración propia._
 
 
 **Wireframe 4**
 
-_Descripción:_ Este wireframe corresponde a la sección “Sobre Nosotros”. Presenta la misión y visión de BusTrack, cada una acompañada de texto e imágenes representativas. Asimismo, incorpora un footer con la información de contacto de BusTrack, incluyendo correo electrónico, WhatsApp y enlaces a redes sociales.
+_Descripción:_ Este wireframe muestra la guía visual de cómo funciona BusTrack en tres pasos. Cada tarjeta incluye un área para una imagen representativa, un título de paso y una breve descripción. El diseño está centrado en ofrecer una explicación simple, visual y secuencial, ideal para captar la atención de nuevos usuarios que desean entender cómo utilizar la plataforma rápidamente.
 
-<img src="/img/commons/Wireframe%204.png" alt="Wireframe 4" style="width: 700px; margin-right: 700px;"/>
+<img src="/img/commons/DesktopWebBrowser-wireframe4.png" alt="Wireframe 4" style="width: 700px; margin-right: 700px;"/>
 
 <br>
 
-_**Figura 30.** Wireframe de la sección “Sobre Nosotros” en vista desktop, que muestra la misión, visión y los datos de contacto de BusTrack en la parte inferior de la página._ <br> _**Fuente:** elaboración propia._
+_**Figura 30.** Wireframe de la sección “Cómo usar BusTrack”, estructurada en tres pasos ilustrativos._ <br> _**Fuente:** elaboración propia._
 
 
-### Mobile Web Browser
+**Wireframe 5**
 
-Para la versión móvil, los wireframes muestran la adaptación responsiva de las mismas secciones, reorganizando los elementos en un formato vertical optimizado para pantallas pequeñas.
+_Descripción:_ Este wireframe representa el apartado donde se comunican los beneficios más importantes de la plataforma. Cada tarjeta resume un beneficio clave, como la información en tiempo real, la reducción de tiempos de espera o la posibilidad de recibir alertas sobre cambios en la ruta. Se emplea una estructura de tres columnas para presentar la información de forma concisa y ordenada.
+
+<img src="/img/commons/DesktopWebBrowser-wireframe5.png" alt="Wireframe 5" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 31.** Wireframe de la sección “Beneficios de usar BusTrack”, que resume las ventajas principales para el usuario._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 6**
+
+_Descripción:_ Este wireframe corresponde a la sección institucional que presenta la misión y visión de BusTrack. Cada recuadro contiene el espacio destinado a describir los principios y objetivos de la startup. El diseño busca transmitir profesionalismo y claridad mediante bloques bien definidos y de fácil lectura. 
+
+<img src="/img/commons/DesktopWebBrowser-wireframe6.png" alt="Wireframe 6" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 32.** Wireframe de la sección “Sobre Nosotros”, con énfasis en misión y visión de BusTrack._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 7**
+
+_Descripción:_ Este wireframe muestra la última sección de la landing page, destinada a presentar contenido audiovisual. Incluye dos tarjetas amplias diseñadas para alojar videos informativos: uno sobre el producto BusTrack y otro relacionado al tiempo o funcionamiento general. Cada tarjeta dispone de un área de imagen superior para miniaturas y un espacio inferior para descripciones complementarias.
+
+<img src="/img/commons/DesktopWebBrowser-wireframe7.png" alt="Wireframe 7" style="width: 700px; margin-right: 700px;"/>
+
+<br>
+
+_**Figura 33.** Wireframe de la sección “Conoce más sobre BusTrack”, compuesta por dos tarjetas para la presentación de videos informativos._ <br> _**Fuente:** elaboración propia._
+
+___
+
+## Mobile Web Browser
+
+Para la versión móvil, los wireframes muestran cómo la landing page de BusTrack se adapta mediante un diseño responsivo. Los elementos se reorganizan en un formato vertical, priorizando la legibilidad, la jerarquía visual y la accesibilidad en pantallas pequeñas. Las secciones mantienen su estructura conceptual, pero se presentan de manera simplificada para facilitar la navegación desde dispositivos móviles.
 
 **Wireframe 1**
 
-Descripción: Este wireframe corresponde a la página principal de la landing page en vista móvil. En la parte superior se muestra el nombre de la marca junto con el botón “Iniciar Sesión”. En el área central se incluye un espacio para la imagen principal de presentación, seguido de tres bloques horizontales destinados a texto introductorio sobre BusTrack.
+_Descripción:_ Este wireframe muestra la versión móvil de la sección principal. Incluye el encabezado superior con el nombre de BusTrack, selector de idioma y botón de “Iniciar Sesión”. A continuación, se dispone un bloque de título destacado, texto introductorio y un espacio para una imagen representativa. La distribución vertical permite que el contenido principal sea visible inmediatamente al ingresar al sitio.
 
-<img src="/img/commons/Wireframe%201-Mobile.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<img src="/img/commons/MobileWebBrowser-Wireframe1.png" alt="Wireframe 1 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 31.** Wireframe de la página principal de la landing page en vista móvil, con navegación compacta y contenido central reorganizado para lectura vertical._ <br> _**Fuente:** elaboración propia._
+_**Figura 34.** Wireframe móvil de la sección principal (Hero Section) de BusTrack._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 2**
 
-Descripción: Este wireframe corresponde a la sección “Cómo usar” en vista móvil. La interfaz presenta tres pasos principales organizados verticalmente, cada uno con un espacio para imagen representativa, un título y líneas de texto descriptivo que explican el funcionamiento básico de la plataforma.
+_Descripción:_ Este wireframe presenta la sección donde se describen las funcionalidades principales de BusTrack en formato móvil. Las tarjetas informativas se apilan verticalmente, permitiendo una lectura fluida y evitando desplazamientos laterales. Cada tarjeta incluye espacio para título, descripción y posible iconografía.
 
-<img src="/img/commons/Wireframe%202-Mobile.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<img src="/img/commons/MobileWebBrowser-Wireframe2.png" alt="Wireframe 2 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 32.** Wireframe de la sección “Cómo usar” en vista móvil, donde los pasos se presentan de manera secuencial para facilitar la comprensión desde un dispositivo móvil._ <br> _**Fuente:** elaboración propia._
+_**Figura 35.** Wireframe móvil de la sección “Qué ofrece BusTrack”, con tarjetas organizadas en formato vertical._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 3**
 
-Descripción: Este wireframe corresponde a la sección “Beneficios de BusTrack” en vista móvil. Incluye dos bloques informativos, cada uno compuesto por un área para texto y un recuadro para imagen. Los elementos se encuentran dispuestos de forma vertical para mejorar la legibilidad en dispositivos pequeños.
+_Descripción:_ Este wireframe se enfoca en los segmentos objetivo. En la versión móvil, cada categoría (estudiantes, trabajadores y empresas de transporte) se presenta como tarjetas independientes que se muestran una debajo de la otra. Esto facilita que el usuario identifique rápidamente el grupo al que pertenece y cómo la plataforma puede ayudarlo.
 
-<img src="/img/commons/Wireframe%203-Mobile.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<img src="/img/commons/MobileWebBrowser-Wireframe3.png" alt="Wireframe 3 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 33.** Wireframe de la sección “Beneficios” en vista móvil, con disposición vertical de los bloques que presentan las principales ventajas para el usuario._ <br> _**Fuente:** elaboración propia._
+_**Figura 36.** Wireframe móvil de la sección “Para quién es BusTrack”, con tarjetas segmentadas individualmente._ <br> _**Fuente:** elaboración propia._
 
 **Wireframe 4**
 
-Descripción: Este wireframe corresponde a la sección “Sobre Nosotros” en vista móvil. Presenta dos bloques principales dedicados a la misión y visión de BusTrack, cada uno acompañado de un recuadro para imagen ilustrativa. En la parte inferior se incluye un footer con datos de contacto y accesos a redes sociales.
+_Descripción:_ Este wireframe describe el flujo de uso de BusTrack en tres pasos. Cada paso se representa con una imagen, un título y texto explicativo. El diseño vertical permite una presentación secuencial clara y adecuada para pantallas pequeñas, facilitando que los usuarios entiendan rápidamente cómo interactuar con la plataforma.
 
-<img src="/img/commons/Wireframe%204-Mobile.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<img src="/img/commons/MobileWebBrowser-Wireframe4.png" alt="Wireframe 4 - Mobile" style="width: 500px; margin-right: 700px;"/>
 <br>
 
-_**Figura 34.** Wireframe de la sección “Sobre Nosotros” en vista móvil, mostrando la misión, visión y datos de contacto con un diseño adaptado al formato vertical._ <br> _**Fuente:** elaboración propia._
+_**Figura 37.** Wireframe móvil de la sección “Cómo usar BusTrack”, estructurada en tres pasos explicativos._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 5**
+
+_Descripción:_ Este wireframe muestra una serie de tarjetas que explican los principales beneficios de la plataforma. En su formato móvil, cada beneficio ocupa un bloque independiente, con título y texto informativo. La distribución busca asegurar una lectura cómoda y una jerarquía adecuada de contenido.
+
+<img src="/img/commons/MobileWebBrowser-Wireframe5.png" alt="Wireframe 5 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<br>
+
+_**Figura 38.** Wireframe móvil de la sección “Beneficios de usar BusTrack”, con tarjetas apiladas para facilitar la lectura._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 6**
+
+_Descripción:_ Este wireframe representa la versión móvil de la sección institucional que presenta la misión y visión de la startup. Cada bloque está claramente delimitado, con encabezados y espacio para texto explicativo. El diseño asegura una lectura clara y ordenada en dispositivos móviles.
+
+<img src="/img/commons/MobileWebBrowser-Wireframe6.png" alt="Wireframe 6 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<br>
+
+_**Figura 39.** Wireframe móvil de la sección “Sobre Nosotros”, con presentación vertical de misión y visión._ <br> _**Fuente:** elaboración propia._
+
+**Wireframe 7**
+
+_Descripción:_ Este wireframe corresponde a la última sección de la landing page, destinada a mostrar contenido audiovisual. Incluye dos tarjetas amplias donde se colocarán videos informativos. Cada tarjeta cuenta con un espacio para miniatura, título y texto complementario, adaptados completamente al formato vertical móvil. 
+
+<img src="/img/commons/MobileWebBrowser-Wireframe7.png" alt="Wireframe 7 - Mobile" style="width: 500px; margin-right: 700px;"/>
+<br>
+
+_**Figura 40.** Wireframe móvil de la sección “Conoce más sobre BusTrack”, con dos tarjetas para videos informativos._ <br> _**Fuente:** elaboración propia._
 
 ### 4.3.2. Landing Page Mock-up
 En esta sección se presentan los mockups finales del Landing Page de BusTrack, desarrollados a partir de los wireframes previos. 
