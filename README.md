@@ -88,7 +88,7 @@
 
 | URL del repositorio del Backend |
 | -------------------------------------- |
-| <https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend> |
+| <https://github.com/JoaCUPE/Ultimo-Back.git> |
 
 | URL del figma wireframes |
 | -------------------------------------- |
@@ -4696,7 +4696,7 @@ TomTom. (2024). _TomTom traffic index 2024._ https://www.tomtom.com/traffic-inde
 <https://github.com/JoaCUPE/UltimoFront.git>
 
 - **URL del repositorio del backend**
-<https://github.com/2025-2-AplicacionesWeb-DalComp/BusTrack-Backend.git>
+<https://github.com/JoaCUPE/Ultimo-Back.git>
 
 - **URL del figma wireframes**  
   <https://www.figma.com/design/gfihE4UEnoiFtzf54xXuL8/Untitled?node-id=0-1&t=drwWMkwR0WqztaeY-1>
